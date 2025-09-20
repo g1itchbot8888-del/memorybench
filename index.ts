@@ -1,6 +1,11 @@
 import type { BenchmarkRegistry, BenchmarkType } from "./benchmarks";
 import { ragBenchmarkData } from "./benchmarks";
-import { AQRAGProvider, ContextualRetrievalProvider, type TemplateType } from "./providers";
+import { locomoBenchmarkData } from "./benchmarks/LoCoMo";
+import {
+  AQRAGProvider,
+  ContextualRetrievalProvider,
+  type TemplateType,
+} from "./providers";
 
 // Provider registry
 const PROVIDERS: Record<string, TemplateType> = {
@@ -13,7 +18,8 @@ const BENCHMARK_DATA: Record<
 	BenchmarkType,
 	BenchmarkRegistry[BenchmarkType][]
 > = {
-	RAG: ragBenchmarkData,
+  "RAG-template-benchmark": ragBenchmarkData,
+  "LoCoMo": locomoBenchmarkData,
 };
 
 interface CLIArgs {
