@@ -2,6 +2,7 @@
 import { retrieve } from "./retrieve";
 import { generateAnswer } from "./utils/llm";
 import type { qaItem } from "../../../benchmarks/LoCoMo/types";
+import { answerQuestionWithRetrievedSearchResultsPrompt } from "./utils/prompts";
 
 interface ExtendedQaItem extends qaItem {
   providerAnswer: string;
@@ -13,15 +14,28 @@ interface LoCoMoResult {
 
 let savedAnswers: LoCoMoResult[] = [];
 
+async function generateContextualPrompt(
+  query: string,
+  context: string[],
+): Promise<string> {
+  const prompt = answerQuestionWithRetrievedSearchResultsPrompt(
+    query,
+    context.join("\n"),
+  );
+  return prompt;
+}
+
 export async function answer(
   query: string,
   originalQaItem?: qaItem,
 ): Promise<string> {
   const chunks = await retrieve(query);
-  const generatedAnswer = await generateAnswer(
+  const answerContext = await generateContextualPrompt(
     query,
     chunks.map((chunk) => chunk.content),
   );
+
+  const generatedAnswer = await generateAnswer(answerContext);
 
   // Saves the answer in LoCoMo format if originalQaItem is provided
   if (originalQaItem) {
@@ -59,7 +73,7 @@ export async function answer(
 
 async function saveAnswersToFile(): Promise<void> {
   const filePath =
-    "/Users/sreeramsreedhar/code/memorybench/benchmarks/LoCoMo/ContextualRetrieval.json";
+    "./providers/ContextualRetrieval/results/LoCoMo/results.json";
   const content = JSON.stringify(savedAnswers);
   await Bun.write(filePath, content);
 }

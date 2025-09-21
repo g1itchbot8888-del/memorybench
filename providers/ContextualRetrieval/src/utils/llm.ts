@@ -2,7 +2,6 @@ import { anthropic } from "@ai-sdk/anthropic";
 import { google } from "@ai-sdk/google";
 import { embedMany, generateText } from "ai";
 import { EMBEDDING_DIMENSION } from "./config";
-import { answerQuestionWithRetrievedSearchResultsPrompt } from "./prompts";
 
 /**
  * Generate embedding using Gemini Embedding 001
@@ -35,16 +34,8 @@ export async function generateEmbeddings(
   }
 }
 
-export async function generateAnswer(
-  query: string,
-  context: string[],
-): Promise<string> {
+export async function generateAnswer(prompt: string): Promise<string> {
   try {
-    const prompt = answerQuestionWithRetrievedSearchResultsPrompt(
-      query,
-      context.join("\n"),
-    );
-
     const { text } = await generateText({
       model: anthropic("claude-3-5-haiku-latest"),
       prompt,
