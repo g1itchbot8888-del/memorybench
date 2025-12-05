@@ -1,0 +1,174 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-12",
+  "session_number": 12,
+  "session_summary": "On 8 October 2023, at 3:09 pm, Sam told Evan about his weight concerns after a check-up. Evan suggested lifting weights, sharing his own progress and advice. Sam expressed interest and Evan encouraged him to focus on form and consistency. Sam vowed to update Evan on his progress and Evan cheered him on, advising patience and positivity. Sam found Evan's support inspiring and promised to believe in himself. Evan emphasized motivation and progress, and Sam appreciated the support, committing to taking one step at a time.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "dia_id": "D12:1",
+      "text": "Hey Evan, hope you're doing okay. I wanted to chat about something that's been bothering me lately... I went for a check-up Monday and my doc said my weight's a serious health risk - if I don't make changes soon, it can get worse. I know I made jokes about it, but it's really hitting me. Been having a hard time."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://blog.merrittclubs.com/hubfs/weight%20machine%20blog%204.jpg"
+      ],
+      "blip_caption": "a photo of a man doing a squat on a machine in a gym",
+      "query": "gym weight training",
+      "dia_id": "D12:2",
+      "text": "Hey Sam, tough news. Yeah, our health can really put a damper on things. I started lifting weights one year ago and it's been a journey. It was a struggle at first, but I'm seeing some gains. You interested in trying it out?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D12:3",
+      "text": "Hey Evan, I'm interested in getting into it. Any advice on how to get started? Thanks!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D12:4",
+      "text": "Hey Sam, that's awesome! It's important to start out with good form and technique. Find a trainer who can help you avoid injuries while you build your strength. Start with something small, and as you get stronger, the intensity can increase. Stay consistent with your workout routine and let me know how it goes! Good luck!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D12:5",
+      "text": "Thanks, Evan. I'm going to find someone who can help me out. I'll keep you posted!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D12:6",
+      "text": "No problem, Sam. Can't wait to hear about your progress. Keep up the hard work!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D12:7",
+      "text": "Thanks, Evan. I appreciate your support. It really means a lot to me. I'll definitely keep you posted on my progress."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D12:8",
+      "text": "You're welcome, Sam! It takes time, so be patient with yourself. Your health matters, and I believe in you. Keep going and stay upbeat. You got this!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D12:9",
+      "text": "Thanks, Evan. I'll stay positive and keep going. Your support means a lot."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i.redd.it/uupz9iakdja61.jpg"
+      ],
+      "blip_caption": "a photo of a notepad with a note and a pair of scissors",
+      "query": "motivational quote believe power progress",
+      "dia_id": "D12:10",
+      "text": "Hey Sam, glad I can be here for you! Progress is key, so keep pushing on and stay positive. You got this!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D12:11",
+      "text": "Wow, Evan, that's really inspiring. Gonna keep believing in it!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D12:12",
+      "text": "Go get 'em! Believe in your abilities and you'll reach your goals. Stay motivated!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D12:13",
+      "text": "Thanks Evan! Your words gave me a boost. I'm staying motivated and believing in myself."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D12:14",
+      "text": "Awesome! Keep staying motivated and believing in yourself. You've got this!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D12:15",
+      "text": "Thanks, Evan! Your support means a lot to me."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D12:16",
+      "text": "No prob, Sam! I'm here for you. Just keep taking one step at a time, and you'll get there eventually!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D12:17",
+      "text": "Sure, Evan. I'll take it slow. See ya!"
+    }
+  ],
+  "events": {
+    "Evan": [],
+    "Sam": [
+      "Sam has another health checkup where the doctor warns him about health risks due to his weight."
+    ],
+    "date": "8 October, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam received news from the doctor that their weight poses a serious health risk.",
+        "D12:1"
+      ],
+      [
+        "Sam expressed having a hard time dealing with the news about their weight.",
+        "D12:1"
+      ],
+      [
+        "Sam is interested in starting to lift weights to address their health concerns.",
+        "D12:3"
+      ],
+      [
+        "Sam expressed appreciation towards Evan's support and encouragement.",
+        "D12:7"
+      ],
+      [
+        "Sam mentioned that Evan's words inspired and motivated them.",
+        "D12:11"
+      ],
+      [
+        "Sam thanked Evan for giving them a boost and expressed their commitment to staying motivated.",
+        "D12:13"
+      ],
+      [
+        "Sam expressed that Evan's support means a lot to them.",
+        "D12:15"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan started lifting weights one year ago and mentioned seeing gains from his workouts.",
+        "D12:2"
+      ],
+      [
+        "Evan offered advice to Sam on how to start lifting weights and emphasized the importance of good form and technique.",
+        "D12:4"
+      ],
+      [
+        "Evan encouraged Sam to stay consistent with their workout routine and shared excitement to hear about their progress.",
+        "D12:4"
+      ],
+      [
+        "Evan expressed belief in Sam's abilities and encouraged them to stay positive and keep pushing towards their goals.",
+        "D12:8"
+      ],
+      [
+        "Evan provided supportive and motivating words to Sam, urging them to keep believing in themselves.",
+        "D12:12"
+      ],
+      [
+        "Evan emphasized the importance of progress, staying motivated, and taking one step at a time towards reaching goals.",
+        "D12:16"
+      ],
+      [
+        "Evan assured Sam of his support and being there for them.",
+        "D12:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

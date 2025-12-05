@@ -1,0 +1,193 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-9",
+  "session_number": 9,
+  "session_summary": "At 3:15 pm on 21 June 2023, Calvin told Dave about his recent car accident but mentioned that nobody was hurt. Dealing with insurance and repairs was time-consuming. Dave inquired about any insurance issues experienced. Calvin shared that after a week, everything was sorted out. The mechanic, pictured, was skilled, making Calvin confident about the repair. Dave praised the expert fixing the car. Calvin expressed excitement about driving again. They discussed a beautiful view from Japan, which Calvin plans to visit after a tour. Dave shared joining a rock band, playing guitar. They agreed to keep in touch before ending the conversation.",
+  "conversation_turns": [
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.redd.it/awt7u6qj7ok81.jpg"
+      ],
+      "blip_caption": "a photo of a red car with a black rim parked on a sidewalk",
+      "query": "car accident dented side Ferrari",
+      "dia_id": "D9:1",
+      "text": "Hi Dave! Nice to hear from you. Since last chat, some things have happened. I had a lil car accident last Friday, kinda upsetting but no one was hurt. I've been dealing with insurance and repairs - taking up a lot of time and energy. Look at this photo!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:2",
+      "text": "Sorry to hear about the car accident, Calvin. I'm glad to hear that nobody was hurt. Dealing with insurance and repairs can definitely be time-consuming and draining. Have you encountered any issues in the insurance process so far?"
+    },
+    {
+      "speaker": "Calvin",
+      "blip_caption": "a photo of a tow truck parked in a parking lot",
+      "dia_id": "D9:3",
+      "text": "Hey Dave, thanks for checking in! The insurance process was a hassle - it took forever and there was a ton of paperwork. But it's all sorted now, and I'm getting it fixed up. Can't wait to drive it again!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:4",
+      "text": "How long did it take to get everything sorted out? I'm glad it's all taken care of now!"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://cdn2.picryl.com/photo/2014/08/13/alejandro-soto-100th-force-support-squadron-auto-hobby-8fa715-1024.jpg"
+      ],
+      "blip_caption": "a photography of a man working on a car in a garage",
+      "query": "car repair shop mechanic working red car",
+      "dia_id": "D9:5",
+      "re-download": true,
+      "text": "It only took a week to sort everything out. I was worried about the cost, but it wasn't too bad. Look at this photo from the auto repair shop. "
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:6",
+      "text": "Cool! Glad it wasn't too expensive. Who are him?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D9:7",
+      "text": "That's the mechanic. He knows the stuff and is doing his best to get my car running again."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:8",
+      "text": "That's great to hear! Skilled and knowledgeable people working on your car - are you feeling confident?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D9:9",
+      "text": "Feeling way more confident and excited to show off my car! Trusting their expertise."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:10",
+      "text": "Great, Cal! It's awesome when you trust the people fixing it. Sounds like they're doing a great job. It'll be back to normal soon!"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.redd.it/u4cesvhpunb61.jpg"
+      ],
+      "blip_caption": "a photo of a view of a small town with a mountain in the background",
+      "query": "sunset window japanese mansion",
+      "dia_id": "D9:11",
+      "text": "Thanks, Dave! Excited to drive again. Appreciate your help! Look what a wonderful view from living room!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:12",
+      "text": "Wow, what an amazing view! Where is it? I haven't seen anything like that before!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D9:13",
+      "text": "Thanks, Dave! It's from a small town in Japan. The view of the mountains is unbelievably stunning!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:14",
+      "text": "Wow! Did you get to that place yet?"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.redd.it/37i20ea9fbta1.jpg"
+      ],
+      "blip_caption": "a photo of a person on skis on a snowy mountain",
+      "query": "rocky mountains snow-covered mountain peak dave",
+      "dia_id": "D9:15",
+      "text": "Nope, not yet! I haven't been there before, but it's on my to-do list for after my tour with Frank Ocean ends. Can't wait to see them in person! Look at that snowy peak."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:16",
+      "text": "Looks awesome! Have you ever tried skiing before? It looks like loads of fun!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D9:17",
+      "text": "Haven't tried it before, but it does look like a lot of fun! I might give it a try once. So what's up with you, is anything new in your daily routine?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:18",
+      "img_url": [
+        "https://live.staticflickr.com/5174/5420443853_e88b523542_b.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a group of men playing instruments in a room",
+      "text": "Yes, Cal! I recently joined a rock band and have been practicing guitar. Look at this photo – it's us, the guys! "
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D9:19",
+      "text": "Playing guitar in a rock band is awesome, Dave! It will bring you a lot of emotions."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D9:20",
+      "text": "Sounds good, Calvin! Good company and great music, lift the mood and bring a lot of positive emotions! I have to go now. I'll see you soon!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D9:21",
+      "text": "Thanks, Dave! let's keep in touch, take care!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin has a car accident where no one is hurt but the car needs repairs."
+    ],
+    "Dave": [
+      "Dave joins a rock band and practices playing his guitar."
+    ],
+    "date": "21 June, 2023"
+  },
+  "observations": {
+    "Dave": [
+      [
+        "Dave recently joined a rock band and has been practicing the guitar.",
+        "D9:18"
+      ]
+    ],
+    "Calvin": [
+      [
+        "Calvin had a car accident last Friday, but no one was hurt.",
+        "D9:1"
+      ],
+      [
+        "Calvin had to deal with insurance and repairs after the car accident.",
+        "D9:1"
+      ],
+      [
+        "Calvin got everything related to the car accident sorted out within a week.",
+        "D9:5"
+      ],
+      [
+        "The mechanic at the auto repair shop is working on Calvin's car.",
+        "D9:7"
+      ],
+      [
+        "Calvin feels more confident and excited about showing off his car after the repairs.",
+        "D9:9"
+      ],
+      [
+        "Calvin shared a photo of a beautiful view from a small town in Japan.",
+        "D9:13"
+      ],
+      [
+        "Calvin plans to visit the snowy peaks in Japan after his tour with Frank Ocean ends.",
+        "D9:15"
+      ],
+      [
+        "Calvin hasn't tried skiing before but is interested in giving it a try.",
+        "D9:17"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

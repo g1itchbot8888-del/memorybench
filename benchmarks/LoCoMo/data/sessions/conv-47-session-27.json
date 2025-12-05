@@ -1,0 +1,158 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-27",
+  "session_number": 27,
+  "session_summary": "John and James spoke at 2:14 pm on 13 October, 2022. John mentioned organizing an online competition with his programmer friends, while James shared his excitement about releasing his first game inspired by Witcher 3. John congratulated James on the game and asked about his inspiration, to which James expressed fulfillment seeing players engage with his creation. James revealed his plans for future game development in various genres. John praised James' determination and expressed support for his future endeavors, to which James expressed gratitude, stating John has always had his back. They ended on a positive note, acknowledging their strong teamwork and mutual support.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/zkrnzupfyy9b1.jpg"
+      ],
+      "blip_caption": "a photo of a desk with a laptop and a monitor",
+      "query": "online programming competition setup",
+      "dia_id": "D27:1",
+      "text": "Hey James! How's it going? I had a blast last week when my programmer friends and I organized an online comp. It was awesome to see everyone show off their skills! Anything new in your life?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55934be0-eae0-47bc-a3eb-6c0140f50b06/d5plslq-28102d55-338e-485d-b0fe-5f9553b0aa39.jpg/v1/fill/w_622,h_350,q_70,strp/game_of_thrones___daenerys_targaryen_by_daninaimare_d5plslq-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNTU5MzRiZTAtZWFlMC00N2JjLWEzZWItNmMwMTQwZjUwYjA2XC9kNXBsc2xxLTI4MTAyZDU1LTMzOGUtNDg1ZC1iMGZlLTVmOTU1M2IwYWEzOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3OweRTbk-A6SxQJ1Cqdb8wNtXtkQ6cjXbErC4U42YSQ"
+      ],
+      "blip_caption": "a photography of a game of thrones with a dragon and a dragon",
+      "query": "game interface players battling mythical creatures",
+      "dia_id": "D27:2",
+      "re-download": true,
+      "text": "Hey John, congrats! Something cool happened to me recently. I made my first game and released it for the gaming community - it was so exciting!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:3",
+      "text": "Congrats on releasing your game, James! Was it fulfilling to see players engage with the game world you created?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D27:4",
+      "text": " It was so fulfilling to see players engage with the game world I created. I'm really happy they're having fun with something I put so much work into."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:5",
+      "text": "So cool that people are enjoying it! What inspired you to create it?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D27:6",
+      "text": "Playing video games was always great, but creating my own game was really special. Witcher 3 gave me a ton of inspiration, with its amazing world and story. Plus, it pushed me to create something cool."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:7",
+      "text": "The Witcher 3 obviously had a huge impact on you. You must have put a ton of hard work and dedication into your game. Do you have any plans for future game development?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D27:8",
+      "text": "I put in so much effort and it paid off - now, I'm ready to make more games in different genres and test out new ideas. I'm pumped to see where this journey leads!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:9",
+      "text": " I can't wait to see where your journey leads and the new creations you come up with. Your determination and love for game development is incredible. Keep going and you'll do great things!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D27:10",
+      "text": "I'm really looking forward to creating more enjoyable experiences!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:11",
+      "text": "I'm here for you. Anything you need, count on me!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D27:12",
+      "text": "Thanks, John! Your support is really appreciated."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:13",
+      "text": "No worries, James! We make a good team."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D27:14",
+      "text": "Yeah, totally. You've always been there for me, John. Thanks for having my back."
+    }
+  ],
+  "events": {
+    "James": [
+      "James completes working on his first game, inspired by the Witcher 3 world, and publishes it for the online gaming community."
+    ],
+    "John": [
+      "John and his programming friends host an online programming competition."
+    ],
+    "date": "13 October, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John and his programmer friends organized an online competition last week.",
+        "D27:1"
+      ],
+      [
+        "John is supportive and encouraging towards James' game development efforts.",
+        "D27:3"
+      ],
+      [
+        "John expressed excitement about James releasing his first game for the gaming community.",
+        "D27:3"
+      ],
+      [
+        "John is interested in James' inspiration behind creating his game, mentioning The Witcher 3.",
+        "D27:5"
+      ],
+      [
+        "John encourages James to continue with game development and expresses belief in his talents.",
+        "D27:9"
+      ],
+      [
+        "John assures James of his support and cooperation in their endeavors.",
+        "D27:11"
+      ]
+    ],
+    "James": [
+      [
+        "James created and released his first game for the gaming community recently, which he found exciting.",
+        "D27:2"
+      ],
+      [
+        "James feels fulfilled seeing players engage with the game world he created.",
+        "D27:4"
+      ],
+      [
+        "The game 'Witcher 3' inspired James to create his own game, pushing him to make something special.",
+        "D27:6"
+      ],
+      [
+        "James expressed a desire to create more games in different genres and explore new ideas in game development.",
+        "D27:8"
+      ],
+      [
+        "James looks forward to creating more enjoyable experiences in the future.",
+        "D27:10"
+      ],
+      [
+        "John supports James and expresses gratitude for John's support.",
+        "D27:12"
+      ],
+      [
+        "James values John's support and friendship, mentioning that John has always been there for him.",
+        "D27:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

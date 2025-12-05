@@ -1,0 +1,157 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-12",
+  "session_number": 12,
+  "session_summary": "Andrew and Audrey met at 10:05 am on 11 July, 2023. Andrew introduced his puppy Toby, expressing how much joy he brings despite the city living. Audrey congratulated him and suggested they plan a hiking trip to relax. Andrew agreed, inviting her and their pups. Audrey showed personalized tags she made for her dogs, which Andrew admired. They both expressed love for their pets and agreed on the importance of showing it. They eagerly anticipated the upcoming hike, looking forward to their pets meeting and the fun they would have. They ended the conversation, excited and ready to prepare for the adventure ahead.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/x7jn4meogw441.jpg"
+      ],
+      "blip_caption": "a photo of a dog sitting on a leash in a room",
+      "query": "new puppy toby city",
+      "dia_id": "D12:1",
+      "text": "Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D12:2",
+      "text": "OMG! Toby looks so adorable! Congrats on your new addition. I'm sure you're really happy right now! I so happy for you!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D12:3",
+      "text": "Haha yeah! Toby's definitely bringing a lot of joy. Since we last talked, work has been piling up and I've been stuck inside. I miss the peace and feeling of freedom that comes with going for a hike."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D12:4",
+      "text": "Yeah you're really stressed then! When work's non-stop, it's hard to get outdoors. Hiking is a great way to relax and take in nature. Do you have plans to go hiking soon? We should plan a trip for both of us and our pups!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D12:5",
+      "text": "Yeah work's been stressful lately and I need a break. I have plans for a hike next month and thought it'd be cool if you and the pups could come along. We can enjoy nature and have a fun time!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://thebaskshop.com/cdn/shop/files/image_8117b42d-0057-492c-9b06-88fc439af683.jpg"
+      ],
+      "blip_caption": "a photo of a group of wooden keychains with engraved names",
+      "query": "personalized dog tags engraved names dogs",
+      "dia_id": "D12:6",
+      "text": "Sounds great! I'm in for the hike, and my dogs can come too. Thanks for inviting us! I made these personalized tags for them. Take a look! "
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D12:7",
+      "text": "Wow, those look great! Did you make them? It's really cool!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D12:8",
+      "text": "Thanks! Yeah, I made them myself. I wanted each one to be special and fit their personalities."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D12:9",
+      "text": "Wow, that's so cool. You really put so much love into making them, which makes them extra special."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D12:10",
+      "text": "Thanks! I did put a lot of love into making these tags. I want my pets to feel seen and loved."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D12:11",
+      "text": "It really are the small things like these show we care a ton about out pets."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D12:12",
+      "text": "Yep! Small acts of love like that make a big difference in our relationships with our furry pals. Let's make sure they know how much we care!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D12:13",
+      "text": "Definitely! They bring us so much joy, so it's only fair that we show them how special they are. Can't wait for our hike - and for Toby and your pups to meet!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D12:14",
+      "text": "Can't wait either! It's going to be loads of fun and a great memory."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D12:15",
+      "text": "Yep! It'll be an adventure alright. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D12:16",
+      "text": "Counting down the days 'til our hike! Gotta get them ready soon!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D12:17",
+      "text": "Same here! It's gonna be awesome. Let's talk later k?"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey crafts personalized dog tags for each of her four dogs."
+    ],
+    "Andrew": [
+      "Andrew finally adopts a German Shephard puppy named Toby after much search.",
+      "Andrew is stressed from work and misses hiking."
+    ],
+    "date": "11 July, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew has recently gotten a new puppy named Toby.",
+        "D12:1"
+      ],
+      [
+        "Andrew mentioned feeling stressed due to work piling up and expressed a desire for the peace and freedom of going for a hike.",
+        "D12:3"
+      ],
+      [
+        "Andrew has plans for a hike next month and invited Audrey and her pups to join along.",
+        "D12:5"
+      ],
+      [
+        "Andrew is looking forward to the hike and for Toby to meet Audrey's pups.",
+        "D12:13"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey thinks Toby, Andrew's puppy, is adorable.",
+        "D12:2"
+      ],
+      [
+        "Audrey mentioned making personalized tags for her dogs to show love and make them feel special.",
+        "D12:6"
+      ],
+      [
+        "Audrey put a lot of love and effort into making the personalized tags for her pets.",
+        "D12:10"
+      ],
+      [
+        "Audrey believes that small acts of love towards pets make a big difference in their relationships.",
+        "D12:12"
+      ],
+      [
+        "Audrey is looking forward to the hike and for her pups to meet Toby.",
+        "D12:13"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

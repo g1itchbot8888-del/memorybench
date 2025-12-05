@@ -1,0 +1,235 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-21",
+  "session_number": 21,
+  "session_summary": "Maria and John caught up at 8:43 pm on 3 July, 2023. Maria shared about meeting kids at a shelter and an unfortunate car accident but mentioned helping her cousin find a new place. John offered his support and suggested finding resources for her cousin. Maria appreciated the kindness and mentioned the impact of small acts of kindness. John shared his participation in a veterans' rights event, emphasizing the importance of supporting causes. They encouraged each other to keep making a difference through activism and supporting important causes.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://cdn.newswire.com/files/x/4b/eb/ec85ef6a588e010a38e5f40feeab.jpg"
+      ],
+      "blip_caption": "a photo of three children sitting on a step smiling",
+      "query": "group children shelter smiling",
+      "dia_id": "D21:1",
+      "text": "Hey John, long time no see! Sorry I didn't get back to you sooner... So much has happened! Check out these kids I met at the shelter!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:2",
+      "text": "Hey Maria! Good to hear from you. Those little ones are adorable, any updates on them? How have you been?"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://i2.pickpik.com/photos/866/469/190/crash-car-car-crash-accident-preview.jpg"
+      ],
+      "blip_caption": "a photography of a car that has been damaged and is sitting on a flatbed",
+      "query": "broken car homeless shelter kids",
+      "dia_id": "D21:3",
+      "re-download": true,
+      "text": "Hey John! They were great, their smiles warmed my heart. But something not so great happened yesterday..."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:4",
+      "text": "That's so sad. Can I do anything to help? What happened?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:5",
+      "text": "A car ran a red light and hit us, but thankfully everyone is okay. Besides that, my cousin just had a tough time recently, so I'm lending a hand in helping her find a new place."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:6",
+      "text": "That's really nice of you. It's important to help family during hard times. How is she doing now?"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://cdngeneral.rentcafe.com/dmslivecafe/3/524478/1(2).jpg"
+      ],
+      "blip_caption": "a photo of a row of houses with a sidewalk and trees",
+      "query": "apartments for rent list",
+      "dia_id": "D21:7",
+      "text": "Things have been tough for her lately. She had to leave and find a new place in a hurry, which has been really stressful, but she's making progress."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:8",
+      "text": "The houses look real nice. Hopefully, she finds a cozy spot soon."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:9",
+      "text": "Yeah, that's important. A safe home is key."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:10",
+      "text": "Definitely, it's essential for wellbeing. It's great that you're supporting her. Is there anything specific she needs help with? Maybe I can assist as well."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:11",
+      "text": "Any resources or organizations you know of that could help her out? Thanks!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:12",
+      "text": " I'll see if I can find any that might be able to assist. Let me know if there's anything else I can do to help!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:13",
+      "text": "Thanks, John! Really appreciate your offer. Anything you can find would be great."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:14",
+      "text": "Sure, Maria! I'll do my best to find some resources. Helping those in need is important to me too."
+    },
+    {
+      "speaker": "Maria",
+      "blip_caption": "a photo of a lot of white portable homes in a parking lot",
+      "dia_id": "D21:15",
+      "text": "I appreciate your kindness and care. It's a wonderful quality to have."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:16",
+      "text": "Thanks for the compliment, I really appreciate it!"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://i.redd.it/cvtpmcj98ii31.jpg"
+      ],
+      "blip_caption": "a photo of a letter written by a man on a white sheet of paper",
+      "query": "handwritten note be kind",
+      "dia_id": "D21:17",
+      "text": "No worries, John. Nice moments like these remind me how much kindness and compassion matter. Life can be challenging, but small acts of kindness can make a big difference."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:18",
+      "text": "Wow, that's awesome! What inspired it?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:19",
+      "text": "One of the shelter residents, Laura, wrote us a letter expressing their gratitude. The impact we made on their life was inspiring!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:20",
+      "text": "Wow, that's really amazing to hear. It feels so good to make a positive impact on someone's life."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:21",
+      "text": "Yeah, that's why I love volunteering! It makes me feel like I'm making a difference, even if it's a small one."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a badge and a flag on a table",
+      "dia_id": "D21:22",
+      "text": "Yeah, Maria, keep it up! Even small things can mean a lot. I just participated in a marching event for veterans' rights and it was awesome, made me remember how much they sacrifice for us. We need to show our support however we can."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:23",
+      "text": "Wow, John! What inspired you to join it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:24",
+      "text": "I've always had a great respect for our military and wanted to show my support. I think it's important to stand up for what we believe in."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:25",
+      "text": "Wow, John! It's great to see you standing up for your beliefs."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:26",
+      "text": "Thanks Maria, it was amazing being around others who shared the same values and passion as me. It reminded me how important it is to try and make a difference through activism. It really motivated me."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:27",
+      "text": "That's awesome, John! Surrounding yourself with determined people striving for the same goals can be really motivating. Keep it up!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:28",
+      "text": "Thanks, Maria! It really is. Striving for progress is crucial."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D21:29",
+      "text": "Yep John, Let's keep up the good work and make a difference. Talk to you soon!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John participates in a protest march dedicated to the cause of military veterans' rights."
+    ],
+    "Maria": [
+      "Maria meets a bunch of delightful kids at the shelter and receives a letter of appreciation from Laura, one of the shelter residents.",
+      "Maria tries to help her cousin who has to move out and urgently needs a place to live.",
+      "Maria faces an accident where another car runs the red light and hits their car."
+    ],
+    "date": "3 July, 2023"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria met some kids at a shelter.",
+        "D21:1"
+      ],
+      [
+        "Maria got hit by a car that ran a red light, but everyone is okay.",
+        "D21:5"
+      ],
+      [
+        "Maria is helping her cousin find a new place to stay after a tough time.",
+        "D21:5"
+      ],
+      [
+        "Maria's cousin had to leave and find a new place in a hurry, causing stress, but is making progress.",
+        "D21:7"
+      ],
+      [
+        "Maria appreciates kindness and care.",
+        "D21:15"
+      ],
+      [
+        "Maria loves volunteering and feels it makes a difference, even if it's a small one.",
+        "D21:21"
+      ]
+    ],
+    "John": [
+      [
+        "John expressed willingness to help Maria if she needed anything.",
+        "D21:4"
+      ],
+      [
+        "John participated in a marching event for veterans' rights.",
+        "D21:22"
+      ],
+      [
+        "John respects the military and believes in standing up for beliefs.",
+        "D21:24"
+      ],
+      [
+        "John feels the importance of making a difference through activism and was motivated by it.",
+        "D21:26"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

@@ -1,0 +1,146 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-10",
+  "session_number": 10,
+  "session_summary": "Tim and John caught up at 2:52 pm on 31 August, 2023. Tim shared his job rejection but remained positive. John discussed his NYC trip and troubles with the subway. Tim mentioned overcoming nerves to give a presentation. John shared his cooking experiment with a sage-flavored soup. Tim planned a trip to Universal Studios for the first time, excited for the Harry Potter attractions. They ended the conversation with well-wishes and a promise to catch up soon.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "dia_id": "D10:1",
+      "text": "Hey John, it's been a few days! I got a no for a summer job I wanted which wasn't great but I'm staying positive. On your NYC trip, did you have any troubles? How did you handle them?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:2",
+      "text": "Hey Tim! Sorry to hear about the job, but your positivity will help you find something great! My trip went okay - I had some trouble figuring out the subway at first, but then it was easy after someone helped explain it. How about you? Anything new you've tackled?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D10:3",
+      "text": "Thanks! Appreciate your encouragement. Yesterday, I tackled something new - I gave a presentation in class. I was nervous but I made it. Small step, but feels like progress."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/zr17msb27uy91.jpg"
+      ],
+      "blip_caption": "a photo of a bowl of soup with a spoon and a butternut on a cutting board",
+      "query": "beautifully plated chicken soup",
+      "dia_id": "D10:4",
+      "text": "Cool, Tim! Taking the plunge and presenting can be tough, but awesome work! Progress is progress, keep it up. By the way, I've been trying out cooking recipes. Made this tasty soup recently - it was real good!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D10:5",
+      "text": "Wow, that looks great! How did you make it? Do you have a recipe you can share?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:6",
+      "text": "Thanks, I just sort of made it up on the spot so I don't have a recipe."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D10:7",
+      "text": "That's ok! I can look some up. Can you tell me what spices you used in the soup?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:8",
+      "text": "I added some sage for a nice flavor. Enjoy!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D10:9",
+      "text": "Thanks! Excited to try this. Love experimenting with spices. By the way, have you been to Universal Studios? Planning a trip there next month."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:10",
+      "text": "Cool! Haven't been there yet, but I've heard great things about Universal Studios. It's definitely on my bucket list. Have you been before?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D10:11",
+      "text": "Nope, but it's my first time going. I'm super stoked for the Harry Potter stuff. Can't wait!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:12",
+      "text": "Cool! It's gonna be a blast, like stepping into another world. Have a great time!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D10:13",
+      "text": "Thanks! I'll definitely have a blast. I'll let you know how it goes!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:14",
+      "text": "Great! Can't wait to hear about it. Have a safe trip!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D10:15",
+      "text": "Thanks! I'll make sure to have a safe trip."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:16",
+      "text": "Bye! Take care and let's catch up soon!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D10:17",
+      "text": "Take care! Can't wait to catch up. Talk soon!"
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim gets turned down for a summer job.",
+      "Tim gives a presentation in class and feels accomplished about it.",
+      "Tim plans to visit Universal Studios in Septemner 2023 and is excited to see the Harry Potter rides."
+    ],
+    "John": [
+      "John starts to cook more often and experiment with recipes, such as s soup with sage herbs.",
+      "John returns from his trip to New York City where he struggled a bit with the subway system."
+    ],
+    "date": "31 August, 2023"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim received a no for a summer job he wanted, but is staying positive.",
+        "D10:1"
+      ],
+      [
+        "Tim recently gave a presentation in class and felt it was a small but significant progress.",
+        "D10:3"
+      ],
+      [
+        "Tim loves experimenting with spices when cooking.",
+        "D10:9"
+      ],
+      [
+        "Tim is planning a trip to Universal Studios, particularly excited for the Harry Potter stuff.",
+        "D10:11"
+      ]
+    ],
+    "John": [
+      [
+        "John had some trouble figuring out the subway in NYC during his trip, but found it easier with someone's help.",
+        "D10:2"
+      ],
+      [
+        "John has been trying out cooking recipes, recently making a tasty soup with sage.",
+        "D10:4"
+      ],
+      [
+        "John hasn't been to Universal Studios yet, but it's on his bucket list.",
+        "D10:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

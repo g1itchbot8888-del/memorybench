@@ -1,0 +1,150 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-10",
+  "session_number": 10,
+  "session_summary": "Joanna and Nate caught up on 2nd May at 11:54 am. Joanna told Nate she enjoyed watching \"The Lord of the Rings\" Trilogy on his recommendation, and Nate agreed it's a great trilogy. Nate shared he has been focused on gaming, winning his second tournament in Street Fighter. Joanna praised Nate's gaming room and his recent success in tournaments. Nate appreciated Joanna's dairy-free dessert creations and they discussed their creative outlets. Nate encouraged Joanna to keep experimenting in the kitchen. They ended the conversation with Joanna saying she will continue trying new things and Nate bidding her goodbye.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a person holding a book openhemer",
+      "dia_id": "D10:1",
+      "text": "Hey Nate, how's it going? I took your reccomendation and watched \"The Lord of the Rings\" Trilogy last night! It was awesome!"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.pinimg.com/originals/23/13/24/231324d44f9471ead5535950153378f1.jpg"
+      ],
+      "blip_caption": "a photo of a gaming room with a computer and a gaming chair",
+      "query": "gaming setup",
+      "dia_id": "D10:2",
+      "text": "Glad to hear you enjoyed it! It's probably the greatest trilogy of all time! As for me, life's been ok, just taking care of this."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D10:3",
+      "text": "Wow, Nate! I'm proud of what you did. Your gaming room looks great - have you been gaming a lot recently?"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a woman with purple hair and a black dress",
+      "dia_id": "D10:4",
+      "text": "Gaming has been my focus - practicing a lot and even winning a few tournaments. Last week I won my second tournament!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D10:5",
+      "text": "Wow, congrats! What game were you playing?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D10:6",
+      "text": "Thanks! I usually play CS:GO, but I tried my hand at the local Street Fighter tournament this time since I play that game a lot with my friends, and turns out I'm really good!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D10:7",
+      "text": "Nice! That must have been a surprise. How did it feel to finally win one?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D10:8",
+      "text": "It was super awesome! So much adrenaline went into that last match, and the other finalist even shook my hand! Enough about me though, how about you? What have you been up to?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "http://ventitobakery.com/cdn/shop/products/white-gluten-dairy-free-cake.jpg"
+      ],
+      "blip_caption": "a photo of a cake with white frosting on a wooden table",
+      "query": "dairy-free cake decorated",
+      "dia_id": "D10:9",
+      "text": "Not much is new other than the screenplay. Been working on some projects and testing out dairy-free dessert recipes for friends and fam. Here's a pic of a cake I made recently!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D10:10",
+      "text": "That looks really good! I love the way the frosting turned out!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D10:11",
+      "text": "Thanks! It's dairy-free vanilla with strawberry filling and coconut cream frosting. I gotta say, I really like your coconut reccomendation you gave a while back!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D10:12",
+      "text": "Wow, Joanna, that looks amazing! I bet it tastes great - you're so talented at making dairy-free desserts!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D10:13",
+      "text": "Thanks Nate! I really appreciate it. I love experimenting in the kitchen, coming up with something tasty. Cooking and baking are my creative outlets. Especially when I'm snackin' dairy-free, trying to make the desserts just as delicious - it's a rewarding challenge! Seeing the smiles on everyone's faces when they try it - it's a total win!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D10:14",
+      "text": "That's great, Joanna! It must be so rewarding to see everyone enjoying your creations. Keep up the good work!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D10:15",
+      "text": "Thanks, Nate! Appreciate all the help. Gonna keep trying new things. See ya later!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D10:16",
+      "text": "Bye!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna watches the Lord of the Rings trilogy movies based on Nate's recommendation and enjoys it.",
+      "Joanna makes a dairy-free vanilla with strawberry filling and coconut cream frosting and appreciates the coconut recommendation from Note."
+    ],
+    "Nate": [
+      "Nate wins the local Street Fighter tournament which is his second win in video game tournaments."
+    ],
+    "date": "2 May, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna watched 'The Lord of the Rings' Trilogy based on Nate's recommendation and found it awesome.",
+        "D10:1"
+      ],
+      [
+        "Joanna has been working on some projects and testing dairy-free dessert recipes for friends and family.",
+        "D10:9"
+      ],
+      [
+        "Joanna made a dairy-free vanilla cake with strawberry filling and coconut cream frosting.",
+        "D10:11"
+      ],
+      [
+        "Cooking and baking are Joanna's creative outlets, and she enjoys experimenting in the kitchen.",
+        "D10:13"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate believes 'The Lord of the Rings' Trilogy is probably the greatest trilogy of all time.",
+        "D10:2"
+      ],
+      [
+        "Nate's focus has been on gaming, practicing a lot and winning tournaments, including winning his second tournament last week.",
+        "D10:4"
+      ],
+      [
+        "Nate usually plays CS:GO but participated in a local Street Fighter tournament and discovered he is really good at it.",
+        "D10:6"
+      ],
+      [
+        "Nate recommended coconut to Joanna in the past which she liked and mentioned during the conversation.",
+        "D10:11"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

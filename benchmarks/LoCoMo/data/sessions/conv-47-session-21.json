@@ -1,0 +1,153 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-21",
+  "session_number": 21,
+  "session_summary": "James and John, at 9:18 pm on 26 August 2022, discussed James' dog named Ned, John helping his siblings with programming, and working on a coding project with the siblings. John shared details of the text-based adventure game they are creating. James mentioned his interest in creating a strategy game like Civilization. They made plans to meet at McGee's pub the next day, deciding to have light beers. The conversation ended with them saying goodbye.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/8nlwyc5nh6d61.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a dog on a couch",
+      "query": "cute puppy playing video game controller",
+      "dia_id": "D21:1",
+      "text": "Hey John! Look how cute it is. My dog came to me today while I was playing on the console. What is new?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:2",
+      "text": " Your pup is so cute, remind me what's their name? I've been helping my younger siblings out with programming since they joined the programming course. It's really cool to see them get into it."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D21:3",
+      "text": " His name's Ned and he's been awesome since I adopted him. I can't imagine life without him. It's great to hear that your siblings signed up for programming."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:4",
+      "text": "That's right, his name is Ned, how could I forget?!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D21:5",
+      "text": "Regarding your siblings, are you already working on anything cool with them?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:6",
+      "text": "Yeah! We're working on a cool project together that involves coding. It's a game and it's helping them learn."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D21:7",
+      "text": "Wow, learning and gaming sounds like a fantastic combination for coding education! Can you share more details about the game?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:8",
+      "text": "Yeah, they're playing a simple, text-based adventure game, working on their coding skills and having fun. I'm so proud of them! Maybe they'll even create their own video games, huh? Any new game designs on your mind?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D21:9",
+      "text": "Wow, sounds cool John! Learning coding with a text-based adventure game is impressive stuff. As for me, I've been trying out different genres of games and now I'm dying to create a strategy game like Civilization - love how complicated and in-depth they are. Fingers crossed, one day I'll make my own awesome strategy game!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:10",
+      "text": "Wow, James, that's impressive! It's gonna be awesome. Can't wait to see what you come up with!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D21:11",
+      "text": " Are you free tomorrow?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:12",
+      "text": "Yes, tomorrow is my day off. Do you have any suggestions on how to spend tomorrow?"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a laptop computer with a colorful keyboard on a table",
+      "dia_id": "D21:13",
+      "text": "Yes, we can go to Starbucks for coffee if you want."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:14",
+      "text": "I don't mind meeting up, but why Starbucks? Maybe we can have a beer somewhere?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D21:15",
+      "text": "Well, how about we go to McGee's pub then? I heard they serve a great stout there!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:16",
+      "text": "Great idea, except I don't like dark beer. Maybe there's something else there?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D21:17",
+      "text": "Of course, there are also light beers!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D21:18",
+      "text": "Great, then I agree! See you tomorrow at McGee's Pub!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D21:19",
+      "text": "See you John, bye!"
+    }
+  ],
+  "events": {
+    "James": [],
+    "John": [
+      "John's younger siblings join him in the HTML/CSS programming course.",
+      "John and his siblings work on building a text-based adventure game as a project for the programming course."
+    ],
+    "date": "26 August, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James has a dog named Ned that he adopted and can't imagine life without.",
+        "D21:3"
+      ],
+      [
+        "James is interested in creating a strategy game similar to Civilization.",
+        "D21:9"
+      ],
+      [
+        "James suggested meeting at Starbucks for coffee with John.",
+        "D21:13"
+      ]
+    ],
+    "John": [
+      [
+        "John helps his younger siblings with programming and is proud of their progress",
+        "D21:2"
+      ],
+      [
+        "John is working on a coding project with his siblings involving a text-based adventure game.",
+        "D21:6"
+      ],
+      [
+        "John prefers light beers over dark beers when going out.",
+        "D21:16"
+      ],
+      [
+        "John agreed to meet James at McGee's Pub after discussing different options.",
+        "D21:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

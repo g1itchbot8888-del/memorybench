@@ -1,0 +1,155 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-20",
+  "session_number": 20,
+  "session_summary": "Maria and John reconnect at 12:21 am on 27 June, 2023. Maria shares her struggles but mentions focusing on the positive and getting support from family and friends. John acknowledges the importance of support and asks how her family has been helping. Maria expresses gratitude for her family's encouragement and support. John talks about a recent lively event with his family, emphasizing the importance of cherishing moments with loved ones. Maria mentions finding silver linings by volunteering at a shelter, sharing a heartwarming experience. John appreciates the impact of small gestures on others. The conversation ends with John encouraging Maria to continue spreading positivity and making a difference.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "dia_id": "D20:1",
+      "text": "Hey John, long time no talk! A lot has happened since then. I've been struggling, but I'm focusing on the positive and relying on my friends and fam for support."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:2",
+      "text": "Hey Maria, sorry to hear that. That's rough, but it's great that you're focusing on the positive. Having support from your loved ones can make a big difference. How have they been helping you out?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D20:3",
+      "text": "Hey John, thanks. My family has been there for me all the way. They've been my rock, giving me words of encouragement and reminding me I'm not alone. It's a relief to have their support."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:4",
+      "text": "That's great, Maria! It's such a blessing to have family who always supports us and reminds us that we're not alone. They know us like no one else and stick by us no matter what. Last week, we had a blast at a live music event. Seeing them dancing and having fun was awesome. The energy in the air was amazing."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D20:5",
+      "text": "Wow, John! The energy from the crowd must have unreal! So glad you and your family got to experience that lively event. These are the moments that make the best memories."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:6",
+      "text": "Thanks, Maria! It was definitely an amazing experience. Moments like these remind me to appreciate the ones I love. Life can be tough, but finding silver linings helps me keep going. How have you been finding silver linings in tough times?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D20:7",
+      "text": "Volunteering at the shelter made me feel great to help, even if just for a bit."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:8",
+      "text": "Wow, Maria! That's really amazing. It must have felt great to help out. Do you have any special memories from your experience?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D20:9",
+      "text": "There are so many, but one that stands out was when I met someone special at the shelter. They'd been sad for months, but when I was playing with the kids, they suddenly laughed - it was so uplifting! I won't forget that."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:10",
+      "text": "That's a really nice memory, Maria! It's amazing how just playing with kids can bring such joy and happiness. It shows how even a brief moment with someone can make a difference. Thanks for sharing it with me."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D20:11",
+      "text": "No problem, John! It was really nice. Being able to make a difference brings me joy."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:12",
+      "text": "It's great knowing that our actions can brighten someone else's life. Keep it up!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D20:13",
+      "text": "Thanks, John! Gonna continue doing it - it's my way of spreading kindness and positivity."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:14",
+      "text": "Maria, that's great! Your way of passing on kindness and positivity is making a big impact on the world. You're really making a difference."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D20:15",
+      "text": "Thanks, John! Your words really mean a lot. It's always nice to know that what I'm doing is making an impact."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:16",
+      "text": "You definitely are. Keep going with it!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D20:17",
+      "text": "Thanks, John! I definitely will. Speak to you soon!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:18",
+      "text": "That's awesome, Maria! Keep that positivity going and keep making a difference. Take care!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John spends quality time with his family by attending a live music event."
+    ],
+    "Maria": [
+      "Maria goes through a rough patch but receives support from her family."
+    ],
+    "date": "27 June, 2023"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria has been struggling but is focusing on the positive and relying on friends and family for support.",
+        "D20:1"
+      ],
+      [
+        "Maria's family has been her rock, giving her words of encouragement and reminding her she's not alone.",
+        "D20:3"
+      ],
+      [
+        "Maria finds joy and fulfillment in volunteering at a shelter to help others.",
+        "D20:7"
+      ],
+      [
+        "Maria had a special memory at the shelter when playing with kids made someone who had been sad suddenly laugh, which was uplifting.",
+        "D20:9"
+      ],
+      [
+        "Maria sees making a difference in others' lives as a source of joy for herself.",
+        "D20:11"
+      ],
+      [
+        "Maria feels that spreading kindness and positivity is her way of impacting the world.",
+        "D20:13"
+      ]
+    ],
+    "John": [
+      [
+        "John recalls having a blast at a live music event with his family last week.",
+        "D20:4"
+      ],
+      [
+        "John emphasizes the importance of appreciating loved ones and finding silver linings in tough times.",
+        "D20:6"
+      ],
+      [
+        "John finds it amazing how brief moments with others can make a big difference in bringing joy and happiness.",
+        "D20:10"
+      ],
+      [
+        "John encourages Maria to continue spreading kindness and positivity, acknowledging the impact she is making.",
+        "D20:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

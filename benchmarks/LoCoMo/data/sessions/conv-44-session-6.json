@@ -1,0 +1,158 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-6",
+  "session_number": 6,
+  "session_summary": "Andrew and Audrey chatted at 2:03 pm on 11 May, 2023. Andrew shared his recent peaceful hike with his girlfriend. Audrey discussed taking care of her four dogs and signing up for a workshop on bonding with pets. Andrew showed interest in the workshop and praised Audrey's efforts. Audrey shared her positive reinforcement approach with dogs and emphasized the importance of not using punishment. They agreed to keep each other updated, with Andrew showing interest in attending the workshop too. The conversation ended with plans to talk later.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://live.staticflickr.com/7155/6566396811_8526df2fb5_b.jpg"
+      ],
+      "blip_caption": "a photography of a dirt path leading to a grassy hill",
+      "query": "hike nature open space",
+      "dia_id": "D6:1",
+      "re-download": true,
+      "text": "Hi Audrey! I had a great hike last weekend with some friends and my girlfriend at the spot we found recently. Nature was so peaceful – it was so nice to just relax and take it in. How's your week been? Anything exciting going on lately?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://images.squarespace-cdn.com/content/v1/63568f583d7aee4d0ba645d0/05701b3d-6533-4936-a33d-2bd0902f1a34/11821460_.jpg"
+      ],
+      "blip_caption": "a photography of a group of dogs with a yellow circle",
+      "query": "dog training workshop flyer",
+      "dia_id": "D6:2",
+      "re-download": true,
+      "text": "Hey Andrew! That hike sounds great. Nature is good for the soul, right? My week's been good - taking care of my four doggies and making sure they're happy and healthy took up most of my free time. Also, exciting news! I signed up for a workshop about bonding with my pet next month. Can't wait to learn new stuff and strengthen my bond with my pets. What's up with you?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D6:3",
+      "text": "That's awesome! Glad have the opportunity to bond with your pets. That workshop sounds cool. Where did you hear about it? And the one in the picture is adorable!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D6:4",
+      "text": "I know right? I saw this workshop flyer at my local pet store. It was a positive reinforcement training class and I wanted to give it a shot. The volunteer in the store was nice enough to let me meet their dog – he was so friendly and playful!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D6:5",
+      "text": "Cool! Positive reinforcement can really help you bond with your dogs. Do you think they'll catch on quickly?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D6:6",
+      "text": "I'm sure they'll catch on really quick! They're quick learners and love rewards! Can't wait to learn how to train them better."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D6:7",
+      "text": "That's awesome! Keep me updated on their progress."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D6:8",
+      "text": "Definitely! I'll keep you updated on how it all goes and how my pups are doing. Fingers crossed they'll be extra behaved. And I'll let you know some tips on training your future dog as well!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D6:9",
+      "text": "Thanks! I'm excited to hear about it. Have a great time at the workshop!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D6:10",
+      "text": "I'll definitely have a good time and make the most of it. I'm sure this is a must learn for any dog owner."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D6:11",
+      "text": "You think so? Wow, you must be a good salesperson because I'm almost sold on this class haha."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D6:12",
+      "text": "Haha, I just think its important to have pets learn how to behave on a positive reinforcement way. Punishment is never the proper way for pets ya know?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D6:13",
+      "text": "Yeah I would't want to be punished, let alone puppies and dogs."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D6:14",
+      "text": "Right!? I don't want to hurt any of my dogs. Just by thinking of it gives me pain."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D6:15",
+      "text": "Yeah I feel you. Anyways, let me look into their classes. I'll talk to you soon, have fun!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D6:16",
+      "text": "Yup, ttyl!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey comes to know about a pet bonding workshop from a flyer at her local pet score which is scheduled for June 2023.",
+      "signs up for the pet bonding workshop which will teach positive reinforcement training to bond with pets."
+    ],
+    "Andrew": [
+      "Andrew and his girlfriend invite friends to join them on a hike to explore the new open space that they found close to their apartment recently."
+    ],
+    "date": "11 May, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew had a great hike last weekend with friends and his girlfriend at a spot they recently found.",
+        "D6:1"
+      ],
+      [
+        "Andrew is interested in hiking and finds nature peaceful.",
+        "D6:1"
+      ],
+      [
+        "Andrew is curious about Audrey's workshop on bonding with her pets and thinks the dog in the picture is adorable.",
+        "D6:3"
+      ],
+      [
+        "Andrew is supportive and encourages Audrey to keep him updated on her pets' progress and training.",
+        "D6:7"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey is taking care of her four dogs and ensuring they are happy and healthy.",
+        "D6:2"
+      ],
+      [
+        "Audrey signed up for a workshop about bonding with pets to strengthen her bond with her dogs.",
+        "D6:2"
+      ],
+      [
+        "Audrey learned about the workshop from a flyer at her local pet store which was about positive reinforcement training.",
+        "D6:4"
+      ],
+      [
+        "Audrey believes in using positive reinforcement rather than punishment to train pets.",
+        "D6:12"
+      ],
+      [
+        "Audrey is enthusiastic about training her pets better and believes they are quick learners who love rewards.",
+        "D6:6"
+      ],
+      [
+        "Audrey is eager to update Andrew on her pets' progress and offer him tips on training for his future dog.",
+        "D6:8"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

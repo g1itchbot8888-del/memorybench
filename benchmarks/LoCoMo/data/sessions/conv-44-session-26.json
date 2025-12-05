@@ -1,0 +1,346 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-26",
+  "session_number": 26,
+  "session_summary": "Audrey informed Andrew about her dogs' behavior issues, her appointment with an animal behaviorist, and the positive tips she received for handling the problems. The conversation then shifted to planning a nature hike with their furry friends on Saturday, exploring a trail by a lake with scenic views. They expressed excitement and gratitude for the upcoming adventure, sharing photos of potential locations and expressing eagerness to capture memories with their dogs. Andrew shared a photo of his happy dog from a previous hike, and they both looked forward to creating new joyful memories together. They planned to meet for the hike and said their goodbyes as they got ready to head out.",
+  "conversation_turns": [
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:1",
+      "text": "Hey Andrew, I wanted to let you know about something going on with my dogs. I noticed they weren't acting normally, so I made an appointment with an animal behaviorist last Wed. It's been a bit hectic but I'm hopeful it'll help me better understand them."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:2",
+      "text": "Oh no! Sorry to hear that your dogs haven't been themselves. Are they doing ok? How did the appointment with the animal behaviorist go? Did you receive any helpful advice or insights?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:3",
+      "text": "The appointment went okay. It was hectic at first, but the behaviorist checked them out and asked some questions. I got some tips to try and help with their problems now."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:4",
+      "text": "So what tips did you get? What will you be doing to help with the problems?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:5",
+      "text": "The behaviorist gave me tips on how to handle it and suggested some changes in their routine. I'm using positive reinforcement techniques and it's still a work in progress, but I'm hopeful it'll help."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:6",
+      "text": "I'm glad your pups are still good with positive reinforcement! How are they doing with the new approach tho?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:7",
+      "text": "So far they seem to be responding well to it! It won't be fixed immediately but I'm seeing some progress. Here's hoping it keeps going."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:8",
+      "text": "That's good to hear! Keep up the good work!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:9",
+      "text": "Thanks! Your words of encouragement really mean a lot. It's tough, but I'm devoted to keeping them healthy and happy - they mean everything to me."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:10",
+      "text": "You're doing a great job! They're lucky to have you."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2011,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1200/shutterstock_485806801_mv1xuv.jpg"
+      ],
+      "blip_caption": "a photo of two dogs running in a field with a ball in their mouth",
+      "query": "dogs playing park summer",
+      "dia_id": "D26:11",
+      "text": "Thanks! They're really special to me and I want the best for them. Here's a pic of them having a blast last summer, so happy! I'm looking forward the day they are back to normal."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:12",
+      "text": "Aww, they're having such a blast! What kind are they? I'm wishing you and your pups the best. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:13",
+      "text": "Thanks! They're all mutts, but Pepper and Panda are Lab mixes, and Precious and Pixie are Chihuahua mixes. I really need that. I can't wait the day they're all back to normal."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://live.staticflickr.com/8194/8097374162_8d85c7b645_b.jpg"
+      ],
+      "blip_caption": "a photography of a man hiking up a mountain with a backpack",
+      "query": "hiking mountains",
+      "dia_id": "D26:14",
+      "re-download": true,
+      "text": "Sending prayers and wishes. Here's a pic I took at a national park I went a while ago."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:15",
+      "text": "Wow, that looks gorgeous! We hope to join you and the furry friends soon!"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://live.staticflickr.com/3094/2564651016_d9405477b9_b.jpg"
+      ],
+      "blip_caption": "a photography of a man walking a dog on a leash",
+      "query": "dog-friendly hiking trail",
+      "dia_id": "D26:16",
+      "re-download": true,
+      "text": "Yeah I really hope your pups can get better and join us soon!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:17",
+      "text": "Wow, that trail looks nice! Looks like its dog friendly?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:18",
+      "text": "Yup! It's close by and it's dog-friendly too, with killer views. Wanna plan a hike soon?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:19",
+      "text": "Hmmm sure! Let's pick a date and go hike. It should be good!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:20",
+      "text": "Yay! Does Saturday sound good? We can grab some snacks and have a blast exploring. Because on Sunday I am going on a picnic date with my girlfriend."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:21",
+      "text": "Saturday works for me! I'm going to bring some snack. Super excited!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:22",
+      "text": "Can't wait for our nature day with the fur babies! We're gonna have a good time!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/8ugwccgkw6u81.jpg"
+      ],
+      "blip_caption": "a photo of a dog laying on the ground with a view of the ocean",
+      "query": "dogs wagging tails nature beauty",
+      "dia_id": "D26:23",
+      "text": "Going hiking and seeing nature will be awesome. They'll be so happy!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:24",
+      "text": "I bet! Where do you guys plan to explore?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:25",
+      "text": "Let's check out the trail first. It's a peaceful spot to bring the fur babies for the day."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:26",
+      "text": "Sounds great! There's a lake near the trail too! It's gonna be awesome!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://photos.thedyrt.com/photo/131286/media/serene-lake-or_97eeadb9941e84ca9084f13abd07f6b0.jpg"
+      ],
+      "blip_caption": "a photo of a lake with a boat in it and a forest in the background",
+      "query": "serene lake trees peaceful adventure",
+      "dia_id": "D26:27",
+      "text": "Oh nice! Can't wait to explore it and hang out with our furry friends. Should be a peaceful day! Here's a photo of the lake I found online."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:28",
+      "text": "Wow, that looks awesome! Do you think the dogs will like it? Which trail do you have in mind?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:29",
+      "text": "Let's try that trail by the lake with great views, perfect for us and the pups. Should be fun!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:30",
+      "text": "Sounds great! They will love it by the lake. Can't wait!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://s3-us-west-1.amazonaws.com/assets.wagwalkingweb.com/media/daily_wag/blog_articles/body/1660599786.6061006/5-best-dog-parks-in-portland-or-2.png"
+      ],
+      "blip_caption": "a photo of a dog chasing a dog in a park",
+      "query": "sunny day dog park",
+      "dia_id": "D26:31",
+      "text": "Gonna be great - nature, furry pals - what more could we want? I'm so lucky to have a friend like you who loves exploring and being outside with our dogs."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://photos.bringfido.com/restaurants/6/7/1/176/176_272122.jpg"
+      ],
+      "blip_caption": "a photo of a dog eating out of a bowl on the ground",
+      "query": "dog-friendly cafe outdoor seating",
+      "dia_id": "D26:32",
+      "text": "Same! I'm lucky to have a friend like you for these outdoor trips. It's awesome to be out in nature with our furry friends."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:33",
+      "text": "Yup! It's hard to find someone that has similar thoughts. "
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://exploringtheprime.com/wp-content/uploads/2019/10/IMG_6849.jpg"
+      ],
+      "blip_caption": "a photo of a forest with yellow trees and a blue sky",
+      "query": "hiking trail colorful autumn trees",
+      "dia_id": "D26:34",
+      "text": "Exactly! Oh btw, here's another photo of a trail near the location. What do you think?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:35",
+      "text": "That looks pretty good! I'd love to take them there sometime."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:36",
+      "text": "How about going there the next trip? The autumn colors are so beautiful!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:37",
+      "text": "Sounds great! The autumn colors would look awesome for pictures."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:38",
+      "text": "Yeah, photos are gonna turn out great with the dogs!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:39",
+      "text": "Can't wait to capture some amazing moments with our furry friends!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:40",
+      "text": "It definitely will be a memorable day!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:41",
+      "text": "Yep, can't wait to make some awesome memories with our furry friends!"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://live.staticflickr.com/1760/27752565907_f59bb6f236_b.jpg"
+      ],
+      "blip_caption": "a photography of a man and his dog on a trail",
+      "query": "group of friends hiking mountains",
+      "dia_id": "D26:42",
+      "re-download": true,
+      "text": "You bet! Can't wait to see their happy face! This was my dog and I when we were hiking last time, see how happy he was?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:43",
+      "text": "Aww look at his happy face! I'm really looking forward to it! Can't wait to see my pups being happy and hiking."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:44",
+      "text": "Same here. Let's make it an epic and fun hike!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:45",
+      "text": "Yep! It's gonna be so much fun."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D26:46",
+      "text": "Let me get ready, gonna head out soon. Ttyl!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D26:47",
+      "text": "Yep ttyl!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey is concerned by the sudden abnormal behavior of her dogs and makes an appointment with an animal behaviorist to understand them better.",
+      "Andrew and Audrey plan to take their pets to a dog-friendly trail by the lake at a nearby national park."
+    ],
+    "Andrew": [
+      "Andrew and Audrey plan to take their pets to a dog-friendly trail by the lake at a nearby national park.",
+      "Andrew goes on a picnic date with his girlfriend."
+    ],
+    "date": "28 October, 2023"
+  },
+  "observations": {
+    "Audrey": [
+      [
+        "Audrey has dogs that were not behaving normally, leading her to seek help from an animal behaviorist.",
+        "D26:1"
+      ],
+      [
+        "Audrey mentioned her dogs are all mutts, where Pepper and Panda are Lab mixes, and Precious and Pixie are Chihuahua mixes.",
+        "D26:13"
+      ],
+      [
+        "Audrey is using positive reinforcement techniques to help with her dogs' problems.",
+        "D26:5"
+      ],
+      [
+        "Audrey is devoted to keeping her dogs healthy and happy.",
+        "D26:9"
+      ],
+      [
+        "Audrey expressed excitement and eagerness to go hiking with Andrew and their furry friends.",
+        "D26:21"
+      ]
+    ],
+    "Andrew": [
+      [
+        "Andrew appears to be a supportive friend to Audrey, encouraging her and expressing well wishes for her dogs' well-being.",
+        "D26:10"
+      ],
+      [
+        "Andrew plans to go hiking with Audrey, mentioning going on a picnic date with his girlfriend on Sunday.",
+        "D26:20"
+      ],
+      [
+        "Andrew is enthusiastic about exploring nature and going on hikes with Audrey and their dogs.",
+        "D26:22"
+      ],
+      [
+        "Andrew shared photos of a national park, a trail, and a dog with Audrey during the conversation.",
+        "D26:14, D26:34, D26:42"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

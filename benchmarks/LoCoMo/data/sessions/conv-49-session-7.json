@@ -1,0 +1,170 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-7",
+  "session_number": 7,
+  "session_summary": "At 4:20 pm on 15 August 2023, Evan and Sam caught up after a few days. Evan shared about his son's soccer accident, while Sam mentioned a tough week and a wake-up call for self-care. Sam talked about taking a cooking class for healthier meals and shared a yummy grilled dish recipe with Evan. Evan asked for recipes with more vegetables, and Sam promised to share a roasted veg recipe. They also discussed post-accident well-being and the importance of self-care. Sam admitted to feeling a mix of concern and motivation for positive changes, with Evan providing encouraging words. They agreed to take things one step at a time, supporting each other along the way.",
+  "conversation_turns": [
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/be/Orthopedic_cast_4604.jpg"
+      ],
+      "blip_caption": "a photography of a person with a cast on their foot",
+      "query": "son injured ankle photo",
+      "dia_id": "D7:1",
+      "re-download": true,
+      "text": "Hey Sam, what's up? It's been a few days since we talked. How have you been? Life's been tough lately - my son had a soccer accident last Saturday and hurt his ankle, it was tough seeing him hurt! I just been looking after him and taking him to the doctor. As a dad, it's hard to watch your kid go through something like that."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D7:2",
+      "text": "Hey Evan, sorry to hear about what happened. I can imagine how hard it must have been for you. Things haven't been easy for me either. Had a tough week and a doc's appointment, so it was kinda like a wake-up call to take better care of myself. On a bright side, I'm taking a cooking class to learn how to make healthier meals."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D7:3",
+      "text": "Hey Sam, sorry to hear you had a rough week. At least it's forcing us both to take better care of ourselves, right? I hear the class you're taking is packed with healthy recipes. How's it been going? Have you picked up any yummy new meals?"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://i0.wp.com/sevenlayercharlotte.com/wp-content/uploads/2021/07/IMG_7767.jpg"
+      ],
+      "blip_caption": "a photo of a plate of food with a piece of salmon and some vegetables",
+      "query": "grilled salmon with roasted vegetables",
+      "dia_id": "D7:4",
+      "text": "The cooking class has been great, I've learned awesome recipes. Last night I made this yummy grilled dish, so good!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D7:5",
+      "text": "Mmm, it looks delicious! What did you put in it? I want to eat healthy, so what kind of recipes do you suggest?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D7:6",
+      "text": "Thanks, Evan! I marinated it with a few different ingredients and grilled it with some veggies. It turned out really flavorful! If you want, I can share more recipes from my cooking class. Just let me know what you're looking for!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D7:7",
+      "text": "That'd be great, Sam! I'm looking to add more vegetables to my meals. Do you have any recipes for that?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D7:8",
+      "text": "Yeah definitely, Evan. I have a tasty and easy roasted veg recipe that I can share with you. Oh, by the way, how have you been doing after the soccer incident? Must've been tough."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D7:9",
+      "text": "Thanks, Sam. His ankle is getting better, but still sore. It was rough at first, but thank goodness it was nothing serious."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D7:10",
+      "text": "Glad to hear his ankle is getting better. It's hard seeing someone we care about hurt. Look after yourself too, yeah? We gotta look after our health."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D7:11",
+      "text": "Yep, taking care of ourselves is a must. How have you been feeling lately?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D7:12",
+      "text": "I have been feeling a mix of emotions - somewhat concerned about my health but also motivated to make positive changes. Taking things one step at a time."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D7:13",
+      "text": "It's okay to feel overwhelmed, Sam. Just keep moving forward slowly and taking small steps. You're doing awesome."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D7:14",
+      "text": "Thanks, Evan, your encouragement means a lot to me. I'll keep going and take it one step at a time!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D7:15",
+      "text": "No worries, just keep going and taking it one step at a time! You'll get there."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D7:16",
+      "text": "Thanks, Evan. I really appreciate that. It means a lot."
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan's son hurts his akle while playing soccer but it isn't a serious accident."
+    ],
+    "Sam": [
+      "Sam enrolls in a cooking class to help him learn to cook healthier meals.",
+      "Sam cooks a grilled salmon meal with vegetables that he learned from the cooking class.",
+      "Sam has another doctor's appointment where he receives a health scare about his weight."
+    ],
+    "date": "15 August, 2023"
+  },
+  "observations": {
+    "Evan": [
+      [
+        "Evan's son had a soccer accident last Saturday and hurt his ankle, requiring care and a doctor visit.",
+        "D7:1"
+      ],
+      [
+        "Evan is concerned about taking care of his son who was hurt in the soccer accident.",
+        "D7:1"
+      ],
+      [
+        "Evan wants to eat healthy and is interested in learning about healthier recipes.",
+        "D7:5"
+      ],
+      [
+        "Evan is looking to add more vegetables to his meals.",
+        "D7:7"
+      ],
+      [
+        "Evan encourages Sam to look after himself and his health.",
+        "D7:10"
+      ],
+      [
+        "Evan reminds Sam to take care of himself and advocates for looking after health.",
+        "D7:15"
+      ]
+    ],
+    "Sam": [
+      [
+        "Sam had a tough week and had a doctor's appointment which served as a wake-up call to take better care of himself.",
+        "D7:2"
+      ],
+      [
+        "Sam is taking a cooking class to learn how to make healthier meals and has learned awesome recipes from it.",
+        "D7:4"
+      ],
+      [
+        "Sam is willing to share recipes from his cooking class with Evan.",
+        "D7:6"
+      ],
+      [
+        "Sam is concerned about Evan and his son's well-being after the soccer incident.",
+        "D7:8"
+      ],
+      [
+        "Sam feels a mix of emotions, somewhat concerned about his health but motivated to make positive changes.",
+        "D7:12"
+      ],
+      [
+        "Sam appreciates Evan's encouragement and expresses gratitude for it.",
+        "D7:14"
+      ],
+      [
+        "Sam expresses gratitude to Evan for his support and encouragement.",
+        "D7:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

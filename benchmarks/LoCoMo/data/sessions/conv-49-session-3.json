@@ -1,0 +1,160 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-3",
+  "session_number": 3,
+  "session_summary": "At 3:55 pm on 6 June 2023, Evan and Sam caught up after a while. Evan shared about a recent health scare and his decision to focus on a healthier lifestyle, discussing dietary changes and suggesting healthier alternatives to Sam. Sam mentioned sticking to soda and candy but agreed to try Evan's suggestions. Evan emphasized the importance of small changes for better health and offered support to Sam on their health journeys. They planned to work out together, and Sam shared a frustrating experience at the supermarket. Evan empathized, and they ended the conversation with well wishes.",
+  "conversation_turns": [
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i.redd.it/e4esfhi1ekl61.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a bottle of medicine in their hand",
+      "query": "medication reminder health scare",
+      "dia_id": "D3:1",
+      "text": "Hey Sam! Long time no talk! How're you doing? Life's been quite the rollercoaster lately. I had a health scare last week – a sudden heart palpitation incident that really shook me up. It's been a serious wake-up call about my lifestyle."
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://mayuris-jikoni.com/wp-content/uploads/2020/06/Rainbow-Salad-1.jpg"
+      ],
+      "blip_caption": "a photo of a plate of vegetables and a glass of milk",
+      "query": "salad bowl colorful veggies diet healthy options",
+      "dia_id": "D3:2",
+      "text": "Hey Evan, great hearing from you! Sorry about that, glad you're feeling better now. Trying to eat healthier these days."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D3:3",
+      "text": "That salad looks yummy! I'm being extra careful with my health lately. I'm trying to eat less processed food and sugary snacks, even though I love ginger snaps. Have you made any changes to your diet recently?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D3:4",
+      "text": "Nah, no changes for me. Still enjoying my soda and candy, although I know it's not the best habit to have."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D3:5",
+      "text": "Yeah, breaking habits can be tough. Making small changes can have a big impact later on. Have you considered swapping soda for flavored seltzer water? It's still bubbly and tasty, but without the sugar. And instead of candy, you could try dark chocolate with high cocoa content - it's a healthier option. What do you think?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D3:6",
+      "text": "Yeah, good idea! I'll give it a try."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D3:7",
+      "text": "Awesome, Sam! Let me know how it goes. Making small changes can really help you live a healthier life. Don't forget - every step matters!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D3:8",
+      "text": "Hey Evan, thanks! Appreciate it. I'll definitely keep you posted."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D3:9",
+      "text": "I'm here for you, Sam. Let's continue supporting each other on our health journeys. It's important to remember that progress takes time."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D3:10",
+      "text": "Yeah, you're right. It takes time, but I'm up for keep trying and making those tiny changes."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D3:11",
+      "text": "C'mon, keep it up! Every little bit counts, you'll get there!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D3:12",
+      "text": "Thanks, Evan! I appreciate your support, it means a lot to me to have you in my corner."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://c0.wallpaperflare.com/preview/870/384/969/adult-bodybuilding-brawny-dumbbell.jpg"
+      ],
+      "blip_caption": "a photography of a man with a beard holding a dumbble",
+      "query": "dumbbell workout",
+      "dia_id": "D3:13",
+      "re-download": true,
+      "text": "Yes, Sam! I'm here for you. Let's rock our workouts and reach our goals! Exercise clears the mind - it's amazing!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D3:14",
+      "text": "Wow, that's awesome! Could you give me a hand with getting started?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D3:15",
+      "text": "Sure Sam, I'd be glad to help. Let's get together and I'll show you some basic exercises. We'll reach our goals!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D3:16",
+      "text": "Cool, can't wait! Thank you. By the way, I'm coming from the shop and I had a frustrating issue at the supermarket. The self-checkout machines were all broken, my mood is terrible now!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D3:17",
+      "text": "Sorry you were in that situation, hopefully it won't happen again!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D3:18",
+      "text": "Yeah, I hope so, take care of yourself."
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan experiences heart palpitations and is motivated by the health scare to make some changes to his lifestyle."
+    ],
+    "Sam": [
+      "Sam starts eating salads to support his goal for better health.",
+      "Sam gets frustrated during shopping because all of the self-checkout machines were broken."
+    ],
+    "date": "6 June, 2023"
+  },
+  "observations": {
+    "Evan": [
+      [
+        "Evan had a health scare involving sudden heart palpitations last week.",
+        "D3:1"
+      ],
+      [
+        "Evan is making an effort to be extra careful with his health and is trying to eat less processed food and sugary snacks.",
+        "D3:3"
+      ],
+      [
+        "Evan suggested swapping soda for flavored seltzer water and candy for dark chocolate with high cocoa content as healthier options to Sam.",
+        "D3:5"
+      ]
+    ],
+    "Sam": [
+      [
+        "Sam is trying to eat healthier and recently trying to eat less processed food, but has made no changes yet.",
+        "D3:2"
+      ],
+      [
+        "Sam still enjoys soda and candy, although knowing it's not the best habit.",
+        "D3:4"
+      ],
+      [
+        "Sam agreed to give swapping soda for flavored seltzer water and candy for dark chocolate a try.",
+        "D3:6"
+      ],
+      [
+        "Sam had a frustrating experience at the supermarket as the self-checkout machines were all broken.",
+        "D3:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

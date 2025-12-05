@@ -1,0 +1,289 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-17",
+  "session_number": 17,
+  "session_summary": "John and James discussed their shared interest in chess, with John explaining his recent involvement in the game to improve his strategy skills. James offered tips for improvement and they reminisced about a childhood photo at the skate park. They also talked about pets, travel experiences, and family bonds. James shared a photo of his sister and dogs, emphasizing the joy they bring to his life. John expressed gratitude for his siblings' support, highlighting the importance of family and friends. James shared a sunset photo taken near the ocean before signing off due to fatigue. The conversation ended with mutual goodbyes.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D17:1",
+      "text": "Hi James! I just started playing chess to get better at strategy. I'm loving it! Have you ever tried it out?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:2",
+      "text": "Hey John! Yeah, I've played chess before. It's a game that really tests your strategy. It's great that you're enjoying it!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:3",
+      "text": "Yeah, chess is really fun! It's like solving an endless puzzle and always trying to outwit your opponent."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:4",
+      "text": "Yeah, it's tough, but fun when you figure it out. Do you play with friends or online?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://images.chesscomfiles.com/proxy/i.imgur.com/lzPt82B/https/71544f1354.jpg"
+      ],
+      "blip_caption": "a photo of a chess board with a laptop on it",
+      "query": "chessboard chess pieces intense game",
+      "dia_id": "D17:5",
+      "text": "I'm playing mostly online for now, but I also joined a chess club and practice with others. Here's a pic from an intense game I played lately."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:6",
+      "text": "Wow, looks intense! What sparked your interest in chess?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:7",
+      "text": "I've always been drawn to strategy games and wanted to challenge myself. Plus, I believe chess can improve decision-making skills."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:8",
+      "text": "Great reason for playing chess - it will definitely help you develop your skills!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:9",
+      "text": "Thanks, James! I'm excited to see how playing chess can enhance my strategic thinking in everyday situations. Do you have any tips for improvement?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:10",
+      "text": "Definitely! Studying opening moves and strategies and analyzing your games to spot weaknesses are great ways to improve."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:11",
+      "text": " I'll definitely look into that. Appreciate the advice!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:12",
+      "text": "No worries, John! Happy to help. Just let me know if there's anything else I can assist you with."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/44c4iux03cv51.jpg"
+      ],
+      "blip_caption": "a photo of a group of children holding a skateboard",
+      "query": "friends laughing together photo album",
+      "dia_id": "D17:13",
+      "text": " Your support means a lot to me. You're a true friend! Remember this photo from elementary school?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:14",
+      "text": "That looks fun. But I don’t remember at all under what circumstances we took this picture. What's the story behind it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:15",
+      "text": "This is from when we were 10 and we were really into skateboarding. We had a group of friends who often go to the skate park with. We would help each other learn new tricks and have a great time. Those friends made the experience even better and their friendship meant a lot to us."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/a2w1l6874v381.jpg"
+      ],
+      "blip_caption": "a photo of a small dog standing on a skateboard",
+      "query": "dog skateboard playing",
+      "dia_id": "D17:16",
+      "text": "Indeed, I remember this moment. We loved skateboards back then, sometimes we even left class early to do it. I still like to go for a ride sometimes, and I even taught my dogs how to balance on it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:17",
+      "text": "Wow! Do they enjoy it, or do you have to encourage them to play with the board?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:18",
+      "text": "They love it! They chase after it and run with it. It's a great way for them to get some exercise."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:19",
+      "text": "Wow, that's great! Keeping active and happy is great for both of you."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:20",
+      "text": "Yep! Staying active with them builds a strong bond and makes us both happy."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a cat laying on a bed with a stuffed animal",
+      "dia_id": "D17:21",
+      "text": "Yeah, the bond between us and our pets is amazing. They bring a lot of joy and love. It’s a pity that I don’t have pets, I’ll definitely get one someday. By the way, how was your trip?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:22",
+      "text": "Everything went great! In addition, I even managed to get out to another country. The city of Nuuk, if you know. I stayed there quite a bit, but at least I had one more country to add to my bucket list!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:23",
+      "text": "This is awesome, James! Surely you brought a lot of impressions with you!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:24",
+      "text": "Certainly! And not only impressions, I also brought souvenirs. For both you and your Jill!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:25",
+      "text": "Thank you very much, Jill will be delighted!"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/yx1qjjtxk8e91.jpg"
+      ],
+      "blip_caption": "a photo of a woman and two dogs on a couch",
+      "query": "dogs sitting couch happiness love companions",
+      "dia_id": "D17:26",
+      "text": "You're welcome! By the way, look who came to see me!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:27",
+      "text": "Nice pic, James! Who are they?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:28",
+      "text": "That's my sister and my dogs. We were just chilling together yesterday, and they bring so much happiness to my life."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:29",
+      "text": "Wow, they look so happy! It's awesome that you get to spend time with your sister and your furry friends. The bond you have with them is really strong."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:30",
+      "text": "I'm blessed to have a close bond with my sister and our furry friends. We have a great time together, like a family!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:31",
+      "text": "Family and friends are really amazing, James. They show us so much love and joy. I'm grateful for the connection I have with my siblings. Things can be tough sometimes, but their support means everything to me."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+      ],
+      "blip_caption": "a photo of a person walking on the beach with a surfboard",
+      "query": "sunset ocean",
+      "dia_id": "D17:32",
+      "text": "Fully agreed! My sister and I were also near the ocean and watched such a wonderful sunset!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:33",
+      "text": "Wonderful photo! It's amazing how you can capture a moment and capture it in a photograph."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:34",
+      "text": "Thanks, John! This is just a good shot, nothing more. I took a lot of shots yesterday and chose the best one to send to you."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:35",
+      "text": "Still, the photo is amazing!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D17:36",
+      "text": "I have to go, I'm tired over the last two days. Bye!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:37",
+      "text": "Take care, bye!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James returns from his visit to Canada and the city of Nuuk, and brings back souvenirs for John and Jill.",
+      "James's sister visits him and they visit the ocean."
+    ],
+    "John": [
+      "John starts playing chess and joins a chess club to practice his competitive edge."
+    ],
+    "date": "22 July, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John recently started playing chess to improve his strategic thinking.",
+        "D17:1"
+      ],
+      [
+        "John plays chess online and joined a chess club to practice with others.",
+        "D17:5"
+      ],
+      [
+        "John believes chess can enhance decision-making skills.",
+        "D17:7"
+      ],
+      [
+        "John received advice from James about improving in chess by studying opening moves and analyzing games.",
+        "D17:10"
+      ],
+      [
+        "John has a picture from elementary school with James related to skateboarding, showing they were friends who enjoyed skateboarding together.",
+        "D17:13"
+      ],
+      [
+        "John expressed the importance of friendship and the joy pets bring, mentioning he doesn't have pets but would like to get one in the future.",
+        "D17:21"
+      ],
+      [
+        "John is grateful for the connection he has with his siblings and values their support.",
+        "D17:31"
+      ]
+    ],
+    "James": [
+      [
+        "James has previously played chess and acknowledges its strategic nature.",
+        "D17:2"
+      ],
+      [
+        "James shared advice with John on improving in chess by studying opening moves and analyzing games.",
+        "D17:10"
+      ],
+      [
+        "James has a sister with whom he has a close bond and enjoys spending time near the ocean with her watching sunsets.",
+        "D17:30"
+      ],
+      [
+        "James has dogs that he taught to balance on a skateboard, and they enjoy playing with it.",
+        "D17:18"
+      ],
+      [
+        "James recently traveled to the city of Nuuk and brought souvenirs for John and Jill.",
+        "D17:22"
+      ],
+      [
+        "James spends time with his sister and dogs, finding happiness and a strong bond with them.",
+        "D17:28"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

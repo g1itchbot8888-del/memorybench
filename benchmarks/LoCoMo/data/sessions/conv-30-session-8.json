@@ -1,0 +1,211 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-8",
+  "session_number": 8,
+  "session_summary": "Jon informed Gina at 1:26 pm on 3 April, 2023, that he had closed his bank account for his business. Gina expressed sympathy and inquired about how he was coping with the changes, to which Jon responded positively, mentioning it was a tough decision but necessary for business growth. They discussed Gina's new offers on her online store related to fashion and dance, which she combines due to her passion for both. They also delved into strategies, like working with influencers for Gina and expanding the social media presence for Jon's dance studio, with plans for an upcoming dance competition. They supported each other's endeavors and parted ways with encouragement and plans to meet at Jon's event.",
+  "conversation_turns": [
+    {
+      "speaker": "Jon",
+      "dia_id": "D8:1",
+      "text": "Hey Gina, I had to shut down my bank account. It was tough, but I needed to do it for my biz."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:2",
+      "text": "Oh no, Jon! Sorry to hear that. Tough decision for you? How're you handling the changes?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D8:3",
+      "text": "It was a tough call, but I thought it'd help my biz grow. Handling changes has been hard, but I'm staying positive and looking ahead. Anything new for you?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:4",
+      "text": "Oof, that's tough, Jon. I got some new offers and promotions going on my online store to try and bring in new customers. It's been a wild ride starting my business, but I'm not giving up!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D8:5",
+      "text": "Nice one, Gina! Love how you never give up. What helps you stay motivated?"
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
+      ],
+      "blip_caption": "a photo of a man and woman doing a yoga pose",
+      "query": "dance studio session",
+      "dia_id": "D8:6",
+      "text": "Thanks Jon! Dance is my stress relief and fashion fuels my creativity. I love finding new trends for my store. It keeps me motivated to keep growing. Check out this pic of my fave dance session!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D8:7",
+      "text": "Wow, that's great! What made you combine clothing biz and dance?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:8",
+      "text": "Thanks! I'm passionate about dance and fashion so combining them lets me show my creativity and share my love with others. Plus, I can add dance-inspired items to my store!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D8:9",
+      "text": "Nice work! Combining passions is always cool. How's it going?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:10",
+      "text": "Thanks! So far, so good - customers love the new offers and promotions, which means I'm seeing more sales. People seem to really like my designs, so I'm always on the hunt for unique, trendy pieces. Growing my customer base is the main focus right now."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D8:11",
+      "text": "Sounds like all your effort's paying off. Anything planned to grow your customer base?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:12",
+      "text": "Yeah, I have a few plans. I'm thinking of working with some fashion bloggers and influencers in the next few months to get more attention for my store. Plus, I'm going to do more ads so I can reach more people. I'm really focused on building my customer base and making my store a top destination for fashion fans. It's awesome to see it all coming together! You, Jon? What do you have going for your dance studio?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D8:13",
+      "text": "Thanks, Gina! I'm expanding my dance studio's social media presence and offering workshops and classes to local schools and centers. I'm also hosting a dance competition next month to showcase local talent and bring more attention to my studio. All the work's paying off - I'm seeing progress and the dancers are so excited. It's such a great feeling to give a place where people can express themselves through dance!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:14",
+      "text": "Wow! That's fantastic that your studio's expanding and giving dancers an outlet. So proud of the progress you've made - keep it up!"
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://universe.byu.edu/wp-content/uploads/2018/02/IMG_8914.jpg"
+      ],
+      "blip_caption": "a photo of a group of people on a stage with a projector screen",
+      "query": "group of talented dancers performing on stage event next month",
+      "dia_id": "D8:15",
+      "text": "Thanks! Your backing means a lot. I'm trying to make my plan work, even though it's been tough. Your encouragement really helps. Are you coming to the event next month? Love to have you there!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:16",
+      "text": "Woah, cool event! What's gonna be happening? I'd love to join in and show my support!"
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://varnikadesigns.files.wordpress.com/2020/11/img_3505.jpg"
+      ],
+      "blip_caption": "a photo of a group of dancers on a stage with a man in the middle of the group",
+      "query": "group dancers stage performance",
+      "dia_id": "D8:17",
+      "text": "Thanks, Gina! My dance studio and some other schools are bringing their best moves for an awesome night of performances and judging. It'll be super creative and fun. Come join us!"
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a woman in a tutu posing for a picture",
+      "dia_id": "D8:18",
+      "text": "Sounds great! I'm definitely in for the show."
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of two women doing a handstand in a room",
+      "dia_id": "D8:19",
+      "text": "Cool! Can't wait to see you!"
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a group of young girls in tutuss and ballet shoes",
+      "dia_id": "D8:20",
+      "text": "Thanks, Jon! See you at the event!"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a dress with a sign on it that says june bunty",
+      "dia_id": "D8:21",
+      "text": "Gina, good luck with your store!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:22",
+      "text": "Thanks, Jon! Appreciate the kind words. <3"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a street light on a sidewalk in front of a building",
+      "dia_id": "D8:23",
+      "text": "Sure, I am always there for you!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:24",
+      "text": "Thanks! Your support means a lot. I'm gonna keep pursuing my goals and I hope you do too!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D8:25",
+      "text": "Thanks! I won't quit on my dreams. Your words really motivate me. Bye!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D8:26",
+      "text": "Bye Jon! You got this! Believe in yourself and keep pushing. Take care!"
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon shuts down his bank account to help his business grow."
+    ],
+    "Gina": [
+      "Gina introduces offers on her store to attract new customers."
+    ],
+    "date": "3 April, 2023"
+  },
+  "observations": {
+    "Jon": [
+      [
+        "Jon had to shut down his bank account for his business.",
+        "D8:1"
+      ],
+      [
+        "Jon is handling changes positively and looking ahead despite facing challenges.",
+        "D8:3"
+      ],
+      [
+        "Jon is expanding his dance studio's social media presence and offering workshops and classes to local schools and centers.",
+        "D8:13"
+      ],
+      [
+        "Jon is hosting a dance competition next month to showcase local talent and bring more attention to his studio.",
+        "D8:13"
+      ]
+    ],
+    "Gina": [
+      [
+        "Gina got new offers and promotions for her online store to attract new customers.",
+        "D8:4"
+      ],
+      [
+        "Dance is Gina's stress relief and fashion fuels her creativity.",
+        "D8:6"
+      ],
+      [
+        "Gina combines her passion for dance and fashion to show creativity and share love with others.",
+        "D8:8"
+      ],
+      [
+        "Gina is focused on building her customer base for her store by working with fashion bloggers, influencers, and running more ads.",
+        "D8:12"
+      ],
+      [
+        "Gina plans to work with fashion bloggers and influencers to get more attention for her store and do more ads to reach more people.",
+        "D8:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

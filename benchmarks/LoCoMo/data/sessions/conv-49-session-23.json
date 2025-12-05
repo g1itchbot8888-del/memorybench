@@ -1,0 +1,276 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-23",
+  "session_number": 23,
+  "session_summary": "At 1:32 pm on 6 January 2024, Evan excitedly informed Sam about sharing news of his marriage with their extended family, receiving overwhelming love and support. Sam congratulated Evan and praised the happiness evident in the picture. The conversation shifted to the importance of family support and the joy it brings. Both agreed on the significance of family in their lives, expressing gratitude for the love and happiness they provide. They also discussed dinner plans, with Evan mentioning a new diet while Sam shared a picture of dessert from a family wedding. Evan mentioned an upcoming trip to Canada for his honeymoon, intending to ski and savor local cuisine, with Sam wishing him a memorable experience. They ended the conversation looking forward to sharing details about the trip and catching up soon.",
+  "conversation_turns": [
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://cdn.jewelryimages.net/static/domains/kvjewels/images/store-pics/b9ffd872-4ac6-405c-b3e0-19d875e60f0b.jpg"
+      ],
+      "blip_caption": "a photo of a man and a woman standing on a rocky beach",
+      "query": "couple families announcement",
+      "dia_id": "D23:1",
+      "text": "Hey Sam, guess what? My partner and I told our extended fam about our marriage yesterday – it was so special! We've been totally overwhelmed by all their love and support."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:2",
+      "text": "Congrats on the news, Evan! You two look so happy in the pic. These moments make life so wonderful; super stoked for you!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:3",
+      "text": "Thanks, Sam! It was an awesome moment, and I feel really lucky to have found someone who gets me. Plus, our families are really happy for us - that's the best part!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:4",
+      "text": "Wow, Evan. It's awesome that you've found someone who gets you! Having your family's support must feel great."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:5",
+      "text": "Definitely, family support is so important. Knowing they're happy about our marriage is awesome and so comforting."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:6",
+      "text": "Yeah, it's awesome to have that support. It definitely brings more happiness and joy."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:7",
+      "text": "Yeah Sam, that means a lot to me. Our bond just keeps getting stronger and it brings such a good feeling to our lives. Family really is everything."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:8",
+      "text": "Agree, Evan! Family is everything - they bring so much love and happiness. They're always there for us no matter what. I'm grateful for their support and love."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:9",
+      "text": "For sure, Sam. That's what makes family so special. They bring so much love and happiness. It's great having their support and knowing they're always there for us. I feel really fortunate to have their never-ending love and support."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:10",
+      "text": "Yeah, definitely, Evan. We both have amazing families that are always there for us. Always a blessing."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:11",
+      "text": "Yeah, Sam. Our families give us so much joy, support, and love. They're a real blessing! I don't know what I'd do without them."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:12",
+      "text": "Hey, Evan. My family has been my rock through everything. Don't know what I'd do without them."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://ic.pics.livejournal.com/queerbychoice/218786/1899659/1899659_original.jpg"
+      ],
+      "blip_caption": "a photo of a group of people sitting at a table with food",
+      "query": "family gathering",
+      "dia_id": "D23:13",
+      "text": "Yeah, they are our rock. We're blessed to have them."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:14",
+      "text": "Wow, you guys are awesome! What's cooking tonight?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:15",
+      "text": "Thanks, Sam! We're having a family get-together tonight and enjoying some homemade lasagna. Super excited! By the way, I've started a new diet—limiting myself to just two ginger snaps a day. What's on your menu tonight?\t"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://i.redd.it/qmjb5d7g8ra81.jpg"
+      ],
+      "blip_caption": "a photo of a plate of food with bread and meat",
+      "query": "lasagna garlic bread",
+      "dia_id": "D23:16",
+      "text": "That's a great discipline, Evan! We're keeping it light tonight, just some homemade lasagna. Can't compete with your ginger snap limit though!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:17",
+      "text": "Oh this must be very hearty and delicious, well I'll have to stick to the diet plan, even with the family gathering!"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://anaffairfromtheheart.com/wp-content/uploads/2021/02/Key-Lime-Pie-1.jpg"
+      ],
+      "blip_caption": "a photo of a pie with raspberries and limes on top",
+      "query": "homemade key lime pie",
+      "dia_id": "D23:18",
+      "text": "Yeah, the lasagna was pretty awesome, but check out what I had for dessert, I'm sure you're drooling!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:19",
+      "text": "Looks yummy! Did you make that?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:20",
+      "text": "No, I didn't make it. This is actually a pic from my cousin's wedding. It's super special."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://serafrescaic.com/wp-content/uploads/2018/10/wedding-cake.jpg"
+      ],
+      "blip_caption": "a photo of a wedding cake with candles and flowers on a table",
+      "query": "wedding cake",
+      "dia_id": "D23:21",
+      "text": "Wow Sam! Weddings are indeed special. This looks great, yum!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:22",
+      "text": "Ooh, nice cake! Reminds me of special occasions. Do you have any upcoming plans?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://texasrandi.files.wordpress.com/2021/03/durango-hike-10.jpg"
+      ],
+      "blip_caption": "a photo of a stream running through a snowy forest filled with snow",
+      "query": "snowy landscape canada honeymoon",
+      "dia_id": "D23:23",
+      "text": "Thanks Sam! We're off to Canada next month for our honeymoon. So excited to create some awesome memories. Looking forward to exploring the beautiful snowy landscapes there."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:24",
+      "text": "Wow, that looks great! What are your plans for the trip?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:25",
+      "text": "We're planning to ski, try the local cuisine, and enjoy the beautiful views. We're really excited!"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://i.redd.it/p2vf3jqii0xb1.jpg"
+      ],
+      "blip_caption": "a photo of a container of french fries covered in caramel",
+      "query": "ski canada poutine",
+      "dia_id": "D23:26",
+      "text": "Sounds amazing, Ev! Skiing, trying local dishes, and enjoying the breathtaking views - the perfect honeymoon. Have an incredible time creating unforgettable memories!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:27",
+      "text": "Yeah, Sam! Gonna try some poutine while we're there - can't wait!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:28",
+      "text": "Never tried it? Can't say I blame you, it's kind of a Canadian thing. Let me know how you like it!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:29",
+      "text": "Sure thing, Sam! Let's see if it lives up to the hype. I'll let you know what happens!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:30",
+      "text": "Yeah, Evan! Let me know all about it. Don't forget the details!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:31",
+      "text": "Cool, Sam. I'll keep you posted. Talk soon!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D23:32",
+      "text": "Awesome, Evan! Catch you soon. Have a great trip!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D23:33",
+      "text": "Thanks, Sam! Catch you later. Have a great one!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan starts a diet and limits himself to only two ginger snaps a day.",
+      "Evan and his partner announce their marriage to his extended family.",
+      "Evan has a family reunion where they eat some homemade lasagna.",
+      "Evan plans for a honeymoon to Canada with his wife in February 2024. They plan on exploring the snowy landscapes, local cuisine and skiing."
+    ],
+    "Sam": [
+      "Sam has a meal of homemade lasgna."
+    ],
+    "date": "6 January, 2024"
+  },
+  "observations": {
+    "Evan": [
+      [
+        "Evan recently got married and informed their extended family about it, receiving overwhelming love and support.",
+        "D23:1"
+      ],
+      [
+        "Evan feels lucky to have found a partner who understands them well.",
+        "D23:3"
+      ],
+      [
+        "Evan values and appreciates the support and happiness their family brings regarding their marriage.",
+        "D23:5"
+      ],
+      [
+        "Evan mentions going on a honeymoon trip to Canada to create awesome memories and explore snowy landscapes.",
+        "D23:23"
+      ],
+      [
+        "Evan expresses excitement about skiing, trying local cuisine, and enjoying the beautiful views during the honeymoon trip.",
+        "D23:25"
+      ]
+    ],
+    "Sam": [
+      [
+        "Sam congratulated Evan on their marriage and appreciated the happiness and love shared in the pictures.",
+        "D23:2"
+      ],
+      [
+        "Sam values family support and acknowledges it as a source of happiness and joy.",
+        "D23:6"
+      ],
+      [
+        "Sam expresses gratitude for the support and love received from their family.",
+        "D23:8"
+      ],
+      [
+        "Sam mentions that their family has been a rock through everything and emphasizes how important they are.",
+        "D23:12"
+      ],
+      [
+        "Sam mentions enjoying homemade lasagna for dinner and admires Evan's discipline of limiting themselves to two ginger snaps a day.",
+        "D23:16"
+      ],
+      [
+        "Sam talks about the special dessert from a cousin's wedding, expressing fondness for special occasions.",
+        "D23:20"
+      ],
+      [
+        "Sam encourages Evan to try poutine in Canada and looks forward to hearing about the experience.",
+        "D23:28"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

@@ -1,0 +1,154 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-6",
+  "session_number": 6,
+  "session_summary": "Calvin and Dave caught up at 11:50 am on 16 May, 2023. Calvin shared about a recent flood incident in his place but managed to save his music gear. Dave offered support, and Calvin showed his creative haven where he makes music. Dave mentioned opening his car shop and Calvin congratulated him. Calvin mentioned an upcoming performance in Tokyo, and Dave wished him luck. Calvin shared a stunning night skyline photo from Tokyo, which Dave admired, expressing a desire to visit. Calvin encouraged Dave to visit, and Dave expressed interest in adding Tokyo to his list of places to visit.",
+  "conversation_turns": [
+    {
+      "speaker": "Calvin",
+      "dia_id": "D6:1",
+      "text": "Hey Dave! Long time no chat! Lots has gone down since we last caught up."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D6:2",
+      "text": "Hey Calvin! Long time no chat! How's everything been going since we last caught up?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D6:3",
+      "text": "Hey Dave, not everything has been going smoothly. I had an incident last week where my place got flooded, but thankfully, I managed to save my music gear and favorite microphone. It's been tough, but I'm staying positive and looking forward to getting everything fixed up."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D6:4",
+      "text": "Man, that's rough, Calvin. Sorry to hear about that. But I'm glad you could save your music gear and mic - those are the important things. Stay positive, pal. Anything I can do to help?"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.redd.it/80s9pr2v7jba1.jpg"
+      ],
+      "blip_caption": "a photo of a music studio with a keyboard, synthesizer, and other musical equipment",
+      "query": "home studio music gear",
+      "dia_id": "D6:5",
+      "text": "Thanks, Dave. Appreciate the support. Waiting on insurance to kick in so I can start repairs - fingers crossed it won't take too long. Take a look at my creative haven, where I pour my heart into the music."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D6:6",
+      "text": "That studio looks awesome, Cal! I hope you get it fixed soon so you can continue creating music. Hang in there!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D6:7",
+      "text": "Thanks, Dave! Can't wait to get back to making music. Anything exciting you're working on these days?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D6:8",
+      "text": "I'm so excited, I opened my car shop last week! Invited some friends over to celebrate and it's been amazing. Super stoked to share my passion and help out with folks' rides. It's been incredible so far."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D6:9",
+      "text": "Way to go, Dave! Congrats on opening your own car shop! Your excitement is contagious. Keep up the great work!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D6:10",
+      "text": "Thanks, Calvin! Your support is greatly appreciated. It's been quite a journey so far, and I'm excited to see what the future holds. How about you? Anything exciting happening in the world of music for you?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D6:11",
+      "text": "Thanks Dave! Super excited for my upcoming performance in Tokyo this month. It's gonna be great to show my music to a whole new crowd and hopefully expand my following!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D6:12",
+      "text": "Cool, Cal! Doing a show in Tokyo, wow! I'm sure the audience is gonna love it. Wishing you all the luck! Let me know how it goes."
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.pinimg.com/originals/f9/ed/97/f9ed97ec7a8419fec025884d3ea102be.jpg"
+      ],
+      "blip_caption": "a photo of a city at night with a lot of lights",
+      "query": "tokyo skyline night",
+      "dia_id": "D6:13",
+      "text": "Sure thing, Dave! I'll keep you posted on how it goes. Thanks for the good luck! Look what a wonderful night! \n"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D6:14",
+      "text": "That looks great! Where did you snap that pic?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D6:15",
+      "text": "I took that pic in Tokyo last night. The skyline was stunning!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D6:16",
+      "text": "Wow, great shot! The night skyline really pops with those city lights. I gotta take a trip there soon!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D6:17",
+      "text": "Thanks Dave! The city lights there are amazing. You should visit, it's awesome!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D6:18",
+      "text": "Definitely adding it to my list. Thanks!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin's place in Tokyo gets flooded but he manages to save his music gear.",
+      "Calvin prepares for his performance in Tokyo at the Frank Ocean tour in last week of May 2023."
+    ],
+    "Dave": [
+      "Dave invites his friends to his newly set up car maintenance shop."
+    ],
+    "date": "16 May, 2023"
+  },
+  "observations": {
+    "Calvin": [
+      [
+        "Calvin had an incident last week where his place got flooded, but he managed to save his music gear and favorite microphone.",
+        "D6:3"
+      ],
+      [
+        "Calvin has a creative haven/studio where he pours his heart into making music.",
+        "D6:5"
+      ],
+      [
+        "Calvin is excited for an upcoming performance in Tokyo this month to showcase his music to a new crowd and expand his following.",
+        "D6:11"
+      ],
+      [
+        "Calvin took a stunning picture of the Tokyo skyline last night.",
+        "D6:15"
+      ]
+    ],
+    "Dave": [
+      [
+        "Dave opened his own car shop last week and celebrated with friends.",
+        "D6:8"
+      ],
+      [
+        "Dave is excited about the journey of running his car shop and is looking forward to what the future holds.",
+        "D6:10"
+      ],
+      [
+        "Dave expressed interest in taking a trip to Tokyo after seeing Calvin's picture of the night skyline.",
+        "D6:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

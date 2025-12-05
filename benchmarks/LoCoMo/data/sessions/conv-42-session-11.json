@@ -1,0 +1,177 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-11",
+  "session_number": 11,
+  "session_summary": "Joanna and Nate conversed at 3:35 pm on 12 May, 2022. Joanna shared her exciting hiking experience at Whispering Falls with Nate, who admired her photo and expressed interest in joining her on a hike in the future. They discussed how nature inspires creativity, with Joanna mentioning how hiking has transformed her and Nate considering writing a screenplay. They concluded their conversation with plans to go on a hike together in the future.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "dia_id": "D11:1",
+      "text": "Hey Nate! Great to hear from you! Quite a week since we last talked - something awesome happened to me!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:2",
+      "text": "Hey Jo! Great hearing from you! What happened?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D11:3",
+      "text": "I went hiking and found some more amazing trails in my town. It was such an awesome experience! I think I am an expert hiker now."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:4",
+      "text": "Sounds great, Jo! Happy you had an awesome experience. Did you happen to take any photos of it?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://burst.shopifycdn.com/photos/large-rolling-waterfall-though-a-lush-green-hill.jpg"
+      ],
+      "blip_caption": "a photo of a waterfall with a dark sky in the background",
+      "query": "waterfall lush greenery",
+      "dia_id": "D11:5",
+      "text": "Yeah, I did! Loved this spot on the hike. The rush of the water was so soothing."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:6",
+      "text": "Wow, looks great! Where did you take this picture? I love the dark sky and green scenery."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D11:7",
+      "text": "Thanks! I took this photo at a beautiful location called Whispering Falls. It was really peaceful and serene."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:8",
+      "text": "I wish I could have been there! Your hikes sound like a blast."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D11:9",
+      "text": "It was awesome, Nate. The sound of that place and the beauty of nature made me so calm and peaceful. Everything else faded away and all that mattered was the present."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:10",
+      "text": "That's great. Glad you found a spot that calms you down - nature sure can be a break from the craziness."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D11:11",
+      "text": "Nature totally inspires me and it's so calming to be surrounded by its beauty. Hiking has opened up a whole new world for me and I feel like a different person now."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:12",
+      "text": "Wow, Jo, that's really cool! It's great to have something that gets those creative juices flowing."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D11:13",
+      "text": "I always feel like I could write a whole movie when I'm out there in cool places like that!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:14",
+      "text": "Wow! That's really cool that it inspires you that much! For me I just get deep in thought and think about my life or new recipes."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D11:15",
+      "text": "I think about my life too sometimes when I'm out and about, but there was something special about these trails that made me feel like writing a drama."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:16",
+      "text": "Hey, we should go together sometime, don't you think? Maybe I'll start to think of a drama myself and publish my own screenplay."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D11:17",
+      "text": "Haha, now that would be something! Sure, you should come down and join me on the trails sometime!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:18",
+      "text": "Sounds like a plan! Thanks for the invite Joanna!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D11:19",
+      "text": "Sure thing Nate! See you later!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D11:20",
+      "text": "See ya!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna becomes an expert hiker after discovering and exploring several trails in her hometown.",
+      "Joanna finds a spot with waterfall called the 'Whispering Falls' during one of her hikes."
+    ],
+    "Nate": [],
+    "date": "12 May, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna enjoys hiking and found some amazing trails in her town.",
+        "D11:3"
+      ],
+      [
+        "Joanna took a photo at Whispering Falls, a beautiful and peaceful location.",
+        "D11:7"
+      ],
+      [
+        "Joanna feels calm and peaceful in nature, particularly during her hikes.",
+        "D11:9"
+      ],
+      [
+        "Hiking has opened up a whole new world for Joanna, and she feels like a different person now.",
+        "D11:11"
+      ],
+      [
+        "Joanna feels inspired by nature and finds it calming to be surrounded by its beauty.",
+        "D11:11"
+      ],
+      [
+        "Joanna feels like she could write a whole movie when she is in inspiring places like the trails she visits.",
+        "D11:13"
+      ],
+      [
+        "In inspiring places like the trails, Joanna feels like writing a drama.",
+        "D11:15"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate is interested in Joanna's hiking experiences and the photos she takes.",
+        "D11:4"
+      ],
+      [
+        "Nate appreciates the calm and beauty of the nature spots Joanna visits.",
+        "D11:6"
+      ],
+      [
+        "Nate acknowledges that nature can provide a break from the craziness of life.",
+        "D11:10"
+      ],
+      [
+        "Nate gets deep in thought when he is out in nature and thinks about his life or new recipes.",
+        "D11:14"
+      ],
+      [
+        "Nate is open to the idea of going hiking together with Joanna and possibly finding inspiration for a screenplay.",
+        "D11:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

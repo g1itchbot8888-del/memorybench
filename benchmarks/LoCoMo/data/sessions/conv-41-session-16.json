@@ -1,0 +1,199 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-16",
+  "session_number": 16,
+  "session_summary": "John and Maria had a conversation at 1:24 pm on 25 May, 2023. John updated Maria about his petition progress and shared a picture of his workmates on a hiking trip. Maria mentioned preparing for a fundraiser at a shelter and John offered to help. They discussed spreading the word about the fundraiser and finding volunteers. John shared a picture of his family at the beach. They both emphasized the importance of appreciating little moments and making a positive impact. Maria thanked John for his support, and they agreed to stay motivated towards their goals. The conversation ended with a mutual belief in making a difference.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://pdx350.salsalabs.org/juneteamcampaignupdate/ca4594c6-1102-4939-b090-61f878580f48.jpg"
+      ],
+      "blip_caption": "a photo of a group of people and a dog standing in front of a waterfall",
+      "query": "petition support education and infrastructure volunteers team",
+      "dia_id": "D16:1",
+      "text": "Hey Maria, I've been busy doing the petition I started - it's tricky but it's been cool getting back in touch with my buddies and gaining support. I got this picture of my workmates when we went on a hiking trip, they really make me keep going! What have you been up to? Anything new with your charity?"
+    },
+    {
+      "speaker": "Maria",
+      "blip_caption": "a photo of a red trash can with clothes in it",
+      "dia_id": "D16:2",
+      "text": "Hey John! Cool that it's going well - you and your friends look like a great team! I'm busy at the shelter getting ready for a fundraiser next week. Hopefully, I can raise enough to cover basic needs for the homeless."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a poster for a chili cook off event",
+      "dia_id": "D16:3",
+      "text": "Wow, Maria! Raising money is crucial for those in need. Is there any way I can help out with your fundraiser?"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://patch.com/img/cdn20/users/26387059/20221221/113941/bbd143cd-d2aa-4d9f-8547-6f333402e7aa___21113933647.jpg"
+      ],
+      "blip_caption": "a photo of a poster for a chili cook off event",
+      "query": "chili cook off poster event",
+      "dia_id": "D16:4",
+      "text": "Thanks, John! Appreciate your help. We need to get the word out about the chili cook-off at the fundraiser. Here's the poster!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:5",
+      "text": "Wow, it looks awesome! I'll make sure to spread the word about it. Is there anything else I can do to assist?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D16:6",
+      "text": "Thanks, John! Your help is really appreciated. If you know anyone who might be interested in volunteering for the event, let me know. We can do this!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:7",
+      "text": "Yep, Maria! I'll ask around to see if anyone I know wants to help. We'll find some awesome people for the cause. Let's make a change!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D16:8",
+      "text": "Way to go, John! Let's help those in need. Thanks for your support!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:9",
+      "text": "No problem, Maria! Working together with passionate people like you is awesome! Let's make a difference."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D16:10",
+      "text": "Yeah, working with passionate people like you is really motivating."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/cuurrb4qyl961.jpg"
+      ],
+      "blip_caption": "a photo of a couple walking into the ocean at sunset",
+      "query": "kids holding hands sunset",
+      "dia_id": "D16:11",
+      "text": "Yeah, Maria! We're making a difference and we'll keep it up! Here's a pic of my fam at the beach."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D16:12",
+      "text": "Wow, John, that pic is gorgeous! It really gives me hope to appreciate the little moments."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:13",
+      "text": "Thanks, Maria! It's moments like these that give me hope too."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D16:14",
+      "text": "Yeah, John! They give me peace and make me appreciate life."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:15",
+      "text": "Glad the photo made you feel that way, Maria. Cherish those little moments!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D16:16",
+      "text": "Thanks, John. I definitely will!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:17",
+      "text": "Thanks for letting me help, Maria. It's moments like these that make life worth living."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D16:18",
+      "text": "Yep, John. These reminders help us stay motivated to make a positive impact. Well, talk to you soon!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:19",
+      "text": "Yeah, Maria! We're really making progress towards making a positive impact. I believe in us! See ya!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John calls old friends to help spread the petition he started for supporting the rights of military veterans.",
+      "John offers help to Maria to spread word for the chilli cook-off being organized as a part of the fundraiser at the homeless shelter she volunteers at."
+    ],
+    "Maria": [
+      "Maria  works towards organizing a fundraiser for the homeless shelter she volunteers at.",
+      "Maria asks John to help spread the word for the chilli cook-off being organized as a part of the fundraiser."
+    ],
+    "date": "25 May, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John is working on a petition and getting back in touch with his buddies for support.",
+        "D16:1"
+      ],
+      [
+        "John went on a hiking trip with his workmates and values their support.",
+        "D16:1"
+      ],
+      [
+        "John is enthusiastic about helping Maria with her charity fundraiser.",
+        "D16:3"
+      ],
+      [
+        "John offered to help spread the word about Maria's charity fundraiser chili cook-off.",
+        "D16:5"
+      ],
+      [
+        "John expressed willingness to assist in finding volunteers for Maria's charity fundraiser.",
+        "D16:7"
+      ],
+      [
+        "John shared a picture of his family at the beach with Maria.",
+        "D16:11"
+      ],
+      [
+        "John values the little moments in life for hope and motivation.",
+        "D16:13"
+      ],
+      [
+        "John believes in making a positive impact and appreciates reminders to cherish life.",
+        "D16:17"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria is busy at the shelter preparing for a fundraiser to cover basic needs for the homeless.",
+        "D16:2"
+      ],
+      [
+        "Maria shared a poster for a chili cook-off at the fundraiser with John.",
+        "D16:4"
+      ],
+      [
+        "Maria asked John for help in spreading the word about the charity fundraiser.",
+        "D16:5"
+      ],
+      [
+        "Maria values and appreciates John's assistance with the charity fundraiser.",
+        "D16:8"
+      ],
+      [
+        "Maria finds working with passionate people like John motivating.",
+        "D16:10"
+      ],
+      [
+        "Maria believes that moments like the shared photo bring peace and appreciation for life.",
+        "D16:14"
+      ],
+      [
+        "Maria finds reminders about positive impacts motivating to continue making a difference.",
+        "D16:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

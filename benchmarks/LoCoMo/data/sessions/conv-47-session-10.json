@@ -1,0 +1,124 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-10",
+  "session_number": 10,
+  "session_summary": "At 12:45 am on 8 May, 2022, James and John caught up after a while. John mentioned organizing a CS:GO tournament with friends for charity, and James praised his efforts. John expressed interest in organizing more events for charity in the future. They discussed donating to a dog shelter and feeding the homeless with the collected money. James commended John's efforts, and John vowed to continue doing good things. James concluded the conversation by expressing pride in John's actions.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "dia_id": "D10:1",
+      "text": "Hey John! Been a while since we chatted. Sorry 'bout not getting back sooner. How's it going? Any new games you're into?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/eh02fep1qnw01.jpg"
+      ],
+      "blip_caption": "a photo of a wooden table with a game controller on it",
+      "query": "charity gaming tournament friends game controllers",
+      "dia_id": "D10:2",
+      "text": "Hey James! No worries, I know you are really busy at work. I'm good, thanks for asking. Oh, I've been organizing something with my friends yesterday - it was cool! Guess what it was, I'll give you a little hint."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D10:3",
+      "text": "Wow, John, that looks awesome! Is it an icon of a new game?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:4",
+      "text": "Nope, not a new game. We put together a tournament for our favorite game, CS:GO. Lots showed up and we made a bunch of money for charity!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D10:5",
+      "text": "Wow John, organizing that tournament for charity must have been a ton of effort, but it sounds like it was so worth it!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:6",
+      "text": "Definitely worth it! It took some planning and coordination, but seeing everyone come together for a good cause was so rewarding."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D10:7",
+      "text": "It must have been great to see the results of that effort. Have you considered organizing more events like that in the future?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:8",
+      "text": "Yeah, for sure! It was awesome and I want to do more events like that. It combines my interests and helps the community. Plus, it's great to get people together for some friendly competition."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D10:9",
+      "text": "Combining gaming and volunteering is a great idea! So fun and fulfilling. Where did you send the collected money?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:10",
+      "text": "Our main goal was to raise money for a dog shelter, which is not far from the street where I live. And we did it!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D10:11",
+      "text": "Helping animals is really important!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:12",
+      "text": "I agree. We still had some money left after helping the shelter, and we decided to use this money to buy groceries and cook some food for the homeless. They were very happy about it."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D10:13",
+      "text": "Glad you are helping those in need! You are doing a great job John, keep up the good work!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D10:14",
+      "text": "Thanks for your support, James! I won't stop there, I will do more and more good things!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D10:15",
+      "text": "I'm really proud of you!"
+    }
+  ],
+  "events": {
+    "James": [],
+    "John": [
+      "GO charity gaming tournament with his gaming friends.",
+      "John and his friends donate the money raised through the gaming tournament to a dog shelter and buy food, groceries for the homeless with the remaining money."
+    ],
+    "date": "8 May, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James mentioned being busy at work.",
+        "D10:2"
+      ]
+    ],
+    "John": [
+      [
+        "John organized a tournament for the game CS:GO with friends, which raised money for charity.",
+        "D10:4"
+      ],
+      [
+        "John sent the collected money to a dog shelter near his home.",
+        "D10:10"
+      ],
+      [
+        "John used some of the remaining money to buy groceries and cook food for the homeless.",
+        "D10:12"
+      ],
+      [
+        "John expressed interest in organizing more events combining his interests and helping the community.",
+        "D10:8"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

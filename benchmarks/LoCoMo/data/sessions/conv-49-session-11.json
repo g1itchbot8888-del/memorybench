@@ -1,0 +1,176 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-11",
+  "session_number": 11,
+  "session_summary": "Sam and Evan caught up at 8:57 pm on 6 October, 2023. Evan, recovering from a knee injury, shared his love for watercolor painting and recent adventure with a lost tourist. He mentioned using painting as a stress reliever and a form of self-expression. Sam expressed interest in writing as a way to express himself and mentioned frustrations with his phone's navigation app. Both agreed on the importance of having outlets to express thoughts and feelings.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://www.cookingclassy.com/wp-content/uploads/2019/05/fruit-salad-8.jpg"
+      ],
+      "blip_caption": "a photography of a bowl of fruit with a striped cloth",
+      "query": "healthy snacks fruit bowl",
+      "dia_id": "D11:1",
+      "re-download": true,
+      "text": "Hey Evan, long time no see! I've started eating healthier - what's new with you? Picked up any new hobbies?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://live.staticflickr.com/23/35171147_0fd909cefb_b.jpg"
+      ],
+      "blip_caption": "a photography of a person with a cast on their leg and a cast on their leg",
+      "query": "knee brace road trip",
+      "dia_id": "D11:2",
+      "re-download": true,
+      "text": "Hey Sam! That's awesome about your healthier eating! For me, I had a setback last week - messed up my knee playing b-ball with the kids. It's been tough to stay active since. I really miss going on adventures like we did last year - good times with the family!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D11:3",
+      "text": "Hey Evan, sorry to hear about your knee. It must be tough. Are there any ways to stay active while you heal up?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D11:4",
+      "text": "Thanks, Sam. PT has helped some. I can't do intense workouts, but I'm doing easy exercises to keep it strong. Not as good as being active outdoors, but still something."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D11:5",
+      "text": "Glad PT is helping, Evan! Taking care of yourself is key – have you explored any fun indoor activities or hobbies?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D11:6",
+      "text": "I do my favorite watercolor painting to keep me busy. It's a chill way to relax and get into the colors. By the way, something happened two weeks ago! You're not gonna believe this, I had a bit of an adventure recently. Helped a lost tourist find their way, and we ended up taking an unexpected tour around the city. It was a blast!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D11:7",
+      "text": "Hey Evan, that sounds like a fun and unexpected event! It's always interesting how helping someone can turn into a little adventure of its own. And how's your watercolor painting going?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+      ],
+      "blip_caption": "a photo of a painting of a cactus in the desert",
+      "query": "watercolor painting sunset",
+      "dia_id": "D11:8",
+      "text": "It's been great! I find painting to be a great stress reliever. Here's what I did last week."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D11:9",
+      "text": "Wow, those are awesome! So cool. Where did you get the inspiration for them?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D11:10",
+      "text": "Thanks, Sam! The sunset painting was inspired by a vacation a few years back. The colors were so stunning. The cactus painting came from a road trip last month. Such cool places!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D11:11",
+      "text": "Wow, Evan, your paintings are awesome! How do you decide what to paint?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D11:12",
+      "text": "Thanks, Sam! I usually paint what's on my mind or something I'm feeling. It can be good memories or places I wanna go to. It's more like expressing myself through art."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D11:13",
+      "text": "That's really amazing, Evan. Expressing yourself through art is such a powerful form of self-expression."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D11:14",
+      "text": "Thanks, Sam. Yeah, it's really a great way to express myself and my emotions. It's a cool way to communicate without using words. So, do you have any other ways in which you express yourself?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D11:15",
+      "text": "Drawing is cool. I'm still just learning how to draw, but I love expressing myself through writing. It's therapeutic and helps me sort out my feelings. Though, I've been a bit frustrated lately with my new phone. Its navigation app keeps malfunctioning, making getting around a bit of a challenge."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D11:16",
+      "text": "Cool, Sam! Writing is a great way to express yourself. What kind of writing do you enjoy? And about the phone, I recommend trying to update it, it usually works for me!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D11:17",
+      "text": "Thanks for the tip, Evan! Writing in my journal and doing creative writing is a good way for me to express my innermost thoughts and feelings."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D11:18",
+      "text": "It can be super therapeutic. It gives you a place to express yourself. Keep it up!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D11:19",
+      "text": "Thanks, Evan! It really helps me make sense of things and express my feelings. It's like having a conversation with myself."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D11:20",
+      "text": "Gotcha, it's like having a place to figure stuff out and make sense of it all. We all need an outlet to express our thoughts and feelings."
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan messes up his knee while playing baseball with this kids and takes physical therapy to recover from the injury.",
+      "Evan helps a lost tourist find their way and ends up taking an adventuruous tour of the city with them."
+    ],
+    "Sam": [
+      "Sam begins to incorporate healthy snacks like fruit bowls into his diet.",
+      "Sam faces issues with the navigation app in his new phone."
+    ],
+    "date": "6 October, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam has started eating healthier.",
+        "D11:1"
+      ],
+      [
+        "Sam is interested in fun indoor activities or hobbies.",
+        "D11:5"
+      ],
+      [
+        "Sam enjoys expressing themselves through writing.",
+        "D11:15"
+      ],
+      [
+        "Sam does creative writing and journals to express their innermost thoughts and feelings.",
+        "D11:17"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan messed up their knee playing basketball and is doing easy exercises to keep it strong.",
+        "D11:2"
+      ],
+      [
+        "Evan finds watercolor painting to be a stress reliever and a way to express emotions.",
+        "D11:6"
+      ],
+      [
+        "Evan paints what's on their mind or how they feel, including good memories or places they want to go to.",
+        "D11:12"
+      ],
+      [
+        "Evan enjoys expressing themselves through art and finds it a powerful form of self-expression.",
+        "D11:13"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

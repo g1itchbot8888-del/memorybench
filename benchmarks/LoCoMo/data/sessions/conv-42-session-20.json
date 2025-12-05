@@ -1,0 +1,186 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-20",
+  "session_number": 20,
+  "session_summary": "At 6:03 pm on 5 September 2022, Nate and Joanna catch up after a while. Nate mentions turtles, a setback in a video game tourney, and trying to stay positive. Joanna shares she revised an old recipe and made something new. Nate admires her dessert and asks how she is doing. Joanna mentions finding comfort in cooking. They discuss Joanna's experimentation with dairy-free dessert options like chocolate, raspberry, and coconut. Nate appreciates her inclusive approach and looks forward to more recipes. Joanna plans to share more recipes and seeks Nate's advice on dairy-free baking, to which Nate suggests substitutes like dairy-free margarine or coconut oil. They express excitement to cook together in the future. Joanna thanks Nate for his ideas and they say goodbye, with Joanna expressing her gratitude and looking forward to trying Nate's suggestions.",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://live.staticflickr.com/8056/8444279059_bbf0c79356_b.jpg"
+      ],
+      "blip_caption": "a photography of two turtles sitting on a rock in a pond",
+      "query": "pet turtles mario luigi",
+      "dia_id": "D20:1",
+      "re-download": true,
+      "text": "Hey Joanna! Long time no talk. So much has happened. Look how cute they are! Hanging with them has been a big help, especially recently. Speaking of which, I just had a letdown in a video game tourney - I didn't do too great, even though I tried. It was a setback, but I'm trying to stay positive."
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://chensplate.com/wp-content/uploads/2021/02/IMG_8512.jpg"
+      ],
+      "blip_caption": "a photo of a piece of cake with strawberries and chocolate",
+      "query": "dairy-free chocolate cake pink frosting",
+      "dia_id": "D20:2",
+      "text": "Hey Nate! Cute turtles! Bummer about the setback. Any positive vibes comin' your way? I just revised on of my old recipes and made this!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D20:3",
+      "text": "Hey Joanna, yeah it's a bummer that I didn't do well. But it's all part of the learning curve, you know? Also that looks super good! Anyways, how are you holding up?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D20:4",
+      "text": "I'm doing OK, thanks. Just been tinkering with that recipe and a few others. It's helping me find some comfort and getting creative."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D20:5",
+      "text": "What else are you making? It's always satisfying to see the kind of things you do when your in one of those moods!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D20:6",
+      "text": "Been tweaking a dessert recipe to make it yummier and more accessible."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D20:7",
+      "text": "Wow, that sounds great! What flavors are you experimenting with?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D20:8",
+      "text": "Trying out different flavors like chocolate, raspberry, and coconut has been a blast!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D20:9",
+      "text": "Sounds delicious! Are you only trying dairy-free options?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://cook2nourish.com/wp-content/uploads/2019/03/Mr6bqaNkSazxNPIxqCHyw-e1553202400166.jpg"
+      ],
+      "blip_caption": "a photo of a plate of cupcakes with different toppings",
+      "query": "dairy-free chocolate coconut cupcakes with raspberry frosting",
+      "dia_id": "D20:10",
+      "text": "Yeah, since I'm lactose intolerant I'm trying out dairy-free options like coconut or almond milk instead. It's been a fun challenge seeing how to make yummy treats that suit everyone's diets. I even made these dairy-free chocolate coconut cupcakes with raspberry frosting."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D20:11",
+      "text": "Woah, those look great, Joanna! It's cool that you make desserts that work for everyone's diets. Do you have any more yummy recipes hiding in there?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D20:12",
+      "text": "Yep! I've been making all sorts of desserts that work for everyone's diets - cookies, pies, cakes - everything! I'll share more recipes with you soon."
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a pile of cookies with sprinkles on a wooden table",
+      "dia_id": "D20:13",
+      "text": "Can't wait to try them. Can I join you sometime? I think baking and cooking really brings us together!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D20:14",
+      "text": "Yeah, Nate! A fellow Chef in the kitchen is always a great help! Speaking of which, i'm curious, any more tips for dairy-free baking?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D20:15",
+      "text": "You can use stuff like dairy-free margarine or coconut oil instead of butter, and make sure to check the labels to ensure they're dairy-free. Good luck!"
+    },
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a cookie with chocolate drizzle and almonds",
+      "dia_id": "D20:16",
+      "text": "Thanks, Nate! Love your ideas, can't wait to try them out!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D20:17",
+      "text": "No problem! I love to help, so just shoot me a question anytime you need!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D20:18",
+      "text": "Got it Nate, I'll see you soon!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D20:19",
+      "text": "Bye Joanna! Good luck!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna revises her dairy free recipe for chocolate strawberry cake."
+    ],
+    "Nate": [
+      "Nate faces a setback because he doesn't do too well in a video game tournament."
+    ],
+    "date": "5 September, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate experienced a letdown in a video game tournament recently.",
+        "D20:1"
+      ],
+      [
+        "Nate tried to stay positive despite the setback in the video game tournament.",
+        "D20:1"
+      ],
+      [
+        "Nate finds comfort and gets creative by hanging out with cute turtles.",
+        "D20:1"
+      ],
+      [
+        "Nate enjoys helping with making desserts that suit everyone's diets.",
+        "D20:10"
+      ],
+      [
+        "Nate offers tips for dairy-free baking, such as using dairy-free margarine or coconut oil instead of butter.",
+        "D20:15"
+      ],
+      [
+        "Nate is willing to help anytime Joanna needs baking tips.",
+        "D20:17"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna revises recipes to find comfort and get creative.",
+        "D20:4"
+      ],
+      [
+        "Joanna is experimenting with making dessert recipes yummier and more accessible.",
+        "D20:6"
+      ],
+      [
+        "Joanna is lactose intolerant and is trying out dairy-free options like coconut or almond milk in her dessert recipes.",
+        "D20:10"
+      ],
+      [
+        "Joanna makes desserts that work for everyone's diets, including dairy-free chocolate coconut cupcakes with raspberry frosting.",
+        "D20:10"
+      ],
+      [
+        "Joanna enjoys the company of a fellow chef in the kitchen and believes it brings people together.",
+        "D20:14"
+      ],
+      [
+        "Joanna is curious about more tips for dairy-free baking.",
+        "D20:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

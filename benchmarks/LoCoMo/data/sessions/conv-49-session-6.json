@@ -1,0 +1,163 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-6",
+  "session_number": 6,
+  "session_summary": "Evan and Sam catch up at 4:09 pm on 13 August, 2023. Evan shares about his recent vacation in Canada with his new partner filled with outdoor activities. Sam mentions health struggles. Evan offers support, and they discuss the importance of progress over perfection. Sam shares a motivating quote with Evan. They encourage each other to celebrate small wins. Evan jokes about losing his keys, and Sam talks about an intriguing dream. They exchange good wishes and encouragement, concluding with Evan reminding Sam to get some rest.",
+  "conversation_turns": [
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://lp-cms-production.imgix.net/image_browser/camping-long-range-traverse.jpg"
+      ],
+      "blip_caption": "a photo of a tent pitched up in a grassy field",
+      "query": "canada lake lush greenery hiking biking wilderness",
+      "dia_id": "D6:1",
+      "text": "Hey Sam, long time no talk! Hope you're doing great. I just got back from a rad vacay with my new SO in Canada. Tried some awesome activities too - think hiking, biking... all that cool stuff. We loved exploring the outdoors together, it was so awesome!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D6:2",
+      "text": "Hey Evan! Good to hear from you. Wow, Canada sounds amazing! That photo looks stunning. Wish I could do something like that. Things have been a bit challenging for me lately; some stuff has been hard on my health."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D6:3",
+      "text": "Sorry to hear that things haven't been going well. Dealing with health issues can be tough. Is there anything I can do to help?"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://i.redd.it/u2nyg1ua6nd81.jpg"
+      ],
+      "blip_caption": "a photo of a notepad with a pen and a note",
+      "query": "journal motivational quotes gratitude entries",
+      "dia_id": "D6:4",
+      "text": "Thanks, Evan. Your support means a lot to me. It's tough staying positive, but knowing I have people like you in my corner makes it easier."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D6:5",
+      "text": "Glad to support you, Sam. Surrounding ourselves with people who care is key. What's on that note? A reminder or quote to stay motivated?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D6:6",
+      "text": "Yeah, it's actually a quote that's been helping me stay motivated. It reminds me that progress is more important than perfection. Taking small steps towards a healthier life is still progress."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D6:7",
+      "text": "Cool mindset, Sam! I totally agree, progress over perfection. Mind sharing the quote with me? I would love to get something out of it too."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D6:8",
+      "text": "\"Don't fear it, just take the first step. It's been helping me move forward to healthier habits!\""
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D6:9",
+      "text": "Love the quote, Sam. That mindset really helps me too. Thanks!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D6:10",
+      "text": "You're welcome! Glad it helps. These times can be challenging."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D6:11",
+      "text": "They can be tough, but remember to celebrate the small wins - every step forward counts!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D6:12",
+      "text": "You're absolutely right! Celebrating those small wins is crucial. It's easy to get caught up in the challenges and setbacks, but those little victories are what keep me motivated. Thanks for the reminder, it's much appreciated."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D6:13",
+      "text": "Absolutely, Sam. Remember, every small victory is a step forward, so keep up the good work! I'm cheering for you! And hey, I could use some cheering too - I've been searching for my keys for the last half hour with no luck! I'm losing it every week.."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D6:14",
+      "text": "Oh, I'll definitely be your cheerleader once I get some sleep, Evan! Funny you mention that, I had this amazing dream last night where I was soaring over skyscrapers. It felt incredible! Makes me wonder what it signifies..."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D6:15",
+      "text": "That does sound like an amazing dream! Maybe you should check out a dream interpretation book; it could offer some insights. Sweet dreams, Sam!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D6:16",
+      "text": "Thanks for the suggestion, Evan. I'll look into it. This journey feels endless at times, but I'm convinced it's going to be rewarding in the end. So good luck with your keys, Evan!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D6:17",
+      "text": "I'll just keep going, step by step, and I'll definitely find those keys!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D6:18",
+      "text": "That's for sure!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D6:19",
+      "text": "Go to bed already, bud! And take care!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan takes a Canadian vacation with his new love where they hiked, biked and explored the outdoors together.",
+      "Evan loses his keys and spends a great deal of time looking for it."
+    ],
+    "Sam": [
+      "Sam has a dream about soaring over skyscrapers."
+    ],
+    "date": "13 August, 2023"
+  },
+  "observations": {
+    "Evan": [
+      [
+        "Evan went on a vacation in Canada with their new significant other where they did activities like hiking and biking.",
+        "D6:1"
+      ],
+      [
+        "Evan values the importance of progress over perfection.",
+        "D6:6"
+      ],
+      [
+        "Evan acknowledges the importance of surrounding oneself with caring people.",
+        "D6:5"
+      ],
+      [
+        "Evan struggles to find his keys frequently and spends time looking for them.",
+        "D6:13"
+      ]
+    ],
+    "Sam": [
+      [
+        "Sam has been facing health challenges recently.",
+        "D6:2"
+      ],
+      [
+        "Sam finds motivation in a quote that emphasizes taking small steps towards a healthier life.",
+        "D6:6"
+      ],
+      [
+        "Sam appreciates small victories and staying motivated amidst challenges and setbacks.",
+        "D6:12"
+      ],
+      [
+        "Sam had an amazing dream where they were soaring over skyscrapers and wants to explore its possible significance.",
+        "D6:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

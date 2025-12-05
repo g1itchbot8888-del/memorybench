@@ -1,0 +1,329 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-8",
+  "session_number": 8,
+  "session_summary": "Caroline and Melanie spoke at 1:51 pm on 15 July, 2023. Melanie mentioned that she took her kids to a pottery workshop and they all made their own pots. Caroline commented on how cute the cup that the kids made was and how she loved seeing kids express their personalities through art. Melanie also mentioned that she and the kids enjoy painting together, particularly nature-inspired paintings. Caroline admired their latest painting and Melanie mentioned that they found lovely flowers to paint. Caroline then shared that she attended a council meeting for adoption, which inspired her to adopt in the future. Melanie complimented a photo of a blue vase that Caroline shared and they discussed the meanings of flowers. Melanie mentioned that flowers remind her of her wedding and Caroline expressed regret for not knowing Melanie back then. Melanie said that her wedding day was full of love and joy and her favorite part was marrying her partner. Caroline then shared a special memory of attending a pride parade and how accepting and happy she felt. They discussed the importance of a supportive community. Caroline mentioned that the best part was realizing she could be herself without fear and having the courage to transition. Melanie expressed admiration for Caroline's courage and the importance of finding peace. Melanie mentioned that her family has been supportive during her move. Caroline commented on",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:1",
+      "text": "Hey Mel, what's up? Been a busy week since we talked."
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNDg2NDgxOTYyMDMtaW1hZ2UuanBn.jpg"
+      ],
+      "blip_caption": "a photography of a group of children making clay sculptures in a classroom",
+      "query": "pottery workshop family making clay pots",
+      "dia_id": "D8:2",
+      "re-download": true,
+      "text": "Hey Caroline, it's been super busy here. So much since we talked! Last Fri I finally took my kids to a pottery workshop. We all made our own pots, it was fun and therapeutic!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:3",
+      "text": "Wow, Mel! Sounds like you and the kids had a blast. How'd they like it?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://monstermonster.shop/cdn/shop/products/mug-class_5000x.jpg"
+      ],
+      "blip_caption": "a photo of a cup with a dog face on it",
+      "query": "kids pottery finished pieces",
+      "dia_id": "D8:4",
+      "text": "The kids loved it! They were so excited to get their hands dirty and make something with clay. It was special to watch their creativity and imagination come to life, they made this!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:5",
+      "text": "Aww, that's so sweet! That cup is so cute. It's awesome to see how kids show their personalities through art. What other creative projects do you do with them, besides pottery?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i.pinimg.com/originals/ea/d9/d7/ead9d79b58ca80a38a744b5ab70482db.jpg"
+      ],
+      "blip_caption": "a photo of a painting of a sunset with a palm tree",
+      "query": "painting vibrant flowers sunset sky",
+      "dia_id": "D8:6",
+      "text": "We love painting together lately, especially nature-inspired ones. Here's our latest work from last weekend."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:7",
+      "text": "Wow Mel, that painting's amazing! The colors are so bold and it really highlights the beauty of nature. Y'all work on it together?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://karengimson.files.wordpress.com/2017/06/img_7222.jpg"
+      ],
+      "blip_caption": "a photo of a field of purple flowers with green leaves",
+      "query": "path lined purple flowers nature",
+      "dia_id": "D8:8",
+      "text": "Thanks, Caroline! We both helped with the painting - it was great bonding over it and chatting about nature. We found these lovely flowers. Appreciating the small things in life, too."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:9",
+      "text": "That photo is stunning! So glad you bonded over our love of nature. Last Friday I went to a council meeting for adoption. It was inspiring and emotional - so many people wanted to create loving homes for children in need. It made me even more determined to adopt."
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://assets.eflorist.com/assets/products/PHR_/TEV57-5A.jpg"
+      ],
+      "blip_caption": "a photo of a blue vase with a bouquet of sunflowers and roses",
+      "query": "sunflower bouquet",
+      "dia_id": "D8:10",
+      "text": "Wow, Caroline, way to go! Your future fam will get a kick out of having you. What do you think of these?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:11",
+      "text": "Thanks Melanie - love the blue vase in the pic! Blue's my fave, it makes me feel relaxed. Sunflowers mean warmth and happiness, right? While roses stand for love and beauty? That's neat. What do flowers mean to you?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://blueblossomrentals.com/cdn/shop/products/image_909fb96b-4208-429b-9a6f-59dffa3cb546.jpg"
+      ],
+      "blip_caption": "a photo of a row of white chairs with flowers on them",
+      "query": "garden full of flowers wedding decorations",
+      "dia_id": "D8:12",
+      "text": "Flowers bring joy. They represent growth, beauty and reminding us to appreciate the small moments. They were an important part of my wedding decor and always remind me of that day."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:13",
+      "text": "It must have been special at your wedding. I wish I had known you back then!"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://platinumnotary.files.wordpress.com/2023/03/img-6679.jpg"
+      ],
+      "blip_caption": "a photo of a wedding ceremony in a greenhouse with people taking pictures",
+      "query": "wedding ceremony",
+      "dia_id": "D8:14",
+      "text": "It was amazing, Caroline. The day was full of love and joy. Everyone we love was there to celebrate us - it was really special."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:15",
+      "text": "Wow, what a great day! Glad everyone could make it. What was your favorite part?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://s3-us-west-2.amazonaws.com/amm-prod/wedding_photos/photos/000/024/198/original/4B873921-0596-4A6B-8CD8-C6E5C2B024AF.png"
+      ],
+      "blip_caption": "a photo of a man and woman standing on a beach",
+      "query": "vows partner holding hands ceremony",
+      "dia_id": "D8:16",
+      "text": "Marrying my partner and promising to be together forever was the best part."
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/dfc95f14-b325-431c-b977-5b6dc2d35f9c.jpg"
+      ],
+      "blip_caption": "a photo of a parade with people walking down the street",
+      "query": "rainbow flag pride march",
+      "dia_id": "D8:17",
+      "text": "Wow, nice pic! You both looked amazing. One special memory for me was this pride parade I went to a few weeks ago."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D8:18",
+      "text": "Wow, looks awesome! Did you join in?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "http://ninalemsparty.com/cdn/shop/collections/iStock-1292280203.jpg"
+      ],
+      "blip_caption": "a photo of a group of people holding up signs and smiling",
+      "query": "lgbtq+ pride parade vibrant flags smiling faces",
+      "dia_id": "D8:19",
+      "text": "Yes, I did. It was amazing! I felt so accepted and happy, just being around people who accepted and celebrated me. It's definitely a top memory."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D8:20",
+      "text": "Wow, what an experience! How did it make you feel?"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a rainbow flag on a pole on a carpet",
+      "dia_id": "D8:21",
+      "text": "I felt so proud and grateful - the vibes were amazing and it was comforting to know I'm not alone and have a great community around me."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D8:22",
+      "text": "Wow, Caroline! That's huge! How did it feel to be around so much love and acceptance?"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a group of people sitting on the ground with a dog",
+      "dia_id": "D8:23",
+      "text": "It was awesome, Melanie! Being around people who embrace and back me up is beyond words. It really inspired me."
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a girl sitting in a teepee with stuffed animals",
+      "dia_id": "D8:24",
+      "text": "Wow, that sounds awesome! Your friends and community really have your back. What's been the best part of it?"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a teepee with a teddy bear and pillows",
+      "dia_id": "D8:25",
+      "text": "Realizing I can be me without fear and having the courage to transition was the best part. It's so freeing to express myself authentically and have people back me up."
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a buddha statue and a candle on a table",
+      "dia_id": "D8:26",
+      "text": "That's awesome, Caro! You've found the courage to be yourself - that's important for our mental health and finding peace."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:27",
+      "text": "Thanks, Melanie! Been a long road, but I'm proud of how far I've come. How're you doing finding peace?"
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a man holding a frisbee in front of a frisbee golf basket",
+      "dia_id": "D8:28",
+      "text": "I'm getting there, Caroline. Creativity and family keep me at peace."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:29",
+      "text": "That's awesome, Melanie! How have your family been supportive during your move?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D8:30",
+      "text": "My fam's been awesome - they helped out and showed lots of love and support."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:31",
+      "text": "Wow, Mel, family love and support is the best!"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "http://cragmama.com/wp-content/uploads//2016/10/IMG_4568.jpg"
+      ],
+      "blip_caption": "a photo of a man and two children sitting around a campfire",
+      "query": "family camping trip roasting marshmallows campfire",
+      "dia_id": "D8:32",
+      "text": "Yeah, Caroline, my family's been great - their love and support really helped me through tough times. It's awesome! We even went on another camping trip in the forest."
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a family walking through a forest with a toddler",
+      "dia_id": "D8:33",
+      "text": "Awesome, Mel! Family support's huge. What else do you guys like doing together?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D8:34",
+      "text": "We enjoy hiking in the mountains and exploring forests. It's a cool way to connect with nature and each other."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:35",
+      "text": "Wow, Mel, that sounds awesome! Exploring nature and family time is so special."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D8:36",
+      "text": "Yeah, Caroline, they're some of my fave memories. It brings us together and brings us happiness. Glad you're here to share in it."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:37",
+      "text": "Thanks, Melanie! Really glad to have you as a friend to share my journey. You're awesome!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D8:38",
+      "text": "Thanks, Caroline! Appreciate your friendship. It's great to have a supporter!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D8:39",
+      "text": "No worries, Mel! Your friendship means so much to me. Enjoy your day!"
+    }
+  ],
+  "events": {
+    "Caroline": [
+      "Caroline attends an adoption council meeting."
+    ],
+    "Melanie": [],
+    "date": "15 July, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline attended a council meeting for adoption last Friday and found it inspiring and emotional.",
+        "D8:9"
+      ],
+      [
+        "Caroline went to a pride parade a few weeks ago and felt accepted and happy being around people who celebrated her.",
+        "D8:19"
+      ],
+      [
+        "Caroline felt proud and grateful at the pride parade feeling accepted by the community.",
+        "D8:21"
+      ],
+      [
+        "Caroline expressed feeling comforted by being around accepting and loving people.",
+        "D8:21"
+      ],
+      [
+        "Caroline mentioned the importance of finding peace and mental health through expressions of authentic self.",
+        "D8:25"
+      ],
+      [
+        "Caroline expressed pride in the courage to transition, finding freedom in expressing herself authentically.",
+        "D8:25"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie took her kids to a pottery workshop last Friday where they made their own pots.",
+        "D8:2"
+      ],
+      [
+        "Melanie and her kids enjoy nature-inspired painting projects.",
+        "D8:6"
+      ],
+      [
+        "Melanie's favorite part of her wedding was marrying her partner and promising to be together forever.",
+        "D8:16"
+      ],
+      [
+        "Melanie finds joy in flowers which represent growth, beauty, and appreciating small moments.",
+        "D8:12"
+      ],
+      [
+        "Melanie shared that family and creativity keep her at peace.",
+        "D8:28"
+      ],
+      [
+        "Melanie's family has been supportive and loving during tough times and helped her through.",
+        "D8:32"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

@@ -1,0 +1,138 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-18",
+  "session_number": 18,
+  "session_summary": "Calvin and Dave talked on 13 September at 10:56 am. Calvin's album released on the 11th, getting positive feedback and motivating him to create more music. Dave congratulated Calvin, discussing the impact of his work, inspiring Calvin to chase his dreams. Calvin shared his upcoming tour plans and dream to reach more people. Dave offered to show Calvin his garage someday. They ended the conversation with well wishes and plans to meet in Boston.",
+  "conversation_turns": [
+    {
+      "speaker": "Calvin",
+      "dia_id": "D18:1",
+      "text": "Hey Dave! Sorry it took me so long to get back to you. Crazy times since we talked! My album finally dropped on the 11th and it was a wild feeling. Everyone's been loving it and it's motivated me to keep going."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D18:2",
+      "text": "Hey Calvin! Congrats on your album release - that's awesome! Has it been overwhelming or inspiring?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D18:3",
+      "text": "Thanks, Dave! It's been a lot. Seeing everyone get behind it has been awesome. It's kinda overwhelming to think so many appreciate it. It's also cool that it's connecting with people. It really motivates me to make even better music."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D18:4",
+      "text": "That's awesome, Calvin! It's such a great feeling when your work gets noticed and makes a positive difference. It must be really motivating for you to keep chasing your dreams."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D18:5",
+      "text": "Yeah, moments like this remind me why I got into music - making a difference and sharing my own story. It's exciting to get positive feedback and it gives me strength to keep going and reach more people. My journey's just getting started!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D18:6",
+      "text": "Wow, Calvin! You've come a long way since we started talking music. What's next for you? Anything exciting coming up?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D18:7",
+      "text": "Thanks Dave! Lots of cool stuff happening. Next up, a tour - so excited! After that, I'm off to explore and grow my brand. Can't wait to see what the future has in store!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D18:8",
+      "text": "Wow, Calvin! Congrats on the upcoming tour! Can't wait to see you perform. Do you have any cities or venues in mind?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D18:9",
+      "text": "Yay! Dave! We're hitting some awesome spots - it's gonna be epic!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D18:10",
+      "text": "That sounds awesome, Calvin! Live music is the best. I'm sure you're gonna have a blast on tour and make some awesome memories. If you ever want to check out my garage and see some cool cars, I'd love to show you around. Keep rockin'!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D18:11",
+      "text": "Thanks, Dave! I'll definitely take you up on that offer. It would be fun to check out your garage and maybe even get some ideas for future projects. I'll let you know when I'm in Boston. Keep pursuing your passions and keep those cars rolling. You rock!"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://d2dsc1gf0t80gb.cloudfront.net/wp-content/uploads/2017/06/07180008/RobShingleGarage-11-1000x750.jpg"
+      ],
+      "blip_caption": "a photo of a car in a garage with a coca cola sign",
+      "query": "garage vintage cars",
+      "dia_id": "D18:12",
+      "re-download": true,
+      "text": "Thanks, Calvin! Appreciate the kind words and support. Can't wait for your visit! Take care and keep creating amazing music! Check out pic of my garage, it looks stunning!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D18:13",
+      "text": "Thanks! I can't wait for your visit either. Take care and keep enjoying your hobbies!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D18:14",
+      "text": "Sure thing! Thanks again for your help. Bye! Have a great day."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D18:15",
+      "text": "No problem! Always good chatting with you. Have an awesome day!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D18:16",
+      "text": "Thanks, Calvin! Catch you later. Have a great day!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin launches his new album on September 11, 2023 which receives great response from the audience.",
+      "Calvin prepares for his next tour."
+    ],
+    "Dave": [],
+    "date": "13 September, 2023"
+  },
+  "observations": {
+    "Calvin": [
+      [
+        "Calvin released his album on the 11th of September, which received positive feedback and motivated him to make even better music.",
+        "D18:1"
+      ],
+      [
+        "Calvin is excited about going on a tour and growing his brand.",
+        "D18:7"
+      ],
+      [
+        "Calvin appreciates positive feedback and views it as a motivation to reach more people with his music.",
+        "D18:5"
+      ],
+      [
+        "Calvin values making a difference and sharing his own story through music.",
+        "D18:5"
+      ]
+    ],
+    "Dave": [
+      [
+        "Dave offered Calvin to check out his garage and see some cool cars when Calvin is in Boston.",
+        "D18:10"
+      ],
+      [
+        "Dave appreciates Calvin's music and is excited for his tour.",
+        "D18:6"
+      ],
+      [
+        "Dave is supportive and encouraging of Calvin's music career.",
+        "D18:4"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

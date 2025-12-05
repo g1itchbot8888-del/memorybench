@@ -1,0 +1,155 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-15",
+  "session_number": 15,
+  "session_summary": "On August 22, 2023, at 11:06 am, Dave and Calvin caught up after a while. Dave shared about his fun card night with friends, while Calvin excitedly revealed his ongoing collaboration with Frank Ocean. Calvin met Frank Ocean at a music festival in Tokyo, and they even recorded a song together. Calvin described the festival in Tokyo as an amazing experience that fueled his soul, with a lively crowd. He also mentioned another collaboration that stemmed from his performance there. Calvin's upcoming tour includes a stop in Boston, where he planned to meet up with Dave. Calvin also mentioned recording a podcast with friends about the rap industry. Dave expressed interest in the podcast and looked forward to catching up and learning more.",
+  "conversation_turns": [
+    {
+      "speaker": "Dave",
+      "dia_id": "D15:1",
+      "img_url": [
+        "https://live.staticflickr.com/189/516664633_81fce2dc06_b.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a group of men sitting at a table with playing cards",
+      "text": "Hey Calvin! Haven't talked in a while! Last Friday I had a card-night with my friends, it was so much fun. We laughed and had a great time! Take a look at the photo!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D15:2",
+      "text": "Hey Dave! Great to hear from you, card night sounds like a blast! Always love having fun with friends. Guess what? I scored a deal to continue collaboration with Frank Ocean! This is a dream come true for me, I've been working hard and it's finally paying off. No words can describe how happy I am."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D15:3",
+      "text": "Wow Calvin, congrats! Super excited for you. How did this chance come up?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D15:4",
+      "text": "Thanks, Dave! I had the opportunity to meet Frank Ocean at a music festival in Tokyo and we clicked. We've been speaking and sharing ideas we arranged a meeting and recorded a song in the studio at my mansion - it's been great!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D15:5",
+      "text": "Wow, Tokyo sounds like an incredible experience!"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.redd.it/clg582472ta91.jpg"
+      ],
+      "blip_caption": "a photo of a crowd of people sitting on the grass at night",
+      "query": "city festival crowd energy vibe",
+      "dia_id": "D15:6",
+      "text": "It was an incredible experience, Dave! The city was buzzing with energy and the festival crowd was so lively - it was like fuel for my soul. Look at this photo, that's amazing!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D15:7",
+      "text": "Wow, that sounds incredible! What was it like playing at the festival? Must have been an amazing experience."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D15:8",
+      "text": "It was a dream come true, Dave! The festival had buzzing energy and a super upbeat crowd. We all felt connected, it was amazing!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D15:9",
+      "text": "Sounds like you had a blast! Did any other collaborations come out of that performance? Any upcoming concerts we should know about?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D15:10",
+      "text": "Yeah Dave, someone even noticed my performance and now we're working together, which is wild. My tour ends soon and I'm heading to Boston. Maybe we can meet up then!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D15:11",
+      "text": "Sounds great! Fill me in on the details when you have them and let's meet up when you're here. Can't wait to hear all about everything!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D15:12",
+      "text": "Of course, Dave can't wait to catch up! I almost forgot, yesterday my friends and I recorded a podcast where we discuss the rapidly evolving rap industry!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D15:13",
+      "text": "That sounds fantastic! I'm looking forward to listening to your podcast and learning more about the rap industry. Keep up the great work!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D15:14",
+      "text": "I'll let you know when the podcast will be uploaded. Take care!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D15:15",
+      "text": "Sure, Calvin! Looking forward to hearing about it. See ya then!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin secures a deal for continuation of collaboration with Frank Ocean.",
+      "Calvin records a podcast with some of his friends from the rap industry."
+    ],
+    "Dave": [
+      "Dave hosts a card-playing night with his friends."
+    ],
+    "date": "22 August, 2023"
+  },
+  "observations": {
+    "Dave": [
+      [
+        "Dave had a card night with friends last Friday and enjoyed it a lot.",
+        "D15:1"
+      ],
+      [
+        "Dave expressed excitement about Calvin continuing collaboration with Frank Ocean.",
+        "D15:2"
+      ],
+      [
+        "Dave commented on the opportunity Calvin had to meet Frank Ocean at a music festival in Tokyo.",
+        "D15:4"
+      ],
+      [
+        "Dave found Tokyo to be an incredible experience based on Calvin's description.",
+        "D15:5"
+      ],
+      [
+        "Dave was interested in hearing more about Calvin's collaborations and upcoming concerts.",
+        "D15:9"
+      ],
+      [
+        "Dave expressed anticipation for listening to Calvin's podcast about the rap industry.",
+        "D15:13"
+      ]
+    ],
+    "Calvin": [
+      [
+        "Calvin scored a deal to continue collaboration with Frank Ocean.",
+        "D15:2"
+      ],
+      [
+        "Calvin met Frank Ocean at a music festival in Tokyo where they clicked and recorded a song together.",
+        "D15:4"
+      ],
+      [
+        "Calvin described Tokyo as buzzing with energy and the festival crowd as lively.",
+        "D15:6"
+      ],
+      [
+        "Calvin's tour is ending soon and he is heading to Boston.",
+        "D15:10"
+      ],
+      [
+        "Calvin and friends recorded a podcast discussing the rapidly evolving rap industry.",
+        "D15:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

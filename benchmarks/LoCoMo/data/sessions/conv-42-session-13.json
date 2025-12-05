@@ -1,0 +1,192 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-13",
+  "session_number": 13,
+  "session_summary": "At 3:00 pm on 25 May 2022, Nate and Joanna caught up after a long time. Nate shared his encounter with a friendly couple during a walk with his dog, leading to plans for doggy playdates. Joanna expressed how uplifting connecting with other pet owners can be. They discussed the joy of watching their pets play and the importance of finding happiness in small things. Nate gifted Joanna a stuffed animal to bring her joy. They agreed that cherishing happy moments is crucial, especially during tough times. Joanna mentioned her screenplay and the role of joyful moments in making the journey worthwhile. Nate offered support and encouragement, emphasizing the importance of enjoying the journey and staying focused on dreams. Joanna valued Nate's support and promised to keep him updated on her progress.",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:1",
+      "text": "Hey Jo! Been ages since we last talked. Here's something cool that happened the other day - I took Max for a walk and ran into this super nice couple who had a dog. It turns out they live close by. We decided to do doggy playdates, which is awesome considering we all need friends for our pets."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:2",
+      "text": "Hey Nate! Great to hear from you. Sounds like a nice encounter on your walk. Connecting with others who have pets can be uplifting and rewarding."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:3",
+      "text": "It's like fate. Having a walking buddy forMax will be great. He really likes the other dog too!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:4",
+      "text": "Awesome! Did you get to know the couple very well? What were they like?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:5",
+      "text": "They actually didn't share a whole lot in common with me besides the love of animals, but I think that was all we needed to share in common to be good friends!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:6",
+      "text": "That's really cool that you can just go out and meet people like that, keep it up Nate!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:7",
+      "text": "Thanks! I just really enjoy watching our pets play with one another. Its like a dream come true seeing my dog so happy."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:8",
+      "text": "I can see why having a peaceful presence around could help relieve stress. Having someone or something to come home to for a sense of calm would be helpful for relaxation."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/usll6z99c2tb1.jpg"
+      ],
+      "blip_caption": "a photo of a stuffed animal laying on a bed",
+      "query": "dog cozy blanket toy",
+      "dia_id": "D13:9",
+      "text": "Yep, Joanna. It's great! Looky here, I got this new pup for you!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:10",
+      "text": "Awww! It's so cute! I love the thought Nate!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:11",
+      "text": "Thanks! It's a stuffed animal to remind you of the good vibes."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:12",
+      "text": "That's so sweet! I'll cherish that little guy with all my heart!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:13",
+      "text": "Yeah! It's like having joy in your pocket. It always makes me grin when I look at it."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:14",
+      "text": "That's great, Nate! Appreciate the small joys like that cute stuffed animal. It's a nice reminder!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:15",
+      "text": "Agreed, those little things sure do make life better!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:16",
+      "text": "I'll always remember those moments that bring us happiness and remind us that life is great!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:17",
+      "text": "Sure, Joanna! It's all about finding those little things and cherishing them, otherwise it's easy to get down!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:18",
+      "text": "Thinking back to the tough times finishing my screenplay made me realize it's those moments that bring joy and make the journey worth it."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:19",
+      "text": "Yeah, those little moments make it all worth it, especially during tough times. Enjoying the ride is key."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:20",
+      "text": "Appreciating the journey and being aware of those happy moments can be a game-changer! It keeps us focused on our dreams. Can't wait to show it to you. I value your opinion!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:21",
+      "text": "Can't wait to see it, Joanna! I'm here to support you."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D13:22",
+      "text": "Thanks, Nate! Your support is greatly appreciated. I'll make sure to keep you updated."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D13:23",
+      "text": "No worries! You've got this. Keep it up!"
+    }
+  ],
+  "events": {
+    "Joanna": [],
+    "Nate": [
+      "Nate finds a companion for Max among his neighbors.",
+      "Nate gets a stuffed toy pup for Joanna since she is allergic to animals with fur and cannot have real animals as pets."
+    ],
+    "date": "25 May, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate has a dog named Max that he enjoys taking for walks.",
+        "D13:1"
+      ],
+      [
+        "Nate met a super nice couple with a dog during a walk and decided to do doggy playdates with them.",
+        "D13:1"
+      ],
+      [
+        "Nate enjoys watching his dog play with other pets and finds joy in seeing his dog happy.",
+        "D13:7"
+      ],
+      [
+        "Nate gifted Joanna a stuffed animal to remind her of good vibes.",
+        "D13:9"
+      ],
+      [
+        "Nate believes in appreciating the little things in life that make it better.",
+        "D13:15"
+      ],
+      [
+        "Nate is supportive of Joanna and expresses his support for her screenplay.",
+        "D13:21"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna values the moments that bring happiness and remind her that life is great.",
+        "D13:16"
+      ],
+      [
+        "Joanna finds having a peaceful presence or something to come home to for a sense of calm helpful for relaxation.",
+        "D13:8"
+      ],
+      [
+        "Joanna cherishes the stuffed animal gifted to her by Nate with all her heart.",
+        "D13:12"
+      ],
+      [
+        "Joanna reflects on the tough times finishing her screenplay and realizes that the joyful moments make the journey worth it.",
+        "D13:18"
+      ],
+      [
+        "Joanna values Nate's opinion and looks forward to showing him something.",
+        "D13:20"
+      ],
+      [
+        "Joanna appreciates Nate's support and expresses her gratitude for it.",
+        "D13:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

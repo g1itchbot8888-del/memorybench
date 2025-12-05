@@ -1,0 +1,184 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-16",
+  "session_number": 16,
+  "session_summary": "On August 1, 2023, at 9:26 am, Deborah informed Jolene about her community cleanup project and how everyone was coming together for it. Jolene shared her recent setback in a project. Deborah offered support and asked about Jolene's coping mechanisms, which included her pet Susie, video games, and Deborah showed understanding about the comfort pets can bring during tough times. Jolene mentioned adopting Susie two years ago for companionship. Deborah encouraged Jolene to find strength in her pet and cherish the moments together. They discussed self-care, with Jolene mentioning yoga and meditation. Deborah suggested some yoga routines and shared a tutorial video for a gentle flow to help find balance. Jolene expressed eagerness to try it out and mentioned staying in touch to share updates. They ended the conversation planning to chat later.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "dia_id": "D16:1",
+      "text": "Hey Jolene! Great news - I just started a project for a cleanup in our community and have been trying to raise funds for it. It's been amazing to see everyone come together to make a difference. How've you been? Anything new going on?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D16:2",
+      "text": "Hey Debs! Congrats on your project for the community! As for me, life's been a rollercoaster lately. Last week, I had a huge setback with my project. I put in so much work and it all crashed and I lost everything. SO frustrating and depressing."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D16:3",
+      "text": "Jolene, sorry to hear that. It must be really tough. I'm here for you and if I can do anything, just let me know. Is there anything that's helping you cope?"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/0uzy21np69b51.jpg"
+      ],
+      "blip_caption": "a photo of a man holding a snake on his arm",
+      "query": "pet snake curled up on arm",
+      "dia_id": "D16:4",
+      "text": "Your support means a lot. Susie really helps when times get tough. Pets have been great company. Video games have also been a nice distraction."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D16:5",
+      "text": "They can really provide love and comfort, especially during tough times. How did you come to have Susie?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D16:6",
+      "text": "I adopted her two years ago when I was feeling lonely and wanted some company."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D16:7",
+      "text": "That's great, Jolene! Animals sure have a way of bringing us happiness. They understand us and provide us with comfort. Plus, having a pet teaches us responsibility. She came at the perfect time - cherish those moments with her and find strength in her presence."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D16:8",
+      "text": "Thanks Deborah. Having her around shows me I can stay strong and find joy in the small stuff."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D16:9",
+      "text": "Enjoying the little things is key. Those little moments can give us a boost and push us forward. How have you been taking care of yourself lately?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D16:10",
+      "text": "I'm trying to prioritize self-care, like yoga and meditation. It helps me stay balanced and grounded."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D16:11",
+      "text": " If you're interested, I can suggest some routines for you to try."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D16:12",
+      "text": " I'm always on the lookout for new routines to mix things up."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://res.cloudinary.com/peerspace-inc/image/upload/q_80,c_crop,g_custom/w_2048/awuqrhwdbakdu4eeyll1.jpg"
+      ],
+      "blip_caption": "a photo of a room with a lot of yoga mats on the floor",
+      "query": "yoga studio tranquility",
+      "dia_id": "D16:13",
+      "text": "In the meantime, check out this great place for yoga."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D16:14",
+      "text": "This room looks perfect for it. Do you have any favorite routines you can share?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://kathsdruyoga.files.wordpress.com/2020/04/img_5644.jpg"
+      ],
+      "blip_caption": "a photo of a woman in a pink shirt doing a yoga pose",
+      "query": "gentle flow yoga routine breathing grounding",
+      "dia_id": "D16:15",
+      "text": "One of my favorite yoga routines is a gentle flow that's all about breathing and grounding. It helps me find my chill. I'll send you a tutorial video with the poses. This is me in the process :)"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D16:16",
+      "text": "Wow! Does that help you find your chill or improve your concentration?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D16:17",
+      "text": "It's a great way to find balance in tough times. Try it out and let me know what you think!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D16:18",
+      "text": "Can't wait to try it out. Let's chat soon!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D16:19",
+      "text": "Let me know how it goes. Talk to you later!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D16:20",
+      "text": "Yep, I'll practice and update you. Bye!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah starts a new project of raising funds for a clean-up drive in her community."
+    ],
+    "Jolene": [
+      "Jolene loses all her work when her device crashes."
+    ],
+    "date": "1 August, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah started a project for a community cleanup and is raising funds for it.",
+        "D16:1"
+      ],
+      [
+        "Deborah offered support and help to Jolene when she faced a setback in her project.",
+        "D16:3"
+      ],
+      [
+        "Deborah mentioned pets as a source of love and comfort during tough times.",
+        "D16:5"
+      ],
+      [
+        "Deborah recommended self-care routines like yoga to Jolene to stay balanced and grounded.",
+        "D16:9"
+      ],
+      [
+        "Deborah shared her favorite gentle yoga flow routine focused on breathing and grounding to find chill.",
+        "D16:15"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene has faced a huge setback in her project recently, causing frustration and depression.",
+        "D16:2"
+      ],
+      [
+        "Jolene finds comfort and distraction through her pet Susie and video games during tough times.",
+        "D16:4"
+      ],
+      [
+        "Jolene adopted Susie two years ago when feeling lonely.",
+        "D16:6"
+      ],
+      [
+        "Jolene practices self-care through yoga and meditation to stay balanced and grounded.",
+        "D16:10"
+      ],
+      [
+        "Jolene expressed interest in new routines to mix things up for self-care.",
+        "D16:12"
+      ],
+      [
+        "Jolene looks forward to trying out Deborah's favorite gentle flow yoga routine to find chill.",
+        "D16:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

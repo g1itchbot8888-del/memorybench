@@ -1,0 +1,159 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-5",
+  "session_number": 5,
+  "session_summary": "Tim and John spoke at 10:29 am on 9 August, 2023. Tim mentioned reconnecting with a Harry Potter fan and discussing collaboration. John shared about winning a close game and feeling the adrenaline rush. They talked about the importance of a supportive team and discussed Tim's current fantasy book by Patrick Rothfuss. John agreed to read it and they ended the conversation with plans to chat soon.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:1",
+      "text": "Hey John! Long time no see! Been super busy lately. Guess what? Just skyped with that Harry Potter fan I met in CA and had a great time. We talked characters and maybe collab-ing - so cool to talk to someone who gets it. You? Anything new going on?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i0.wp.com/thepirateshook.com/wp-content/uploads/2022/11/img_7438-edited.jpg"
+      ],
+      "blip_caption": "a photo of a basketball game being played in a large arena",
+      "query": "intense game basketball winning shot crowd",
+      "dia_id": "D5:2",
+      "text": "Hi Tim! Nice to hear from you. Glad you could reconnect. As for me, lots of stuff happened since we last talked. Last week I had a crazy game - crazy intense! We won it by a tight score. Scoring that last basket and hearing the crowd cheer was awesome!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:3",
+      "text": "Nice work! Bet it felt awesome to score that basket and have the crowd going wild. Must have been such an adrenaline rush! Did you manage to capture any other photos from the game?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:4",
+      "text": "Thanks! It was an amazing rush and just the one I showed you. We were so hyped!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:5",
+      "text": "Awesome! Winning a tough game must have been such an exhilarating experience!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:6",
+      "text": "Our team bond is awesome and it makes all the hard work worth it."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:7",
+      "text": "It's incredible how a team creates such strong ties. Having support like that is so important."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:8",
+      "text": "Thanks! You nailed it! Having a strong team/support is key - it's like a family away from home. We push each other to improve, and I'm so thankful for them."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:9",
+      "text": "That's great! Having a supportive team who are like family is awesome. Having people who motivate you and stick by you is priceless."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:10",
+      "text": "Definitely! They encourage me when I'm down too. It's not just in my sport, but in other aspects of life too. We hang out a lot and it's great having that bond."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:11",
+      "text": "Yeah, having another family is great. It definitely helps with my home life and hobbies."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:12",
+      "text": "Having someone to support and motivate you is so important, whether it's in sports or any other aspect of life. I know you've found your peace in reading fantasy books - that's amazing! What book are you currently reading? Anything that has stood out to you?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:13",
+      "text": "Thanks for asking! I'm reading a fantasy book that really captivates me. It takes me to another world where I'm on the edge of my seat and my imagination soars. It's amazing how books can transport us like that."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:14",
+      "text": "Books can be so captivating, taking us on such incredible journeys! What's the name of it?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:15",
+      "text": "It's a book by Patrick Rothfuss and it's awesome! The way the author builds the world and characters is amazing. You should read it!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:16",
+      "text": "Sounds cool! I'll definitely check it out. Thanks for the recommendation!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:17",
+      "text": "No problem! Let me know what you think after you read it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:18",
+      "text": "Yep, I'll let you know once I'm done reading it. Thanks!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D5:19",
+      "text": "I hope you like it. Chat soon!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:20",
+      "text": "Me too. Talk to you soon!"
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim skypes with the Harry Potter fan he met in California to discuss future collaborations.",
+      "Tim starts reading the book, The Name of the Wind, by Patrick Rothfuss."
+    ],
+    "John": [
+      "John has an intense game at Seattle followed by an exhilarating win."
+    ],
+    "date": "9 August, 2023"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim recently skyped with a Harry Potter fan he met in CA and discussed collab-ing.",
+        "D5:1"
+      ],
+      [
+        "Tim enjoys reading fantasy books that captivate him and take him to another world.",
+        "D5:13"
+      ],
+      [
+        "Tim is currently reading a fantasy book by Patrick Rothfuss which he finds awesome.",
+        "D5:15"
+      ]
+    ],
+    "John": [
+      [
+        "John had a crazy intense game last week which his team won by a tight score, and scoring the last basket was an awesome experience for him.",
+        "D5:2"
+      ],
+      [
+        "John feels that the team bond is awesome and makes all the hard work worth it.",
+        "D5:6"
+      ],
+      [
+        "John emphasizes the importance of having a strong team/support which is like a family away from home.",
+        "D5:8"
+      ],
+      [
+        "John is currently reading a fantasy book recommended by Tim and plans to let him know his thoughts after reading it.",
+        "D5:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

@@ -1,0 +1,145 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-10",
+  "session_number": 10,
+  "session_summary": "Jon informed Gina about his experience at a fair displaying his studio, emphasizing the challenges and rewards of his business. Gina congratulated Jon, mentioning her own online clothing store after losing her job. Jon sought advice on staying motivated during tough times and boosting confidence. Gina advised focusing on the big goal, seeking support, recalling successes, and staying passionate. Jon appreciated the guidance and resolved to maintain confidence in pursuing his dreams. The conversation between Jon and Gina depicted mutual support, encouragement, and determination to overcome obstacles and achieve success.",
+  "conversation_turns": [
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://www.samfsn.org/images/samsfn-events/WNYD2.jpg"
+      ],
+      "blip_caption": "a photo of a group of women performing a dance on a stage",
+      "query": "fair booth flyers brochures dance studio",
+      "dia_id": "D10:1",
+      "text": "Hi Gina! I just wanted to fill you in on my business. Yesterday, I went to a fair to show off my studio, it was both stressful and great! I got some possible leads, so that was awesome. But overall, I've learned that this biz is no cakewalk and having confidence in yourself is important for making it successful!"
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+      ],
+      "blip_caption": "a photography of a laptop with a sale ad on the screen",
+      "query": "clothing store website",
+      "dia_id": "D10:2",
+      "re-download": true,
+      "text": "Hey Jon, congrats on the fair! It's awesome to see your hard work paying off. Keep on pushing, pal, you're headed for greatness. Oh, and BTW, I started my own online clothing store not so long ago - pretty cool, huh?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D10:3",
+      "text": "Thanks, Gina! Appreciate your support. Your store looks great, I remember it!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D10:4",
+      "text": "Thanks, Jon! After losing my job, I wanted to take control of my own destiny and this seemed like the perfect way to do it. It's been a tough journey, but very rewarding."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D10:5",
+      "text": "Wow, you're awesome for going for it! Setbacks can help us reach our potential, right? I'm having trouble with my business project. Any advice on staying motivated even when times are tough?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D10:6",
+      "text": "Yeah Jon! Challenges are awesome for learning and growth. To stay motivated, I think of the big goal and why I'm doing it. I also get help from people who support me. And of course, I dance it out. Do you need advice on anything in particular?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D10:7",
+      "text": "I've been feeling kinda low on confidence lately. It's hard to run a business when you don't have faith in yourself. Any tips on how you stay confident in your business?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D10:8",
+      "text": "I get it, Jon. Confidence is important in business. I stay motivated by reminding myself of my successes and progress. It also helps to have a good support system. Just focus on why you started this – because you love it! Have faith in yourself, Jon. I do!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D10:9",
+      "text": "Thanks! Your words mean a lot. Gotta focus on success and why I started. You're right, I love it and that'll keep my confidence up."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D10:10",
+      "text": "No worries, Jon! Sounds like what I said was helpful. You're incredibly talented and passionate about dance. Don't forget, believe in yourself and your abilities. Tackle any obstacle that comes your way and keep shining!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D10:11",
+      "text": "Thanks! Your support means a lot. I'm gonna keep going and reach my dreams no matter what."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D10:12",
+      "text": "Go for it, Jon! You got this! Don't let anything stop you. We're in this together!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D10:13",
+      "text": "Appreciate your encouragement. We'll keep pushing each other on this path."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D10:14",
+      "text": "Yeah! Let's keep each other going. We can do it!"
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon visits a fair to get more exposure for his dance studio.",
+      "Jon begins to understand the importance of confidence in running a successful business."
+    ],
+    "Gina": [],
+    "date": "25 April, 2023"
+  },
+  "observations": {
+    "Jon": [
+      [
+        "Jon has a studio business that he showed off at a fair recently.",
+        "D10:1"
+      ],
+      [
+        "Jon considers having confidence in oneself important for business success.",
+        "D10:1"
+      ],
+      [
+        "Jon is having trouble with his business project and seeks advice on staying motivated.",
+        "D10:5"
+      ],
+      [
+        "Jon is feeling low on confidence lately and seeks advice from Gina on staying confident in business.",
+        "D10:7"
+      ],
+      [
+        "Jon is talented and passionate about dance, as per Gina's encouragement.",
+        "D10:10"
+      ]
+    ],
+    "Gina": [
+      [
+        "Gina started her own online clothing store after losing her job to take control of her destiny.",
+        "D10:2"
+      ],
+      [
+        "Gina finds setbacks tough but rewarding for growth.",
+        "D10:4"
+      ],
+      [
+        "Gina advises Jon to focus on the big goal, get support, and dance it out to stay motivated during tough times in business.",
+        "D10:6"
+      ],
+      [
+        "Gina gives Jon tips to stay confident in business by reminding of successes and progress, having a good support system, and having faith in oneself.",
+        "D10:8"
+      ],
+      [
+        "Gina encourages Jon to believe in himself, tackle obstacles, and keep shining in pursuing his dreams.",
+        "D10:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

@@ -1,0 +1,183 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-1",
+  "session_number": 1,
+  "session_summary": "At 1:10 pm on 27 March 2023, Audrey and Andrew caught up. Andrew shared about his new job as a Financial Analyst, whereas Audrey talked about getting new collars for her dogs named Pepper, Precious, and Panda that she has had for 3 years. The dogs, city dwellers, go on adventures exploring parks and trails together. Andrew loves animals, particularly birds, with a fascination for eagles. He recommended the Fox Hollow trail for hiking to Audrey, who planned to give it a try. They bid goodbye, wishing each other well.",
+  "conversation_turns": [
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:1",
+      "text": "Hey Andrew! Good to see ya! What's been up since we last talked?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:2",
+      "text": "Hey Audrey! So, I started a new job as a Financial Analyst last week - it's been quite a change from my previous job. How about you? Anything interesting happening?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:3",
+      "text": "Congrats on the new job! So I got these new collars and tags for my dogs - so cute!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:4",
+      "text": "Thanks! That sounds cute. Can I see a picture?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:5",
+      "img_url": [
+        "https://worldanimalfoundation.org/wp-content/uploads/2022/07/adjustable-collar-Review.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of two dogs are standing in the grass with their mouths open",
+      "text": "Sure! See them with their new collars, cute right?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:6",
+      "text": "Cute little guys! What are their names and how long have you had them?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:7",
+      "text": "I've had them for 3 years! Their names are Pepper, Precious and Panda. I can't live without my little ones!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:8",
+      "text": "That's awesome! Have you always wanted a dog, even with living in the city? Can they still go on adventures?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:9",
+      "text": "Absolutely! They're city dogs and we explore all the time. They love trying out new parks and trails. We go on adventures together very often."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:10",
+      "text": "Wow, sounds like they make life so awesome! Kinda jealous of all those fun outings with them."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:11",
+      "text": "They really do! It's great how much happiness they bring. Do you have any pets?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:12",
+      "text": "No, no pets right now. But I do love animals."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:13",
+      "text": "That's great to hear! Animals are truly amazing. Do you have a favorite animal?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:14",
+      "text": "I've always been awed by birds. Their power to soar and explore new spots is amazing."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:15",
+      "text": "Yeah, birds are amazing! I can imagine it feels incredible to soar and see the world from up high. Do you have a favorite type of bird?"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/g9ia8ap7ckmb1.jpg"
+      ],
+      "blip_caption": "a photo of two birds flying in the sky with a sun shining behind them",
+      "query": "majestic eagle soaring sky",
+      "dia_id": "D1:16",
+      "text": "Eagles have always mesmerized me; they're so strong and graceful!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:17",
+      "text": "Yeah they're beautiful. Do you go bird-watching? It must be awesome to see them up close."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:18",
+      "text": "Haven't specifically gone out for bird-watching, but I do spot them when I hike."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:19",
+      "text": "Nice, spotting pretty birds while hiking must be great. Do you have any favorite hiking spots?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:20",
+      "text": "Fox Hollow is a great trail to hike on weekends; the views are awesome!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:21",
+      "text": "Cool, gonna give it a try. Thanks for the suggestion!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:22",
+      "text": "No problem! Let me know how you like it. Have fun hiking!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D1:23",
+      "text": "Thanks! I'll let you know. Have a good one!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D1:24",
+      "text": "Take care and have a good one! See ya!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey purchases three collars and tags for her dogs Pepper, Precious and Panda."
+    ],
+    "Andrew": [
+      "Andrew starts a new job as a financial analyst."
+    ],
+    "date": "27 March, 2023"
+  },
+  "observations": {
+    "Audrey": [
+      [
+        "Audrey got new collars and tags for her dogs.",
+        "D1:3"
+      ],
+      [
+        "Audrey has had her dogs named Pepper, Precious, and Panda for 3 years.",
+        "D1:7"
+      ],
+      [
+        "Audrey's dogs are city dogs and they love exploring new parks and trails.",
+        "D1:9"
+      ]
+    ],
+    "Andrew": [
+      [
+        "Andrew started a new job as a Financial Analyst last week.",
+        "D1:2"
+      ],
+      [
+        "Andrew does not currently have any pets.",
+        "D1:12"
+      ],
+      [
+        "Andrew loves animals and is awed by birds, especially eagles.",
+        "D1:14"
+      ],
+      [
+        "Andrew enjoys spotting pretty birds while hiking in places like Fox Hollow.",
+        "D1:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

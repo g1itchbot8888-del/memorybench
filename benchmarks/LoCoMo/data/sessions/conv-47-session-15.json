@@ -1,0 +1,177 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-15",
+  "session_number": 15,
+  "session_summary": "At 9:59 pm on 19 June, 2022, James shared with John how he introduced Max, Daisy, and the new pup, Ned, who are slowly bonding. John asked for a picture, complimented their cuteness, and shared his career aspirations of making a positive impact. James encouraged John's idea of volunteering and they discussed the rewarding experience. John expressed interest in joining James in volunteering, and James offered to take him. They discussed the organization and James assured John of a welcoming environment. James supported John's goal of making a difference, and they ended with mutual encouragement and determination to achieve their goals together.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "dia_id": "D15:1",
+      "text": "Hey John, since our last chat, something awesome happened. Last Friday, I started introducing Max, Daisy and the new pup Ned. It was hard at first, but they're slowly adapting. It's sweet to watch them bond and have fun together."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:2",
+      "text": "Wow, that's cool, James! Seeing them bonding and having a great time is so sweet. Do you have a picture of them together?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D15:3",
+      "img_url": [
+        "https://www.publicdomainpictures.net/pictures/40000/nahled/three-dogs-in-field.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of three dogs in a field of grass with trees in the background",
+      "text": "Yep, I got a great pic last night. Check it out!"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a dog and a cat cuddling on a couch",
+      "dia_id": "D15:4",
+      "text": "Wow, they look so cute! I can almost feel the love and joy in this photo. These last few days really got me thinking about my own future."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D15:5",
+      "text": "What's been on your mind regarding the future?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:6",
+      "text": "Lately, I've been thinking about my career and where I want to be in the future. I'm driven and passionate, and I also want to make a positive impact on the world."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D15:7",
+      "text": "Gotcha, John. Finding a way to make a difference matters. Have you thought about any ideas on how to do that?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:8",
+      "text": "Yeah, I have. I've been looking into volunteering and thinking of going into non-profit work. I want to put my passions and abilities to use for causes I really care about."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i0.wp.com/accentnetwork.us/wp-content/uploads/2022/03/blog.jpg"
+      ],
+      "blip_caption": "a photo of a group of people standing outside of a building",
+      "query": "donation center",
+      "dia_id": "D15:9",
+      "text": "Wow, John that sounds great! I'm sure with your skills and passion, you could do some really cool things with nonprofits. Here's a pic I took when I volunteered last month. It was really rewarding to see how little gifts can do so much!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:10",
+      "text": "That's awesome, James! Was it cool to see the impact of the gifts? Can you tell me more about the organization you volunteered with?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D15:11",
+      "text": "It was great to see how much a simple act of kindness can mean to someone in need. I volunteered with an organization that provides necessary items to those who are less fortunate. It felt so rewarding to help, even if it was in a small way."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a young boy standing outside of a yellow building",
+      "dia_id": "D15:12",
+      "text": "I think this is exactly what I need. Can you take me there this weekend?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D15:13",
+      "text": "Of course I can! I think there are still some of the previous staff there and I can even introduce you to them."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:14",
+      "text": "Thank you very much! Will there be some kind of interview required?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D15:15",
+      "text": "No, this is not necessary. All you need is to be a friendly and polite person, and also have a great desire to help people. I'm sure you will succeed!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:16",
+      "text": "Thanks for your support! I want to make this world a better place, and with your help I will definitely achieve my goal."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D15:17",
+      "text": "We can do this together!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:18",
+      "text": "Thanks, James. Your support means a lot to me. I'm determined to make a positive impact."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D15:19",
+      "text": "You got this! Stay focused on your dreams and don't give up."
+    }
+  ],
+  "events": {
+    "James": [
+      "James begins introducing his older dogs Max and Daisy to the new puppy, Ned.",
+      "James volunteers at an organization in May 2022 that provides underpriveleged people with necessary items."
+    ],
+    "John": [
+      "John wishes to find a volunteer position and agrees to check out the organization that James volunteers with."
+    ],
+    "date": "19 June, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James introduced three pets - Max, Daisy, and a new pup named Ned, who are slowly adapting and bonding together.",
+        "D15:1"
+      ],
+      [
+        "James took a great photo of his pets bonding together.",
+        "D15:3"
+      ],
+      [
+        "James volunteered last month and found it rewarding to see the impact of small gifts on those in need.",
+        "D15:9"
+      ],
+      [
+        "James volunteered with an organization providing necessary items to less fortunate individuals.",
+        "D15:11"
+      ],
+      [
+        "James is willing to introduce John to the organization where he volunteered.",
+        "D15:13"
+      ],
+      [
+        "James indicated that no interview is required for volunteering, just the willingness to help people.",
+        "D15:15"
+      ],
+      [
+        "James is supportive of John's goal to make a positive impact on the world.",
+        "D15:17"
+      ]
+    ],
+    "John": [
+      [
+        "John is contemplating his career and desires to make a positive impact on the world.",
+        "D15:6"
+      ],
+      [
+        "John is considering going into non-profit work and using his skills and passions for causes he cares about.",
+        "D15:8"
+      ],
+      [
+        "John expresses a desire to help people and make the world a better place.",
+        "D15:16"
+      ],
+      [
+        "John is determined to make a positive impact with James's support.",
+        "D15:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

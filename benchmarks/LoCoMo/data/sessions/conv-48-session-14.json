@@ -1,0 +1,216 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-14",
+  "session_number": 14,
+  "session_summary": "Deborah and Jolene caught up at 9:17 am on June 26, 2023. Deborah mentioned preparing for a yoga retreat, while Jolene spoke about her busy internship and shared photos of her aquarium pet, Seraphim. They discussed the calming effect of pets, Jolene's determination to succeed, and Deborah's successful project. Deborah showed Jolene a new yoga pose and a symbol of peace from the retreat. Jolene expressed interest in visiting a similar retreat. They emphasized the importance of finding peace and relaxation before saying goodbye.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://assets.simpleviewinc.com/simpleview/image/upload/crm/maineta/7D10D61B-FFA4-44EB-B4DF-5E6002D715F5_14D84855-064F-4EDB-86FAE0FA2AB35244_60bff6ce-b8b0-4146-b88bb1d2cef69fcb.jpg"
+      ],
+      "blip_caption": "a photo of a group of people doing yoga in a park",
+      "query": "yoga retreat yoga studio serene mats candles",
+      "dia_id": "D14:1",
+      "text": "Hey Jolene! How's it going? We haven't talked in a while. I've been busy getting ready for a yoga retreat with some buddies. A chance to hang out with people who think like me and find peace and understanding. Sounds awesome!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D14:2",
+      "text": "Hey Deb! Been super hectic with internship and stuff. That retreat sounds awesome, I could definitely use a break!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+      ],
+      "blip_caption": "a photo of a woman doing a yoga pose on the beach",
+      "query": "yoga meditation calming sunset",
+      "dia_id": "D14:3",
+      "text": "By the way, I tried a new pose - Dancer Pose (Natarajasana). Rate, did I succeed?"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/6moonjm3bypa1.jpg"
+      ],
+      "blip_caption": "a photo of a snake curled up in a plant filled area",
+      "query": "snake curled up pillow",
+      "dia_id": "D14:4",
+      "text": "You are amazing as always! Here are new photos of Seraphim in the new aquarium that I bought the day before yesterday."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D14:5",
+      "text": "Where'd you get it? I'm always drawn to animals, they bring so much joy. What's its story?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D14:6",
+      "text": " I got her last year, she's a great pet. She always cheers me up and brings a sense of peace. Spending time with her is so comforting."
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a group of people doing yoga in a field",
+      "dia_id": "D14:7",
+      "text": "Pets really do make life more enjoyable and bright. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D14:8",
+      "text": " I'm so thankful it's here. Plus, it's nice to have a calm creature around."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D14:9",
+      "text": "How have things been besides that?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D14:10",
+      "text": "Things have been intense lately. I'm really pushing myself to succeed, and sometimes it feels overwhelming. But I'm determined to overcome any obstacles and achieve my goals."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D14:11",
+      "text": "Keep up the hard work and remember to relax too."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://ffalcons.files.wordpress.com/2021/06/stephen-paper-2.jpg"
+      ],
+      "blip_caption": "a photo of a drawing of a house with a ruler and a ruler",
+      "query": "engineering project design",
+      "dia_id": "D14:12",
+      "text": "Thanks, Deborah! I had a big breakthrough with this project - so exciting and rewarding!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D14:13",
+      "text": "Awesome, Jolene! I'm really glad your project worked out. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D14:14",
+      "text": "Stop talking about me, tell me more about your retreat."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://thehammockllc.com/wp-content/uploads/2019/07/Yoga-all-ages.jpg"
+      ],
+      "blip_caption": "a photo of three people standing in front of a large statue",
+      "query": "group people yoga mountain top",
+      "dia_id": "D14:15",
+      "text": "I'd rather show you a photo. This is also a new yoga pose that we tried. It is a tree pose."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D14:16",
+      "text": "What's that statue in the picture?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D14:17",
+      "text": "It's a symbol of peace and enlightenment."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D14:18",
+      "text": "Wow, it looks gorgeous! I'd love to visit a retreat like that. It seems like the ideal spot to find peace and refreshment."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D14:19",
+      "text": "It's perfect for reflecting and getting centered."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D14:20",
+      "text": "I could really use some chill time like that. Sounds so peaceful."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D14:21",
+      "text": "Yeah, we all need some peaceful time to relax."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D14:22",
+      "text": "Gotta run, have a nice day!"
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a sunset reflecting in a lake with a boat",
+      "dia_id": "D14:23",
+      "text": "See you!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah starts planning for a yoga retreat with her friends during September 2023."
+    ],
+    "Jolene": [
+      "Jolene has an intense time as an intern and has a breakthrough in her project.",
+      "Jolene buys an aquarium for her pet snake, Seraphim."
+    ],
+    "date": "26 June, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah is preparing for a yoga retreat with friends to find peace and understanding.",
+        "D14:1"
+      ],
+      [
+        "Deborah tried a new yoga pose called Dancer Pose (Natarajasana) and asked for feedback from Jolene.",
+        "D14:3"
+      ],
+      [
+        "Deborah enjoys spending time with animals and finds joy in them.",
+        "D14:5"
+      ],
+      [
+        "Deborah believes that pets make life more enjoyable and bright.",
+        "D14:7"
+      ],
+      [
+        "Deborah shared a photo of a new yoga pose called Tree Pose during the conversation.",
+        "D14:15"
+      ],
+      [
+        "Deborah's yoga pose was described as a symbol of peace and enlightenment.",
+        "D14:17"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene has been busy with an internship and finds it hectic.",
+        "D14:2"
+      ],
+      [
+        "Jolene owns a pet named Seraphim, who brings comfort and cheer to her life.",
+        "D14:6"
+      ],
+      [
+        "Jolene is pushing herself to succeed despite feeling overwhelmed.",
+        "D14:10"
+      ],
+      [
+        "Jolene had a big breakthrough with a project, finding it exciting and rewarding.",
+        "D14:12"
+      ],
+      [
+        "Jolene is interested in visiting a retreat like the one Deborah went to.",
+        "D14:18"
+      ],
+      [
+        "Jolene expressed a desire for some chill time and found the idea of a retreat peaceful.",
+        "D14:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

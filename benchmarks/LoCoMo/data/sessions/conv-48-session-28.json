@@ -1,0 +1,251 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-28",
+  "session_number": 28,
+  "session_summary": "Deborah and Jolene had a conversation at 3:09 pm on 15 September, 2023. Deborah shared how reconnecting with her late mother's friends brought up a mix of emotions, but ultimately, it was comforting. Jolene supported her, mentioning how stories about loved ones can be both tough and comforting. Deborah found the experience with her mom's friends special as it offered insight into her mother's life. They discussed how old photos and memories strengthen their appreciation for loved ones. Deborah also shared her love for surfing and yoga, highlighting how these activities bring her peace. Jolene and Deborah discussed creating calm spaces for relaxation, with Jolene mentioning her room as a haven of peace. Additionally, Jolene showed a photo of her pet Susie, whom she adores for bringing comfort and brightness into her life.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a living room with a couch and a fire place",
+      "dia_id": "D28:1",
+      "text": "Since speaking last, I reconnected with my mom's old friends. Their stories made me tear up and reminded me how lucky I am to have had her."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:2",
+      "text": " It's great that you could reconnect with them. Hearing stories about our loved ones can be tough but also comforting."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:3",
+      "text": "Hearing stories about my mom was emotional. It was both happy and sad to hear things I hadn't heard before. It was a mix of emotions, but overall it was comforting to reconnect with her friends."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:4",
+      "text": "It can bring up a range of emotions, and it's okay to feel a mix of happiness and sadness. Those moments with her friends must've been meaningful to you."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://ashleenichols.com/wp-content/uploads/2018/01/IMG_1546-e1515707058552.jpg"
+      ],
+      "blip_caption": "a photo of two women in pajamas taking a selfie in a mirror",
+      "query": "photo mother friends",
+      "dia_id": "D28:5",
+      "text": "Wow, it was so special. A glimpse into her life beyond what I knew. Through their eyes, I appreciate her more. Here I am and my mom."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:6",
+      "text": "That looks like a blast! What did you and your mom's friends do on that day?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:7",
+      "text": "We reminisced and looked through her photos. It was really sweet."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:8",
+      "text": "Looking at old photos must have been so nostalgic! It's great that you could share that experience with friends. It's amazing how photos and memories can give us a deeper appreciation for the people we love."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+      ],
+      "blip_caption": "a photo of a person walking on the beach with a surfboard",
+      "query": "sunset beach",
+      "dia_id": "D28:9",
+      "text": "Pictures really have a way of bringing back memories and making us appreciate the special bond we have with our loved ones. They remind me of how strong love is and how amazing human relationships can be. Just like this one."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:10",
+      "text": "Wow, what a gorgeous pic! Do you have any special memories of that beach or just love surfing in general?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:11",
+      "text": "That beach is super special to me. It's where I got married and discovered my love for surfing. It's always filled with joy and peace."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:12",
+      "text": "What pleasant memories."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://assets-global.website-files.com/5909c340ec86374fefcb849c/65650a0fc42a7d8dbe0e4349_IMG_2131.jpg"
+      ],
+      "blip_caption": "a photo of a woman doing a yoga pose on the beach",
+      "query": "surfing yoga beach",
+      "dia_id": "D28:13",
+      "text": "Here is another photo from my classes."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:14",
+      "text": "Wow, that yoga pose looks amazing! Does it help you relax?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:15",
+      "text": "Oh yeah! Doing this on the beach is so peaceful - the ocean, sand, and fresh air create a super relaxing atmosphere. The perfect way to take care of myself."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://c1.wallpaperflare.com/preview/308/322/334/wellness-relaxation-relax-spa.jpg"
+      ],
+      "blip_caption": "a photography of a couple of towels sitting on top of a table",
+      "query": "meditation mat candles essential oils",
+      "dia_id": "D28:16",
+      "re-download": true,
+      "text": " I like to create my own serene yoga space with candles and oils for extra chill vibes. Also, we tried a new style of meditation in Thailand - with flowers."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:17",
+      "text": "Oh, same for me!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:18",
+      "text": "I find calm when I do yoga or meditate. I use essential oils and put on some soft, soothing music in the background to create a peaceful atmosphere. It really helps me chill out and center myself."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:19",
+      "text": " It's amazing how our environment can enhance our practice."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.pinimg.com/originals/3d/d9/b0/3dd9b048cca05344a7bf805705bd7f17.jpg"
+      ],
+      "blip_caption": "a photo of a bed with a colorful blanket and pillows",
+      "query": "cozy corner yoga mat cushions small plant",
+      "dia_id": "D28:20",
+      "text": "Yeah, totally! Our surroundings can really affect our mood and how much zen we can get from our routine. Creating a place that feels safe and chill is key."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:21",
+      "text": "Wow, that looks so comfy and inviting! Where do you usually go to relax in your house?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:22",
+      "text": "In my room, I usually go to relax and feel at ease. After a busy day, it's my little haven for peace and rest - the perfect spot to relax and recharge."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:23",
+      "text": "Sounds like your room does the job. That's awesome."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/ckp5j9w7q7q41.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a snake in a container",
+      "query": "pet snake curled up branch",
+      "dia_id": "D28:24",
+      "text": " Here are my pals keeping me company."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:25",
+      "text": "Hey, that's Susie or Seraphim? How long has he been hanging out with you?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:26",
+      "text": "It`s Susie! I've had her for two years now. "
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:27",
+      "text": "It's awesome how pets can bring us comfort and peace when we need it."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:28",
+      "text": "Susie is a great companion."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D28:29",
+      "text": "The love pets give is priceless."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D28:30",
+      "text": "Plus, they make life a lot brighter!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Jolene reconnects with her mother's friends and gets nostalgic hearing about her stories from them and going over old photos."
+    ],
+    "Jolene": [
+      "Jolene and her partner practice a new style of meditation in Thailand with flowers."
+    ],
+    "date": "15 September, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah reconnected with her late mother's friends, which brought up a mix of emotions but overall was comforting.",
+        "D28:1"
+      ],
+      [
+        "Deborah's experience with her mother's friends allowed her to appreciate her mother more and gain a new perspective on her life.",
+        "D28:5"
+      ],
+      [
+        "Deborah looked through her mother's photos with her friends and found it sweet and nostalgic.",
+        "D28:7"
+      ],
+      [
+        "Deborah believes that photos and memories can help in appreciating the special bond with loved ones and the strength of human relationships.",
+        "D28:9"
+      ],
+      [
+        "The beach where Deborah got married and discovered her love for surfing holds special memories of joy and peace for her.",
+        "D28:11"
+      ],
+      [
+        "Deborah finds doing yoga on the beach with the ocean, sand, and fresh air peaceful and a perfect way to take care of herself.",
+        "D28:15"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene finds comfort and calmness in creating a serene yoga space with candles, oils, and soothing music.",
+        "D28:16"
+      ],
+      [
+        "Jolene uses essential oils and soothing music to create a peaceful atmosphere for relaxation during yoga and meditation.",
+        "D28:18"
+      ],
+      [
+        "Jolene's room is her haven for peace and rest where she goes to relax and recharge after a busy day.",
+        "D28:22"
+      ],
+      [
+        "Jolene has a pet named Susie who has been with her for two years and brings her comfort and peace.",
+        "D28:26"
+      ],
+      [
+        "Jolene believes pets like Susie make life brighter and bring comfort and peace.",
+        "D28:30"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

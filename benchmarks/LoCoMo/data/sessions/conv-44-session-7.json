@@ -1,0 +1,128 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-7",
+  "session_number": 7,
+  "session_summary": "Audrey and Andrew had a conversation on 2 June, 2023, at 11:27 am. Audrey shared her joy of taking her dogs to the park and on a hiking trip to a national park, capturing beautiful sunset moments. Andrew admired the experiences and inquired about photos, showing interest in getting a furry friend but facing challenges. Audrey offered support and assistance, encouraging Andrew not to give up on finding the perfect place for a new pet.",
+  "conversation_turns": [
+    {
+      "speaker": "Audrey",
+      "dia_id": "D7:1",
+      "text": "Hey how's it going? Yesterday took my pups to the park, it was awesome! Seeing them running around and playing without a leash was awesome. It filled my heart with joy - their happiness brought me so much peace. "
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/nzwhfzovo8q61.jpg"
+      ],
+      "blip_caption": "a photo of a sunset over a mountain range with a horse grazing",
+      "query": "mountain peak sunset",
+      "dia_id": "D7:2",
+      "text": "That sounds amazing! Must have been so happy watching them running around. It's moments like that which show us how amazing animals are. Glad you had a great time. By the way, I think you mentioned before that you've taken them on a hiking trip? "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D7:3",
+      "text": "Yeah, I took them for a hike before. We went to a national park last week and made it to this beautiful peak. It was stunning during the sunset, and I'll never forget it. My furry pals were running around as it was so awesome. It felt like a slice of paradise. The breeze was nice and you could hear birds chirping."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D7:4",
+      "text": "That sounds amazing! I'm sure it was a memorable experience. Did you manage to capture it? I'd love to see a photo!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/nrl9qw3ayoza1.jpg"
+      ],
+      "blip_caption": "a photo of two horses in a field with a fence",
+      "query": "sunset mountains horse grazing",
+      "dia_id": "D7:5",
+      "text": "Yep! I took a bunch of photos. This one of my favorites."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D7:6",
+      "text": "Wow, incredible sunset and the scenery! Must have been magical. Thanks for sharing!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D7:7",
+      "text": "It was really special. Nature always cheers me up and makes me feel grateful. Glad you could experience it too. Oh, how are things going with your search for a furry friend?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D7:8",
+      "text": "I'm still on the hunt, but it's tough finding a pet-friendly spot in the city. Been checking out some places, but no luck so far. A bit discouraged but I'm determined to find the right place and dog."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D7:9",
+      "text": "Oof, Hang in there, you'll find the perfect place for you and your new furry friend."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D7:10",
+      "text": "Thanks! I won't give up. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D7:11",
+      "text": "I'm here to support! Email me your criterias so I can help you find a great spot for your furry friend."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D7:12",
+      "text": "Thanks! Your assistance is greatly appreciated. So thankful for your help."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D7:13",
+      "text": "Not a problem at all! We'll keep searching. Stay positive!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey takes her four dogs to the park to play."
+    ],
+    "Andrew": [
+      "Andrew is a bit discouraged in his search for pet-friendly apartments and a pet dog but does not give up."
+    ],
+    "date": "2 June, 2023"
+  },
+  "observations": {
+    "Audrey": [
+      [
+        "Audrey took her dogs to the park and enjoys watching them run around and play without a leash.",
+        "D7:1"
+      ],
+      [
+        "Audrey took her dogs on a hike to a national park and reached a beautiful peak during the sunset.",
+        "D7:3"
+      ],
+      [
+        "Audrey loves nature and feels cheerful and grateful when in natural surroundings.",
+        "D7:7"
+      ],
+      [
+        "Audrey is supportive and offers to help Andrew find a pet-friendly spot for his new dog.",
+        "D7:11"
+      ]
+    ],
+    "Andrew": [
+      [
+        "Andrew is searching for a pet-friendly spot in the city but has not had luck so far.",
+        "D7:8"
+      ],
+      [
+        "Andrew is determined to find the right place and dog despite facing challenges in the search.",
+        "D7:8"
+      ],
+      [
+        "Andrew is thankful for Audrey's support and assistance in finding a pet-friendly spot.",
+        "D7:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

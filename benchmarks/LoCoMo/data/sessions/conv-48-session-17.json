@@ -1,0 +1,126 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-17",
+  "session_number": 17,
+  "session_summary": "Deborah and Jolene conversed at 8:50 pm on 12 August, 2023. Deborah mentioned creating a meditation guide for her yoga retreat, while Jolene shared how meditation helped her regain clarity after losing work files. They discussed the calming effects of meditation and Jolene's notebook designs inspired by space and technology. Jolene talked about her current project to revolutionize aerial surveillance for emergencies and environmental monitoring. Deborah admired Jolene's ambition and commitment to making a difference, offering support and encouragement. Jolene expressed gratitude for Deborah's support, and they concluded with encouraging words.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "dia_id": "D17:1",
+      "text": "Since we last spoke, I made a meditation guide for my yoga retreat. How about you?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D17:2",
+      "text": "I have been stressed since I lost my work files. I was so overwhelmed...but meditation kept me chill and I got my clarity back, thank goodness. Really appreciate the practice!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D17:3",
+      "text": "It's amazing how it can give you peace and calm in times like that. If you ever need any support, just let me know - we're in this together!"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "http://thegroundedpractice.com/cdn/shop/products/306F9F91-FDB8-4052-B87B-4692205658E12.jpg"
+      ],
+      "blip_caption": "a photo of two notebooks with a blue cover and a white strip",
+      "query": "meditation quote journal",
+      "dia_id": "D17:4",
+      "text": " Appreciate your support! BTW, I wanted to share this with you."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D17:5",
+      "text": "Your creativity is amazing! "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D17:6",
+      "text": "Thanks, Deb! I was inspired by my love for space and engines, so I designed these notebooks with elements like galaxies and circuitry. I think they turned out really cool!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D17:7",
+      "text": "You have such a knack for turning these into art. They make me feel excited just by looking at them. Your creativity is amazing! Does that usually inspire your engineering projects too?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D17:8",
+      "text": "Seeing art and design in various things gives me a unique perspective on problems."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D17:9",
+      "text": "Got any neat projects or ideas you're pumped about?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D17:10",
+      "text": " Working on a cool project now - a prototype that could revolutionize aerial surveillance. Can't wait to see the results!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D17:11",
+      "text": "I admire your ambition to make a difference. Do you have any specific plans or goals for this project?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D17:12",
+      "text": "My aim is to devise a more productive and affordable aerial surveillance system. It'll help with responding to emergencies and monitoring the environment. It'll make the world a better, safer place."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D17:13",
+      "text": "I love your commitment. Keep going!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D17:14",
+      "text": "Thanks, Deb! Your support means a lot. I'll keep pushing and doing my best to make a difference."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D17:15",
+      "text": "You got this!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah creates a meditation guide for her yoga retreat."
+    ],
+    "Jolene": [
+      "Jolene is stressed about losing her work progress and manages her stress by practicing yoga and meditation.",
+      "Jolene starts working on an affordable and productive aerial surveillance system that can respond quickly to emergencies."
+    ],
+    "date": "12 August, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah made a meditation guide for her yoga retreat.",
+        "D17:1"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene found meditation helpful to regain clarity after losing work files.",
+        "D17:2"
+      ],
+      [
+        "Jolene designed notebooks inspired by her love for space and engines with elements like galaxies and circuitry.",
+        "D17:6"
+      ],
+      [
+        "Jolene is working on a prototype project aimed at revolutionizing aerial surveillance.",
+        "D17:10"
+      ],
+      [
+        "Jolene aims to create a more productive and affordable aerial surveillance system to help respond to emergencies and monitor the environment.",
+        "D17:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

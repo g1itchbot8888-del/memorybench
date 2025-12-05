@@ -1,0 +1,196 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-18",
+  "session_number": 18,
+  "session_summary": "Gina and Jon caught up at 5:44 pm on 21 July, 2023. Gina shared about her new website for customer orders, while Jon mentioned his struggles with the dance studio. Gina encouraged Jon to stay positive and network for investors. They discussed the importance of networking, with Gina offering advice on marketing strategies. Jon sought Gina's help with content creation and social media management for the dance studio. They excitedly planned to collaborate and make a difference together in the dance world.",
+  "conversation_turns": [
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:1",
+      "text": "Hey Jon! Long time no talk! Last week, I built a new website for customers to make orders. It's been a wild ride but I'm loving it. What's up with you? How's the dance studio?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D18:2",
+      "text": "Hey Gina, congrats on the clothing store! The dance studio is on tenuous grounds right now, but I'm staying positive. I got a temp job to help cover expenses while I look for investors. It's tough, but I'm sure it'll be worth it."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:3",
+      "text": "Thanks, Jon! Appreciate the kind words. Sorry to hear about the studio, but glad to see the positivity. Not easy facing setbacks but I believe in you. Finding investors can be tough, but you've got the passion and experience to make it happen. Rome wasn't built in a day so keep pushing on!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D18:4",
+      "text": "Thanks for the support. Running a business isn't easy, but I'm determined to make it work. How have you tackled challenges in your business? Got any advice?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:5",
+      "text": "I've had some tough times with my business, Jon. Sourcing trendy pieces for my store was a big hurdle. I had to do a lot of research and networking. My advice? Don't be scared to reach out to people in your field for help and contacts. Networking was a lifesaver for me and opened me up to amazing products that I might not have found otherwise."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D18:6",
+      "img_url": [
+        "https://live.staticflickr.com/7284/16241297914_14ea605e4b_b.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a group of people standing in a room",
+      "text": "Awesome advice! Lately I've been networking and it's gotten me some good stuff. Really can't beat what connections can do. Check this pic I got from the last networking event!"
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a clothing store with a wall of pictures and clothes",
+      "dia_id": "D18:7",
+      "text": "Nice one, Jon! Networking really pays off. Connecting with like-minded people is key. How was the event?"
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://cress.gigsalad.com/s3/attachments/61/02/47/610247e1e1a92f951cf413a4cdedcde0.jpg"
+      ],
+      "blip_caption": "a photo of a man signing a card at a table",
+      "query": "crowded networking event people mingling business cards",
+      "dia_id": "D18:8",
+      "text": "Thanks! The event was awesome. I met some investors and got some good advice. The energy was really motivating, it gave me a boost to go after my goals."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:9",
+      "text": "Wow, Jon! Congrats on the successful night! What are your plans now with the advice you got?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D18:10",
+      "text": "Taking your advice, I'm sprucing up my biz plan and tweaking my pitch to investors. I'm also working on an online platform to show off the dance studio's stuff."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:11",
+      "text": "Sounds like a great plan, Jon! An online platform can really show off your studio and get investors. Need help with anything?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D18:12",
+      "text": "Thanks, Gina! Appreciate the offer. Need help with marketing strategies - any advice on reaching my target audience and raising awareness for the dance studio?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:13",
+      "text": "Yeah Jon, marketing is key for getting your dance studio noticed. Instagram and TikTok can help you reach a younger crowd. Posting dance clips or content related to dance can help. You could also collaborate with local influencers or dance communities. I could help you with making content or even managing your accounts if you want."
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a room with a mirror and a desk",
+      "dia_id": "D18:14",
+      "text": "Sounds great. I'd really appreciate your help with making content and managing my social media. Let's get together and make the dance studio look awesome!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:15",
+      "text": "Let's create some cool content and manage your social media accounts."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D18:16",
+      "text": "Thanks for the support. You rock!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:17",
+      "text": "Thanks, Jon! You're awesome. Let's get to work and make your studio shine!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D18:18",
+      "text": "Definitely, Gina! Let's make our collaboration awesome and bring some dance magic to the world. Can't wait to see what we can do together!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:19",
+      "text": "Definitely, Jon! I'm pumped to collaborate with you and make some sweet moves. Together, we can make a difference and show the world what we can do. Let's go for it!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D18:20",
+      "text": "Yeah, Gina! We'll rock the dance floor and teach others to chase their dreams. Let's go for it and make an impact!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D18:21",
+      "text": "Yeah Jon! Let's make a difference and show 'em what we got. We can do amazing things together!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D18:22",
+      "text": "Thanks for having my back."
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon takes up a temporary job to cover his expenses while waiting for investors.",
+      "Jon starts working on an online platform to showcase his dance studio."
+    ],
+    "Gina": [
+      "Gina creates a new website for her customers to make orders."
+    ],
+    "date": "21 July, 2023"
+  },
+  "observations": {
+    "Gina": [
+      [
+        "Gina built a new website for customers to make orders for her clothing store last week.",
+        "D18:1"
+      ],
+      [
+        "Gina faced challenges in her business, particularly in sourcing trendy pieces which required research and networking.",
+        "D18:5"
+      ],
+      [
+        "Gina advised Jon not to be scared to reach out to people in his field for help and contacts, stressing the importance of networking.",
+        "D18:5"
+      ],
+      [
+        "Gina met some investors and got good advice at a recent networking event.",
+        "D18:8"
+      ],
+      [
+        "Gina offered to help Jon with making content and managing his social media accounts for his dance studio.",
+        "D18:13"
+      ],
+      [
+        "Gina expressed excitement to collaborate with Jon on making the dance studio shine and making a difference in the world.",
+        "D18:17"
+      ]
+    ],
+    "Jon": [
+      [
+        "Jon's dance studio is on tenuous grounds, but he is staying positive and looking for investors.",
+        "D18:2"
+      ],
+      [
+        "Jon is networking and updating his business plan and pitch to investors based on advice received.",
+        "D18:10"
+      ],
+      [
+        "Jon is working on an online platform to showcase the dance studio's offerings.",
+        "D18:10"
+      ],
+      [
+        "Jon expressed a need for marketing strategies, seeking advice on reaching his target audience and raising awareness for the dance studio.",
+        "D18:12"
+      ],
+      [
+        "Jon plans to collaborate with Gina on making content and managing his social media accounts to promote the dance studio.",
+        "D18:14"
+      ],
+      [
+        "Jon expressed gratitude for Gina's support.",
+        "D18:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

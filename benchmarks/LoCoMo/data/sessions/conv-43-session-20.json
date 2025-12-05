@@ -1,0 +1,345 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-20",
+  "session_number": 20,
+  "session_summary": "Tim and John had a conversation at 9:52 am on 1 December, 2023. Tim shared his success in a tough exam, stating he turned it into a learning experience. John congratulated Tim and mentioned trying out yoga to improve strength and flexibility. They discussed yoga poses and John shared a photo of one he enjoys. They talked about their mutual love for fantasy books and movies. Tim shared a photo of a forest, and John shared a photo from a camping trip in the mountains. They both reflected on the calming effects of nature. The conversation ended with both agreeing on the humbling and connected nature of the world before Tim bid farewell.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://i.pinimg.com/originals/52/98/a1/5298a13a728c023b77f9cc86529a8748.jpg"
+      ],
+      "blip_caption": "a photo of a notepad with a note and pen on it",
+      "query": "study materials",
+      "dia_id": "D20:1",
+      "text": "Hey John! It's been ages since we last chatted. I had a tough exam last week that had me doubting myself. But instead of giving up, I turned it into a learning experience. I studied hard and it showed me how resilient and determined I can be. Here's a pic of my success 👍"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a white wall with a black lettering that says 30 positive suites",
+      "dia_id": "D20:2",
+      "text": "Hi Tim! Congrats on your success! Keep it up, you're doing great! I'm also trying out yoga to get a little extra strength and flexibility. It's challenging but worth it."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:3",
+      "text": "Thanks! I appreciate your encouragement. How's it going with yoga? Have you noticed any improvements?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:4",
+      "text": "Yoga's been really awesome for me. It's helped me improve in terms of strength and flexibility, as well as focus and balance during my workouts. It's been great!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:5",
+      "text": "Great news! Yoga is indeed amazing for your body and mind. Are there any specific poses that you enjoy practicing?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:6",
+      "text": "Yeah, there are a couple of poses I really enjoy. Warrior II makes me feel strong and there's one that helps with balance and stability. I love how these poses challenge my body and mind!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:7",
+      "text": "Woohoo! Congrats on finding poses that suit you. Yoga is so cool for showing us what we can really do. Maybe you could share a pic so I can try it too?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://pixahive.com/wp-content/uploads/2021/02/Virabhadrasana-Warrior-Pose-357219-pixahive.jpg"
+      ],
+      "blip_caption": "a photography of a man doing a yoga pose on a blue mat",
+      "query": "warrior II pose",
+      "dia_id": "D20:8",
+      "re-download": true,
+      "text": "Here's a photo of me in this pose. It's a good way to work out your legs and core. Give it a shot!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:9",
+      "text": "That's a tough one! How long do you usually hold that pose?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:10",
+      "text": "I typically hold it for 30-60 seconds. It really helps with building strength and stability!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:11",
+      "text": "That's cool, I'm gonna give it a shot and see how it goes. Thanks for the tip!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:12",
+      "text": "No worries! Let me know how it goes. Happy to help whenever you need it!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:13",
+      "text": "Thanks! Your support and encouragement have truly made this journey better. I really appreciate it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:14",
+      "text": "I'm here for you. You've got this!"
+    },
+    {
+      "speaker": "Tim",
+      "blip_caption": "a photo of a bookcase filled with dvds and games",
+      "dia_id": "D20:15",
+      "text": "Thanks! Your support means a lot to me. Your friendship means a lot too."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:16",
+      "text": "Thanks, I really appreciate it. Your friendship means a lot to me too."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://i.redd.it/9nvpaptnspc81.jpg"
+      ],
+      "blip_caption": "a photo of a book shelf with many books on it",
+      "query": "fantasy novels game of thrones harry potter bookshelf",
+      "dia_id": "D20:17",
+      "text": "Glad we're friends! Plus, bonus points for both being into fantasy books and movies. I just reorganized my book shelf, speaking of."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:18",
+      "text": "Cool! Can I take a closer peek at it? What are some of your favorites?"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://i.redd.it/optq3zb96w771.jpg"
+      ],
+      "blip_caption": "a photo of a book shelf with a lot of books on it",
+      "query": "bookshelf harry potter game of thrones lord of the rings",
+      "dia_id": "D20:19",
+      "text": "Yeah, check it out - here's my bookshelf! I have some of my favorites on there, like these ones. It's an amazing journey!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:20",
+      "text": "That bookshelf is awesome! The Hobbit is one of my favorites too. What an amazing journey!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:21",
+      "text": "Glad you like it! The Hobbit is great, but have you read that other popular fantasy series? It's also awesome!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:22",
+      "text": "Yeah, I've read that other popular fantasy series too! It's one of my favorites. It has such a cool story!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:23",
+      "text": "It's awesome how these books take us to different worlds!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:24",
+      "text": "It's like escaping to these incredible new worlds and having a break from reality for a fun adventure."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:25",
+      "text": "Yeah, that's why I love them. They let us take a break from reality and have an awesome adventure. So magical!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/huz7cq7rtix31.jpg"
+      ],
+      "blip_caption": "a photo of a forest with sun shining through the trees",
+      "query": "forest ray of sunlight through trees",
+      "dia_id": "D20:26",
+      "text": "Yeah, it's awesome! Like being transported to a different world with all those amazing moments - so fun!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:27",
+      "text": "Wow, what an awesome shot! Feels like a magical forest - where was that?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:28",
+      "text": "The photo is from a forest near my hometown. It's so tranquil."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:29",
+      "text": "Wow, nature's amazing! We're lucky to have places like that near our homes."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:30",
+      "text": "It's incredible how we have these beautiful places near our homes. We should definitely appreciate them."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:31",
+      "text": "It really does have a way of calming us and reminding us of the beauty around."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/5qw4hbg418561.jpg"
+      ],
+      "blip_caption": "a photo of a lake with a rock in the middle of it",
+      "query": "serene lake mountains background",
+      "dia_id": "D20:32",
+      "text": "Definitely! It grounds us and makes us appreciate the simple beauty around us. We should take time to enjoy it."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:33",
+      "text": "That picture looks super peaceful! It reminds me of a trip I took last summer."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/lf5a5i0jnah31.jpg"
+      ],
+      "blip_caption": "a photo of a campfire with chairs and a lake in the background",
+      "query": "campfire lake sunset",
+      "dia_id": "D20:34",
+      "text": "We had a blast camping and disconnecting from the everyday."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:35",
+      "text": "Looks great! Where did you go camping?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:36",
+      "text": "We went camping in the mountains and it was stunning! The air was so refreshing."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:37",
+      "text": "Sounds great! Being in the mountains is the best. What was your favorite part of it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:38",
+      "text": "I loved just chilling and taking in the beauty of nature. It was super peaceful and refreshing."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://images.pexels.com/photos/16598991/pexels-photo-16598991.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-cheng-cj-16598991.jpg"
+      ],
+      "blip_caption": "a photo of a plane flying over a mountain range with snow on the top",
+      "query": "snowy mountain peak",
+      "dia_id": "D20:39",
+      "text": "Yeah, nature has that effect on me too. It's like a reset for the soul."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/q46xsv4ciu641.jpg"
+      ],
+      "blip_caption": "a photo of a mountain with a snow covered peak in the distance",
+      "query": "plane mountain range snow rocky mountains breathtaking experience majestic peaks fresh air",
+      "dia_id": "D20:40",
+      "text": "Yeah, nature's great for clearing the mind and calming the soul. This was my Rocky Mountains trip last year and it was stunning. Seeing those mountains, fresh air - it makes you realize how incredible the world is."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://i.redd.it/u51y7czkhfrb1.jpg"
+      ],
+      "blip_caption": "a photo of a mountain range with a sunset in the background",
+      "query": "rocky mountains mountain range sunrise",
+      "dia_id": "D20:41",
+      "text": "Wow, this is amazing! Nature is really awesome - it makes us feel tiny but connected."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:42",
+      "text": "Nature does have a way of humbling us and showing us our place in the world. It's truly amazing and comforting."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D20:43",
+      "text": "Yeah. It reminds us that we're not alone - we're part of something bigger. Bye!"
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim faces some tough exams which make him question his competence but he perseveres and does well at it."
+    ],
+    "John": [
+      "John starts taking yoga classes to complement his basketball practice and enjoys doing the Warrior II pose."
+    ],
+    "date": "1 December, 2023"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim had a tough exam recently that he turned into a learning experience, showcasing his resilience and determination.",
+        "D20:1"
+      ],
+      [
+        "Tim appreciates John's encouragement and support throughout his journey.",
+        "D20:3"
+      ],
+      [
+        "Tim enjoys fantasy books and movies, sharing favorites with John and mutual interest in the genre.",
+        "D20:17"
+      ],
+      [
+        "Tim has a bookshelf with some of his favorite books, including The Hobbit.",
+        "D20:19"
+      ],
+      [
+        "Tim loves how fantasy books allow for an escape to different worlds and a break from reality.",
+        "D20:25"
+      ],
+      [
+        "Tim finds nature calming and appreciates the beauty around him.",
+        "D20:31"
+      ]
+    ],
+    "John": [
+      [
+        "John is trying out yoga to improve strength, flexibility, focus, and balance during workouts.",
+        "D20:2"
+      ],
+      [
+        "John enjoys certain yoga poses like Warrior II for strength and balance.",
+        "D20:6"
+      ],
+      [
+        "John typically holds challenging poses for 30-60 seconds to build strength and stability.",
+        "D20:10"
+      ],
+      [
+        "John appreciates the escapism and joy of fantasy books and movies, sharing favorites with Tim.",
+        "D20:17"
+      ],
+      [
+        "John enjoys nature and finds peace and refreshment when camping in the mountains.",
+        "D20:36"
+      ],
+      [
+        "John values the calming and humbling effect of nature, recognizing the beauty and grandeur of the world.",
+        "D20:42"
+      ],
+      [
+        "John shares a photo of a tranquil forest from near his hometown.",
+        "D20:28"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

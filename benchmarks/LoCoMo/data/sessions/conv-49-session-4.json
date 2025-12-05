@@ -1,0 +1,201 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-4",
+  "session_number": 4,
+  "session_summary": "At 10:52 am on 27 July, 2023, Sam confided in Evan about being teased for his weight, prompting him to make health changes. Evan offered support, sharing his own health journey and tips. They discussed dietary changes, with Evan suggesting flavored seltzer water and snacks. Evan recommended exercise, and Sam committed to starting the next day. They shared mutual appreciation before parting ways, with Evan promising ongoing support for Sam's health journey.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:1",
+      "text": "Hey Evan, I need to talk to you. My friends were mocking my weight last Friday and it hurt. That made me realize I need to make changes."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D4:2",
+      "text": "Hey Sam, sorry about that. Don't worry, progress takes time. Let's work on it together."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:3",
+      "text": "Thanks for the support, Evan. I'm working on my health and getting active!"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i.redd.it/ddd782loz4w81.jpg"
+      ],
+      "blip_caption": "a photo of a set of five cards with the words let it shine",
+      "query": "gym membership card",
+      "dia_id": "D4:4",
+      "text": "That's great, Sam! I struggled with my health a few years ago, but stuck with it. Here's a reminder of my commitment - my gym membership card. It's not just about exercise, diet and lifestyle changes also play a big role."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:5",
+      "text": "That's awesome, Evan! What do you think made the biggest impact on your health journey?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://cdn.apartmenttherapy.info/image/upload/v1561753439/k/Photo/Series/2019-07-power-hour-eat-the-rainbow/IMG_3090.jpg"
+      ],
+      "blip_caption": "a photo of a table full of fresh produce and vegetables",
+      "query": "colorful fruits and vegetables",
+      "dia_id": "D4:6",
+      "text": "I made some dietary changes, like cutting down on sugary snacks and eating more veggies and fruit, and it made a big impact on my health. Have you considered any changes?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:7",
+      "text": "Yep, I'm reducing my soda and candy intake. It's tough, but I'm determined to make a change."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://www.tasteofhome.com/wp-content/uploads/2018/09/IMG_3475-1.jpg"
+      ],
+      "blip_caption": "a photo of a table with a variety of sodas and water bottles",
+      "query": "flavored seltzer water bottles",
+      "dia_id": "D4:8",
+      "text": "Go for it, Sam! It's tough at first, but you got this. Try flavored seltzer water instead. It can be a great alternative to soda. Btw I can't stop thinking about that new mystery novel I started. It's so gripping!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:9",
+      "text": "Sounds good, Evan. I've tried it before and it was nice. Do you have any ideas for low-calorie snacks to pair with it? And what's the novel?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://jordecor.com/wp-content/uploads/2018/11/Photo-Nov-13-11-00-19-AM.jpg"
+      ],
+      "blip_caption": "a photo of a table with bowls of fruit and a bottle of alcohol",
+      "query": "flavored seltzer bowl colorful fruits",
+      "dia_id": "D4:10",
+      "text": "Definitely, how about some flavored seltzer with some air-popped popcorn or fruit? It's yum and healthy! The novel I'm reading is \"The Great Gatsby\"."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:11",
+      "text": "Yum, that sounds good! Thanks! And I'll definitely read that novel sometime."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://c1.peakpx.com/wallpaper/264/906/323/still-items-things-book-wallpaper-preview.jpg"
+      ],
+      "blip_caption": "a photography of a book with a green apple next to it",
+      "query": "quote progress not perfection",
+      "dia_id": "D4:12",
+      "re-download": true,
+      "text": "No worries, Sam! Focus on healthy swaps and taking small steps. Stay upbeat!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:13",
+      "text": "That reminder is inspiring. Thanks for reminding me to focus on progress, not perfection."
+    },
+    {
+      "speaker": "Evan",
+      "blip_caption": "a photo of a woman with a backpack on a mountain",
+      "dia_id": "D4:14",
+      "text": "By the way, have you thought about exercising? Trust me, it's just as important as eating right."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:15",
+      "text": "Starting tomorrow, I will go to the gym and exercise regularly. The sooner I start, the sooner I will see the rewards of this activity."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D4:16",
+      "text": "That's awesome, Sam! It's such a rewarding and tough activity - keep going and have fun!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:17",
+      "text": "Thanks, Evan! Your support means a lot. I really appreciate it."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D4:18",
+      "text": "No worries, you've got this!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D4:19",
+      "text": "Thanks, Evan. I really appreciate it."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D4:20",
+      "text": "No worries, Sam. I'm here if you need me. Keep going!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan starts reading The Great Gatsby novel."
+    ],
+    "Sam": [
+      "Sam's friends make fun of his heavy build as a result of his eating habits.",
+      "Sam joins a gym and starts exercising regularly to reduce his weight."
+    ],
+    "date": "27 July, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam's friends mocked his weight last Friday, which hurt him.",
+        "D4:1"
+      ],
+      [
+        "Sam is working on his health and getting active.",
+        "D4:3"
+      ],
+      [
+        "Sam is determined to make changes in his lifestyle, like reducing soda and candy intake.",
+        "D4:7"
+      ],
+      [
+        "Sam will start going to the gym and exercising regularly starting tomorrow.",
+        "D4:15"
+      ],
+      [
+        "Sam values and appreciates Evan's support throughout their conversation.",
+        "D4:17, D4:19"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan offers to work on improving health together with Sam.",
+        "D4:2"
+      ],
+      [
+        "Evan struggled with his health a few years ago, focusing on exercise, diet, and lifestyle changes, which made a positive impact.",
+        "D4:4"
+      ],
+      [
+        "Evan made dietary changes like cutting down on sugary snacks and eating more veggies and fruit for his health.",
+        "D4:6"
+      ],
+      [
+        "Evan enjoys reading the mystery novel 'The Great Gatsby' and finds it gripping.",
+        "D4:8"
+      ],
+      [
+        "Evan suggests flavored seltzer water as a healthier alternative to soda.",
+        "D4:8"
+      ],
+      [
+        "Evan advises Sam to focus on healthy swaps and taking small steps towards progress.",
+        "D4:12"
+      ],
+      [
+        "Evan suggests low-calorie snacks like air-popped popcorn or fruit to pair with flavored seltzer water.",
+        "D4:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

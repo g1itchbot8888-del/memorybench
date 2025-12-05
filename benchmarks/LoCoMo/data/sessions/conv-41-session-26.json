@@ -1,0 +1,152 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-26",
+  "session_number": 26,
+  "session_summary": "At 1:59 pm on 31 July, 2023, Maria and John had a conversation. Maria shared that she had dropped off baked goods at a homeless shelter, feeling motivated to help more. John was inspired by Maria's efforts and mentioned joining a fire-fighting brigade to give back to the community, finding it rewarding. He described his first rescue mission with the team, saving a family from a burning building. Maria praised John's courage, highlighting the importance of supportive teamwork. John expressed gratitude for the bond with his team, comparing it to his time in the military. Maria shared a photo from her volunteering experience, emphasizing the impact of small acts of kindness. John encouraged her to continue her positive efforts, which Maria appreciated. They both pledged to keep making a difference and supporting each other, ending the conversation on a positive note.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "dia_id": "D26:1",
+      "text": "Hey John, I'm doing ok - hope you are too. Some interesting stuff has been going on; last week I dropped off that stuff I baked at the homeless shelter. It was great and I'm more motivated than ever to help people."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:2",
+      "text": "Hey Maria, that's awesome! I'm really inspired by your drive to make a difference. You mentioned your work at the homeless shelter last time and it made me think of how I could help too, so I just joined a fire-fighting brigade. It's such a great feeling to do something to give back to my community!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D26:3",
+      "text": "Wow John, joining the fire brigade? That's great! How's it been so far?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/1bwp2zpccuo91.jpg"
+      ],
+      "blip_caption": "a photo of a firefighter's gear laid out on the floor",
+      "query": "house fire fire-fighting gear fire engine",
+      "dia_id": "D26:4",
+      "text": "Thanks, Maria! It's been tough, but really rewarding. The training was intense and taxing, but it changed my view on helping others. Last Sunday we had our first call-out, and it was intense. We responded to a situation and our team worked together to help those in need. Seeing their relief was awesome."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D26:5",
+      "text": "Wow, John! What was it like being part of that rescue mission?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:6",
+      "text": "It was chaotic when we arrived, but we pulled together. I got a surge of energy and purpose, and we were able to save a family from a burning building. It was wild, but knowing we made a difference made it worth it."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D26:7",
+      "text": "Wow John, that's intense! Helping out like that takes guts - it's inspiring to hear about the difference you made."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:8",
+      "text": "Thanks, Maria! It was an adrenaline rush, and I couldn't have done it without them. We trust and rely on one another, and it's great to know that we have each other's backs. They've become like family to me."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D26:9",
+      "text": "Sounds great, John! It must feel incredible to have a supportive team like that."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:10",
+      "text": "Yeah, it really does feel helpful, Maria. We have different skills and talents, but they all contribute to serving and protecting our community. And it's a bond I haven't felt since my time in the military."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D26:11",
+      "text": "Glad you've found that same strong bond. Having friends you can rely on makes a huge difference."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:12",
+      "text": "Yeah, Maria! It's nice to know we're all in this together, striving to keep our community safe. I find it fulfilling and meaningful."
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://sophieelliottfoundation.co.nz/wp-content/uploads/sites/30/2020/08/SLRA-summer-party-james-hopkirk-low-res-026.jpg"
+      ],
+      "blip_caption": "a photography of a group of people standing around a table with food",
+      "query": "homeless shelter sign kindness compassion",
+      "dia_id": "D26:13",
+      "re-download": true,
+      "text": "Yeah John! It feels great to help people, and you're so awesome for it! Here's a shot I got when I volunteered. Reminds me being kind matters!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:14",
+      "text": "That's a cool photo, Maria! Small acts like that can really make a difference. Keep it up!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D26:15",
+      "text": "Thanks, John! I totally agree, so I'm gonna keep it up."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:16",
+      "text": "Way to go, Maria! Keep on being positive and making a difference. You're doing great!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D26:17",
+      "text": "Thanks John! Your support means a lot to me. I'll definitely keep on going. Talk to you soon!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John joins a fire-fighting brigade to serve in his community more directly and contribute his skills.",
+      "John undergoes intense training as part of the fire-fighting brigade and gets the opportunity to save a family from a burning building with the team."
+    ],
+    "Maria": [],
+    "date": "31 July, 2023"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria dropped off baked goods at a homeless shelter last week and is motivated to help people.",
+        "D26:1"
+      ],
+      [
+        "Maria volunteers at a homeless shelter and is driven to make a difference.",
+        "D26:1"
+      ],
+      [
+        "Maria shared a photo from her volunteer work that reminds her of the importance of kindness.",
+        "D26:13"
+      ]
+    ],
+    "John": [
+      [
+        "John joined a firefighting brigade to give back to his community.",
+        "D26:2"
+      ],
+      [
+        "John had his first call-out with the firefighting brigade last Sunday to help those in need.",
+        "D26:4"
+      ],
+      [
+        "John was a part of a rescue mission that saved a family from a burning building.",
+        "D26:6"
+      ],
+      [
+        "John mentioned his military background and the sense of bond and support he feels in the firefighting brigade.",
+        "D26:10"
+      ],
+      [
+        "John believes in having friends you can rely on, as he finds it makes a huge difference.",
+        "D26:11"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

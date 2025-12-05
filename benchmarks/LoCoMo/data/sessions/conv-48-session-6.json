@@ -1,0 +1,137 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-6",
+  "session_number": 6,
+  "session_summary": "Jolene, buzzing from a night out, spoke with Deborah at 4:12 pm on 22 February, 2023. Deborah found solace in a garden after losing a friend, where she cherished memories and photos. Jolene admired the flowers and they discussed travel, with Deborah fondly recalling Bali. They also talked about trying beach yoga. Deborah encouraged Jolene to enjoy the experience and advised her to take care.",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/l2ug8nsuyt0b1.jpg"
+      ],
+      "blip_caption": "a photo of a plate of food and a glass of wine",
+      "query": "friends toast drinks",
+      "dia_id": "D6:1",
+      "text": "Hey Deborah, totally buzzing! Had a great night out last night - dinner, and drinks with my friends. So glad I got to let my hair down. You?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrcCxkcqe0DgHUVVqbd_YzertOqBQr0xfgZsSIgfLnWCCm8hh-gbggmBWzSnBLHfRuzRH9Z8nKkHZBaxBp3siwhJfyoUMzkM48nD0QSEHLQ-x6Mh2TpD00a_78-zVImBnIe2BQguR_B9W0FD12fOo6NceMKKfnprpIqnsVwl7ERzIBfSbB-VggxYMPdg/s4032/IMG_4386.jpg"
+      ],
+      "blip_caption": "a photo of a garden with a bunch of flowers in buckets",
+      "query": "bench flowers nostalgia",
+      "dia_id": "D6:2",
+      "text": "Sounds great, Jolene! I just visited this place and it was so calming. Nostalgic too."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D6:3",
+      "text": "Wow, those flowers are beautiful! What type are they? It looks so peaceful there."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D6:4",
+      "text": "The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D6:5",
+      "text": "Sorry to hear about your friend, Deb. Losing someone can be really tough. How are you holding up?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D6:6",
+      "text": "Thanks for the kind words. It's been tough, but I'm comforted by remembering our time together. It reminds me of how special life is."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D6:7",
+      "text": "Memories can give us so much comfort and joy."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://i.pinimg.com/originals/cc/79/b1/cc79b1f0ce550924e25b629477305e48.jpg"
+      ],
+      "blip_caption": "a photo of two women are riding on a motorcycle on a dirt road",
+      "query": "friend hike laughing",
+      "dia_id": "D6:8",
+      "text": "Memories keep our loved ones close. This is the last photo with Karlie which was taken last summer when we hiked. It was our last one. We had such a great time! Every time I see it, I can't help but smile."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D6:9",
+      "text": "Wow, looks like a great trip! Where else have you traveled?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://zohrasrose.files.wordpress.com/2022/01/img_1273.jpg"
+      ],
+      "blip_caption": "a photo of a swing on a beach with a blue sky",
+      "query": "bali yoga beach",
+      "dia_id": "D6:10",
+      "text": "I've been blessed to travel to a few places and Bali last year was one of my favs. It was a gorgeous island that gave me peace, great for yoga."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D6:11",
+      "text": "Wow, that's great! Is yoga on the beach a thing? I've been wanting to try it."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D6:12",
+      "text": "The sound of the waves and the fresh air is wonderful!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D6:13",
+      "text": "I'll definitely give it a go! It sounds peaceful. Thanks!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D6:14",
+      "text": "Let me know how it goes. Enjoy it!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D6:15",
+      "text": "I'll keep you posted if I decide to go there."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D6:16",
+      "text": "Take care!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah's friend Karlie passes away.",
+      "Deborah copes with Karlie's passing away by visiting flower gardens and remembering their time together."
+    ],
+    "Jolene": [
+      "Jolene goes out with her friends for dinner and drinks to let her hair down."
+    ],
+    "date": "22 February, 2023"
+  },
+  "observations": {
+    "Jolene": [],
+    "Deborah": [
+      [
+        "Deborah finds peace and comfort in roses and dahlias in her garden after losing a friend last week.",
+        "D6:4"
+      ],
+      [
+        "A photo of the last hike with her friend Karlie brings a smile to Deborah's face whenever she sees it.",
+        "D6:8"
+      ],
+      [
+        "Deborah traveled to Bali last year, one of her favorite places, for peace and yoga.",
+        "D6:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

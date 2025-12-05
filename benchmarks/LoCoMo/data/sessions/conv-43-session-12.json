@@ -1,0 +1,242 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-12",
+  "session_number": 12,
+  "session_summary": "At 3:00 pm on 2 October, 2023, Tim and John caught up. John shared about his intimate wedding ceremony in a greenhouse venue that followed safety protocols, filled with loved ones. Tim admired the special day and asked about favorite memories. John mentioned the magical moment of seeing his bride walk down the aisle and their first dance in a cozy restaurant. They expressed how love brings joy. Tim congratulated John, admired the love between the couple, and shared his favorite fantasy novels. They later discussed John's love for collecting jerseys and admiration for LeBron James. John met LeBron and saw him play live, finding it inspiring. Tim encouraged John to continue pursuing what he loves.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "blip_caption": "a photo of a bookcase filled with dvds and games",
+      "dia_id": "D12:1",
+      "text": "Hey John! Awesome catchin' up with you! A lot's changed since last time."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://platinumnotary.files.wordpress.com/2023/03/img-6679.jpg"
+      ],
+      "blip_caption": "a photo of a wedding ceremony in a greenhouse with people taking pictures",
+      "query": "wedding ceremony",
+      "dia_id": "D12:2",
+      "text": "Hey, Tim! Good to hear from you. Anyway, a lot has been going on with me. My girlfriend and I had an amazing and emotional wedding ceremony last week."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:3",
+      "text": "Congrats! That was such a special day! How did you manage to have the ceremony during these times?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D12:4",
+      "text": "Thanks! We were lucky to find a lovely greenhouse venue for a smaller, more intimate gathering. We made sure to follow the necessary safety protocols and ensure that everyone felt safe. It was wonderful to have our loved ones celebrate with us."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:5",
+      "text": "Awesome! It sounds like you found a great venue and had your loved ones celebrate with you. Weddings are definitely full of joy!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D12:6",
+      "text": "Yeah! Such a great day! It was so beautiful having everyone celebrating with us. I'd never felt so much love and happiness before. Some of my hiking club friends came even though I just joined!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:7",
+      "text": "Wow! Your wedding day must've been so special. Love sure does bring us joy, huh? Any favorite memories from the big day?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://images.pexels.com/photos/8815283/pexels-photo-8815283.jpeg"
+      ],
+      "blip_caption": "a photography of a bride walking down the aisle with her groom",
+      "query": "wife walking down the aisle moment",
+      "dia_id": "D12:8",
+      "re-download": true,
+      "text": "Oh yeah! Picking a favorite memory was tough, but seeing her walking down the aisle, her face lit up and it got me all choked up. What a magical moment - one I'll always remember."
+    },
+    {
+      "speaker": "Tim",
+      "blip_caption": "a photo of a desk with a bookcase full of books and a lot of other items",
+      "dia_id": "D12:9",
+      "text": "I bet that moment was unreal! One moment can make such an impression. I saw your photo of you two dancing, it must have been incredible. Wanna tell me more?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D12:10",
+      "text": "That dance was great! We had our first dance at a cozy restaurant. It was so dreamy with the music and candlelight. We were so lucky to have everyone with us!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:11",
+      "text": "Wow, a candlelit dance in a cozy restaurant! Sounds like a fairytale! So special to share with your loved ones. Weddings truly are the best!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D12:12",
+      "text": "Thanks! It was a great day. Having everyone there made it extra special. It's moments like these that bring love and joy."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:13",
+      "text": "Congrats again! Love is truly magical and brings so much joy. I'm so happy for you and your new wife!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D12:14",
+      "text": "Thanks so much! Your words mean a lot. I'm lucky to have you in my life, bringing so much love and joy."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://i.redd.it/z6jusjhd0pd71.jpg"
+      ],
+      "blip_caption": "a photo of a bookcase filled with dvds and games",
+      "query": "bookshelf fantasy novels",
+      "dia_id": "D12:15",
+      "text": "Thanks. Your friendship means a lot to me. I'm here for you anytime. I also wanted to share this bookshelf with you. It's filled with my favorite fantasy novels."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D12:16",
+      "text": "Cool! What do you enjoy about them so much?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:17",
+      "text": "They really fire up my imagination and take me to alternate realities. They're my escape from reality."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/odlwr40mol581.jpg"
+      ],
+      "blip_caption": "a photo of a bunch of basketball jerseys laying on a bed",
+      "query": "basketball jerseys collection",
+      "dia_id": "D12:18",
+      "text": "That's great Tim! Books and movies make us escape to different places. I like to collect jerseys."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:19",
+      "text": "Cool! Who's your favorite basketball team/player?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D12:20",
+      "text": "Thanks! The Wolves are my team for sure. And LeBron is the man - love his skills and leadership."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:21",
+      "text": "The Wolves are solid and LeBron's skills and leadership are amazing."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a group of people standing on a basketball court",
+      "dia_id": "D12:22",
+      "text": "I really admire his work ethic and dedication to the game, such an inspiration."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:23",
+      "text": "LeBron is incredible. Have you ever had the opportunity to meet him or see him play live?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D12:24",
+      "text": "Yeah, I've had the chance to meet him a few times. He's real chill and it was a wild experience. I also had the opportunity to see him play live. It was tough, but I learned a lot from watching a top player like him."
+    },
+    {
+      "speaker": "Tim",
+      "blip_caption": "a photo of a crowd of people at a concert with their hands in the air",
+      "dia_id": "D12:25",
+      "text": "Wow! Meeting him and seeing him play must've been awesome. I can only imagine his skills up close."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://get.pxhere.com/photo/structure-crowd-audience-basketball-stadium-arena-sports-miami-sport-venue-soccer-specific-stadium-music-venue-basketball-moves-slam-dunk-miami-heat-game-miami-heat-1383801.jpg"
+      ],
+      "blip_caption": "a photo of a basketball game with a crowd of people watching",
+      "query": "basketball game crowd",
+      "dia_id": "D12:26",
+      "text": "It was so amazing! The energy was crazy and everyone was so hyped. Seeing the top players was so motivating - it made me want to work even harder. Check out this pic from the game!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:27",
+      "text": "That crowd looks wild! The game must've been amazing!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D12:28",
+      "text": "The energy was incredible! It's moments like these that make me love my job."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D12:29",
+      "text": "Cool! It's great to find something you enjoy doing. Keep going for it! See ya later!"
+    }
+  ],
+  "events": {
+    "Tim": [],
+    "John": [
+      "John ties the knot with his long-time girlfriend in an emotional wedding ceremony at a greenhouse."
+    ],
+    "date": "2 October, 2023"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim has a bookshelf filled with favorite fantasy novels that he enjoys for escapism.",
+        "D12:15"
+      ],
+      [
+        "Tim collects jerseys and has an interest in basketball.",
+        "D12:18"
+      ],
+      [
+        "Tim's favorite basketball team is The Wolves and his favorite player is LeBron, admiring his skills and leadership.",
+        "D12:20"
+      ],
+      [
+        "Tim appreciates LeBron's work ethic and dedication to the game, finding him inspiring.",
+        "D12:22"
+      ],
+      [
+        "Tim has not only met LeBron a few times but also had the opportunity to see him play live.",
+        "D12:24"
+      ]
+    ],
+    "John": [
+      [
+        "John recently had an emotional wedding ceremony in a lovely greenhouse venue with safety protocols for an intimate gathering.",
+        "D12:4"
+      ],
+      [
+        "John is a member of a hiking club, even though he just joined.",
+        "D12:6"
+      ],
+      [
+        "John's favorite memory from his wedding day is seeing his wife walking down the aisle, which made him emotional.",
+        "D12:8"
+      ],
+      [
+        "John had their first dance with his wife at a cozy restaurant with music and candlelight, finding it dreamy.",
+        "D12:10"
+      ],
+      [
+        "John values moments filled with love and joy, believing that they are special.",
+        "D12:12"
+      ],
+      [
+        "John enjoys watching basketball games, finding them motivating, and admires top players like LeBron for their skills.",
+        "D12:24"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

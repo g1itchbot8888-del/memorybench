@@ -1,0 +1,194 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-17",
+  "session_number": 17,
+  "session_summary": "At 1:25 pm on 9 July, 2023, Gina and Jon caught up with Gina sharing her fashion success and Jon discussing his plans to go full-time with his business idea after losing his job. Gina encouraged Jon, emphasizing that stumbling blocks can lead to new opportunities. Jon expressed gratitude for Gina's support and mentioned his goal to mentor aspiring dancers. Gina praised Jon's positivity and determination, emphasizing community support in achieving dreams. Jon thanked Gina for her unwavering faith, promising not to give up. They exchanged encouraging words, with Gina rooting for Jon to overcome obstacles and achieve his dreams. Jon affirmed he would persevere, driven by their support. The conversation ended with mutual appreciation and well wishes.",
+  "conversation_turns": [
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a mannequin in a room with a wood wall",
+      "dia_id": "D17:1",
+      "text": "Hey Jon! Long time no chat! How's the dance studio? Last week was wild, I got noticed by fashion editors and it's been amazing but kinda scary. Everything's exciting but it's a lot of pressure to keep going up!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D17:2",
+      "text": "Hey Gina! Congrats on the fashion editors reach-out, that's awesome! Dance practice has been fun and exhausting. I'm gonna stay determined and make my own path by going full-time with my biz idea."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D17:3",
+      "text": "Just remember that sometimes stumbling blocks can be opened doors. Keep going!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D17:4",
+      "text": "Thanks! Your support and encouragement means a lot. Losing my job was a bummer, but it pushed me to take the plunge and go for my biz dreams. Started to learn all these marketing and analytics tools to push the biz forward today. It's been tricky, but I'm up for the challenge and I'm gonna make this work!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D17:5",
+      "text": "Go get 'em, Jon!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D17:6",
+      "text": "I'm also excited to guide and mentor aspiring dancers on their dreams."
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a drawing of a couple dancing",
+      "dia_id": "D17:7",
+      "text": "Wow, Jon! That's awesome. Loving what you do and bringing joy to others is so rewarding. You're definitely the perfect mentor & guide. Your positivity and determination will make your dance studio a hit!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D17:8",
+      "text": "Thanks, Gina - really appreciate your words and encouragement! Dance has the power to bring us together and create sweet moments. Moments like this remind me why I'm chasing my dream and keep me pushing through any struggles."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D17:9",
+      "text": "Take comfort in knowing you've got a solid community cheering you on, me included. Keep on pushing!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D17:10",
+      "text": "Feeling supported by all of you means so much. It gives me the oomph to keep chasing my dreams. Your faith in me is priceless - I won't let you down!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D17:11",
+      "text": "Don't let anything stop you. You have potential!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D17:12",
+      "text": "Thanks, Gina! Your faith in me is a real boost. I'm gonna make my dreams come true!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D17:13",
+      "text": "Keep pushing and you'll get there. Your dreams are so close!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D17:14",
+      "text": "Thanks, Gina! I won't quit, even when it's hard. I'm gonna make it!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D17:15",
+      "text": "You got this, Jon! Don't let the bumps in the road bring you down. Keep going and make your dreams a reality! I'm rooting for you!"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a chalkboard with a quote written on it",
+      "dia_id": "D17:16",
+      "text": "Thanks, Gina! Your belief in me means the world. I'm not gonna let anything or anyone stop me. I'll keep pushing and make my dreams come true. Thanks for being a great friend. You rock!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D17:17",
+      "text": "Hey Jon, glad I could help! Always here to cheer you on."
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://i.redd.it/1jjaus9f0sab1.jpg"
+      ],
+      "blip_caption": "a photo of a drawing of a smiley face floating in the water",
+      "query": "childhood drawing soaring sky",
+      "dia_id": "D17:18",
+      "text": "Thanks! Glad that you are on my side."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D17:19",
+      "text": "Sure, see ya. Bye!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D17:20",
+      "text": "Bye!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D17:21",
+      "text": ";)"
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon starts to learn how to use modern tools and software for marketing and analytics."
+    ],
+    "Gina": [
+      "Gina starts to get recognized by fashion editors."
+    ],
+    "date": "9 July, 2023"
+  },
+  "observations": {
+    "Gina": [
+      [
+        "Gina got noticed by fashion editors last week.",
+        "D17:1"
+      ],
+      [
+        "Gina believes that stumbling blocks can sometimes be opened doors.",
+        "D17:3"
+      ],
+      [
+        "Gina supports and encourages Jon in his business dreams.",
+        "D17:4"
+      ],
+      [
+        "Gina considers Jon to be the perfect mentor and guide for aspiring dancers.",
+        "D17:7"
+      ],
+      [
+        "Gina is part of a solid community that cheers Jon on.",
+        "D17:9"
+      ],
+      [
+        "Gina believes Jon has potential and encourages him not to let anything stop him.",
+        "D17:11"
+      ],
+      [
+        "Gina roots for Jon to keep going and make his dreams a reality, even when facing bumps in the road.",
+        "D17:15"
+      ]
+    ],
+    "Jon": [
+      [
+        "Jon mentioned losing his job but is determined to pursue his business dreams.",
+        "D17:4"
+      ],
+      [
+        "Jon started learning marketing and analytics tools to push his business forward.",
+        "D17:4"
+      ],
+      [
+        "Jon aspires to guide and mentor aspiring dancers on their dreams.",
+        "D17:6"
+      ],
+      [
+        "Jon believes dance has the power to bring people together and create sweet moments.",
+        "D17:8"
+      ],
+      [
+        "Jon values the support and encouragement from Gina and the community in pursuing his dreams.",
+        "D17:10"
+      ],
+      [
+        "Jon is determined not to let anything or anyone stop him from making his dreams come true.",
+        "D17:16"
+      ],
+      [
+        "Jon expresses gratitude for Gina's belief in him and considers her a great friend.",
+        "D17:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

@@ -1,0 +1,130 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-27",
+  "session_number": 27,
+  "session_summary": "Jolene and Deborah had a conversation at 2:18 pm on 12 September, 2023. Jolene shared about her meditation retreat in Phuket, emphasizing the importance of balance and inner peace. Deborah inquired about Jolene's reflections, leading to a discussion on appreciating the journey and small moments in life. They both highlighted the significance of mindfulness and gratitude for happiness. Jolene expressed her newfound joy and Deborah commended her progress. They agreed on the value of a supportive community and planned to play a card game together in the future.",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "blip_caption": "a photo of a woman doing a yoga pose on the beach",
+      "dia_id": "D27:1",
+      "text": "Hey Deb! So sorry for the late reply, been super busy. Last weekend my partner and I traveled to a meditation retreat for a few weeks in Phuket. Amazing experience! Nature, reflection and a break from engineering studies were awesome - it helped me find inner peace."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D27:2",
+      "text": " I'd love to hear more about your reflections there and how they changed you."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D27:3",
+      "text": "At the retreat, I had time to reflect on what makes me happy. It made me realize the importance of incorporating relaxation, self-care, and balance in life alongside my engineering studies. The beauty of nature there was so inspiring and refreshing!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D27:4",
+      "text": " Was there anything from the retreat that stood out to you?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D27:5",
+      "text": "The one session that really stood out was about releasing expectations and judgments and just savoring the present. It was a strong reminder to not just dwell on the finish line, but to appreciate the journey too. I usually get too consumed with hitting my goals that I forget to appreciate the ride."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D27:6",
+      "text": " I've been thinking about this a lot, too. Life's full of small moments and being grateful for those can really boost our happiness."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D27:7",
+      "text": "Yup, totally agree! Sometimes we get too focused on the big stuff and don't appreciate all the tiny wins. Like the feeling of the sun or a great cup of coffee - can be small but they make life much better. Trying to be more mindful and grateful to take it all in now."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D27:8",
+      "text": "That's great, Jolene! Practicing mindfulness and gratitude can really change our day-to-day. Even just a different outlook can make the little things in life joyful. Glad you're getting into it!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D27:9",
+      "text": "I'm experiencing a new level of joy and happiness!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D27:10",
+      "text": " It's wonderful to see your progress, and I'm excited to be on this journey with you!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D27:11",
+      "text": "Thanks, Deb! Appreciate your support. It's great that we can do this together."
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of two children standing on yoga mats in a room",
+      "dia_id": "D27:12",
+      "text": "Having a supportive community definitely helps. We can motivate and encourage each other! By the way, I recently played a game. I don't remember what it's called. This is a card game about cats, where you take cards one by one from a deck, and then you can attack your opponent with them. We'll definitely play it with you!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D27:13",
+      "text": "I look forward to meeting you and playing this game!"
+    }
+  ],
+  "events": {
+    "Deborah": [],
+    "Jolene": [
+      "Jolene and her partner travel to a meditation retreat in Phuket, Thailand."
+    ],
+    "date": "12 September, 2023"
+  },
+  "observations": {
+    "Jolene": [
+      [
+        "Jolene and her partner traveled to a meditation retreat in Phuket for a few weeks.",
+        "D27:1"
+      ],
+      [
+        "At the retreat, Jolene realized the importance of relaxation, self-care, and balance alongside her engineering studies.",
+        "D27:3"
+      ],
+      [
+        "Jolene found inspiration and refreshment in the beauty of nature at the retreat.",
+        "D27:3"
+      ],
+      [
+        "Jolene was reminded at the retreat to appreciate the journey and not just focus on the finish line, as she tends to get consumed with hitting her goals.",
+        "D27:5"
+      ],
+      [
+        "Jolene is trying to be more mindful and grateful to appreciate the small joys in life.",
+        "D27:7"
+      ],
+      [
+        "Jolene is experiencing a new level of joy and happiness.",
+        "D27:9"
+      ]
+    ],
+    "Deborah": [
+      [
+        "Deborah was curious to hear more about Jolene's reflections from the meditation retreat and how they changed her.",
+        "D27:2"
+      ],
+      [
+        "Deborah also sees the importance of appreciating small moments in life to boost happiness.",
+        "D27:6"
+      ],
+      [
+        "Deborah believes that practicing mindfulness and gratitude can positively impact day-to-day life.",
+        "D27:8"
+      ],
+      [
+        "Deborah played a card game about cats where you can attack your opponent with the cards, and she plans to play it with Jolene.",
+        "D27:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

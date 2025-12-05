@@ -1,0 +1,195 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-15",
+  "session_number": 15,
+  "session_summary": "Audrey, at 9:58 pm on 16 August, 2023, excitedly told Andrew she got a tattoo of her four dogs. She shared that she took the dogs to the vet together last time which was hectic, and they each have a favorite spot to relax at home. Andrew mentioned visiting a farm for fresh veggies with his girlfriend. The two admire each other's pet photos and discuss the joy pets bring. Audrey shared a photo of her dogs snuggling, and Andrew showed his dog Toby's favorite spot. They discussed how pets always find comfort and joy in their cozy spaces. Audrey expressed how much her dogs mean to her, saying they are best friends and bring happiness. Andrew agreed, calling pets family and mentioning the joy they bring. Audrey shared a photo of her lying on the grass with her dogs, reflecting on the wonderful time they had outside. Andrew encouraged her to cherish those moments, to which Audrey expressed gratitude, saying her pets make life brighter.",
+  "conversation_turns": [
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.pinimg.com/originals/a3/1d/79/a31d794799464fd294587fe666da891d.jpg"
+      ],
+      "blip_caption": "a photo of a person with a tattoo on their hand",
+      "query": "tattoo four dogs arm",
+      "dia_id": "D15:1",
+      "text": "Hey Andrew, since we last spoke I got another tattoo of my four dogs on my arm! They really mean a lot to me so I thought it'd be nice to have them with me wherever I go. What've you been up to?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D15:2",
+      "text": "Wow that's so cool! I recently went to a farm with my girlfriend to get some fresh veggies for dinner, and it was really nice. Have you been thinking about getting more fur babies or is four enough?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Dogs_playing_at_dog_park.JPG"
+      ],
+      "blip_caption": "a photography of a group of people walking with dogs in a park",
+      "query": "four dogs playing park",
+      "dia_id": "D15:3",
+      "re-download": true,
+      "text": "Sounds great! I'd love to have more, but four is enough for now. They keep me busy and I want to make sure I give each of them the attention they deserve - four dogs is already a lot! I took them all to the vet and got them checked up, it was such a havoc that next time I'll bring them one by one."
+    },
+    {
+      "speaker": "Andrew",
+      "blip_caption": "a photo of a dog laying on a rug eating lettuce",
+      "dia_id": "D15:4",
+      "text": "Oof, that vet trip must have been chaotic. Yeah I'm sure they keep you busy! That photo you shared was sweet - do they have a favorite spot to relax?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D15:5",
+      "text": "Yeah, for sure. They each have their favorite spot to chill. Pepper loves lounging on the couch, Pixie always curls up in her bed, Precious has her chair, and Panda loves to relax on his rug! They all have their own little cozy spots."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://lucky-paws.co/cdn/shop/products/image_b74722d8-a1e0-4dcc-81a8-faa99fed31cb_1.jpg"
+      ],
+      "blip_caption": "a photo of a dog laying on a fluffy blanket on the floor",
+      "query": "cozy dog bed blanket",
+      "dia_id": "D15:6",
+      "text": "That sounds adorable! Pets always find their own little spots and it brings so much joy and comfort. Here's Toby at his favorite spot."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://freerangestock.com/sample/87785/puppy-love.jpg"
+      ],
+      "blip_caption": "a photography of two dogs laying on a blanket on a couch",
+      "query": "pepper pixie dogs cuddling fluffy blanket",
+      "dia_id": "D15:7",
+      "re-download": true,
+      "text": "Yeah, they sure know how to get comfy! Here's a pic of them snuggling on my favorite blanket."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D15:8",
+      "text": "Aww, they're so adorable! They look so cozy. Do they always sleep like that?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D15:9",
+      "text": "Yeah, they always sleep like that. They cuddle up together, especially when it's time to nap. They really are best friends."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D15:10",
+      "text": "Wow that's awesome! It must be great having furry friends to keep each other company."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D15:11",
+      "text": "Yeah, they're always there for each other. Seeing them together makes me so happy."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D15:12",
+      "text": "That sounds wonderful. No wonder it brings you so much happiness to have them around!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D15:13",
+      "text": "Yeah they mean the world to me, so I can't imagine life without them."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/5kklgil5t9qb1.jpg"
+      ],
+      "blip_caption": "a photo of a man laying on a couch with a dog",
+      "query": "man hugging dog",
+      "dia_id": "D15:14",
+      "text": "Totally get it, pets bring such joy and feel like family. I can't imagine life without them."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i2.pickpik.com/photos/498/107/776/dog-girl-de-dogue-preview.jpg"
+      ],
+      "blip_caption": "a photography of a woman sitting in a field with two dogs",
+      "query": "person lying grass dogs",
+      "dia_id": "D15:15",
+      "re-download": true,
+      "text": "Yep, pets are family. It's so sweet to see the connection between them. Here's a photo of me lying on the grass with them."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D15:16",
+      "text": "Wow, that's a great pic! Looks like you guys had a really good time outside."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D15:17",
+      "text": "Oh yeah it was a great day - we had tons of fun outside."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D15:18",
+      "text": "Glad you had a blast with them. Cherish those memories!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D15:19",
+      "text": "Thanks! I'll always cherish those moments. They really make life so much brighter."
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey gets a second tattoo of all four of her dogs on her arm.",
+      "Audrey visits her local vet clinic to get her four dogs checked up and decides to take them one-by-one next time to avoid the chaos of dealing with all four of them simultaneously."
+    ],
+    "Andrew": [
+      "Andrew and his girlfriend visit a local farm to pick some fresh produce for their dinner."
+    ],
+    "date": "16 August, 2023"
+  },
+  "observations": {
+    "Audrey": [
+      [
+        "Audrey got another tattoo of her four dogs on her arm as they mean a lot to her.",
+        "D15:1"
+      ],
+      [
+        "Audrey has four dogs as pets and finds them to be enough for now to give them proper attention.",
+        "D15:3"
+      ],
+      [
+        "Pepper, Pixie, Precious, and Panda are the names of Audrey's dogs, each having their own favorite spot to relax.",
+        "D15:5"
+      ],
+      [
+        "Audrey's dogs cuddle up together when it's time to nap and are best friends.",
+        "D15:9"
+      ],
+      [
+        "Audrey can't imagine life without her dogs as they mean the world to her.",
+        "D15:13"
+      ],
+      [
+        "Audrey considers her pets to be family and believes they bring joy and happiness to her life.",
+        "D15:14"
+      ]
+    ],
+    "Andrew": [
+      [
+        "Andrew went to a farm with his girlfriend to get fresh veggies for dinner.",
+        "D15:2"
+      ],
+      [
+        "Andrew shared a photo of his pet, Toby, at its favorite spot.",
+        "D15:6"
+      ],
+      [
+        "Andrew appreciates the joy and comfort pets bring by finding their own little spots.",
+        "D15:6"
+      ],
+      [
+        "Andrew acknowledges the happiness pets bring and can't imagine life without them.",
+        "D15:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

@@ -1,0 +1,191 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-5",
+  "session_number": 5,
+  "session_summary": "Gina and Jon caught up at 9:32 am on 8 February, 2023. Gina shared about a new fashion piece for her store, while Jon told her about his dance performance. Jon spoke about his passion for running a dance studio and how fulfilling it is to see his students progress. Gina complimented Jon on his dedication and creativity, while Jon praised Gina for her willingness to take risks in her business. They both agreed that taking risks is essential for success. Jon shared his ambition to turn his passion for dance into a business. Gina supported Jon, reminding him not to give up on his dreams. They discussed the importance of freedom in expressing themselves through dance. Jon mentioned the challenges of balancing his dance and business goals but finds it rewarding. Gina encouraged Jon to keep going and not stop dreaming. They both expressed mutual support and determination to chase their dreams and move forward.",
+  "conversation_turns": [
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a group of women posing with a giant balloon",
+      "dia_id": "D5:1",
+      "re-download": true,
+      "text": "Hey Jon! Great hearing from you again. How have you been? BTW, I found a cool new fashion piece for my store. Can't wait to share with my customers."
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a group of young girls in a dance studio",
+      "dia_id": "D5:2",
+      "re-download": true,
+      "text": "Hey Gina! Congrats on the new fashion piece! Looks like your store is growing. Remenber the festival I told you about? Had that performance and it was awesome - so many people there complementing my dance moves. Dancing brings me joy and it was nice to be reminded why I'm passionate about it."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D5:3",
+      "text": "Wow! That looks great. You look badass on stage. BTW, what's your favorite part of running your own studio?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D5:4",
+      "text": "Thanks, Gina! I love running my own studio. It's great having the freedom to create a space and help dancers of all ages and levels express themselves. I'm super thrilled about dancing each day and seeing my students progress. It's so fulfilling."
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://circlecraftmarket.files.wordpress.com/2017/11/adhesif-3.jpg"
+      ],
+      "blip_caption": "a photo of a rack of clothes with a coat and a dress",
+      "query": "unique artwork clothing",
+      "dia_id": "D5:5",
+      "text": "That's awesome! I'm sure you feel great knowing your students are doing so well with dance. It's amazing what it can do for people! Oh, and btw - I've been working hard on my online store and just teamed up with a local artist for some cool designs. Check 'em out!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D5:6",
+      "text": "It looks awesome. Your commitment and creativity in your business really stands out. How'd you come up with these cool designs?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D5:7",
+      "text": "Thanks Jon! I got the idea from a fashion mag and saw there wasn't much around like it. So I worked with the artist to make it happen - it's all about being ahead of the game and giving my customers something different."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D5:8",
+      "text": "Nice one, Gina! You never shy away from a challenge and always try something new. I'm impressed by your willingness to take risks - it's really inspiring."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D5:9",
+      "text": "Thanks! Taking risks is scary but it's the only way to grow, right? Just part of the journey to success."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D5:10",
+      "text": "Yeah, I totally agree - taking risks is key for success. It's made me grow, and even got me out of my secure 9-5 as a banker. Now, I'm aiming to turn my dancing passion into a business. I'm determined to make it work, I just know it! That being said, I definitely don't underestimate the difficulties - it ain't been a walk in the park, that's for sure."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D5:11",
+      "text": "It's tough starting a biz, but don't let it get you down. You can make your studio work, I'm sure. And remember, I'm always here for you."
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://live.staticflickr.com/381/19379909243_9683e023fc_z.jpg"
+      ],
+      "blip_caption": "a photography of a cartoon character with a quote about fear",
+      "query": "motivational quote \"everything you want is on the other side of fear\"",
+      "dia_id": "D5:12",
+      "re-download": true,
+      "text": "Thanks, Gina. Your help means a lot. I'll keep plugging away and stay optimistic."
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a woman standing on a balcony with a blue dress",
+      "dia_id": "D5:13",
+      "re-download": true,
+      "text": "This quote kept me positive through tough times. We all need a push sometimes, right? Even made a tattoo to remind myself about it."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D5:14",
+      "text": "Love the tattoo, did you just get it?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D5:15",
+      "text": "Thanks! Got the tattoo a few years ago, it stands for freedom - dancing without worrying what people think. A reminder to follow my passions and express myself."
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a woman in a tutu posing for a picture",
+      "dia_id": "D5:16",
+      "text": "Nice reminder, Gina! It's so important to have freedom and express ourselves without worry. Dance gives me an escape to be myself."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D5:17",
+      "text": "Totally agree, Jon. Dancing lets us be ourselves and ain't nothing like the feeling it gives us. You're so dedicated to your studio, it's inspiring. Chase those dreams, buddy!"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a trophy with a glass globe on top",
+      "dia_id": "D5:18",
+      "text": "Thanks, Gina! Your support means so much. I'm gonna keep chasing after those dreams. Dance is my passion, and I'm gonna keep working hard to make it a success!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D5:19",
+      "text": "This is the right attitude! How have you been juggling dance and business goals?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D5:20",
+      "text": "Thanks! Juggling both my passions can be tricky, but so rewarding. Dancing and running my biz need hard work, plus they give me energy for each other. My dance moves get me pumped to tackle my business goals, and successes there boost my drive to keep dreaming on the dance floor. It's a balancing act, but fun."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D5:21",
+      "text": "Wow, Jon! You're amazing at juggling both your passions. Finding that happy medium is key - keep going and don't stop dreaming, buddy!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D5:22",
+      "text": "Thanks, Gina! Your pep-talk really meant a lot. I'm not gonna give up on my dreams - my dance studio and biz ventures need the hard work I'm putting in. Love having you in my corner, thanks for always being there!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D5:23",
+      "text": "Yeah Jon, I'm here for you! Chasing our dreams and helping each other out. Let's keep movin' forward!"
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon puts up a performance showcasing his dance moves at a local festival."
+    ],
+    "Gina": [
+      "Gina works with an artist to acquire a new fashion piece for her store."
+    ],
+    "date": "8 February, 2023"
+  },
+  "observations": {
+    "Gina": [
+      [
+        "Gina owns a store where she sells fashion pieces.",
+        "D5:1"
+      ],
+      [
+        "Gina has an online store and recently teamed up with a local artist for some cool designs.",
+        "D5:5"
+      ],
+      [
+        "Gina got a tattoo a few years ago that stands for freedom and a reminder to follow her passions and express herself.",
+        "D5:15"
+      ]
+    ],
+    "Jon": [
+      [
+        "Jon is a dancer who runs his own dance studio.",
+        "D5:4"
+      ],
+      [
+        "Jon left his secure 9-5 job as a banker to pursue his passion for dancing and turn it into a business.",
+        "D5:10"
+      ],
+      [
+        "Jon finds joy and passion in dancing.",
+        "D5:2"
+      ],
+      [
+        "Jon believes taking risks is essential for success and transformation.",
+        "D5:8"
+      ],
+      [
+        "Jon juggles between running his dance studio and pursuing business goals, finding it rewarding and energizing.",
+        "D5:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

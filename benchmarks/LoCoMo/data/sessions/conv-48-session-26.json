@@ -1,0 +1,202 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-26",
+  "session_number": 26,
+  "session_summary": "Deborah told Jolene about the canceled yoga getaway due to a storm at 7:39 pm on September 8, 2023. They discussed balancing busy schedules, self-care activities like yoga, and planned a coffee date at a cafe for next Wednesday at 4. Deborah suggested a hidden coffee shop near her for a future meeting. Jolene had to reschedule the coffee date to Friday at 5 due to prior plans and Deborah agreed, expressing excitement for the meet-up. They wished each other to stay safe and look forward to the upcoming coffee date.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:1",
+      "text": "Hey Jolene, had a tough week. Storm forced us to cancel our yoga getaway."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D26:2",
+      "text": "Sorry to hear about it. How are you feeling now?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:3",
+      "text": "I was bummed about it, but I'm doing better now. It was just a setback, but I found comfort in my work and spending time at home. Reminds me to be grateful for the little things. And you? How's it going?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D26:4",
+      "text": "My partner and I plan a camping trip to connect with nature and practice yoga."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:5",
+      "text": "It can be both good and tough to plan activities with a busy schedule - what strategies do you use?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D26:6",
+      "text": "Having a routine helps me stay on top of everything I need to do. I have a schedule for classes, studying, and personal time. Self-care activities like yoga and meditation help me stay balanced and relax."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:7",
+      "text": "I'd love to learn more about how you do it."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D26:8",
+      "text": " I can tell you about it if you're interested. It took a bit of experimenting, but it's really helped me."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:9",
+      "text": "Sounds great! Let's set up a coffee date and talk about it!"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2000,w_1333,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/CaseStudy-10009161130_nstsp1.jpg"
+      ],
+      "blip_caption": "a photo of a coffee shop with a bunch of coffee machines",
+      "query": "favorite cafe",
+      "dia_id": "D26:10",
+      "text": "Wanna meet up at that cafe next Monday? Let's try fresh pastries."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:11",
+      "text": "Sounds good, Jolene! When did you have in mind? That cafe rocks."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://images.pexels.com/photos/12910957/pexels-photo-12910957.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-sena-12910957.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a cup of coffee in front of a bunch of flowers",
+      "query": "coffee cozy coffee shop holding cup of coffee",
+      "dia_id": "D26:12",
+      "text": "How about Wednesday at 4? Can't wait to catch up over coffee!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://media.architecturaldigest.com/photos/5a6790689acb4d19c359a638/16:9/w_320%2Cc_limit/OregonUmamiCafe.jpg"
+      ],
+      "blip_caption": "a photo of a group of people sitting at tables in a room",
+      "query": "coffee shop courtyard",
+      "dia_id": "D26:13",
+      "text": "That pic looks so peaceful. Reminded me of a cool hidden coffee shop near me. Rate it!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D26:14",
+      "text": "Tell me more about it when we meet, maybe next time we’ll be there."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:15",
+      "text": "Sorry, I remembered that I already have plans for this day."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D26:16",
+      "text": "Now I'll see when it's more convenient for me."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:17",
+      "text": "Thank you for your understanding, I'm waiting."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/d1g89l9ba7b61.jpg"
+      ],
+      "blip_caption": "a photo of a room with a book shelf and a ceiling fan",
+      "query": "bookshelf engineering textbooks",
+      "dia_id": "D26:18",
+      "text": "How about Friday at 5? I will need to sort out the books from this bookcase and I will be free."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:19",
+      "text": "Absolutely, let's do that! Can't wait for our coffee date next week. See you then. Stay safe!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D26:20",
+      "text": "See ya soon, Deb! Be safe and I'm excited for our coffee date!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D26:21",
+      "text": "Maybe just grab me some interesting books!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah has to cancel the yoga retreat she was planning with her friends because of a storm"
+    ],
+    "Jolene": [
+      "Jolene and her partner plan a camping trip to connect with nature and practice yoga."
+    ],
+    "date": "8 September, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah had to cancel a yoga getaway due to a storm.",
+        "D26:1"
+      ],
+      [
+        "Deborah found comfort in work and spending time at home after the setback.",
+        "D26:3"
+      ],
+      [
+        "Deborah suggested setting up a coffee date to learn more about Jolene's strategies for planning activities.",
+        "D26:9"
+      ],
+      [
+        "Deborah complimented a peaceful picture and mentioned a hidden coffee shop near her.",
+        "D26:13"
+      ],
+      [
+        "Deborah already had plans on Wednesday and couldn't meet Jolene then.",
+        "D26:15"
+      ],
+      [
+        "Deborah agreed to meet Jolene on Friday for a coffee date.",
+        "D26:19"
+      ],
+      [
+        "Deborah requested Jolene to grab her some interesting books.",
+        "D26:21"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene and her partner planned a camping trip to connect with nature and practice yoga.",
+        "D26:4"
+      ],
+      [
+        "Jolene mentioned having a routine involving classes, studying, and personal time to stay balanced.",
+        "D26:6"
+      ],
+      [
+        "Jolene suggested meeting up at a cafe next Monday for a coffee date.",
+        "D26:10"
+      ],
+      [
+        "Jolene proposed to meet on Wednesday at 4 for the coffee date, which Deborah already had plans for.",
+        "D26:12"
+      ],
+      [
+        "Jolene suggested meeting on Friday at 5 after Deborah couldn't make it on Wednesday, mentioning she needed to sort out books from a bookcase.",
+        "D26:18"
+      ],
+      [
+        "Jolene expressed excitement for the upcoming coffee date with Deborah.",
+        "D26:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

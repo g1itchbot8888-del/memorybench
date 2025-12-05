@@ -1,0 +1,204 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-10",
+  "session_number": 10,
+  "session_summary": "Deborah and Jolene caught up at 5:35 pm on 22 March, 2023. They discussed Jolene's struggle with exams and deadlines. Jolene mentioned using the Pomodoro Technique and shared her difficulty in prioritizing tasks. Deborah suggested the Eisenhower Matrix for organizing tasks. They also talked about Jolene's dream of learning to surf. Deborah encouraged her to take the first steps and keep pushing herself. Jolene felt motivated and thanked Deborah for the support.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "dia_id": "D10:1",
+      "text": "Hey Jolene, it's been a while. Hope you're doing okay with all your exams and deadlines. I know it's difficult for you right now."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:2",
+      "text": "Hey Deb! Yeah, it can be tough. Trying to find time for everything is like playing catch-up - really stressful!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D10:3",
+      "text": " How do you manage your time and stay organized with all the projects and deadlines?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:4",
+      "text": "I'm using the Pomodoro Technique - 25 minutes work, 5-minute break - to avoid burnout but I'm still struggling to prioritize. Do you have any other tips on time management?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://johnaugust.com/wp-content/uploads/2020/04/front.jpg"
+      ],
+      "blip_caption": "a photo of a notepad with a list of things to do",
+      "query": "daily schedule template",
+      "dia_id": "D10:5",
+      "text": "I create a daily schedule or to-do list. Here's my example for today."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/3int1hmnou0a1.jpg"
+      ],
+      "blip_caption": "a photo of a notepad with notes on it on a counter",
+      "query": "colorful to-do list crossed off tasks",
+      "dia_id": "D10:6",
+      "text": "I tried making one but it's kinda overwhelming when it's a big stack of tasks. Here's an example from last Friday."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D10:7",
+      "text": "Have you tried breaking it down or prioritizing the tasks?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:8",
+      "text": "It can often feel overwhelming and difficult to figure out where to start."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D10:9",
+      "text": "I get it, Jolene. When I'm overloaded, I use a certain method. It helps me figure out what's important and urgent so I'm more organized. Do you know about it?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:10",
+      "text": "Nah, I'm not familiar with that one. What's it about?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D10:11",
+      "text": "Want me to tell you about it? It helps you organize things based on how important and urgent they are."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:12",
+      "text": "Sure, tell me more about it! It sounds useful."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://i0.wp.com/writeintolife.com/wp-content/uploads/2021/03/important-urgent.jpg"
+      ],
+      "blip_caption": "a photo of a pair of scissors sitting on top of a piece of paper",
+      "query": "eisenhower matrix",
+      "dia_id": "D10:13",
+      "text": "The Eisenhower Matrix sorts tasks into four boxes, categorizing them based on their urgency and importance. It can be really useful for organizing and prioritizing. Here's a breakdown. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:14",
+      "text": "The visualization is helpful too. Thanks for sharing!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D10:15",
+      "text": "I am glad, it was helpful. Let's give it a try and see if it helps you stay focused and less stressed. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:16",
+      "text": "Yeah, I'll give it a go. Fingers crossed it'll help me. Thanks for the help!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://images.pexels.com/photos/8509256/pexels-photo-8509256.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maribel-rosete-8509256.jpg"
+      ],
+      "blip_caption": "a photo of a person walking on the beach with a surfboard",
+      "query": "sunset beach serene",
+      "dia_id": "D10:17",
+      "text": "Don't forget to take it easy and look after yourself. Wishing you all the best! Recently, Anna and I were sitting by the sea, watching the sunset and talking about each other. And we realized that we inspire each other. What thoughts does the sea in this photo make you think of?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:18",
+      "text": "This gets me thinking of when I'll learn to surf. Gotta find that spare time!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D10:19",
+      "text": "Surfing, huh Jolene? Chase your dreams, don't be daunted. Have you thought about the steps you can take?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:20",
+      "text": "Definitely! I've been gathering information, watching videos, and I even got a beginners' guide to surfing. Just need to find the right time and place to get a lesson."
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a row of surfboards leaning against a palm tree",
+      "dia_id": "D10:21",
+      "text": "Way to go! Taking those first steps is key. Believe in yourself and keep going!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:22",
+      "text": "Thanks for the support! Those got me pumped to try surfing. Gonna keep pushing myself to make it happen."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D10:23",
+      "text": "Keep it up, Jolene! Remember, the experience matters just as much as the end result. Step by step and have fun along the way. You can do it!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D10:24",
+      "text": "Thanks for the boost!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah and her neighbor-friend, Anna, bond during a moment at the beach and inspire each other about pursuing their dreams."
+    ],
+    "Jolene": [],
+    "date": "22 March, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah is familiar with the Pomodoro Technique for time management.",
+        "D10:5"
+      ],
+      [
+        "Deborah creates a daily schedule or to-do list to stay organized.",
+        "D10:5"
+      ],
+      [
+        "Deborah is aware of the Eisenhower Matrix for organizing and prioritizing tasks based on urgency and importance.",
+        "D10:13"
+      ],
+      [
+        "Deborah recently sat by the sea with Anna, watching the sunset and talking about inspiring each other.",
+        "D10:17"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene finds it difficult to manage time and stay organized during exams and deadlines.",
+        "D10:2"
+      ],
+      [
+        "Jolene uses the Pomodoro Technique - 25 minutes work, 5-minute break - to avoid burnout.",
+        "D10:4"
+      ],
+      [
+        "Jolene struggles to prioritize tasks even with the Pomodoro Technique.",
+        "D10:4"
+      ],
+      [
+        "Jolene finds daily schedules or to-do lists overwhelming when dealing with a big stack of tasks.",
+        "D10:6"
+      ],
+      [
+        "Jolene is interested in learning about new time management methods like the Eisenhower Matrix shared by Deborah.",
+        "D10:12"
+      ],
+      [
+        "Jolene is planning on learning to surf, has been gathering information, and got a beginners' guide to surfing.",
+        "D10:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

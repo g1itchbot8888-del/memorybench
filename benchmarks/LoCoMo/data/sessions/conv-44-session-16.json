@@ -1,0 +1,163 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-16",
+  "session_number": 16,
+  "session_summary": "Andrew and Audrey had a conversation at 9:19 pm on 19 August, 2023. Andrew shared about taking a break to visit a cafe and reminisced about the tranquility of nature. He also showed Audrey a serene photo from his previous hike. Audrey mentioned learning dog grooming, feeling closer to her pups, and shared a picture of them looking cute and fluffy post-grooming. Andrew praised her skills and sought grooming tips, which Audrey gladly provided. They discussed weekend plans - Audrey taking her dogs to the park for a stroll and Andrew heading to a nature reserve. Andrew promised to share photos from his trip with Audrey later. They bid goodbye, looking forward to the pictures and caring for their pets.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://res.cloudinary.com/dragonspell/images/w_480,h_480,c_scale,dpr_auto,fl_progressive:steep,f_auto/w_480,h_480,c_fill/v1571420634/www.travelportland.com/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-1x1/Vista-House-Columbia-River-Gorge-Photo-by-Travel-Oregon-aspect-ratio-1x1.jpg"
+      ],
+      "blip_caption": "a photo of a sunset over a mountain with a church on top",
+      "query": "beautiful sunrise hike trail",
+      "dia_id": "D16:1",
+      "text": "Hey Audrey, hope you're doing good! So I've decided to take a break from work yesterday and check out a new cafe. It was a nice change and reminded me of how the great outdoors is always there to offer you peace. Here's a photo from my last hike - so serene! How's your month been so far?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D16:2",
+      "text": "Hi Andrew! The cafe sounds great, and the hike pic's great! August's been eventful - I learned a new skill! It was really awesome, making sure they were pampered and happy. I've always loved caring for my pups, and now taking care of their grooming myself makes me closer to them. They look so cute post-grooming!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D16:3",
+      "text": "Wow that's awesome! You're doing an amazing job taking care of your pups. Can you show me a pic of them after the grooming? I bet they look adorable!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "http://canadiangroomingdistributor.com/cdn/shop/articles/PXL_20220614_014152490.PORTRAIT.jpg"
+      ],
+      "blip_caption": "a photo of a dog is standing on a table in a room",
+      "query": "dogs groomed fluffy",
+      "dia_id": "D16:4",
+      "text": "Here's a photo of them after their grooming - look how soft and fluffy they are!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D16:5",
+      "text": "Wow, they look so cute and fluffy! You did such a great job. How did you do it so well? I've always wanted to learn dog grooming but never got the time."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D16:6",
+      "text": "I took a dog grooming course and learned lots of techniques. Would you like to hear some tips?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D16:7",
+      "text": "Of course! I'd love to hear some tips. It's something I've always been interested in."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D16:8",
+      "text": "Grooming slowly and gently, paying attention to sensitive areas like ears and paws. And remember to stay patient and positive throughout the grooming process."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D16:9",
+      "text": "Cool tips! I'll remember them if I ever get to groom Toby. Thanks!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D16:10",
+      "text": "No problem, glad the tips helped. If you ever give it a shot, let me know and I can provide more advice."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D16:11",
+      "text": "Thanks! I'll let you know if I decide to give it a try. Appreciate your help. What are your plans for the weekend?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D16:12",
+      "text": "I'm taking them out for a stroll in the park - they love it and it's a good workout for us. Any weekend plans for you?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D16:13",
+      "text": "This weekend I'm heading to a nature reserve to reconnect with the outdoors - excited!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D16:14",
+      "text": "Cool! Have a great time reconnecting with nature. Don't forget to take some nice pictures!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D16:15",
+      "text": "Sure thing, I'll get some awesome pics to show you when I return. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D16:16",
+      "text": "Haha thanks! Your pics of hikes are always nice."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D16:17",
+      "text": "Yeah! I really wanted to save the moment ya know?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+      ],
+      "blip_caption": "a photo of two dogs running in a field with a ball in their mouth",
+      "query": "dogs playing park",
+      "dia_id": "D16:18",
+      "text": "No wonder. Now I can't wait for the pics. Take care and have fun! My dogs will be waiting too!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D16:19",
+      "text": "Thanks! Can't wait to show you them when I'm back. See ya!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey learns how to groom her dogs."
+    ],
+    "Andrew": [
+      "Andrew decides to take an extra day off work to explore one of the cafes they have not been to yet."
+    ],
+    "date": "19 August, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew took a break from work to check out a new cafe recently.",
+        "D16:1"
+      ],
+      [
+        "Andrew enjoys hiking in the great outdoors.",
+        "D16:1"
+      ],
+      [
+        "Andrew is heading to a nature reserve this weekend to reconnect with nature.",
+        "D16:13"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey learned a new skill related to dog grooming in August.",
+        "D16:2"
+      ],
+      [
+        "Audrey cares for her pups and took on their grooming, feeling closer to them.",
+        "D16:2"
+      ],
+      [
+        "Audrey took a dog grooming course to learn techniques.",
+        "D16:6"
+      ],
+      [
+        "Audrey will be taking her dogs for a stroll in the park during the weekend.",
+        "D16:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

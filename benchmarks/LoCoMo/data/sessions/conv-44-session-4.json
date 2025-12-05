@@ -1,0 +1,284 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-4",
+  "session_number": 4,
+  "session_summary": "Audrey and Andrew caught up at 5:41 pm on 3 May, 2023. Audrey shared her recent hiking experience with a hummingbird, while Andrew mentioned finding a new hiking spot. Andrew now escapes the city for a hike once a weekend. They both find nature therapeutic and calming. Audrey spends time with her pets, including hiking with her dogs. Andrew inquired about dog safety tips from Audrey, who also mentioned playing fetch and organizing doggie playdates. The conversation ended with Andrew planning to visit the dog park Audrey recommended.",
+  "conversation_turns": [
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://images.pexels.com/photos/7875455/pexels-photo-7875455.jpeg"
+      ],
+      "blip_caption": "a photography of a hummingbird sitting on a branch with its wings spread",
+      "query": "cute little bird perched branch hummingbird hike nectar flowers",
+      "dia_id": "D4:1",
+      "re-download": true,
+      "text": "Hey Andrew! Long time no talk! Last week I finally went on a hike and had this amazing experience with a hummingbird. It was so cool watching it dart around with its wings! Nature is so beautiful."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/okd8n7nb0hc71.jpg"
+      ],
+      "blip_caption": "a photo of a view of a lake and mountains at sunset",
+      "query": "sunset mountain landscape hiking",
+      "dia_id": "D4:2",
+      "text": "Hey Audrey! Glad to hear from you. That hummingbird was awesome! Nature's the best. Remember I was feeling down because I couldn't get out more? Well, good news - I found a new open space to hike nearby - feels so refreshing!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D4:3",
+      "text": "That looks great! How often are you able to go hiking now?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:4",
+      "text": "So I usually try to escape the city at least once a weekend - it's my much-needed break!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D4:5",
+      "text": "Nice! I Bet it's great to get away like that."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/u51y7czkhfrb1.jpg"
+      ],
+      "blip_caption": "a photo of a mountain range with a sunset in the background",
+      "query": "mountain peak sunrise",
+      "dia_id": "D4:6",
+      "text": "Yep! Nature is so therapeutic for me. It's hard to put into words how great it feels to be surrounded by greenery or standing on top of a mountain breathing in the fresh air. So peaceful and invigorating.\n\n"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D4:7",
+      "text": "Wow, that view looks great! It really captures that calming and peaceful feeling. It must be really satisfying to capture that tranquility."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:8",
+      "text": "Yeah! I try to capture those special moments and share that feeling with others."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D4:9",
+      "text": "That's really cool! Spreading that peaceful feeling to others is such a great way to bring happiness and motivation."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:10",
+      "text": "I agree! It brings me joy to spread that feeling and motivate people to find their own peace - it's like a ripple effect, spreading positivity."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D4:11",
+      "text": "Absolutely. Not only the receiving end feels great, the person spreading it will feel great as well!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:12",
+      "text": "Yeah, it's crazy how that can bring such great joy and calm to people."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D4:13",
+      "text": "Yeah, by sharing something can make a big difference to others."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:14",
+      "text": "Yup! We don't realize it, but even the littlest gestures can have a big effect. Spreading good vibes and joy, that's the goal right? So what's up? Anything new or fun going on?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i2.pickpik.com/photos/852/467/713/four-dogs-pack-papillon-hybrids-preview.jpg"
+      ],
+      "blip_caption": "a photography of a group of dogs sitting on top of a lush green field",
+      "query": "dogs playing together",
+      "dia_id": "D4:15",
+      "re-download": true,
+      "text": "Not much has changed since we last talked. I'm busy taking care of my pets and spending time with them. It's really fulfilling."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:16",
+      "text": "I bet it's awesome hanging out with them - do your dogs enjoy going on hikes?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://d3ekkvinch1ig5.cloudfront.net/rating/1665802443-8244image1.jpg"
+      ],
+      "blip_caption": "a photo of a dog running in a field with other dogs",
+      "query": "dogs playing fetch wide open field",
+      "dia_id": "D4:17",
+      "text": "My dogs go nuts when we go on hikes! They love exploring new scents and being in nature - it's their happy place. I can tell by their wagging tails and expressions how much they love it. It's so great to see them having so much fun!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:18",
+      "text": "Wow, that's great! I was wondering if you have any tips or tricks for keeping dogs safe when they're out and about?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://d4yxl4pe8dqlj.cloudfront.net/images/061f1763-db03-4b77-a9c7-85a24844f99e/21929851-1c63-40ee-b7bd-d977fdb693be_full_size.jpg"
+      ],
+      "blip_caption": "a photo of a dog with a leash and shoes on",
+      "query": "dog wearing protective boots",
+      "dia_id": "D4:19",
+      "text": "Definitely! Safety is super important for me. I even got them something special. They sure look funny, but it works!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:20",
+      "text": "Awesome to see that you take such good care of your dogs! What else do you do when you walk them?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://images.pexels.com/photos/6527909/pexels-photo-6527909.jpeg"
+      ],
+      "blip_caption": "a photography of a dog catching a frisbee in a field",
+      "query": "dog playing fetch park other dogs",
+      "dia_id": "D4:21",
+      "re-download": true,
+      "text": "When I take them out, we usually play fetch with a ball or frisbee. They love chasing it! We also meet other dog owners in the park and have a doggie playdate. It's a great way for me to chat with people and for them to make new friends."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:22",
+      "text": "Wow, looks like fun! They sure look excited about playing fetch!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/1a14cd4hzcd91.jpg"
+      ],
+      "blip_caption": "a photo of a dog wearing a party hat sitting on a couch",
+      "query": "dogs playing with party hats ball",
+      "dia_id": "D4:23",
+      "text": "They absolutely adore it! They have tons of energy and love meeting new pals at playdates. Plus, they always get excited when I bring those out."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:24",
+      "text": "Aww, that's so cute! Do they enjoy wearing the party hats? And where did you find their playdates?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://live.staticflickr.com/2913/14439335660_d4ffd00bbc_z.jpg"
+      ],
+      "blip_caption": "a photography of a dog jumping through a ring in a park",
+      "query": "dog park colorful playground",
+      "dia_id": "D4:25",
+      "re-download": true,
+      "text": "The hats don't bother them, they just put them on for fun and treats. And the dog park is great place to start! They can run and mingle with other pooches. It's such a fun spot for playdates!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:26",
+      "text": "That sounds great! Where is it located?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D4:27",
+      "text": "It's right by the park we usually walk. It's a great spot with lots of trees and benches for us to watch the dogs play."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:28",
+      "text": "That's awesome, not too far away then! I'll have to check it out. Thanks for the suggestion!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D4:29",
+      "text": "Yup! Not at all! Let me know how it goes."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D4:30",
+      "text": "Sure, I'll let you know. Always great chatting with you! Ttyl."
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey goes for a hike and encounters a hummingbird."
+    ],
+    "Andrew": [
+      "Andrew discovers a new open space for hiking close to the city and feels relieved about being able to explore nature conveniently while being in the city."
+    ],
+    "date": "3 May, 2023"
+  },
+  "observations": {
+    "Audrey": [
+      [
+        "Audrey had an amazing experience with a hummingbird on a hike.",
+        "D4:1"
+      ],
+      [
+        "Audrey is busy taking care of her pets and finds it fulfilling.",
+        "D4:15"
+      ],
+      [
+        "Audrey's dogs love going on hikes and exploring nature, their happy place.",
+        "D4:17"
+      ],
+      [
+        "Audrey plays fetch with a ball or frisbee with her dogs and organizes doggie playdates in the park.",
+        "D4:21"
+      ],
+      [
+        "Audrey's dogs get excited when she brings out toys for playtime.",
+        "D4:23"
+      ],
+      [
+        "Audrey's dogs wear party hats for fun and treats.",
+        "D4:25"
+      ],
+      [
+        "Audrey suggests a dog park near their usual walking spot for playdates with other dogs.",
+        "D4:25"
+      ],
+      [
+        "Audrey's dog park is located near a park with lots of trees and benches.",
+        "D4:27"
+      ]
+    ],
+    "Andrew": [
+      [
+        "Andrew found a new open space to hike nearby that he finds refreshing.",
+        "D4:2"
+      ],
+      [
+        "Andrew escapes the city at least once a weekend for hiking, which is his much-needed break.",
+        "D4:4"
+      ],
+      [
+        "Andrew finds nature therapeutic and invigorating.",
+        "D4:6"
+      ],
+      [
+        "Andrew captures special moments in nature to share the feeling with others.",
+        "D4:8"
+      ],
+      [
+        "Andrew spreads positivity and joy through sharing peaceful feelings and motivating others.",
+        "D4:10"
+      ],
+      [
+        "Andrew acknowledges that even small gestures can have a big effect in spreading good vibes.",
+        "D4:14"
+      ],
+      [
+        "Andrew plans to check out the dog park location suggested by Audrey for his own dogs.",
+        "D4:28"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

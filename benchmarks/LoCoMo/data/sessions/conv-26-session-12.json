@@ -1,0 +1,184 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-12",
+  "session_number": 12,
+  "session_summary": "Caroline tells Melanie about a negative experience she had with religious conservatives while hiking, which reminds her of the work still needed for LGBTQ rights. She expresses gratitude for the support and acceptance she has from those around her. Melanie sympathizes with Caroline and shows her a picture of a pottery project she recently finished. Caroline expresses interest in seeing the picture and compliments Melanie's work. Melanie explains that the colors and patterns were inspired by her love for them and how painting helps her express her feelings. Caroline praises Melanie's creativity and passion. Melanie expresses her deep connection to art and how it brings her happiness and fulfillment. Caroline agrees that surrounding oneself with things that bring joy is important. They both agree that finding happiness is key in life. They express appreciation for each other's friendship and support. They reminisce about a fun time at a Pride fest and discuss plans for a family outing or a special trip just for the two of them. They agree to plan something special and look forward to making more memories together.",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:1",
+      "text": "Hey Mel! How're ya doin'? Recently, I had a not-so-great experience on a hike. I ran into a group of religious conservatives who said something that really upset me. It made me think how much work we still have to do for LGBTQ rights. It's been so helpful to have people around me who accept and support me, so I know I'll be ok!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D12:2",
+      "text": "Hey Caroline, sorry about the hike. It sucks when people are so closed-minded. Strong support really helps. FYI, I finished another pottery project - want to see a pic?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:3",
+      "text": "Sure thing, Melanie! Can't wait to see your pottery project.  I'm happy you found something that makes you happy. Show me when you can!"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://omceramic.com/cdn/shop/products/IMG_0022.jpg"
+      ],
+      "blip_caption": "a photo of a bowl with a colorful design on it",
+      "query": "pottery project ceramic bowl",
+      "dia_id": "D12:4",
+      "text": "Here it is. Pretty proud of it! It was a great experience. Thoughts?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:5",
+      "text": "That bowl is awesome, Mel! What gave you the idea for all the colors and patterns?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D12:6",
+      "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:7",
+      "text": "That's amazing! You put so much effort and passion into it. Your creativity really shines. Seeing how art can be a source of self-expression and growth is truly inspiring. You're killing it!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D12:8",
+      "text": "Thanks, Caroline! Your words really mean a lot. I've always felt a strong connection to art, and it's been a huge learning experience. It's both a sanctuary and a source of comfort. I'm so glad to have something that brings me so much happiness and fulfillment."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:9",
+      "text": "Glad you found something that makes you so happy! Surrounding ourselves with things that bring us joy is important. Life's too short to do anything else!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D12:10",
+      "text": "Agreed, Caroline. Life's tough but it's worth it when we have things that make us happy."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:11",
+      "text": "Definitely, Mel! Finding those happy moments and clinging to them is key. It's what keeps us going, even when life's hard. I'm lucky to have people like you to remind me."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D12:12",
+      "text": "Yeah, same here Caroline. You make life's struggles more bearable."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:13",
+      "text": "Thanks, Melanie! It means a lot having you in my corner. Appreciate our friendship!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D12:14",
+      "text": "I appreciate our friendship too, Caroline. You've always been there for me."
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://media2.fdncms.com/portmerc/imager/u/large/46577490/pride2022-2-jankowski.jpg"
+      ],
+      "blip_caption": "a photo of a group of people walking down a street with balloons",
+      "query": "friends pride festival",
+      "dia_id": "D12:15",
+      "text": "I'm always here for you, Mel! We had a blast last year at the Pride fest. Those supportive friends definitely make everything worth it!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D12:16",
+      "text": "That was a blast! So much fun with the whole gang! Wanna do a family outing this summer?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:17",
+      "text": "Right, it was so much fun! We could do a family outting, or wanna plan something special for this summer, just us two? It'd be a great chance to catch up and explore nature! What do you think?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D12:18",
+      "text": "Sounds great, Caroline! Let's plan something special!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:19",
+      "text": "Sounds great, Mel! We'll make some awesome memories!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D12:20",
+      "text": "Yeah, Caroline! I'll start thinking about what we can do."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D12:21",
+      "text": "Yeah, Mel! Life's all about creating memories. Can't wait for the trip!"
+    }
+  ],
+  "events": {
+    "Caroline": [
+      "Caroline meets a group of religious conservatives on a hike, and they make an unwelcoming comment about her transition."
+    ],
+    "Melanie": [
+      "Melanie finishes her first pottery project."
+    ],
+    "date": "17 August, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline had a not-so-great experience on a hike where she ran into a group of religious conservatives who upset her.",
+        "D12:1"
+      ],
+      [
+        "Caroline values having people around her who accept and support her.",
+        "D12:1"
+      ],
+      [
+        "Caroline expresses that surrounding herself with things that bring joy is important because life is too short.",
+        "D12:9"
+      ],
+      [
+        "Caroline values happy moments and believes they are essential to keep going, especially during tough times.",
+        "D12:11"
+      ],
+      [
+        "Caroline expresses appreciation for her friendship with Melanie.",
+        "D12:13"
+      ],
+      [
+        "Caroline had a great time with the whole gang at the Pride fest last year and values supportive friends.",
+        "D12:15"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie finished another pottery project and expresses pride in her work.",
+        "D12:2"
+      ],
+      [
+        "Melanie's pottery project was a source of happiness and fulfillment for her.",
+        "D12:8"
+      ],
+      [
+        "Melanie has a strong connection to art, considering it both a sanctuary and a source of comfort.",
+        "D12:8"
+      ],
+      [
+        "Melanie values friendship with Caroline and expresses appreciation for it.",
+        "D12:14"
+      ],
+      [
+        "Melanie suggests doing a family outing or planning something special for the summer with Caroline to make awesome memories.",
+        "D12:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

@@ -1,0 +1,266 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-28",
+  "session_number": 28,
+  "session_summary": "At 7:36 pm on 21 October 2022, James and John caught up after a long time. James shared how he lost power in his apartment three days ago while playing a game. They discussed the importance of saving progress in games. John organized a programming seminar last week, which he found fulfilling. James expressed interest in trying new programming techniques from the seminar. John agreed to share resources with him. James also mentioned his mother's visit with her army friend. He showed John a photo of himself playing on their old gaming setup. They talked about childhood gaming memories and James' passion for gaming. James mentioned trying Cyberpunk 2077, and John shared advice about the game. They exchanged goodbyes, ending their conversation.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "dia_id": "D28:1",
+      "text": "Hey John, long time no talk! So much has happened!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:2",
+      "text": "Hey James! I'm excited to catch up. What's been up lately?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:3",
+      "text": "Three days ago my apartment lost power - so annoying because I had just gotten to the big reveal in that game! Had to wait hours before playing again."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:4",
+      "text": "Ugh, that stinks! Losing power in the middle of a game is such a bummer. Did it mess up your progress?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:5",
+      "text": "Oof, it definitely messed up my progress. I lost some of it because I forgot to save. Frustrating, but now I know to save more often!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:6",
+      "text": "Lesson learned - save progress! By the way, I organized the programming seminar last week."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:7",
+      "text": "Wow, cool! How did it go? Did you learn anything cool?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:8",
+      "text": "The seminar went really well! We had a great turnout and I learned some interesting new things. It was a fulfilling experience to share my knowledge and see how it benefited the group."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:9",
+      "text": "That's great, John! Sounds like the seminar went well. What did you learn from it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:10",
+      "text": "I gained insight into various programming approaches and techniques. It was interesting to hear other developers' ideas and strategies."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:11",
+      "text": "Learning new programming stuff is great. Did you find any ideas that you'll incorporate into your own work?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:12",
+      "text": "Yeah! Found some cool ideas that I can use in my own work. It's exciting to explore different programming techniques and how to implement them."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:13",
+      "text": "Cool, John! Broadening your programming skills and trying new techniques is great - keeps things exciting and helps you develop. Have you had a chance to try them out yet?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:14",
+      "text": "No, I haven't tried them yet. But I'm looking forward to experimenting and seeing what I can do with them. It's always fun to try new things!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:15",
+      "text": "Yeah! Trying new stuff keeps us on our toes and helps our creativity. Awesome that you're down to experiment and see what you can come up with. I'm looking to branch out as well, any ideas I could check out?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:16",
+      "text": " I'll send you some resources and tutorials on the new programming approaches and techniques I learned. You'll find them cool!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:17",
+      "text": "Appreciate it. Can't wait to check them out, and maybe learn something new!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:18",
+      "text": "No worries, James. I hope they help. Let me know if you have any questions."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://api.army.mil/e2/c/images/2022/04/11/bcd7991a/original.jpg"
+      ],
+      "blip_caption": "a photo of a man and woman in military clothing standing next to a dog",
+      "query": "dog companions",
+      "dia_id": "D28:19",
+      "text": "I'll reach out if I need help. Thanks for the resources, really appreciate it. By the way, my mother came to see me with her army friend two days ago. We had fun."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:20",
+      "text": "Cool. Mother's friend must still be in the army?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:21",
+      "text": "Yes, she is still serving. But she retired a long time ago. They used to tell me stories about their time in the military and their pup. Funny enough, I have a pic of me at their age playing on their old gaming setup. Would you like to see it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:22",
+      "text": "Yeah, James! Show me that picture of you playing on their old gaming setup, it looks like a blast!"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/lto5hiavrmz21.jpg"
+      ],
+      "blip_caption": "a photo of a nintendo game console and a nintendo mario game controller",
+      "query": "old photo james crt tv game controller",
+      "dia_id": "D28:23",
+      "text": "Here is a photo of this console with the game Mario. Funny gamepad, isn't it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:24",
+      "text": "Oh yeah, that`s funny! Did you have fun with Nintendo when you were a kid?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:25",
+      "text": "Oh yeah! I had a blast with it when I was a kid. It was my first gaming system and I'd play Super Mario and The Legend of Zelda for hours. It totally sparked my passion for gaming."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:26",
+      "text": "Wow, James! Those games really sparked your passion for gaming, didn't they?"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a video game cover of the witcher wild hunt",
+      "dia_id": "D28:27",
+      "text": "Those games introduced me to gaming and I've been hooked ever since. By the way, yesterday I tried Cyberpunk 2077. Great game, so addictive!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:28",
+      "text": "I'm really glad you're enjoying this game. There will be so many unexpected turns in it, you can’t even imagine!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:29",
+      "text": "What do you think is the most difficult thing about this game?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/1pegm3i0hs561.jpg"
+      ],
+      "blip_caption": "a photo of a man in a leather vest and a belt",
+      "query": "the witcher 3 dialogue choice decision intense consequences",
+      "dia_id": "D28:30",
+      "text": "The most difficult thing is to make the right choice. After all, even from the choice of lines in dialogues with characters, everything can go wrong. The choices here can be life-changing!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:31",
+      "text": "Thank you very much, I will definitely keep this in mind!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:32",
+      "text": "And remember, you don't have to be friends with every character in this game. I don't want to spoil it, but just remember this!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:33",
+      "text": "I'll definitely take your advice, John! Thank you for avoiding spoilers."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:34",
+      "text": "Always happy to help. Well, I have to go! Bye!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D28:35",
+      "text": "Take care, bye!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James tries playing Cyberpunk 2077 and enjoys the game.",
+      "James's apartment loses power and he loses progress in a game that he forgets to save.",
+      "James's mother and her friend from the military visit him."
+    ],
+    "John": [
+      "John takes the initiative to organize a programming seminar in his local area and gains new insights on programming practices."
+    ],
+    "date": "21 October, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James's apartment lost power three days ago, disrupting his game progress as he forgot to save.",
+        "D28:3"
+      ],
+      [
+        "James appreciates the creativity and complexity of games, spending hours playing and learning from them.",
+        "D28:3"
+      ],
+      [
+        "James has a nostalgic attachment to old gaming setups, like playing on his mother's friend's console when he was young.",
+        "D28:21"
+      ],
+      [
+        "James's first gaming system was a Nintendo where he played Super Mario and The Legend of Zelda, sparking his passion for gaming.",
+        "D28:25"
+      ],
+      [
+        "James tried Cyberpunk 2077 yesterday and found it addictive.",
+        "D28:27"
+      ]
+    ],
+    "John": [
+      [
+        "John organized a programming seminar last week which had a great turnout, and he gained new insights into programming approaches and techniques.",
+        "D28:6"
+      ],
+      [
+        "John enjoys sharing knowledge and learning from other developers in seminars.",
+        "D28:8"
+      ],
+      [
+        "John plans to incorporate new programming techniques into his work and enjoys exploring different methods.",
+        "D28:12"
+      ],
+      [
+        "John values trying out new programming techniques and ideas to spark creativity and keep evolving.",
+        "D28:14"
+      ],
+      [
+        "John is helpful and willing to share resources and tutorials with others to help them learn and grow.",
+        "D28:16"
+      ],
+      [
+        "John advises James about the game Cyberpunk 2077, highlighting the significance of making the right choices in the game.",
+        "D28:30"
+      ],
+      [
+        "John reminds James about the importance of choices in dialogues with characters in Cyberpunk 2077.",
+        "D28:32"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

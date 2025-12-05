@@ -1,0 +1,175 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-2",
+  "session_number": 2,
+  "session_summary": "Calvin told Dave about his new luxury car at 4:45 pm on 26 March, 2023, expressing excitement and gratitude. Dave congratulated Calvin and admired the car. Calvin shared a picture and mentioned it was his first luxury car, feeling like it was well-deserved after hard work. Dave then talked about a music festival he attended in Boston and his favorite band, Aerosmith. They discussed the experience of seeing favorite artists perform. Calvin mentioned working on new music and collaborations. Dave showed interest and wished Calvin well. They exchanged goodbyes, ending their conversation.",
+  "conversation_turns": [
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:1",
+      "text": "Hey Dave, been a few days, so I wanted to let you in on some cool news.  I just got a new car and it's amazing! Finally owning a luxury car was a dream come true and I'm so stoked."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D2:2",
+      "text": "Woohoo, Calvin! Congrats on the new car! How's it driving?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:3",
+      "text": "Nice car! It's an amazing ride - super smooth and real powerful. Like a rockstar behind the wheel! Thanks, man!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D2:4",
+      "text": "Wow, Calvin! Owning something like this must feel amazing. Is this your first one? Show me a pic! What's it called?"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.redd.it/v7n19f5lcqn91.jpg"
+      ],
+      "blip_caption": "a photo of a red sports car parked on the side of the road",
+      "query": "ferrari 488 gtb japanese mansion",
+      "dia_id": "D2:5",
+      "text": "Woohoo! I finally got myself this beauty. Here's a pic from yesterday when I took it for a ride. Can't believe I'm actually driving it. Definitely what I deserve after all this hard work. Every time I step in, it's like an adrenaline rush!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D2:6",
+      "text": "Calvin, that car looks awesome! You must feel amazing every time you get inside! You deserved it - congrats buddy!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:7",
+      "text": "Woah, I'm on cloud nine! Hard work pays off. What's up with you, Dave?"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://express-images.franklymedia.com/6616/sites/11/2019/05/28094328/IMG_3656.jpg"
+      ],
+      "blip_caption": "a photo of a large crowd of people at a concert",
+      "query": "music festival boston stage crowd",
+      "dia_id": "D2:8",
+      "text": "Thanks, Calvin! Doing good. Last weekend, I went to a music festival in Boston - it was awesome! So many cool bands playing and the atmosphere was electric. I love music, it reminded me why I love it. Here's a pic, take a look."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:9",
+      "text": "Wow, sounds like a blast! Which one was your favorite?"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://themusicroom.me/wp-content/uploads/2019/04/Aerosmith-opening2.jpg"
+      ],
+      "blip_caption": "a photo of a concert with a large eagle on the stage",
+      "query": "aerosmith stage rock band",
+      "dia_id": "D2:10",
+      "text": "Wow, there were so many great bands! If I had to pick a favorite, it would definitely be Aerosmith. Their performance was incredible. I'll show you a pic I took when they were playing."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:11",
+      "text": "Cool! Lovin' Aerosmith."
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://www.etonline.com/sites/default/files/images/2019-10/gettyimages-1093168760.jpg"
+      ],
+      "blip_caption": "a photo of two people on stage with guitars and a microphone",
+      "query": "aerosmith steven tyler stage open mouth",
+      "dia_id": "D2:12",
+      "text": "I finally saw them live and it was such an amazing experience! He was jamming out to one of their hits. Check out this epic picture of them!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:13",
+      "text": "Cool, Dave! Seeing your favorite singers live must have been wild! Did you get a chance to hang out with them after the show?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D2:14",
+      "text": "Nah, didn't get to hang with them after the show, but seeing them live was cool enough. It's always a dream to see your favorites performing!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:15",
+      "text": "Yeah, it's always a dream to see your favorites doing their thing! So glad you got to experience that."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D2:16",
+      "text": "Thanks, Calvin! Yeah, it was an incredible experience. So, anything new happening in your life?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:17",
+      "text": "Got a new ride and wrote some new tunes - had a few studio sessions last week and I'm excited to collaborate. Can't wait to share it with everyone!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D2:18",
+      "text": "Cool, Calvin! Looking forward to hearing your new tunes. Keep me updated on how your collaborations go!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:19",
+      "text": "Yeah, no worries! I'll definitely let you know how it goes. Cheers!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D2:20",
+      "text": "Enjoy the collaborations, Calvin! Stay safe!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D2:21",
+      "text": "Thanks, Dave! Gonna have fun and stay safe with it. Bye!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin buys a Ferrari 488 GTB for himself.",
+      "Calvin attends a few studio sessions to collaborate on music and writes some new tunes."
+    ],
+    "Dave": [
+      "Dave attends a music festival in Boston where he sees Aerosmith perform live."
+    ],
+    "date": "26 March, 2023"
+  },
+  "observations": {
+    "Calvin": [
+      [
+        "Calvin recently got a new car which is a luxury car and a dream come true for him.",
+        "D2:1"
+      ],
+      [
+        "Calvin's new car gives him an adrenaline rush every time he steps into it.",
+        "D2:5"
+      ],
+      [
+        "Calvin wrote some new tunes and had studio sessions last week, excited to collaborate and share the music.",
+        "D2:17"
+      ]
+    ],
+    "Dave": [
+      [
+        "Dave attended a music festival in Boston last weekend and enjoyed listening to many cool bands.",
+        "D2:8"
+      ],
+      [
+        "Dave's favorite band from the music festival was Aerosmith, and he found their performance incredible.",
+        "D2:10"
+      ],
+      [
+        "Dave didn't get a chance to hang out with Aerosmith after the show but was content with seeing them live.",
+        "D2:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

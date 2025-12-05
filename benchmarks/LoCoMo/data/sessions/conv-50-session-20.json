@@ -1,0 +1,166 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-20",
+  "session_number": 20,
+  "session_summary": "At 8:57 pm on 22 September, 2023, Dave and Calvin caught up. Dave shared that he had trouble with his car project, and Calvin showed a picture symbolizing his hard work. They discussed memorable experiences, including Calvin's summer drive and trip to Japan. Calvin mentioned a childhood song, \"California Love\" by Tupac and Dr. Dre. They planned a jam session together, looking forward to creating special memories. They concluded by expressing excitement and anticipation for their upcoming get-together.",
+  "conversation_turns": [
+    {
+      "speaker": "Dave",
+      "dia_id": "D20:1",
+      "img_url": [
+        "https://cdn12.picryl.com/photo/2016/12/31/ford-xl-1967-restored-motor-v8-345-hp-transportation-traffic-2d0301-1024.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a car engine with a small engine",
+      "text": "Hey Calvin, good to catch up again! Had a tough time with my car project. Worked on the engine of the vintage Mustang, thought I'd fixed it, but when I started it up, heard a weird noise. So disappointing after putting so much work in. Take a look at the engine!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D20:2",
+      "img_url": [
+        "https://live.staticflickr.com/4475/37494593854_e7b70510d7_b.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a red sports car parked in a parking lot",
+      "text": "Hey Dave, sorry to hear about the car trouble. That must be disappointing after putting so much work into it. Yeah, fixing cars can be tricky. But hey, check out this pic! It's a sign of my hard work and dedication. Looking at it reminds me how far I've come."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D20:3",
+      "text": "Wow, thanks Calvin! I love the way the sunlight hits this. It's definitely a great symbol of all your hard work. I bet you feel really proud when you look at it. Any special memories with it?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D20:4",
+      "text": "Yeah, Dave, I had an amazing drive one summer day. The wind blowing through my hair and the rush of freedom - it was unforgettable. I've pondered the intricacies of life, taking a moment to truly appreciate the path I've chosen and the decisions that have shaped my journey. Also, my trip to Japan was incredible - the culture, the people, everything was so cool. I'm already longing to go back, it was an experience that made all the hard work worth it."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D20:5",
+      "text": "Wow, Calvin, that's awesome! That feeling of freedom in the summer is the best. A moment of reflection not only makes the journey interesting but also productive! Hey, any songs from your childhood that bring back memories?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D20:6",
+      "text": "Yeah, there's this one song that always makes me smile. It played during a road trip with my dad and we had so much fun singing along to it."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D20:7",
+      "text": "Sounds awesome, Calvin! Road trips with family are always a treat. What's the name of the song?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D20:8",
+      "text": "We used to rock a song by Tupac and Dr. Dre called \"California Love\". Ah, those were the days!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D20:9",
+      "text": "Sounds great, Cal! \"California Love\" is a classic! Let me know if you wanna jam some music together!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D20:10",
+      "text": "Yeah, let's do it! That would be awesome."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D20:11",
+      "text": "I'm stoked, Calvin! We can crank up the music and have an awesome jam session. Can't wait!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D20:12",
+      "text": "Yeah, Dave! Gonna be great! Can't wait to see what we can do."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D20:13",
+      "text": "Yeah, let's do it! It'll be awesome. Let's rock it!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D20:14",
+      "text": "Yeah, let's do this! I can't wait!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D20:15",
+      "text": "Nice one, Calvin! Let's make some awesome memories and have a great time. See ya soon!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D20:16",
+      "text": "Count me in. Can't wait to create something special. See you soon!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D20:17",
+      "text": "Yep, Calvin! Can't wait to see you soon. Take it easy till then."
+    }
+  ],
+  "events": {
+    "Calvin": [],
+    "Dave": [
+      "Dave's work on the Ford Mustang faces a holdup due to engine issues."
+    ],
+    "date": "22 September, 2023"
+  },
+  "observations": {
+    "Dave": [
+      [
+        "Dave has a car project involving a vintage Mustang and faced engine troubles despite putting in a lot of work.",
+        "D20:1"
+      ],
+      [
+        "Dave appreciates the hard work and dedication symbolized in a picture shared by Calvin.",
+        "D20:3"
+      ],
+      [
+        "Dave enjoys moments of reflection and finds them not only interesting but also productive.",
+        "D20:5"
+      ],
+      [
+        "Dave is interested in childhood songs that bring back memories.",
+        "D20:5"
+      ],
+      [
+        "Dave suggested jamming music together with Calvin.",
+        "D20:9"
+      ],
+      [
+        "Dave is enthusiastic about the idea of having an awesome jam session with Calvin.",
+        "D20:11"
+      ]
+    ],
+    "Calvin": [
+      [
+        "Calvin shared a picture that symbolizes his hard work and dedication, reminding him of his progress.",
+        "D20:2"
+      ],
+      [
+        "Calvin has fond memories of a summer drive that made him reflect on his life's choices.",
+        "D20:4"
+      ],
+      [
+        "Calvin had an incredible trip to Japan that he is longing to experience again.",
+        "D20:4"
+      ],
+      [
+        "Calvin has a childhood memory associated with a song called \"California Love\" by Tupac and Dr. Dre.",
+        "D20:6"
+      ],
+      [
+        "Calvin is excited about jamming music together with Dave.",
+        "D20:10"
+      ],
+      [
+        "Calvin is looking forward to creating something special during the music jam session with Dave.",
+        "D20:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

@@ -1,0 +1,139 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-14",
+  "session_number": 14,
+  "session_summary": "Dave and Calvin caught up at 12:35 am on 14 August, 2023. Dave shared his exciting experience at a car workshop in San Francisco, expressing admiration for the passion and dedication of the people there. Calvin then talked about touring with a well-known artist, culminating in a show in Japan. Dave was impressed by Calvin's performance and the crowd's reaction in Tokyo. Calvin shared a picture from the show, noting the joyful atmosphere. Dave complimented Calvin on his work and shared a picture of a car he is restoring, aiming to finish it by the end of the next month. Calvin praised Dave's talent and encouraged him to keep going. They ended the conversation with words of support and encouragement for each other.",
+  "conversation_turns": [
+    {
+      "speaker": "Dave",
+      "dia_id": "D14:1",
+      "text": "Hey Cal, how's it going? Something cool happened since last we talked - I got to go to a car workshop in San Francisco! So cool to dive into the world of car restoration and see all the different techniques. People were really passionate and dedicated - truly inspiring!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D14:2",
+      "text": "Hey Dave! That's awesome! Car workshops sound totally cool and inspiring. Glad you found something that really gets you going."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D14:3",
+      "text": "It's always great to learn and grow. So, what have you been up to lately?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D14:4",
+      "text": "As you know, I had an amazing experience touring with a well-known artist. The feeling of performing and connecting with the audience was unreal. We ended with a show in Japan and then I had the opportunity to explore my new place - it's like a dream come true!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D14:5",
+      "text": "Wow, Calvin! I bet playing for an eager audience was an incredible experience. Exploring Japan must have been amazing! How did Tokyo react to your music? Did you have any special moments there?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D14:6",
+      "text": "Thanks, Dave! That show in Tokyo was awesome! Everyone was so into it when I played one of my songs and sang along. It was a magical moment."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D14:7",
+      "text": "Wow, Calvin, sounds amazing! Got any pictures from that show? Would love to see the atmosphere."
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://c1.wallpaperflare.com/preview/415/916/987/audience-band-concert-crowd.jpg"
+      ],
+      "blip_caption": "a photography of a crowd of people at a concert with their hands up",
+      "query": "show tokyo hands in the air colorful lights stage",
+      "dia_id": "D14:8",
+      "re-download": true,
+      "text": "Yeah, here's a pic I took. It was so awesome - I loved how the crowd was into it. These moments are why I love my job."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D14:9",
+      "text": "The energy in that pic is awesome! Seeing everyone with their hands up must have been really cool. It's great when your passion brings joy to others!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D14:10",
+      "text": "Yeah, that was buzzing! It's moments like these that make me so proud and motivated. I'm all about spreading joy with my art. So, how's your project going?"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://ktul.com/resources/media/b036c339-3408-4a16-baf1-841d27c80d13-full1x1_PhotoJan2812945PM1.jpg"
+      ],
+      "blip_caption": "a photo of a car with a broken engine in the woods",
+      "query": "car restoration vintage ford mustang",
+      "dia_id": "D14:11",
+      "text": "Yeah, the project is going great! Here's a pic of the car I'm restoring. It's pretty cool seeing it go from a beat-up mess to a real beauty."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D14:12",
+      "text": "Wow Dave, that car is going to look amazing when you're done. How long do you think it will take to restore it?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D14:13",
+      "text": "Thanks, Calvin! Fingers crossed it'll be all fixed up by the end of next month. Lots of elbow grease but it'll be worth the transformation."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D14:14",
+      "text": "Wow, Dave, I'm really excited to see the end result of your hard work! You've got some serious talent!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D14:15",
+      "text": "Thanks, Cal! Your support means a lot to me."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D14:16",
+      "text": "You got this, Dave! I'm always here for you. Seeing your enthusiasm is amazing. Keep growing, buddy. It'll be worth it! Good luck with that. See ya!"
+    }
+  ],
+  "events": {
+    "Calvin": [],
+    "Dave": [
+      "Dave travels to San Francisco to attend the car modification workshop.",
+      "Dave starts works on restoring a beat-up old Ford Mustang."
+    ],
+    "date": "14 August, 2023"
+  },
+  "observations": {
+    "Dave": [
+      [
+        "Dave recently attended a car restoration workshop in San Francisco and found it truly inspiring.",
+        "D14:1"
+      ],
+      [
+        "Dave is currently working on restoring a car.",
+        "D14:11"
+      ],
+      [
+        "Dave aims to have the car fully restored by the end of next month.",
+        "D14:13"
+      ]
+    ],
+    "Calvin": [
+      [
+        "Calvin recently toured with a well-known artist and had a show in Japan.",
+        "D14:4"
+      ],
+      [
+        "Calvin had an amazing experience performing for an eager audience in Tokyo and felt it was a magical moment.",
+        "D14:6"
+      ],
+      [
+        "Calvin is all about spreading joy with his art and feels proud and motivated when he can do so.",
+        "D14:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

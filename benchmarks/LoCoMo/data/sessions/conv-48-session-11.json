@@ -1,0 +1,147 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-11",
+  "session_number": 11,
+  "session_summary": "Jolene and Deborah caught up at 4:03 pm on 28 March, 2023. Jolene shared a breakthrough in her engineering project after a long time, while Deborah bought yoga props and candles to enhance her practice. They discussed scents, music, and albums for yoga, with Jolene liking Nils Frahm and Olafur Arnalds, and Deborah recommending the album \"Sleep.\" They parted ways with Jolene saying, \"See you!\" and Deborah encouraging her to \"keep up the good work.\"",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "blip_caption": "a photo of a person's hand holding a pair of scissors",
+      "dia_id": "D11:1",
+      "text": "Hey Deb, long time no talk. A lot's happened! On Friday I had a breakthrough with my engineering project. Finally found a solution to a prob that's been bugging me. Feels great to see my hard work paying off."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://lotuslandyogasf.com/wp-content/uploads/Jasmine-Class-cobra-e1674461734640.png"
+      ],
+      "blip_caption": "a photo of a group of people doing yoga in a room",
+      "query": "yoga class calming setting",
+      "dia_id": "D11:2",
+      "text": "You've really proven your skills. Feels great, right? Keep it up! And I bought new props for the yoga class! Here it is in action."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://caramiamay.com/cdn/shop/products/image_1e09790f-e4ab-4589-ac14-a6dbdf6f3b83.jpg"
+      ],
+      "blip_caption": "a photo of a cardboard mat with a cup of coffee on it",
+      "query": "yoga mat blocks",
+      "dia_id": "D11:3",
+      "text": "Oh, I also have new details for this case! Rate it!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "http://www.settlepetalyoga.com/cdn/shop/products/IMG_8556.jpg"
+      ],
+      "blip_caption": "a photo of a candle with a sprig of rosemary on a table",
+      "query": "yoga mat lavender scented candle",
+      "dia_id": "D11:4",
+      "text": "That`s cool! I also bought this candle for the atmosphere and to improve my yoga practice. How about you? When you do it, what feelings do you get?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D11:5",
+      "text": "I feel relaxed during this activity. I love creating a serene space with soothing scents like lavender and rosemary. Do you have any favorite scents or rituals for when you do it?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D11:6",
+      "text": "I'm also a big fan of scents like this! Candles and essential oils add warmth and calm to my yoga session. It's amazing how certain smells can transport you to a place of peace.  Do you have any other ways to enhance your yoga practice?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D11:7",
+      "text": "I find music helps me. Any favorite tracks?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D11:8",
+      "text": "I find instrumental tracks with mellow melodies and rhythms help create a peaceful vibe. One of my favorites is a track called \"Savana.\" What songs/artists do you like listening to during your practice?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D11:9",
+      "text": "I love listening to Nils Frahm and Olafur Arnalds during my practice. Their music is so calming and puts me in a different headspace. Do you have any recommendations for other similar artists or tracks I should check out?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D11:10",
+      "text": "Also, I'm listening to an album called 'Sleep,' which is great for meditation and deep relaxation. Hope you find it as calming as I do!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D11:11",
+      "text": "Thanks for the tips, Deborah! I'm gonna check them out. It's always good to have some new tunes for yoga!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D11:12",
+      "text": " Let me know your thoughts on the albums!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D11:13",
+      "text": "See you!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D11:14",
+      "text": "Take care and keep up the good work!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah purchases some yoga mats and blocks for her yoga classes."
+    ],
+    "Jolene": [
+      "Jolene has a breakthrough in her robotics project."
+    ],
+    "date": "28 March, 2023"
+  },
+  "observations": {
+    "Jolene": [
+      [
+        "Jolene had a breakthrough with her engineering project on Friday and found a solution to a problem.",
+        "D11:1"
+      ],
+      [
+        "Jolene feels relaxed during yoga and enjoys creating a serene space with soothing scents like lavender and rosemary.",
+        "D11:5"
+      ],
+      [
+        "Jolene finds music helpful during her yoga practice.",
+        "D11:7"
+      ],
+      [
+        "Jolene loves listening to Nils Frahm and Olafur Arnalds during her practice as their music is calming and puts her in a different headspace.",
+        "D11:9"
+      ]
+    ],
+    "Deborah": [
+      [
+        "Deborah bought new props for her yoga class.",
+        "D11:2"
+      ],
+      [
+        "Deborah bought a candle to improve the atmosphere of her yoga practice.",
+        "D11:4"
+      ],
+      [
+        "Deborah enjoys scents like lavender and rosemary during her yoga practice.",
+        "D11:6"
+      ],
+      [
+        "Deborah finds instrumental tracks with mellow melodies and rhythms helpful for creating a peaceful vibe during her practice.",
+        "D11:8"
+      ],
+      [
+        "Deborah is listening to an album called 'Sleep' which is great for meditation and deep relaxation.",
+        "D11:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

@@ -1,0 +1,172 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-4",
+  "session_number": 4,
+  "session_summary": "Jon and Gina, at 10:43 am on 4 February, 2023, discussed Jon's business endeavors. While Jon faced obstacles, Gina encouraged him to persevere, mentioning setbacks as opportunities for comebacks. Jon mentioned his passion for dancing and preparation for an upcoming competition, with Gina supporting him wholeheartedly. They exchanged words of encouragement, with Jon expressing gratitude for Gina's help and Gina assuring him that his hard work and dedication will pay off. Gina emphasized belief in oneself, encouraging Jon to pursue his dreams relentlessly.",
+  "conversation_turns": [
+    {
+      "speaker": "Jon",
+      "dia_id": "D4:1",
+      "text": "Hey Gina! What's up? How's the store going? I gotta tell you about this thing with my biz."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D4:2",
+      "text": "Hey Jon! The store's doing great! It's a wild ride. How's the biz?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D4:3",
+      "text": "Hey Gina! I'm putting in a lot of work on my business even with the obstacles. I'm gonna make it happen!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D4:4",
+      "text": "Wow! You've got drive! Keep it up and you'll definitely make a splash."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D4:5",
+      "text": "Thanks Gina! Your help really means a lot. Sometimes it's hard when things don't go my way, but I'm sure if I keep pushing, I'll reach my dreams!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D4:6",
+      "text": "Understand where you're at, Jon. Setbacks are just opportunities for comebacks. You got the skills, passion, and drive. Plus my full support. Don't give up, buddy!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D4:7",
+      "text": "Thanks! Setbacks can be tough, but with your support, I can handle anything. Appreciate you having my back!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D4:8",
+      "text": "I'm here for you no matter what! Anything you want to say about your biz?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D4:9",
+      "text": "Searching for a dance studio location has been tricky, but I'm determined to find the right spot - when I do, I'm sure the rest will follow!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D4:10",
+      "text": "Searching for the perfect dance studio's a tough job, Jon. Hang in there and you'll find it soon!"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a woman in a gray dress doing a trick",
+      "dia_id": "D4:11",
+      "text": "Thanks! Appreciate your encouragement - it means a lot! I'm working on my business and some new dance routines - rehearsing hard for an upcoming show. I'm passionate about dancing and it brings me so much joy and fulfillment."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D4:12",
+      "text": "Wow, Jon! You're so talented! What show ya got planned?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D4:13",
+      "text": "I'm getting ready for a dance comp near me next month. It's a great chance for me to show my skillz and, hopefully, get some props from the dance fam. Super stoked!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D4:14",
+      "text": "Wow Jon, you're gonna kill it in that competition. Your hard work and talent will pay off! Good luck."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D4:15",
+      "text": "Thanks! Your help means a lot. I'll do my best to make you proud!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D4:16",
+      "text": "No doubt, Jon you've got this. Your passion and commitment are awesome! Keep it up!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D4:17",
+      "text": "Thanks! I'm going for my dreams!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D4:18",
+      "text": "Absolutely Jon. I'm always here to cheer you on. Make your dreams happen - keep going and believe in yourself. You got this!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D4:19",
+      "text": "Thanks, Gina! Your kind words mean a lot. I won't give up!"
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon puts in a great deal of effort into his own business venture despite the difficulties.",
+      "Jon starts rehearsing for an upcoming dance competition."
+    ],
+    "Gina": [],
+    "date": "4 February, 2023"
+  },
+  "observations": {
+    "Jon": [
+      [
+        "Jon is working hard on his business despite facing obstacles.",
+        "D4:3"
+      ],
+      [
+        "Jon is determined to make his business successful and reach his dreams.",
+        "D4:5"
+      ],
+      [
+        "Jon is searching for a dance studio location and is determined to find the right spot.",
+        "D4:9"
+      ],
+      [
+        "Jon is working on new dance routines and rehearsing hard for an upcoming show.",
+        "D4:11"
+      ],
+      [
+        "Jon is passionate about dancing and it brings him joy and fulfillment.",
+        "D4:11"
+      ],
+      [
+        "Jon is preparing for a dance competition near him next month to showcase his skills.",
+        "D4:13"
+      ]
+    ],
+    "Gina": [
+      [
+        "Gina's store is doing great and it's a wild ride.",
+        "D4:2"
+      ],
+      [
+        "Gina encourages Jon to keep pushing, assuring him he'll reach his dreams.",
+        "D4:4"
+      ],
+      [
+        "Gina supports Jon through setbacks and encourages him not to give up.",
+        "D4:6"
+      ],
+      [
+        "Gina is supportive of Jon and assures him that setbacks can be overcome.",
+        "D4:6"
+      ],
+      [
+        "Gina expresses full support for Jon and encourages him not to give up.",
+        "D4:6"
+      ],
+      [
+        "Gina encourages Jon to hang in there while searching for the perfect dance studio location.",
+        "D4:10"
+      ],
+      [
+        "Gina compliments Jon's talent and expresses confidence in his success in the upcoming dance competition.",
+        "D4:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

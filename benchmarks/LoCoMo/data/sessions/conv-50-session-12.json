@@ -1,0 +1,165 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-12",
+  "session_number": 12,
+  "session_summary": "Calvin and Dave spoke at 1:12 pm on 3 August, 2023. Calvin mentioned his stressful experience with servicing his Ferrari and his attachment to the car, asking Dave about hobbies that make him feel restored. Dave, finding car repairs therapeutic, shared how working on cars with his dad as a child brings him fulfillment. Remembering restoring an old car together, Dave cherished the bonding experience with his dad. Calvin admired Dave's hobby and shared his pride in his Ferrari, crediting it as a reminder of hard work and dedication. They discussed motivation and goals, with Calvin aiming to expand his music brand globally and grow his fanbase. Dave encouraged Calvin, emphasizing the importance of making an impact through music. Calvin valued Dave's support and expressed determination to achieve his dreams, with Dave offering continuous encouragement and faith in Calvin's journey.",
+  "conversation_turns": [
+    {
+      "speaker": "Calvin",
+      "dia_id": "D12:1",
+      "text": "Hey Dave, long time no see! I just took my Ferrari for a service and it was so stressful. I'm kinda attached to it. Can you relate? What kind of hobbies give you a feeling of being restored?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D12:2",
+      "text": "Hey Calvin, I understand the stress of getting a car serviced. Fixing cars is like therapy for me. Growing up working on cars with my dad, refurbishing them gives me a sense of fulfillment."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D12:3",
+      "text": "Wow, Dave, that's awesome! Must feel great to have a hobby that makes you proud. Remember any good memories from working on cars with your dad?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D12:4",
+      "text": "Yeah, definitely! I have fond memories of working on cars with my dad as a kid. We spent one summer restoring an old car. It was hard work, but seeing the end result and knowing that we did it together was really satisfying."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D12:5",
+      "text": "That's awesome, Dave! Working together on projects like that really brings people closer. Do you have any pictures from that time?"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://live.staticflickr.com/8790/17087850111_a8541de20d_b.jpg"
+      ],
+      "blip_caption": "a photography of a man and a child pose for a picture",
+      "query": "old photo car father son working",
+      "dia_id": "D12:6",
+      "re-download": true,
+      "text": "Yes, I have one, take a look. It was a wonderful experience."
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://live.staticflickr.com/4112/5177562445_f1a1e1107b_b.jpg"
+      ],
+      "blip_caption": "a photography of a red car is lifted on a lift in a garage",
+      "query": "car museum japan ferrari",
+      "dia_id": "D12:7",
+      "re-download": true,
+      "text": "Aww, that's cool, Dave. Reminiscing is always fun! That pic you shared takes me back to my trip to the Ferrari dealership. I saw a lot of amazing cars, but as for me, my car is the best and  I'm pretty proud of this. Sure, it's just material, but it reminds me of my hard work and dedication. It really inspires me. Take a look at this beauty!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D12:8",
+      "text": "Your car looks great, Calvin! I can tell why you're proud. Having something like that is motivating. It's like a reminder of what you can achieve."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D12:9",
+      "text": "Thanks, Dave! Seeing it everyday keeps me motivated and reminds me to keep pushing."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D12:10",
+      "text": "Sounds like you're really motivated, Calvin. What's the biggest goal you're working towards, music-wise or something else?"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://images.pexels.com/photos/2801993/pexels-photo-2801993.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-karl-solano-2801993.jpg"
+      ],
+      "blip_caption": "a photo of a band playing on stage with lights on",
+      "query": "performing on stage musician",
+      "dia_id": "D12:11",
+      "text": "My plan for now is to expand my brand worldwide and grow my fanbase. I want my music to reach more people and make an impact. Working with artists from around the globe and challenging myself to create special music are goals of mine too. Look at the photo of how I performed with the boys last night, they are great at the music!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D12:12",
+      "text": "Wow, Calvin! Working with different artists and crafting great sounds will definitely help you reach your goals. Keep it up and keep making a difference!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D12:13",
+      "text": "Thanks, Dave! Your support and encouragement mean a lot to me. I'm determined to make my dreams come true."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D12:14",
+      "text": "Glad to help, Calvin! Eager to see what you do. Keep at it and never forget your dreams!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D12:15",
+      "text": "Thanks, Dave! I appreciate your support, it means a lot to me. I'll keep going for my dreams."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D12:16",
+      "text": "No problem, Calvin! Just remember to stay focused and keep going. You've got this!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D12:17",
+      "text": "Thanks, Dave! I'll stay focused and keep going. Appreciate your belief!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin goes to the Ferrari dealership to have his car serviced."
+    ],
+    "Dave": [],
+    "date": "3 August, 2023"
+  },
+  "observations": {
+    "Calvin": [
+      [
+        "Calvin owns a Ferrari and is attached to it, finding servicing it stressful but rewarding.",
+        "D12:1"
+      ],
+      [
+        "Calvin feels proud of his car and sees it as a symbol of his hard work and dedication.",
+        "D12:7"
+      ],
+      [
+        "Calvin's current goal is to expand his brand worldwide, grow his fanbase, work with artists globally, and create special music.",
+        "D12:11"
+      ],
+      [
+        "Calvin performed with the boys last night and appreciates their musical talent.",
+        "D12:11"
+      ],
+      [
+        "Calvin is determined to make his dreams come true and appreciates Dave's support and encouragement.",
+        "D12:13"
+      ],
+      [
+        "Calvin expresses gratitude for Dave's continued support and encouragement in pursuing his dreams.",
+        "D12:15"
+      ]
+    ],
+    "Dave": [
+      [
+        "Dave finds fixing cars like therapy and feels fulfilled by refurbishing them, stemming from working on cars with his dad.",
+        "D12:2"
+      ],
+      [
+        "Dave has fond memories of restoring an old car with his dad during one summer, finding it hard work but satisfying.",
+        "D12:4"
+      ],
+      [
+        "Dave believes that working on projects together brings people closer.",
+        "D12:5"
+      ],
+      [
+        "Dave encourages Calvin in his music goals, supports his dreams, and provides words of motivation and belief.",
+        "D12:12, D12:14, D12:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

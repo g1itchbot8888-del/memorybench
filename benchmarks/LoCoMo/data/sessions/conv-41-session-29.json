@@ -1,0 +1,178 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-29",
+  "session_number": 29,
+  "session_summary": "Maria and John, at 8:06 pm on 9 August, 2023, caught up on their recent community involvement. Maria shared about volunteering at a homeless shelter, receiving a medal. John, who organized a charity run to help veterans, also raised funds for victims of domestic abuse with a local organization. They discussed challenges and the importance of supporting such causes. Both expressed admiration for each other's efforts and commitment to making a difference. They ended on a positive note, agreeing to continue spreading awareness and supporting important causes, reflecting on the impact of community involvement.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJ3aW5uZXJfZ29sZF9wcm9maXRfYXdhcmQtaW1hZ2Uta3liY2R6bjguanBn.jpg"
+      ],
+      "blip_caption": "a photography of a medal hanging from a tree with a ribbon",
+      "query": "handmade medal volunteer homeless shelter dedication difference",
+      "dia_id": "D29:1",
+      "re-download": true,
+      "text": "Hey John, what's been going on? I just wanted to check in. Last week was wild - I volunteered at the homeless shelter and they gave me a medal! It was humbling and I'm really glad I could help."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://www.rockawave.com/wp-content/uploads/2017/08/1-Family-Run-Remembers-Eileen-Lavin.jpg"
+      ],
+      "blip_caption": "a photo of a young girl holding a sign in her hands",
+      "query": "family community event 5k charity run military veterans patriotic individuals",
+      "dia_id": "D29:2",
+      "text": "Hey Maria! Congrats on the recognition! It's really touching to see how much you're doing to help out. Last weekend, I participated in a community event to raise money for a good cause. We got a great turnout and it was amazing to be surrounded by so many supportive people."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D29:3",
+      "text": "John, that sounds inspiring! Community events like that are always amazing. This pic is heartwarming, that little girl has such a cute smile. What was the event all about?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://runningfabulouslyblog.files.wordpress.com/2018/09/img_3190.jpg"
+      ],
+      "blip_caption": "a photo of a group of people posing for a picture",
+      "query": "5k charity run group of people running cheering",
+      "dia_id": "D29:4",
+      "text": "I set up a 5K charity run in our neighborhood. It was all for a good cause - to help out veterans and their families. We were able to raise some funds! Here's a pic from the day."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D29:5",
+      "text": "John, that's awesome! That is such an important cause. It's an honor to know someone like you who takes initiative. The photo you shared is so powerful! Could you tell me more about how you organized the run?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a map of the streets of downtown",
+      "dia_id": "D29:6",
+      "text": "Thanks, Maria! It means a lot to me. It was hard work - getting sponsors, coordinating with the city, and spreading the word. But seeing everyone come together to support our veterans made it worth it."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D29:7",
+      "text": "Wow, John, that sounds like a lot of effort! Your dedication definitely paid off. Were there any challenges along the way?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a sign on a door that says domestic abuse",
+      "dia_id": "D29:8",
+      "text": "Definitely, Maria! Getting sponsors was difficult. I had to reach out to several businesses through different means, but it paid off. We ended up with some awesome sponsors that made the event a hit."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D29:9",
+      "text": "Wow, John! You really overcame those challenges. Have you done events for any other causes?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:10",
+      "text": "Yep, we worked with a local organization that helps victims of domestic abuse. We raised awareness and funds at the event for the cause — it's unfortunate how many people suffer from it."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D29:11",
+      "text": "Oof, John, that's really sad. Domestic abuse is horrible. You did great raising awareness and funds. It's important we support the organizations fighting against it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:12",
+      "text": "Thanks, Maria. It's a tough issue, but we've gotta do what we can. It's really wonderful to see people come together for such an important cause."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D29:13",
+      "text": "Agree, John! It's great to see community power in action. Let's keep spreading awareness and supporting causes like this."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a man holding a stick and a giant cartoon figure",
+      "dia_id": "D29:14",
+      "text": "Yeah Maria! I totally agree! Together, we can do so much. Let's keep spreading the good vibes and making our community better. "
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D29:15",
+      "text": "You rock! Let's keep spreading positivity and making a difference. We got this!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:16",
+      "text": "Yeah, we got this. Thanks for your help!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D29:17",
+      "text": "Yeah, John! It's really cool to have a friend like you who's just as passionate and motivated. Let's talk again soon!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:18",
+      "text": "Yeah Maria! Friends like you make a big difference. Talk to you later!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John successfully organizes a 5K charity run in his neighborhood for the benefit of military veterans."
+    ],
+    "Maria": [
+      "Maria receives a medal from the homeless shelter for her relentless work towards making the residents' lives better."
+    ],
+    "date": "9 August, 2023"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria volunteered at a homeless shelter last week and received a medal for her help.",
+        "D29:1"
+      ],
+      [
+        "Maria found a community event inspiring and heartwarming.",
+        "D29:2"
+      ],
+      [
+        "Maria expressed admiration for John's initiative in organizing a charity run for veterans.",
+        "D29:5"
+      ],
+      [
+        "Maria thinks domestic abuse is a horrible issue and supports raising awareness and funds for it.",
+        "D29:11"
+      ],
+      [
+        "Both Maria and John agree on the importance of spreading awareness and supporting causes in the community.",
+        "D29:13"
+      ],
+      [
+        "Maria appreciates having a friend like John who is passionate and motivated about making a difference.",
+        "D29:17"
+      ]
+    ],
+    "John": [
+      [
+        "John organized a 5K charity run in the neighborhood to help veterans and their families.",
+        "D29:4"
+      ],
+      [
+        "John faced challenges in getting sponsors for the charity run but was successful in the end.",
+        "D29:8"
+      ],
+      [
+        "John has organized events for causes other than helping veterans, like raising awareness and funds for victims of domestic abuse.",
+        "D29:10"
+      ],
+      [
+        "John believes it's important to come together for important causes like supporting victims of domestic abuse.",
+        "D29:12"
+      ],
+      [
+        "John values Maria's passion and motivation in supporting causes and spreading positivity in the community.",
+        "D29:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

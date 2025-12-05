@@ -1,0 +1,161 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-4",
+  "session_number": 4,
+  "session_summary": "Nate apologized for not being around, mentioning making ice cream for a friend at 1:07 pm on 25 February, 2022. Joanna expressed interest in Nate's ice cream, but mentioned being unable to have dairy. Nate offered to share a dairy-free recipe with Joanna. They discussed Joanna's new screenplay about self-discovery and loss, with Nate showing interest in the storyline. Joanna revealed it was inspired by personal experiences. Nate praised Joanna's courage and expressed excitement about both her new screenplay and the first one. Joanna hoped her screenplay would get noticed and thanked Nate for his support, with Nate wishing her luck.",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "dia_id": "D4:1",
+      "text": "Hey Joanna! Sorry I haven't been around. I made my friend some ice cream and they loved it!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D4:2",
+      "text": "No worries, Nate! Glad to hear it. What flavor did you make?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/wj5c699jccx61.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a chocolate and vanilla ice cream cone",
+      "query": "coconut milk ice cream chocolate swirls almond chunks",
+      "dia_id": "D4:3",
+      "text": "I whipped up some chocolate and vanilla swirl."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D4:4",
+      "text": "That looks delicious! Unfortunately, I can't have dairy, so no ice cream for me. Do you happen to have a dairy-free recipe that I could try?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D4:5",
+      "text": "Sure, I know one recipe using coconut milk. Would you like me to send it to you?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D4:6",
+      "text": "Yeah, definitely! I'm keen to try your recipe. Always up for something sweet."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D4:7",
+      "text": "Cool, I'll do that. I'm all about these desserts, let me know what you think!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D4:8",
+      "text": "Definitely keeping you posted! Love your creations!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D4:9",
+      "text": "Thanks, Joanna! It means a lot that you enjoy the desserts I bake."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D4:10",
+      "text": "Yeah Nate, your cooking is amazing! I can't stop thinking about the screenplay, so I just started writing another one while I wait to hear back about how the first one did."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D4:11",
+      "text": "I hear that, taking your mind of something like that is very challenging. What's the new one about?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D4:12",
+      "text": "It's about a thirty year old woman on a journey of self-discovery after a loss. Somewhat similar to the last one, but hey, that's just the kind of thing I'm inspired to write about!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D4:13",
+      "text": "Interesting! That's a deep topic. Love to hear more about it."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D4:14",
+      "text": "Thanks, Nate! It's my own story. The main character is dealing with some tough stuff: loss and trying to figure out who they are. They take a road trip to heal and grow."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D4:15",
+      "text": "Wow, Joanna, that sounds awesome. I love stories that tackle important issues. What inspired you to this one?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D4:16",
+      "text": "Thanks, Nate! It was inspired by personal experiences and my own journey of self-discovery."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D4:17",
+      "text": "Wow, Joanna, that takes guts! I can't wait to see it all come together. I'm also pumped to see how your first one will do!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D4:18",
+      "text": "Thanks, Nate! Appreciate your support. Hoping my screenplay gets noticed and makes it to the screen. Fingers crossed!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D4:19",
+      "text": "Crossing my fingers for you! Hope your screenplay finds a fan and is given its due. Good luck!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna starts writing her second screenplay, which is about a thirty year old woman on a journey of self-discovery during a road trip after a loss, inspired by her own experiences."
+    ],
+    "Nate": [
+      "Nate gifts his friend a homemade ice cream batch of chocolate and vanilla swirl and his friend enjoys it."
+    ],
+    "date": "25 February, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate made chocolate and vanilla swirl ice cream for a friend.",
+        "D4:1"
+      ],
+      [
+        "Nate enjoys baking desserts and is all about them.",
+        "D4:7"
+      ],
+      [
+        "Nate bakes desserts that Joanna loves.",
+        "D4:9"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna can't have dairy.",
+        "D4:4"
+      ],
+      [
+        "Joanna is keen to try Nate's dairy-free dessert recipe.",
+        "D4:6"
+      ],
+      [
+        "Joanna is a writer and has written a screenplay.",
+        "D4:10"
+      ],
+      [
+        "Joanna has started writing another screenplay focused on self-discovery after a loss, inspired by personal experiences.",
+        "D4:12"
+      ],
+      [
+        "Joanna's new screenplay is about a thirty-year-old woman on a journey of self-discovery after a loss, inspired by personal experiences.",
+        "D4:14"
+      ],
+      [
+        "Joanna hopes her screenplay gets noticed and makes it to the screen.",
+        "D4:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

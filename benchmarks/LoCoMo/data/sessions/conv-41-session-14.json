@@ -1,0 +1,198 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-14",
+  "session_number": 14,
+  "session_summary": "John and Maria had a conversation at 5:04 pm on May 6, 2023. John shared his decision to run for office again, driven by his dream to make a difference in the community. Maria encouraged John to keep going and take risks, expressing her pride and support for him. John appreciated Maria's support and motivation, acknowledging that her belief in him keeps him going. Maria shared her involvement in charity work at a nearby church, finding it fulfilling. John discussed the need for infrastructure improvements in the community, particularly in roadways. Maria offered to help with community projects to address these issues. Both agreed to work together to make a real difference in their neighborhood by fighting for better living conditions and affordable housing. They concluded to keep working together to create a safe and thriving environment for their community.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a poster on a bulletin board with a man smiling",
+      "dia_id": "D14:1",
+      "text": "Hey Maria, great to chat again! A lot has happened since we last spoke. Last week, I decided to run for office again - even though I haven't been successful before. I guess I can't let go of my dream to make a difference in my community. Can you believe it? Feels like a dream come true!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:2",
+      "text": "Way to go, John! You're doing great. I'm so proud of you for sticking with it. You're always dreaming up ways to make a difference and I'm sure your drive will pay off. Don't be afraid to take risks-- I'm 100% behind you!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:3",
+      "text": "Maria, your support really means a lot! It's tough, but your kind words give me the motivation to keep going. I've still got a lot to learn, but I'm determined to make a difference. I appreciate your belief in me."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:4",
+      "text": "John, I believe in you! Even small steps will make a difference. Keep going and stay true to yourself. You got this!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:5",
+      "text": "Thanks, Maria! Your words really mean something. Sometimes it feels like it's too much, but your encouragement gives me the strength to keep going."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:6",
+      "text": "Hey John, it's okay to feel overwhelmed from time to time. Just remember to pause, reflect, and take care of yourself. I'm here for you - let me know how I can support you."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:7",
+      "text": "Thanks, Maria. Got it. It's easy to get lost and forget that. Appreciate your support. How's that going for you?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:8",
+      "text": "Hey John, I've been doing great lately. I've been involved in some charity work and it's been really rewarding. I feel connected and it's really fulfilling."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:9",
+      "text": "Wow, Maria! Glad you found something that brings you so much joy. What kind of work have you been doing?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:10",
+      "text": "Just yesterday I joined a nearby church. I wanted to feel closer to a community and my faith. So far it's been really great!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:11",
+      "text": "That's great, Maria! Joining a church can be really encouraging. I'm thrilled for you. How's everything been going?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:12",
+      "text": "Life's been a bit rough lately but I'm doing alright. I'm taking the time to reflect and find some balance. How about you? What's been going on since we last talked?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/bfie8r8yhekb1.jpg"
+      ],
+      "blip_caption": "a photo of a dark street at night with a fence and a street light",
+      "query": "power outage dark street infrastructure community",
+      "dia_id": "D14:13",
+      "text": "I had a similar experience. Last week, there was a power cut in our area, and it made me realize the importance of upgrading our infrastructure for stable services for everyone. Look how dark it was!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:14",
+      "text": "Wow, John, that's rough. Anything else around here that needs to be fixed so it doesn't happen again?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:15",
+      "text": "Yep, Maria. Mainly the roadways. They're full of potholes and can be dangerous for drivers and damaging to cars. Some improvements are definitely needed."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:16",
+      "text": "Yeah, I remember you mentioning the roads. They can be quite dangerous, huh? Is there anything I can do to help improve the situation?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:17",
+      "text": "Thanks for the offer, Maria. I'm thinking about starting a community project regarding infrastructure, so maybe we can work together to get the neighborhood's backing."
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://live.staticflickr.com/936/41912295190_f437e63596_b.jpg"
+      ],
+      "blip_caption": "a photography of a group of people looking at a map",
+      "query": "local meeting community members neighborhood improvements",
+      "dia_id": "D14:18",
+      "re-download": true,
+      "text": "Sounds like a plan, John! Let's work together to get the community involved and make a difference."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:19",
+      "text": "That pic makes me think of how important it is to fight for better housing and living conditions in our neighborhood. We can definitely make a difference!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:20",
+      "text": "Definitely, John! It's important that everyone has access to affordable housing. Let's get the community on board and fight for better living standards. We can make a difference!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:21",
+      "text": "Sure, Maria! Let's work together to make a real difference. Our neighborhood deserves it! I want to work on improving my old area, West County, too. "
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D14:22",
+      "text": "Yep, John! We should all join forces to create a safe and bustling environment for our community, and others too. Let's make some real change."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a garden with a raised bed of plants",
+      "dia_id": "D14:23",
+      "text": "Yeah, Maria, let's keep working together to make our neighborhood something to be proud of! We'll keep going and never give up."
+    }
+  ],
+  "events": {
+    "John": [
+      "John decides to run for office again despite his previous unsuccessful attempts.",
+      "John faces a power cut in the area which reinforces his motivation to work towards upgrading infrastructure in his current neighborhood as well as his old neighborhood, West County."
+    ],
+    "Maria": [
+      "Maria starts attending a nearby church to feel closer to her faith and community."
+    ],
+    "date": "6 May, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John decided to run for office again, despite not being successful before, to make a difference in his community.",
+        "D14:1"
+      ],
+      [
+        "John feels motivated by Maria's support and kind words to keep going and make a difference.",
+        "D14:3"
+      ],
+      [
+        "John experienced a power cut in the area, realizing the importance of upgrading infrastructure for stable services.",
+        "D14:13"
+      ],
+      [
+        "John believes that improvements are needed for the roadways in the area due to potholes and dangers for drivers.",
+        "D14:15"
+      ],
+      [
+        "John is considering starting a community project regarding infrastructure to improve the neighborhood.",
+        "D14:17"
+      ],
+      [
+        "John wants to work on improving his old area, West County, in addition to the current neighborhood.",
+        "D14:21"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria has been doing charity work recently, which she finds rewarding and fulfilling.",
+        "D14:8"
+      ],
+      [
+        "Maria joined a nearby church to feel closer to a community and her faith, finding it to be a great experience.",
+        "D14:10"
+      ],
+      [
+        "Maria's life has been a bit rough lately, but she is taking time to reflect and find balance.",
+        "D14:12"
+      ],
+      [
+        "Maria is willing to work with John on a community project regarding infrastructure to get the neighborhood's backing.",
+        "D14:18"
+      ],
+      [
+        "Maria wants to work together with John to create a safe and bustling environment for the community and others, to make real change.",
+        "D14:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

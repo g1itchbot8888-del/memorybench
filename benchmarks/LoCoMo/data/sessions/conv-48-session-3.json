@@ -1,0 +1,143 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-3",
+  "session_number": 3,
+  "session_summary": "Jolene and Deborah conversed at 7:03 pm on 1 February, 2023. Jolene shared about her challenging but fun robotics project that tests her creativity and problem-solving skills. Deborah praised her and asked about her feelings when she first received the project. Jolene felt a mix of excitement and nerves initially but now enjoys working on it, comparing it to solving a puzzle and finding designing and programming solutions. Deborah met her new neighbor at yoga in the park and they discussed the benefits of yoga in their lives. Jolene mentioned planning to play console games with her partner instead of resuming yoga. Deborah acknowledged the importance of having shared activities with her partner. The conversation ended with Jolene saying goodbye and looking forward to meeting again.",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/nx6fg5910bb61.jpg"
+      ],
+      "blip_caption": "a photo of a table with a robot on it and a laptop",
+      "query": "robotics project",
+      "dia_id": "D3:1",
+      "text": "Hi Deb! How're you? I've been busy. My engineering professor gave us a huge robotics project. It's tough but fun, it's making me get creative and problem-solve."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D3:2",
+      "text": "Hey Jolene! It's great to hear from you. It sounds challenging but interesting! It must be really putting your creative and problem-solving skills to the test. How did you feel when you first received the project? Are you enjoying working on it?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D3:3",
+      "text": "When I got it, I felt a mix of emotions - excited and nervous. But now, I'm really enjoying it! It's like trying to solve a puzzle, figuring out the best design and programming. Seeing the robot come together is awesome too!"
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a yellow sign with a picture of a family",
+      "dia_id": "D3:4",
+      "text": "That's awesome, Jolene! You're enjoying the process. It must be really satisfying to see it come together. Keep up the good work! Oh, by the way, I met my new neighbor Anna yesterday!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D3:5",
+      "text": "How did you two meet?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D3:6",
+      "text": "It happened at yoga in the park."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D3:7",
+      "text": "Wow, that's awesome! It's great connecting with people who have similar interests. Did you two talk about it?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D3:8",
+      "text": "Yeah, we talked about how it has improved our lives and the sense of community it gives."
+    },
+    {
+      "speaker": "Jolene",
+      "blip_caption": "a photo of a purse with a plant on a table",
+      "dia_id": "D3:9",
+      "text": "Sounds great!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D3:10",
+      "text": "Have you ever thought about resuming yoga?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D3:11",
+      "text": "Well... we planned to play the console with my partner."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D3:12",
+      "text": "It's also good that you have something to do together."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D3:13",
+      "text": "Thanks for the kind words!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D3:14",
+      "text": "Gotta run bye!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D3:15",
+      "text": "See you soon!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah meets a new neighbor, Anna, while doing yoga in the park and befriends them."
+    ],
+    "Jolene": [
+      "Jolene receives a challenging but fun robotics projects from her professor to work on."
+    ],
+    "date": "1 February, 2023"
+  },
+  "observations": {
+    "Jolene": [
+      [
+        "Jolene is a student who is working on a robotics project assigned by her engineering professor.",
+        "D3:1"
+      ],
+      [
+        "Initially, Jolene felt a mix of excitement and nervousness when she received the robotics project.",
+        "D3:3"
+      ],
+      [
+        "Jolene finds working on the robotics project like solving a puzzle and enjoys figuring out the best design and programming.",
+        "D3:3"
+      ],
+      [
+        "Jolene enjoys seeing the robot come together as she works on the project.",
+        "D3:3"
+      ],
+      [
+        "Jolene has a partner with whom she plans to play console games.",
+        "D3:11"
+      ]
+    ],
+    "Deborah": [
+      [
+        "Deborah met her new neighbor Anna at a yoga session in the park.",
+        "D3:4"
+      ],
+      [
+        "Deborah and Anna discussed how yoga has improved their lives and the sense of community it provides.",
+        "D3:8"
+      ],
+      [
+        "Deborah suggests to Jolene to resume yoga, hinting at its benefits.",
+        "D3:10"
+      ],
+      [
+        "Deborah values having activities to do together with others, like yoga with her neighbor Anna.",
+        "D3:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

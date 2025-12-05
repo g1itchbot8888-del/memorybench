@@ -1,0 +1,156 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-2",
+  "session_number": 2,
+  "session_summary": "Gina and Jon had a conversation at 2:32 pm on 29 January, 2023. Gina mentioned launching an ad campaign for her clothing store, excited about the risks and rewards of her business. Jon complimented her hard work and discussed his search for a suitable location for his dance studio, mentioning finding a spot with great natural light. They discussed the importance of features like flooring for dance studios, with Jon preferring Marley flooring. Gina encouraged Jon to believe in himself and take breaks when needed. They both expressed determination to chase their dreams and achieve success.",
+  "conversation_turns": [
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a clothing store with a variety of clothes on display",
+      "dia_id": "D2:1",
+      "re-download": true,
+      "text": "Hey Jon! Long time no see! Things have been hectic lately. I just launched an ad campaign for my clothing store in hopes of growing the business. Starting my own store and taking risks is both scary and rewarding. I'm excited to see where it takes me!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D2:2",
+      "text": "Hey Gina! Whoa, your store looks great! All your hard work really paid off - congrats! Must be awesome to see your stuff on display."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D2:3",
+      "text": "Thanks a bunch! It's awesome seeing my vision happen. How's the dance studio going? Did you find the right spot?"
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://avvay-aws-production.imgix.net/space-media/space-media-422692-prod.jpg"
+      ],
+      "blip_caption": "a photo of a bathroom with a blue floor and a pink wall",
+      "query": "dance studio natural lighting spacious room large windows dance mirrors",
+      "dia_id": "D2:4",
+      "text": "Hey Gina! Thanks for asking. I'm on the hunt for the ideal spot for my dance studio and it's been quite a journey! I've been looking at different places and picturing how the space would look. I even found a place with great natural light! Oh, I've been to Paris yesterday! It was sooo cool."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D2:5",
+      "text": "Wow, nice spot! Where is it? Got any other features you want to think about before you decide? Paris?! That is really great Jon! Never had a chance to visit it. Been only to Rome once."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D2:6",
+      "text": "It's downtown which is awesome cuz it's easy to get to. Plus the natural light! Gotta check the size & floor quality too. We need a good dance floor with enough bounce for me & my students to dance safely."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D2:7",
+      "text": "Definitely! Dance floors help avoid injuries and make dancing more enjoyable. You thinking about it is great. Any particular type of flooring you like?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D2:8",
+      "text": "Yeah, good flooring's crucial. I'm after Marley flooring, which is what dance studios usually use. It's great 'cause it's grippy but still lets you move, plus it's tough and easy to keep clean."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D2:9",
+      "text": "Sounds great! Marley's perfect; it's got the right amount of grip and movement. Can't wait to see your dance studio done!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D2:10",
+      "text": "Yeah, can't wait to see it done! Looking for the right place and getting everything ready has been a mix of exciting and nerve-wracking, but I'm determined to make it work. It'll be worth it!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D2:11",
+      "text": "Believe in yourself, Jon! The process may be tough, but you got this. Push through and it'll be worth it. Don't forget to take breaks and dance it out when you need to destress!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D2:12",
+      "text": "Glad I have you in my corner! Gotta make time to dance and vent, that's for sure. We'll make it through this - hang in there!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D2:13",
+      "text": "Thanks, Jon! Appreciate your support!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D2:14",
+      "text": "Let's keep going and chase our dreams!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D2:15",
+      "text": "Yeah! We've done so much, and there's nothing but good stuff coming. Let's keep going after our goals and making them happen."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D2:16",
+      "text": "Success is almost here. We got this!"
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon returns from a trip to Paris."
+    ],
+    "Gina": [
+      "Gina orders advertising to promote her store."
+    ],
+    "date": "29 January, 2023"
+  },
+  "observations": {
+    "Gina": [
+      [
+        "Gina launched an ad campaign for her clothing store in hopes of growing the business.",
+        "D2:1"
+      ],
+      [
+        "Gina started her own clothing store and finds taking risks scary but rewarding.",
+        "D2:1"
+      ],
+      [
+        "Gina appreciates seeing her vision for the store come to life.",
+        "D2:3"
+      ],
+      [
+        "Gina has been to Rome once.",
+        "D2:5"
+      ],
+      [
+        "Gina believes that good flooring helps avoid injuries and makes dancing more enjoyable.",
+        "D2:7"
+      ],
+      [
+        "Gina appreciates Jon's determination to make his dance studio work.",
+        "D2:11"
+      ]
+    ],
+    "Jon": [
+      [
+        "Jon is looking for the ideal spot for his dance studio and is considering features like size, natural light, and flooring.",
+        "D2:4"
+      ],
+      [
+        "Jon visited Paris recently",
+        "D2:4"
+      ],
+      [
+        "Jon is looking for Marley flooring for his dance studio due to its grip, movement, durability, and cleanliness.",
+        "D2:8"
+      ],
+      [
+        "Jon finds the process of setting up his dance studio a mix of exciting and nerve-wracking but is determined to make it work.",
+        "D2:10"
+      ],
+      [
+        "Jon believes in himself and is grateful for Gina's support.",
+        "D2:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

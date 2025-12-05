@@ -1,0 +1,238 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-11",
+  "session_number": 11,
+  "session_summary": "John and Tim caught up at 8:17 pm on 21 September, 2023. John shared about connecting with new teammates over basketball at a local restaurant. Tim suggested Edinburgh as a destination for their upcoming team trip, which John found appealing. They discussed John's passion for basketball, his career goals, and plans for life after sports. Tim advised John on picking endorsements and recommended a fantasy novel for his trip. John shared his bookshelf and praised \"The Alchemist.\" They ended the conversation by wishing each other well.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D11:1",
+      "text": "Hey Tim, been a while! How ya been?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:2",
+      "text": "Hey John! Great to hear from you. Been busy with things, how about you?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:3",
+      "text": "Yeah, something cool happened! I attended a local restaurant with some new teammates last week. It was great getting to know them better."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:4",
+      "text": "Good support is essential. How do you feel about them?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:5",
+      "text": "They're great friends. We connected over our shared love for basketball and had a ton of fun."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:6",
+      "text": "Sounds awesome. Having friends who share your hobbies can be really fun. Any exciting plans with them?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:7",
+      "text": "We're planning to take a team trip next month to explore a new city and have some fun. Can't wait!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:8",
+      "text": "That sounds great! Exploring new cities is always so much fun. Where are you headed?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:9",
+      "text": "We're still deciding on the destination. Do you have any suggestions?"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://www.thebearandthefox.com/wp-content/uploads/2018/02/IMG_3494.jpg"
+      ],
+      "blip_caption": "a photo of a city with a clock tower and a sun setting",
+      "query": "edinburgh scotland castle sunset",
+      "dia_id": "D11:10",
+      "text": "Edinburgh, Scotland would be great for a magical vibe. It's the birthplace of Harry Potter and has awesome history and architecture. Plus, it's a beautiful city. What do you think?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:11",
+      "text": "That sounds like a great idea! I haven't been to Edinburgh yet, but it definitely sounds like a place worth considering for our trip. Thanks for the suggestion!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:12",
+      "text": "Glad you liked it. Let me know if you need any more suggestions."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+      ],
+      "blip_caption": "a photo of a basketball ball on the ground with a basketball hoop in the background",
+      "query": "basketball court sunset",
+      "dia_id": "D11:13",
+      "text": "Thanks! I'll definitely reach out if I need more suggestions. Appreciate the help! Here's a pic I snapped during one of our practices. The sunset looked amazing on the court. Moments like these make me so grateful for my basketball career."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:14",
+      "text": "Wow, that looks amazing! What do you love most about your basketball career?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:15",
+      "text": "Thanks! I love playing pro ball - it's a constant challenge and keeps me growing. There's nothing like seeing myself get better and beating goals. Plus, playing with my teammates and having the fans cheer is awesome. Basketball gives me a great sense of satisfaction and purpose."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:16",
+      "text": "It's great that you have a passion that helps you grow and reach your goals. Achieving and feeling fulfilled must be amazing. Do you have any specific targets or goals you're working towards?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:17",
+      "text": "Definitely! I'm focusing on better shooting and making more of an impact on the court. I want to be known as a consistent performer and help my team. Off the court, I'm also looking into more endorsements and building my brand. It's important for me to think about life after basketball."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:18",
+      "text": "Awesome! It's great that you have goals both on and off the court. It's wise to think about the future and building your brand. What are your thoughts on life after basketball?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:19",
+      "text": "I've thought about it a lot. I want to use my platform to make a positive difference and inspire others - maybe even start a foundation and do charity work. It's important to me to make the most of the chances I get and leave a meaningful legacy."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:20",
+      "text": "Wow, that's amazing. Good on you for wanting to make a difference and motivate others. I'm sure you'll succeed! Is there anything I can do to support you?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:21",
+      "text": "Thanks! I'm trying to figure out how to pick the right ones - any advice on that?"
+    },
+    {
+      "speaker": "Tim",
+      "blip_caption": "a photo of a stack of books sitting on top of a counter",
+      "dia_id": "D11:22",
+      "text": "When picking endorsements, make sure they align with your values and brand. Look for a company that shares your desire to make a change and help others. It's important that the endorsement feels authentic to your followers."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:23",
+      "text": "Sounds like good advice! I was wondering if you have any book recommendations for my trip?"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://live.staticflickr.com/3195/3322703152_057a33dca1_z.jpg"
+      ],
+      "blip_caption": "a photography of a book cover with a man in a hooded jacket",
+      "query": "the name of the wind book cover fantasy cloaked figure burning city",
+      "dia_id": "D11:24",
+      "re-download": true,
+      "text": "Yeah! I think you'd love this fantasy novel by Patrick Rothfuss. It's a book that'll take you to a different world. Great for you when you're traveling. Have fun!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i0.wp.com/www.themself.org/wp-content/uploads/2016/10/img_20161018_133948.jpg"
+      ],
+      "blip_caption": "a photo of a bookshelf with a lot of books on it",
+      "query": "bookshelf",
+      "dia_id": "D11:25",
+      "text": "Thanks! I'll definitely check it out - looks like a great book to read while traveling. Can't wait to dive into it! Here's a photo of my bookshelf. You can see some of the books I've read and enjoyed."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:26",
+      "text": "Great bookshelf! I saw that you had \"The Alchemist\" on there, one of my favorites. Did you enjoy it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:27",
+      "text": "Yep, I read that book and loved it! It made me think about life and how important it is to follow one's dreams. Highly recommend it!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:28",
+      "text": "Glad you liked it! \"The Alchemist\" is worth it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:29",
+      "text": "Thanks! Take care!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D11:30",
+      "text": "Have fun! Take care and talk to you soon."
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim recommends that John can visit Edinburgh, Scotland for their team trip and recommends the book, The Name of the Wind by Patrick Rothfuss to read during the trip."
+    ],
+    "John": [
+      "John attends a local restaurant with some of his new teammates.",
+      "John plans to take a trip with his teammates and seeks for city and book recommendations from Tim."
+    ],
+    "date": "21 September, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John connected with new teammates over a shared love for basketball.",
+        "D11:5"
+      ],
+      [
+        "John is planning a team trip with his friends to explore a new city next month.",
+        "D11:7"
+      ],
+      [
+        "John is considering Edinburgh, Scotland for the team trip based on Tim's suggestion.",
+        "D11:11"
+      ],
+      [
+        "John loves his basketball career and finds it challenging and fulfilling, especially when he sees improvement and achieves goals.",
+        "D11:15"
+      ],
+      [
+        "John is focusing on improving shooting and making a greater impact on the court. He is also working on building his brand and seeking more endorsements for life after basketball.",
+        "D11:17"
+      ],
+      [
+        "John plans to use his platform post-basketball to make a positive difference, potentially by starting a foundation and doing charity work to leave a meaningful legacy.",
+        "D11:19"
+      ],
+      [
+        "John is open to receiving support and advice from others, like Tim.",
+        "D11:20"
+      ]
+    ],
+    "Tim": [
+      [
+        "Tim suggested Edinburgh, Scotland as a potential destination for the team trip.",
+        "D11:10"
+      ],
+      [
+        "Tim shared advice on picking endorsements that align with values and feel authentic to followers.",
+        "D11:22"
+      ],
+      [
+        "Tim recommended a fantasy novel by Patrick Rothfuss for John's trip, suggesting it as a great read while traveling.",
+        "D11:24"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

@@ -1,0 +1,141 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-18",
+  "session_number": 18,
+  "session_summary": "Tim told John about his trip to a castle in the UK last Friday, praising its architecture and history. John mentioned a tough week due to an injury but staying positive. Tim shared being swamped with exams but staying optimistic and working hard. John asked about exam prep and shared visualizing goals for motivation. Tim discussed breaking study sessions into smaller parts for better focus. They wished each other well, with John hoping for a quick recovery from the injury. Tim expressed understanding and support. John expressed missing playing due to the injury, likening it to Tim not being able to read. They encouraged each other to keep going and promised to talk soon. The conversation took place at 3:59 pm on 16 November, 2023.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://static.independent.co.uk/2021/07/28/09/26073722-6212c4b6-62f4-4d1f-b2d9-fab1e4ba16a8.jpg"
+      ],
+      "blip_caption": "a photo of a castle with a river running through it",
+      "query": "castle uk lush greenery",
+      "dia_id": "D18:1",
+      "text": "Hey John! Hope you're doing good. Guess what? I went to a castle during my trip to the UK last Friday and it was unbelievable! The architecture and the history were amazing!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/plgl67c48sg91.jpg"
+      ],
+      "blip_caption": "a photo of a person with a bandage on their leg",
+      "query": "ankle injury wrapped bandages",
+      "dia_id": "D18:2",
+      "text": "Hey Tim! That's awesome! Yeah, it was really cool. Oh man, it's been a tough week for me with this injury. But I'm staying positive. How about you? How's your week been?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D18:3",
+      "text": "Ouch, bummer about the injury. Hang tight. This week has been swamped with exams for me but I'm plowing through."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a notebook with a bunch of notes on it",
+      "dia_id": "D18:4",
+      "text": "Cheers, Tim. Injury's been rough, but I'm staying positive. How's the exam prep coming? Confident?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D18:5",
+      "text": "Exams can be challenging, but I'm putting in my best effort. Feeling optimistic and working diligently! How do you stay motivated during difficult study sessions?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a soccer game with a player on the field",
+      "dia_id": "D18:6",
+      "text": "I visualize my goals and success for focus and motivation. It really helps me stay motivated during tough studying. Do you have any study tricks?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D18:7",
+      "text": "That's cool! I like breaking up my studying into smaller parts. 25 minutes on, then 5 minutes off for something fun. It's less overwhelming and keeps me on track."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:8",
+      "text": "Nice work! Breaking it down into smaller parts is definitely a smart move. I wish you all the best on your exams!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D18:9",
+      "text": "Thanks! Appreciate your support. I hope your injury heals soon."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:10",
+      "text": "Sure thing, Tim! Got your back. I hope so too. The doctor said it's not too serious."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D18:11",
+      "text": "That's good to hear, I'm glad."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:12",
+      "text": "I hate not being on the court."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D18:13",
+      "text": "I bet. It's like if I couldn't read due to an injury."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:14",
+      "text": "I'm pushing on though. Talk soon!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D18:15",
+      "text": "Take care! Keep pushing on. Talk soon."
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim visit castles in the UK and returns home.",
+      "Tim prepares for exams at school."
+    ],
+    "John": [
+      "John suffers from an ankle injury and has to stay off court while recovering from it."
+    ],
+    "date": "16 November, 2023"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim visited a castle during his trip to the UK last Friday and was amazed by the architecture and history.",
+        "D18:1"
+      ],
+      [
+        "Tim's week has been swamped with exams, but he is plowing through them.",
+        "D18:3"
+      ],
+      [
+        "Tim breaks up his studying into smaller parts, with 25 minutes of study and 5 minutes of fun activities.",
+        "D18:7"
+      ]
+    ],
+    "John": [
+      [
+        "John has had a tough week with an injury but is staying positive.",
+        "D18:2"
+      ],
+      [
+        "John visualizes his goals and success for focus and motivation during tough studying sessions.",
+        "D18:6"
+      ],
+      [
+        "John's doctor mentioned that his injury is not too serious.",
+        "D18:10"
+      ],
+      [
+        "John hates not being on the court.",
+        "D18:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

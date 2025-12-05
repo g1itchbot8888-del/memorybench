@@ -1,0 +1,163 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-10",
+  "session_number": 10,
+  "session_summary": "Dave checked in with Calvin about his car post-crash at 7:56 pm on 7 July 2023. Calvin confirmed the car was fixed and going strong. They discussed regular walks in the park and admired each other's photos of scenic views. Calvin shared plans about exploring Japan for its food and culture, mentioning music collaborations he was working on. Dave expressed interest in visiting Japan for its vibes and tech. They discussed collaborating with artists and creating unique music. Calvin appreciated the support and concluded the chat, with Dave reminding him to not overwork.",
+  "conversation_turns": [
+    {
+      "speaker": "Dave",
+      "dia_id": "D10:1",
+      "text": "Hey Calvin, how's the car doing after the crash? You were stoked to get back on the road, right?"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2ZsMTY0Mjg5OTcwMDYtaW1hZ2Uta3R4cGR6enkuanBn.jpg"
+      ],
+      "blip_caption": "a photography of a red sports car parked on the side of the road",
+      "query": "ferrari mansion japan",
+      "dia_id": "D10:2",
+      "re-download": true,
+      "text": "Hey Dave! Thanks for checking in. It's all good now, the car's fixed and going strong. Nothing better than cruising around - it's the best! Look at how my car looks right now. How've you been? Anything new?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D10:3",
+      "text": "Glad to hear your car's fixed and going strong! I've been good too. Just been hanging out with friends at parks lately. I arranged with friends for regular walks together in the park."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D10:4",
+      "text": "\nThat sounds like a great plan! Regular walks with friends can be a wonderful way to spend time together and stay active. Fresh air and buddies can do wonders. Do you have a favorite spot for hanging out?"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://healthywaysfordays.files.wordpress.com/2020/11/61c247f0-cd80-4c81-916c-b905b92a93a3-ecdafc1d-2d3c-4cbb-b64a-258e84518cb3.jpg"
+      ],
+      "blip_caption": "a photo of a city skyline with a river and boats in the water",
+      "query": "sunset boston common park",
+      "dia_id": "D10:5",
+      "text": "Yeah, today we are going to that spot. Look at that lovely photo."
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://toyamahotnews.files.wordpress.com/2020/09/img-0880.jpg"
+      ],
+      "blip_caption": "a photo of a boat is docked in a canal at sunset",
+      "query": "sunset river view japanese mansion",
+      "dia_id": "D10:6",
+      "text": "Wow, what a view! That sunset over the river is gorgeous. It must be so tranquil there. Reminds me of living in my Japanese mansion with the epic cityscape. It's like a dream come true! Look at this photo I took from my backyard of the mansion. It's so beautiful!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D10:7",
+      "text": "Yeah, the peace by the river is really nice. But living in a Japanese mansion surrounded by that city skyline must be stunning. The views must be amazing!"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.redd.it/al2nryjbov481.jpg"
+      ],
+      "blip_caption": "a photo of a large house with a lot of windows and lights",
+      "query": "city lights view mansion",
+      "dia_id": "D10:8",
+      "text": "Ah, it really is beautiful. Whenever I look out the windows and see the city lights, it's so awe-inspiring. Luxury and beauty on a whole new level. Look at the front part of the mansion."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D10:9",
+      "text": "That mansion looks great! I bet the view from inside is stunning. Must be amazing living there. Anything else you're looking forward to doing in Japan?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D10:10",
+      "text": "Thanks Dave! Japan is indeed amazing. Can't wait to try the food and check out the culture. Have you ever been there?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D10:11",
+      "text": "Nope, never been to Japan but I'm so keen to go one day. I've heard it's full of vibes, good eats and awesome tech. Plus, being able to experience the culture would be amazing - I'm hooked on their music!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D10:12",
+      "text": "Japan definitely has it all - vibes, food, tech, and an amazing culture. It's like stepping into another world. I've been working on some cool music collaborations with Japanese artists, and I'm really excited to hear how it turns out!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D10:13",
+      "text": "Cool, Cal! Working with them is a great chance - can't wait for the tunes!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D10:14",
+      "text": "Thanks! I'll share some clips when everything's ready. Collaborating with various artists is always exciting, it's a chance to create something unique."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D10:15",
+      "text": "Way to go, Cal! Collaborating with different artists to create something special sounds amazing. Can't wait to see/hear the end product!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D10:16",
+      "text": "Thanks, Dave! Appreciate all the help. It's gonna be awesome - can't wait to show you. Great catching up, gotta get back to work now. Take care!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D10:17",
+      "text": "Hey Cal, take care and don't overwork yourself! Talk to you soon. Stay safe!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin's car is fixed up and ready to be driven again."
+    ],
+    "Dave": [
+      "Dave calls up his friends for regular trips to the local parks in Boston."
+    ],
+    "date": "7 July, 2023"
+  },
+  "observations": {
+    "Dave": [
+      [
+        "Dave asked Calvin how his car was after the crash and if he was excited to get back on the road.",
+        "D10:1"
+      ],
+      [
+        "Dave mentioned hanging out with friends at parks and arranging regular walks together.",
+        "D10:3"
+      ],
+      [
+        "Dave expressed interest in visiting Japan one day due to its vibes, food, and culture.",
+        "D10:11"
+      ]
+    ],
+    "Calvin": [
+      [
+        "Calvin's car was in a crash but is now fixed and going strong.",
+        "D10:2"
+      ],
+      [
+        "Calvin enjoys cruising around in his car and appreciates it.",
+        "D10:2"
+      ],
+      [
+        "Calvin mentioned living in a Japanese mansion with an epic cityscape view.",
+        "D10:6"
+      ],
+      [
+        "Calvin expressed excitement about trying the food and checking out the culture in Japan.",
+        "D10:10"
+      ],
+      [
+        "Calvin is working on music collaborations with Japanese artists and is excited about it.",
+        "D10:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

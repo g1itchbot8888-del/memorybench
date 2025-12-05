@@ -1,0 +1,123 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-19",
+  "session_number": 19,
+  "session_summary": "Dave and Calvin caught up at 12:13 am on 15 September, 2023. Dave shared about a fun jam session with his band and attending a rock concert in Boston. Calvin praised the electrifying atmosphere of rock concerts and asked about recordings of the jam. Dave mentioned they were too engrossed to record. Calvin appreciated the moments that can't be captured and shared a Disney poster. They discussed Ratatouille, following dreams, and Dave's car restoration hobby. Dave showed the final restoration picture, which Calvin admired. Dave found it satisfying and appreciated the reactions. Calvin praised Dave's work, calling it inspiring, and encouraged him to continue. They exchanged goodbyes, highlighting the importance of making people happy and following passions.",
+  "conversation_turns": [
+    {
+      "speaker": "Dave",
+      "dia_id": "D19:1",
+      "img_url": [
+        "https://c1.wallpaperflare.com/preview/76/142/466/concert-performance-hard-rock-guitarist.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a band performing on stage with bright lights",
+      "text": "Hey Calvin! Long time no talk! Got some cool news to share - last night was a blast! My band and I were jamming and the music just kept flowing. We had so much fun rehearsing! Also, last weekend, I had the opportunity to attend a rock concert here in Boston. Just take a look at what an amazing atmosphere it was!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D19:2",
+      "text": "Hey Dave! That's awesome! When everything just clicks during a jam session, it's such a great feeling. Do you happen to have any recordings of those sessions? That sounds fantastic! Rock concerts always have such an electrifying atmosphere! "
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D19:3",
+      "text": "Hey Calvin! I wish we had recorded the jam, but we were way too into it and totally forgot."
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i0.wp.com/backtothemouse.com/wordpress/wp-content/uploads/2019/06/IMG_5098-1.png"
+      ],
+      "blip_caption": "a photo of a poster for a disney movie with a chef",
+      "query": "magical moment photo",
+      "dia_id": "D19:4",
+      "text": "Aww, bummer! I would've loved to hear that music. Oh well, some of the best memories can't be captured on video or audio. It's like those special moments that stay in our hearts and minds. Take a look at this cool Disney poster!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D19:5",
+      "text": "Wow, that's a gorgeous poster! It reminds me of one of my favorite Disney movies. I love the lesson it teaches about following your dreams no matter what others say. Have you seen it yet?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D19:6",
+      "text": "Thanks! Ratatouille is one of my favorites! It's all about going after what you love, no matter what anyone says. Last time we talked, you mentioned your car hobby - how's that going?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D19:7",
+      "img_url": [
+        "https://c2.peakpx.com/wallpaper/949/672/879/automobile-mustang-old-car-wallpaper-preview.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a man standing next to a classic car",
+      "text": "Thanks, Calvin! It's been awesome. Been restoring this vintage beauty - here is the final result pic, take a look!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D19:8",
+      "text": "Nice work, Dave! That looks amazing. Is it satisfying to see your hard work pay off?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D19:9",
+      "text": "Thanks, Calvin! It's so satisfying to see this brought back to life, especially with people's reactions when they see the finished product - makes all the hard work worth it."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D19:10",
+      "text": "Dave, it's awesome seeing people happy thanks to you! Fixing cars is such an art. You're inspiring - keep up the good work!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D19:11",
+      "text": "Thanks, Calvin! It means a lot that you appreciate what I do. I'm glad that I can make people happy and that's what I'm gonna keep doing. Got to go now, I have a lot of work to do! Take care!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D19:12",
+      "text": "You're really talented, Dave. Keep making people happy and doing what you love. That's what it's all about. See you soon, have a nice one!"
+    }
+  ],
+  "events": {
+    "Calvin": [],
+    "Dave": [
+      "Dave spends some quality time with his rock band, practising jam sessions.",
+      "Dave attends a rock concert in Boston."
+    ],
+    "date": "15 September, 2023"
+  },
+  "observations": {
+    "Dave": [
+      [
+        "Dave is in a band and had a fun jamming session with them.",
+        "D19:1"
+      ],
+      [
+        "Dave attended a rock concert in Boston recently and enjoyed the atmosphere.",
+        "D19:1"
+      ],
+      [
+        "Dave is restoring a vintage car as a hobby.",
+        "D19:7"
+      ],
+      [
+        "Dave finds it satisfying to see his hard work pay off in restoring the car.",
+        "D19:9"
+      ]
+    ],
+    "Calvin": [
+      [
+        "Calvin is a fan of Ratatouille, a Disney movie that inspires following one's dreams.",
+        "D19:6"
+      ],
+      [
+        "Calvin appreciates Dave's talent in fixing cars and finds it inspiring.",
+        "D19:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

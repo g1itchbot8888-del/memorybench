@@ -1,0 +1,152 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-9",
+  "session_number": 9,
+  "session_summary": "Caroline has joined a mentorship program for LGBTQ youth, which she finds rewarding. She has been supporting a transgender teen and they had a great time at an LGBT pride event. Caroline is also preparing for an LGBTQ art show next month. Melanie thinks Caroline's painting for the art show is awesome and asks what inspired her. Caroline explains that she painted it after visiting an LGBTQ center and wanted to capture unity and strength. Meanwhile, Melanie and her kids have finished another painting.",
+  "conversation_turns": [
+    {
+      "speaker": "Melanie",
+      "dia_id": "D9:1",
+      "text": "Hey Caroline, hope all's good! I had a quiet weekend after we went camping with my fam two weekends ago. It was great to unplug and hang with the kids. What've you been up to? Anything fun over the weekend?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D9:2",
+      "text": "Hey Melanie! That sounds great! Last weekend I joined a mentorship program for LGBTQ youth - it's really rewarding to help the community."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D9:3",
+      "text": "Wow, Caroline! It's great that you're helping out. How's it going? Got any cool experiences you can share?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D9:4",
+      "text": "The mentoring is going great! I've met some amazing young folks and supported them along the way. It's inspiring to see how resilient and strong they are."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D9:5",
+      "text": "Wow, Caroline, that sounds super rewarding! Young people's resilience is amazing. Care to share some stories?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D9:6",
+      "text": "I mentor a transgender teen just like me. We've been working on building up confidence and finding positive strategies, and it's really been paying off! We had a great time at the LGBT pride event last month."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D9:7",
+      "text": "Caroline, awesome news that you two are getting along! What was it like for you both? Care to fill me in?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_fill,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420662/www.travelportland.com/Portland-Pride-Parade-Downtown/Portland-Pride-Parade-Downtown.jpg"
+      ],
+      "blip_caption": "a photo of a woman holding a rainbow umbrella in the air",
+      "query": "lgbt pride event",
+      "dia_id": "D9:8",
+      "text": "The pride event was awesome! It was so encouraging to be surrounded by so much love and acceptance."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D9:9",
+      "text": "Wow! What's the best part you remember from it?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D9:10",
+      "text": "Seeing my mentee's face light up when they saw the support was the best! Such a special moment."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D9:11",
+      "text": "Wow, Caroline! They must have felt so appreciated. It's awesome to see the difference we can make in each other's lives. Any other exciting LGBTQ advocacy stuff coming up?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D9:12",
+      "text": "Yay! Next month I'm having an LGBTQ art show with my paintings - can't wait!"
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a painting with a blue and yellow design",
+      "dia_id": "D9:13",
+      "text": "Wow, Caroline, that sounds awesome! Can't wait to see your art - got any previews?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/abstract-landscape-bold-colorful-painting-megan-duncanson.jpg"
+      ],
+      "blip_caption": "a photography of a painting of a tree with a bright sun in the background",
+      "query": "preview painting art show",
+      "dia_id": "D9:14",
+      "re-download": true,
+      "text": "Check out my painting for the art show! Hope you like it."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D9:15",
+      "text": "Wow, Caroline, that painting is awesome! Those colors are so vivid and the whole thing looks really unified. What inspired you?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D9:16",
+      "text": "Thanks, Melanie! I painted this after I visited a LGBTQ center. I wanted to capture everyone's unity and strength."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D9:17",
+      "text": "Wow, Caroline! It really conveys unity and strength - such a gorgeous piece! My kids and I just finished another painting like our last one."
+    }
+  ],
+  "events": {
+    "Caroline": [
+      "Caroline joins a mentorship program for LGBTQ youth."
+    ],
+    "Melanie": [],
+    "date": "17 July, 2023"
+  },
+  "observations": {
+    "Melanie": [
+      [
+        "Melanie went camping with her family two weekends ago.",
+        "D9:1"
+      ],
+      [
+        "Melanie enjoys unplugging and hanging out with her kids.",
+        "D9:1"
+      ],
+      [
+        "Melanie and her kids finished a painting before the conversation.",
+        "D9:17"
+      ]
+    ],
+    "Caroline": [
+      [
+        "Caroline joined a mentorship program for LGBTQ youth over the weekend.",
+        "D9:2"
+      ],
+      [
+        "Caroline mentors a transgender teen and they work on building confidence and positive strategies.",
+        "D9:6"
+      ],
+      [
+        "Caroline and her mentee had a great time at the LGBT pride event the previous month.",
+        "D9:6"
+      ],
+      [
+        "Caroline is planning an LGBTQ art show with her paintings for next month.",
+        "D9:12"
+      ],
+      [
+        "Caroline painted a piece inspired by a visit to an LGBTQ center, aiming to capture unity and strength.",
+        "D9:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

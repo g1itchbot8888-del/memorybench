@@ -1,0 +1,181 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-9",
+  "session_number": 9,
+  "session_summary": "Sam informed Evan about his successful new diet and exercise routine, which started the previous Monday and made him feel great. Evan, however, mentioned twisting his knee the previous Friday, which hindered his fitness routine. Evan appreciated Sam's concern, citing life's unpredictability. Evan expressed interest in a book and discussed potential physical therapy for his knee. Sam recommended low-impact exercises and swimming. Evan also shared his recent road trip to the Rocky Mountains and love for hiking. Sam expressed interest in hiking and the need to become healthier. Evan recommended a nearby lake for hiking and nature exploration. Sam decided to plan a day trip to the lake. The conversation ended with friendly goodbyes at 10:24 am on 27 August, 2023.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:1",
+      "text": "Hey Evan! Exciting news: I started a new diet and exercise routine last Monday and it's made a huge difference. I feel great! What about you, what changes have you made recently?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D9:2",
+      "text": "Wow, Sam, great! Glad your new diet/exercise is going well. As for me, I've hit a sore spot lately. Twisted my knee last Friday and it's really painful, so it's been tough to stay consistent with my usual fitness routine. It's really frustrating because staying active is like, mega-important to me."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:3",
+      "text": "Oh no, sorry to hear about that, Evan. It's frustrating when our bodies don't cooperate, isn't it? Is there anything I can do to help?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D9:4",
+      "text": "Thanks, Sam. I appreciate the concern. Life throws us curveballs - that's life, right? By the way, remember that book I was talking about? It just gets better with every page, can't let it out of my hands!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:5",
+      "text": "Life sure can be unpredictable and tough. Being adaptable and finding other ways to stay active is key when you're facing an obstacle. Maybe look into low-impact exercises or physical therapy to help with that? And damn, you really got me interested in this book haha!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D9:6",
+      "text": "Yeah, PT for my knee is on the cards. Hopefully I'll get an appointment soon. Till then, just keeping it low-key and swimming to stay active."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:7",
+      "text": "Swimming is a good choice, Evan. It's low-impact and easy on the joints, plus it's refreshing. Keep up with the active lifestyle!"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/In_a_car_over_a_lake_%28Unsplash%29.jpg"
+      ],
+      "blip_caption": "a photography of a car is parked near a lake with mountains in the background",
+      "query": "prius parked lake view nature",
+      "dia_id": "D9:8",
+      "re-download": true,
+      "text": "Yeah, thanks for the push, Sam. Oh, hey, I came across this pic when I was tidying up. I took a road trip last month - the scenery was stunning and nature really chilled me out."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:9",
+      "text": "Wow, looks great! Where did you go? Bet it was nice to get away."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D9:10",
+      "text": "Thanks! I went up to the Rocky Mountains, it was so refreshing! The views were stunning and I felt so relaxed. Do you enjoy road trips and exploring nature?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:11",
+      "text": "I haven't gone on a road trip in ages, but I love being surrounded by nature. It's so tranquil and refreshing. I'd love to go hiking more, but it can be a bit challenging sometimes. However, I am working on becoming healthier, so maybe a road trip and a hike will be possible soon."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://www.koin.com/wp-content/uploads/sites/10/2022/04/Tom-Dick-and-Harry-Mountain-view-of-Mirror-Creek-Courtesy-US-Forest-Service.jpg"
+      ],
+      "blip_caption": "a photo of a lake with a mountain in the background",
+      "query": "hiking trail mountain views",
+      "dia_id": "D9:12",
+      "text": "That's cool, Sam. Nature can be really peaceful. I'd suggest going for more hikes, like I do. It's always been calming and fun. We should definitely do one together sometime."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:13",
+      "text": "Sounds like fun! Which lake do you recommend? I'd love to explore some of the local trails."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i.redd.it/p8xbz5tcvc2b1.jpg"
+      ],
+      "blip_caption": "a photo of a lake with a mountain in the background",
+      "query": "lake louise mountains reflected water trail",
+      "dia_id": "D9:14",
+      "text": "Check out this one! It's gorgeous and there are lots of trails nearby. You'll love it!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:15",
+      "text": "Wow, it looks great! Is it nearby? What a view!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D9:16",
+      "text": "It's only a two-hour drive from here, but trust me, it's worth every minute for the incredible views and peaceful atmosphere."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:17",
+      "text": "Cool, a day trip's doable. Nature's calling me, so I'm gonna go check it out! Thanks!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D9:18",
+      "text": "No worries, enjoy your time in nature. Take care! Bye!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D9:19",
+      "text": "Thanks Evan. Have a good one. See ya!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan twists his ankle and is not able to stay consistent in his fitness routine.",
+      "Evan engages in swimming to stay healthy until his ankle gets better and looks for physical therapy appointments."
+    ],
+    "Sam": [
+      "Sam begins to feel more motivated and energized due to his new diet and exercise routine."
+    ],
+    "date": "27 August, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam started a new diet and exercise routine last Monday and it has made a huge difference.",
+        "D9:1"
+      ],
+      [
+        "Sam suggested low-impact exercises or physical therapy to help Evan with his twisted knee.",
+        "D9:5"
+      ],
+      [
+        "Sam enjoys being surrounded by nature as it is tranquil and refreshing.",
+        "D9:11"
+      ],
+      [
+        "Sam loves exploring nature and mentioned an interest in going on hikes.",
+        "D9:11"
+      ],
+      [
+        "Sam expressed an interest in going on a road trip and mentioned working on becoming healthier.",
+        "D9:11"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan twisted his knee last Friday and is finding it tough to stay consistent with his usual fitness routine.",
+        "D9:2"
+      ],
+      [
+        "Evan is considering physical therapy for his knee and in the meantime is keeping it low-key and swimming to stay active.",
+        "D9:6"
+      ],
+      [
+        "Evan took a road trip to the Rocky Mountains last month and found the scenery stunning and nature calming.",
+        "D9:10"
+      ],
+      [
+        "Evan recommended going for hikes to Sam as a calming and fun activity in nature.",
+        "D9:12"
+      ],
+      [
+        "Evan shared a picture from his road trip to the Rocky Mountains with stunning views.",
+        "D9:8"
+      ],
+      [
+        "Evan recommended a nearby lake for Sam to explore with many trails nearby.",
+        "D9:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

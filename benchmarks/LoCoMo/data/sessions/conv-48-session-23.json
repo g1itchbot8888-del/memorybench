@@ -1,0 +1,263 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-23",
+  "session_number": 23,
+  "session_summary": "Jolene and Deborah spoke at 11:46 am on 30 August 2023. Jolene shared her recent trip to Rio de Janeiro, how it introduced her to different kinds of yoga, and they visited lovely cafes. Deborah visited her mom's house last month, holding sentimental value for her, shared her reflection spot, and discussed a photo from Rio de Janeiro. They exchanged thoughts on relaxing places, meaningful quotes, and embracing positivity. Jolene shared her new plant as a symbol of self-care. Deborah encouraged her to nurture herself and embrace new beginnings. They both agreed on focusing on positivity and growth before saying goodbye.",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://thegoodstuffbyajaespoo.files.wordpress.com/2017/09/img_20170723_184612_691.jpg"
+      ],
+      "blip_caption": "a photo of a woman doing a yoga pose in a mirror",
+      "query": "colombian yoga studio vibrant colors people yoga poses",
+      "dia_id": "D23:1",
+      "text": "Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:2",
+      "text": "That yoga pose looks great. Must've been a cool experience for the two of you. What did the trip teach you?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:3",
+      "text": "This country was awesome! It showed me different kinds of yoga and their backgrounds, which made me appreciate it even more. We visited a lot of delicious cafes! Have you ever been somewhere that was important to you?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://i.redd.it/03tq3y75jmy41.jpg"
+      ],
+      "blip_caption": "a photo of a man standing in front of a house",
+      "query": "mother childhood home house",
+      "dia_id": "D23:4",
+      "text": "Yep, last month I visited my mom`s house which holds a special place in my heart. My mom had good and bad times there, but it's still a symbol of her strength and the love she shared with me. This is my husband in front of this house."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:5",
+      "text": "What was it like?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:6",
+      "text": "It brought back fond memories as I relaxed outside."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:7",
+      "text": "Sounds great! So glad you have a place to relax and find peace."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:8",
+      "text": "Thanks, Jolene. It's special for me. How about you? Is there a place that helps you relax?"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://pandolinadventures.files.wordpress.com/2016/05/img_3720.jpg"
+      ],
+      "blip_caption": "a photo of a pond with lily pads and a tree in the background",
+      "query": "quiet pond surrounded trees meditation",
+      "dia_id": "D23:9",
+      "text": "I go to this nearby place to meditate by a tranquil spot."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:10",
+      "text": "Looks chill. What's been the effect of that?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:11",
+      "text": "It helps me make sense of everything and relieves stress. It's like a restart."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://i.redd.it/jygby0ihz7o41.jpg"
+      ],
+      "blip_caption": "a photo of a lake with a few trees in the water",
+      "query": "peaceful sunset lake",
+      "dia_id": "D23:12",
+      "text": "Cool, glad you found a place to chill. We all need that occasionally. This is one of my favorite spots to ponder and let things go.\n"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:13",
+      "text": "Looks great! What made you pick that spot?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:14",
+      "text": "The soothing vibes and nice views made it ideal for reflecting and letting go."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://anomadontheloose.com/wp-content/uploads/2018/01/tam-wua-forest-monastery-cave-walking-meditation-1728368610..jpg"
+      ],
+      "blip_caption": "a photo of a group of people walking up a set of stairs",
+      "query": "meditation nature",
+      "dia_id": "D23:15",
+      "text": "Here is one more photo from Rio de Janeiro. We went on many excursions there."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:16",
+      "text": "Wow, those stairs look cool! Where were they taken?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:17",
+      "text": "We had a great time visiting an old temple. The stairs were amazing!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://i.redd.it/4dsrcyti38h31.jpg"
+      ],
+      "blip_caption": "a photo of a large stone structure with a mountain in the background",
+      "query": "ancient temple sunrise",
+      "dia_id": "D23:18",
+      "text": "Wow, exploring those temples must have been incredible! Three years ago I was also in Rio de Janeiro, I took a beautiful photo on one of the excursions."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:19",
+      "text": "The architecture and history of it all were really interesting. I'm sure you also liked the places you visited there!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://i.redd.it/76ihuz977zab1.jpg"
+      ],
+      "blip_caption": "a photo of a hand holding a piece of paper with writing on it",
+      "query": "old photograph handwritten note",
+      "dia_id": "D23:20",
+      "text": "Exploring historical places and learning their stories is so fun. It was a great experience. I want to share this photo with you."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:21",
+      "text": " By the way, what did that paper have written on it in the photo?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:22",
+      "text": "This was written to me by a friend who, unfortunately, will never be able to support me. I miss him here. This quote says\"Let go of what no longer serves you.\""
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+      ],
+      "blip_caption": "a photo of a notebook with a quote on it",
+      "query": "bullet journal spread quote",
+      "dia_id": "D23:23",
+      "text": "I'm sorry! That's a good reminder to stay focused and let go of what no longer serves us. Remember the quote in my notebook? It also inspires me!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:24",
+      "text": "What other quotes give you strength?"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "http://swaygirls.com/cdn/shop/products/IMG_1932_jpg.jpg"
+      ],
+      "blip_caption": "a photo of a notebook with a pen and a plant on a table",
+      "query": "quote notebook positivity growth",
+      "dia_id": "D23:25",
+      "text": "I came across this one while browsing and it really hit home with me. It's a great reminder to ditch the negative stuff and focus on growing and being positive."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:26",
+      "text": "Surrounding ourselves with good stuff and striving to improve is key."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/w0ycj9vmb6fb1.jpg"
+      ],
+      "blip_caption": "a photo of a plant in a pot on a patio",
+      "query": "plant growing pot",
+      "dia_id": "D23:27",
+      "text": "Yep, Deborah! It's about creating a good atmosphere to help us grow and improve. By the way, I have a new plant."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:28",
+      "text": "What made you pick it?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:29",
+      "text": "I got this as a reminder to nurture myself and embrace fresh starts."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:30",
+      "text": "Nice job, Jolene! Take care of yourself and embrace new beginnings."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D23:31",
+      "text": "Thanks Deb! Will do. Good talking to you. Take care!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D23:32",
+      "text": "Have a great day!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah and her husband visited her mother's house last month."
+    ],
+    "Jolene": [
+      "Jolene and her partner return from their trip to Rio de Janeiro to explore different types of yoga, explore some cool yoga classes, cafes and old temples."
+    ],
+    "date": "30 August, 2023"
+  },
+  "observations": {
+    "Jolene": [
+      [
+        "Jolene recently went on a trip to Rio de Janeiro with her partner, where they attended yoga classes and visited cafes.",
+        "D23:1"
+      ],
+      [
+        "Jolene meditates at a nearby tranquil spot to help make sense of things and relieve stress.",
+        "D23:9"
+      ],
+      [
+        "Jolene has a new plant as a reminder to nurture herself and embrace fresh starts.",
+        "D23:29"
+      ]
+    ],
+    "Deborah": [
+      [
+        "Deborah visited her mom's house last month, which holds a special place in her heart as a symbol of her mom's strength and love.",
+        "D23:4"
+      ],
+      [
+        "Deborah has a favorite spot where she goes to ponder and let things go.",
+        "D23:12"
+      ],
+      [
+        "Deborah took a beautiful photo on one of her excursions in Rio de Janeiro three years ago.",
+        "D23:18"
+      ],
+      [
+        "Deborah received a quote from a friend that says \"Let go of what no longer serves you.\"",
+        "D23:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

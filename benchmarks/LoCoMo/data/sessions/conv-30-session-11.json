@@ -1,0 +1,170 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-11",
+  "session_number": 11,
+  "session_summary": "At 3:14 pm on 11 May 2023, Jon and Gina had an inspiring conversation about Jon's new dance studio. Jon shared his journey of starting his dream business after losing his job. Gina commended his determination and encouraged him to keep going. They both connected over their love for dance as a stress-reliever. Jon expressed his passion for dance and how it keeps him motivated. Gina shared her exciting news about a design internship interview. Jon offered to show Gina a dance routine, and she eagerly agreed. They promised to support each other, with Jon updating Gina on the studio progress and sending her a video of his routine soon.",
+  "conversation_turns": [
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a woman in a short skirt with her hands on her hips",
+      "dia_id": "D11:1",
+      "text": "Hi! Since we last spoke I am still working on the dance studio and things are looking up!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:2",
+      "text": "Hi! You're so inspiring taking it on and opening your own studio!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:3",
+      "text": "Thanks! Losing my job gave me the push to finally start my dream business: my own dance studio! Now I'm stepping into the unknown and hoping for the best."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:4",
+      "text": "It must be scary stepping into the unknown but I know you can do it, Jon. With your determination and drive, your dance studio will be a huge success. Keep that positive outlook and keep going!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:5",
+      "text": "Thanks! It's a bit scary, but I just think about my love for dance and how it makes me feel. It's been my stress-buster since childhood!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:6",
+      "text": "Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:7",
+      "text": "Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:8",
+      "text": "I get it, Jon. Dance is just me -- I can't picture life without it. It's like air."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:9",
+      "text": "Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:10",
+      "text": "You're living the dream and inspiring others too! Your studio will totally change things for lots of folks."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:11",
+      "text": "I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:12",
+      "text": "That's a great dream, Jon! Giving people a place to express themselves with dance is really important. Your studio is gonna make a huge difference. Can't wait to see it happen!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:13",
+      "text": "Thanks! Your help means a lot. Keep you posted on the dance studio progress."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:14",
+      "text": "Thanks! Really appreciate you keeping me in the loop on this cool project. Can't wait to hear more and watch it come to life! Oh, btw, I had an interview for a design internship yesterday! It was so cool."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:15",
+      "text": "Wow, Gina, I'm stoked about this! Taking a risk is scary, but I'm sure following my dreams will pay off in the end. How did the interview go?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:16",
+      "text": "It was great!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:17",
+      "text": "Glad to hear it. Been practicing dance routines lately, it keeps my mind focused and motivated."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:18",
+      "text": "Wow! That's great. Dancing is awesome for staying focused. Wanna show me a routine sometime?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:19",
+      "text": "Sure, Gina! Wanna see one of my routines? Lemme know when you got time and I'll send you a vid."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:20",
+      "text": "Yeah, Jon, I'll watch your routine! So proud of you!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D11:21",
+      "text": "Thanks a lot! Your help really means a lot. I'll get the video to you soon!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D11:22",
+      "text": "No prob! Always here to help. Can't wait to see the vid!"
+    }
+  ],
+  "events": {
+    "Jon": [],
+    "Gina": [
+      "Gina gets an interview for a design internship related to her store."
+    ],
+    "date": "11 May, 2023"
+  },
+  "observations": {
+    "Jon": [
+      [
+        "Jon lost his job but used it as an opportunity to start his dream business: a dance studio.",
+        "D11:3"
+      ],
+      [
+        "Dance has been Jon's stress-buster since childhood.",
+        "D11:5"
+      ],
+      [
+        "Jon sees dancing as where he feels most alive and considers it a must-have in his life.",
+        "D11:7"
+      ],
+      [
+        "Having his own dance studio and teaching others is a dream come true for Jon.",
+        "D11:9"
+      ],
+      [
+        "Jon hopes to create a place for people to dance and express themselves, as it's been a dream of his.",
+        "D11:11"
+      ]
+    ],
+    "Gina": [
+      [
+        "Gina finds dancing as her stress fix and something that makes her worries vanish.",
+        "D11:6"
+      ],
+      [
+        "Dance is essential to Gina, and she compares it to being like air.",
+        "D11:8"
+      ],
+      [
+        "Gina had an interview for a design internship and found it to be great.",
+        "D11:14"
+      ],
+      [
+        "Gina is proud of Jon and is excited about his dance studio project.",
+        "D11:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

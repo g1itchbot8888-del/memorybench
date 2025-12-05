@@ -1,0 +1,178 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-1",
+  "session_number": 1,
+  "session_summary": "Deborah and Jolene met at 4:06 pm on 23 January, 2023. They discussed their busy weeks and memories of their deceased mothers. Deborah shared about her mother's old house, while Jolene mentioned her room in her mother's house. They talked about special items that reminded them of their mothers. Jolene discussed a pendant symbolizing freedom, inspiring her to pursue goals. Deborah expressed her goal to teach yoga and bring peace to her community. Yoga helped Deborah find peace during a difficult time. Jolene found Deborah's journey inspiring, and the conversation ended with them looking forward to the next chat.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "dia_id": "D1:1",
+      "text": "Hey Jolene, nice to meet you! How's your week going? Anything fun happened?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D1:2",
+      "text": "Hi Deb! Good to meet you! Yeah, my week's been busy. I finished an electrical engineering project last week - took a lot of work, but it's done now. Anything fun happening for you?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D1:3",
+      "text": "Congrats! Last week I visited a place that holds a lot of memories for me. It was my mother`s old house."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D1:4",
+      "text": "Why does it hold such special memories for you?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://jubileewriter.files.wordpress.com/2021/05/20171019_174608.jpg"
+      ],
+      "blip_caption": "a photo of a woman in a wheelchair hugging a woman in a wheelchair",
+      "query": "mother old home emotions memories",
+      "dia_id": "D1:5",
+      "text": "It was full of memories, she passed away a few years ago. This is our last photo together."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+      ],
+      "blip_caption": "a photo of a room with a bench and a window",
+      "query": "serene yoga studio windows natural light",
+      "dia_id": "D1:6",
+      "text": "Sorry about your loss, Deb. My mother also passed away last year. This is my room in her house, I also have many memories there. Is there anything special about it you remember?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D1:7",
+      "text": "My mom's house had a special bench near the window. She loved to sit there every morning and take in the view. I come to sit here sometimes, it helps me stay connected to her."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "http://eternalkeepsake.com/cdn/shop/products/IMG_0841.jpg"
+      ],
+      "blip_caption": "a photo of a heart shaped pendant with a bird on it",
+      "query": "meaningful necklace heart pendant",
+      "dia_id": "D1:8",
+      "text": "Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D1:9",
+      "text": "Yes, I also have a pendant that reminds me of my mother. And what is special for you about your jewelry?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D1:10",
+      "text": "It has a special symbol on it that represents freedom for me. It's a nice reminder to go for my goals and not get held back."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D1:11",
+      "text": "It should really give you strength and energy!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D1:12",
+      "text": "Do you have goals?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D1:13",
+      "text": "One of my goals is to keep teaching yoga and supporting my community. I'm passionate about helping people find peace and joy through it."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D1:14",
+      "text": "What inspired you to go down this route?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D1:15",
+      "text": "Yoga helped me find peace during a rough time, and now I'm passionate about sharing that with others."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D1:16",
+      "text": "It is truly inspiring!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D1:17",
+      "text": "Gotta run, bye!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D1:18",
+      "text": "Looking forward to the next chat!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah visits her mother's old home while reflecting on her life."
+    ],
+    "Jolene": [
+      "Jolene conquers a difficult electrical engineering project."
+    ],
+    "date": "23 January, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah finished an electrical engineering project last week.",
+        "D1:2"
+      ],
+      [
+        "Deborah visited her mother's old house last week which holds special memories as her mother passed away a few years ago.",
+        "D1:3"
+      ],
+      [
+        "Deborah has a photo with her mother, which is their last photo together.",
+        "D1:5"
+      ],
+      [
+        "Deborah's mother had a special bench near the window in her house where she used to sit every morning to take in the view.",
+        "D1:7"
+      ],
+      [
+        "Deborah has a pendant that reminds her of her mother.",
+        "D1:9"
+      ],
+      [
+        "Deborah's goal is to keep teaching yoga and supporting her community to help people find peace and joy.",
+        "D1:13"
+      ],
+      [
+        "Yoga helped Deborah find peace during a rough time, inspiring her to share it with others.",
+        "D1:15"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene finished an electrical engineering project last week.",
+        "D1:2"
+      ],
+      [
+        "Jolene's mother passed away last year.",
+        "D1:6"
+      ],
+      [
+        "Jolene has a room in her mother's house where she has many memories.",
+        "D1:6"
+      ],
+      [
+        "Jolene has a pendant that reminds her of her mother.",
+        "D1:8"
+      ],
+      [
+        "Jolene's pendant has a special symbol representing freedom, reminding her to go for her goals.",
+        "D1:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

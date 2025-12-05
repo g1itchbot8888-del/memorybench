@@ -1,0 +1,352 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-28",
+  "session_number": 28,
+  "session_summary": "Calvin and Dave caught up at 5:46 pm on 2 November, 2023. Calvin shared with Dave about throwing a party for his new album last week at his Japanese house, receiving immense love and support from friends and family. Dave congratulated him on the album release and the party, praising Calvin for creating something that brings people together. Calvin, in turn, appreciated the positive feedback and mentioned how such moments motivate him to continue growing. Dave shared his passion for car mods and his new blog, seeking tips from Calvin on blogging. Calvin admired Dave's efforts, especially sharing his knowledge and inspiring others. They also discussed Dave's car restoration project, his rock band, and their mutual love for music. Calvin shared insights into his studio setup, mentioning his passion for watching music-related content on TV for inspiration. Dave showed Calvin his notebook for writing lyrics and the vintage music player he uses while working on cars. They exchanged thoughts on music's influence on productivity and mood. Calvin encouraged Dave to keep discovering new tunes and broadening his musical knowledge before parting ways as Dave had to return to work.",
+  "conversation_turns": [
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://live.staticflickr.com/3829/11428939743_6e80009962_b.jpg"
+      ],
+      "blip_caption": "a photography of a group of people sitting in a room with a projector screen",
+      "query": "japanese mansion listening party",
+      "dia_id": "D28:1",
+      "re-download": true,
+      "text": "Hey Dave! It's been a while! Crazy stuff has been happening. Last week I threw a small party at my Japanese house for my new album. It was amazing, so much love from my fam and friends! Take a look at the photo of the party in the mansion, it was so energizing!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:2",
+      "text": "Congrats on your album release and the party, Calvin! Must've been a great feeling having your loved ones show their support."
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://images.pexels.com/photos/18047550/pexels-photo-18047550/free-photo-of-people-dancing-on-party.jpeg"
+      ],
+      "blip_caption": "a photography of a group of people dancing at a party",
+      "query": "party friends family dancing",
+      "dia_id": "D28:3",
+      "re-download": true,
+      "text": "Thanks, Dave! It was an awesome feeling seeing everyone come together to celebrate - super rewarding! Look at this photo showcasing how wonderfully we spent our time!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:4",
+      "text": "Wow, great job, Calvin! Congrats! What was it like when everyone was cheering you on?"
+    },
+    {
+      "speaker": "Calvin",
+      "blip_caption": "a photo of a group of people standing on top of a stage",
+      "dia_id": "D28:5",
+      "text": "It was incredible, Dave! The room was buzzing with energy and love. It was a powerful reminder of why I'm doing this."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:6",
+      "text": "Wow, Calvin! Creating something that brings people together and inspires them - that's really awesome!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:7",
+      "text": "Thanks, Dave! It's an awesome feeling. Creating something that people connect with and brings joy is what I'm all about. Moments like this really motivate me to keep growing!"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5f5d661-c43a-4159-beb1-41a0ffb503bd/d8azllp-91d696d6-4167-4846-aad2-46467414114e.png/v1/fit/w_375,h_535,q_70,strp/lutz_home_page_mock_up_by_axelnavaja_d8azllp-375w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M1ZjVkNjYxLWM0M2EtNDE1OS1iZWIxLTQxYTBmZmI1MDNiZFwvZDhhemxscC05MWQ2OTZkNi00MTY3LTQ4NDYtYWFkMi00NjQ2NzQxNDExNGUucG5nIiwiaGVpZ2h0IjoiPD0xNDYyIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvYzVmNWQ2NjEtYzQzYS00MTU5LWJlYjEtNDFhMGZmYjUwM2JkXC9heGVsbmF2YWphLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.2SIHoyGPb9qYBOuyrWc5BUInUOR1q8C1khI1OcW907E"
+      ],
+      "blip_caption": "a photography of a car website design",
+      "query": "blog homepage car modifications successful blog",
+      "dia_id": "D28:8",
+      "re-download": true,
+      "text": "Wow, Calvin, imagining how your music affects others must be incredible! Keep up the great work! By the way, I recently started a blog on car mods. It's my way to share my passion with others. Do you have any tips on blogging for me? Just take a look at this beautiful car!\n\n"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:9",
+      "text": "Cool, Dave! It's really fun to share your passion through blogging. Have you had any success stories yet with inspiring others?"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://images.pexels.com/photos/12590786/pexels-photo-12590786.jpeg"
+      ],
+      "blip_caption": "a photography of a blue subarunt parked in a parking lot",
+      "query": "subaru blue parked parking lot",
+      "dia_id": "D28:10",
+      "re-download": true,
+      "text": "Thanks, Calvin! It's awesome people are checking out my blog and asking me for advice. I recently posted about how I made this car look like a beast, and it was great to hear it inspired others to start their own DIY projects."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:11",
+      "text": "Wow, Dave! Your blog is awesome. Helping others get creative is awesome. Keep up the great work!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:12",
+      "text": "Thanks, Calvin! I appreciate the support. It's fulfilling to share my knowledge and help others unleash their creativity."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:13",
+      "text": "Yeah Dave, keep doing what you do! Your blog and car mods are inspiring and a great way to help people find their creativity."
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://images.pexels.com/photos/4839256/pexels-photo-4839256.jpeg"
+      ],
+      "blip_caption": "a photography of a blue subarunt parked in a parking lot",
+      "query": "customized car sleek headlights vibrant paint job",
+      "dia_id": "D28:14",
+      "re-download": true,
+      "text": "Thanks, Calvin! It means a lot that you enjoy my blog. This car mod was a lot of work, but I think it was worth it in the end."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:15",
+      "text": "Wow Dave, those headlights look great! What did you do to get them looking so good?"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://images.pexels.com/photos/5158085/pexels-photo-5158085.jpeg"
+      ],
+      "blip_caption": "a photography of a blue car parked on a road at night",
+      "query": "car headlights shining brightly",
+      "dia_id": "D28:16",
+      "re-download": true,
+      "text": "Thanks, Calvin! I spent a lot of time cleaning, polishing, and protecting them - they look great! Just take a look at this photo – these headlights are enchanting!\n\n"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:17",
+      "text": "Wow, they look great! You really put in a lot of effort. Well done!"
+    },
+    {
+      "speaker": "Dave",
+      "blip_caption": "a photo of a red car with a black engine and a red hood",
+      "dia_id": "D28:18",
+      "text": "Thanks, Calvin! Really appreciate you noticing the effort I put into this."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:19",
+      "text": "Thanks! Where did you get this car?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:20",
+      "text": "I found it last week, and it was in bad shape, but I saw the potential. I spent ages restoring it."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:21",
+      "text": "Wow, Dave, that is an awesome job on restoring it! You've got some serious skills!"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3d8f9a1-a181-4045-8cfc-fcef59480e5e/d5owgzt-b56f51e8-2840-467b-8d4b-f6732c7b2f0c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzZDhmOWExLWExODEtNDA0NS04Y2ZjLWZjZWY1OTQ4MGU1ZVwvZDVvd2d6dC1iNTZmNTFlOC0yODQwLTQ2N2ItOGQ0Yi1mNjczMmM3YjJmMGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RPOmhCjxYw8dIFahiFDFbXovl-F_Ld3fKQfFLmSxkNo"
+      ],
+      "blip_caption": "a photography of a guitar logo with the company band logo",
+      "query": "fully restored car gleaming sunlight",
+      "dia_id": "D28:22",
+      "re-download": true,
+      "text": "Thanks Calvin! It took some work, but I'm happy with the result. Take a look at the logo we created for our rock band!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:23",
+      "text": "Cool logo, Dave! What's the story behind it?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:24",
+      "text": "Cool! It's the logo for my rock band. I've been a fan for ages and have had the opportunity to join them."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:25",
+      "text": "Wow Dave! Music really has a way of touching our souls."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:26",
+      "text": "Yeah, Calvin! It's amazing how music can really move us. It's almost like a language for our souls."
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://d2wvwvig0d1mx7.cloudfront.net/data/org/18741/media/img/cache/2969x0/1905172_2969x0.jpg"
+      ],
+      "blip_caption": "a photography of a recording studio with a monitor, keyboard, and monitor",
+      "query": "studio setup japanese mansion",
+      "dia_id": "D28:27",
+      "re-download": true,
+      "text": "Yup, it's that connection I'm aiming for with my music. Take a loot at my studio setup, that's look awesome, isn't it?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:28",
+      "text": "Wow, your studio looks stunning! How do you like hanging out here? Do you watch much TV?"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.redd.it/84fzhmctceg91.jpg"
+      ],
+      "blip_caption": "a photo of a living room with a couch, chair, television and a table",
+      "query": "living room television couch",
+      "dia_id": "D28:29",
+      "text": "I only work in the studio. I have another room for relaxation with a TV, just take a look that room is cozy and relaxing. And yeah, It's a great way to unwind and get inspired."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:30",
+      "text": "Wow, nice setup! What do you usually watch on it?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:31",
+      "text": "Thanks, Dave! I usually watch music videos, concerts, and documentaries about artists and their creative process. It's cool to learn more about the industry and see what others do. Plus, it's a source of inspiration for me."
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://i.redd.it/ht8aimbni5gb1.jpg"
+      ],
+      "blip_caption": "a photo of a notebook with a pen and a notepad on it",
+      "query": "notebook song lyrics",
+      "dia_id": "D28:32",
+      "text": "Wow, Calvin, that's awesome! Keep up the great work! Take a look at the photo!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:33",
+      "text": "Thanks, Dave! Appreciate the support! Does this notebook help you stay connected to the creative process?"
+    },
+    {
+      "speaker": "Dave",
+      "blip_caption": "a photo of a pink floyd headphone sitting on a shelf",
+      "dia_id": "D28:34",
+      "text": "Yes, Calvin, writing lyrics and notes - that's awesome! It will boost my motivation! Writing lyrics boosts my motivation to grow!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:35",
+      "text": "Cool, Dave! These really help you stay focused when making music."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:36",
+      "text": "Cool, Calvin! Music really helps me focus and be productive. When I'm doing my car stuff, I listen to vinyl to relax and stay on track."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:37",
+      "text": "Rockin' it, Dave! Music can definitely affect our mood and help us stay on track. Keep it up!"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://i.redd.it/210r4phbogya1.jpg"
+      ],
+      "blip_caption": "a photo of a record player sitting on the floor next to a couch",
+      "query": "record player vinyl",
+      "dia_id": "D28:38",
+      "text": "Thanks, Calvin! Music really helps with car work. Keeps me focused and makes it feel great. Even though this player is a bit old, he still gets the job done. Check out its photo!\n\n"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:39",
+      "text": "Cool, Dave! What tunes are you listening to these days?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:40",
+      "text": "Lately, I've been getting into classic rock. The music from that era is timeless."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D28:41",
+      "text": "Cool, Dave! Classic rock has had a huge effect on music. Keep discovering!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D28:42",
+      "text": "Thanks, Calvin! Classic rock has had a huge impact on music. Always fun to dig in and find new tunes. Gotta go back to work, see you soon! Take care!"
+    },
+    {
+      "speaker": "Calvin",
+      "blip_caption": "a photo of a record player sitting on the floor next to a couch",
+      "dia_id": "D28:43",
+      "text": "Yeah, Dave! Exploring different styles and times can open up new perspectives. Broadening your musical knowledge is awesome. Good luck with work, see ya!\n\n"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin hosts a listening party for family and friends in his Japanese mansion to celebrate his new album."
+    ],
+    "Dave": [
+      "Dave starts a blog about car modifications to share his passion and knowledge.",
+      "Dave finishes restoring the headlights of a car he found last week and posts about it in his blog."
+    ],
+    "date": "2 November, 2023"
+  },
+  "observations": {
+    "Calvin": [
+      [
+        "Calvin threw a small party at his Japanese house last week to celebrate his new album with love and support from family and friends.",
+        "D28:1"
+      ],
+      [
+        "Calvin feels that seeing everyone come together to celebrate is super rewarding.",
+        "D28:3"
+      ],
+      [
+        "Calvin's music is about creating something that brings people together, connects with them, and brings joy.",
+        "D28:7"
+      ],
+      [
+        "Calvin has a studio setup where he works, surrounded by music videos, concerts, and documentaries for inspiration.",
+        "D28:29"
+      ],
+      [
+        "Calvin watches music videos, concerts, and documentaries about artists and their creative process on TV for inspiration.",
+        "D28:31"
+      ],
+      [
+        "Calvin finds inspiration from watching TV to learn more about the music industry and others' creative processes.",
+        "D28:31"
+      ]
+    ],
+    "Dave": [
+      [
+        "Dave recently started a blog on car mods to share his passion with others.",
+        "D28:8"
+      ],
+      [
+        "Dave shared a story on his blog about how he made a car look like a beast and inspired others to start their DIY projects.",
+        "D28:10"
+      ],
+      [
+        "Dave appreciates when Calvin notices the effort he puts into his work.",
+        "D28:18"
+      ],
+      [
+        "Dave listens to vinyl while doing car work to relax and stay on track.",
+        "D28:36"
+      ],
+      [
+        "Dave is into classic rock music and believes music from that era is timeless.",
+        "D28:40"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

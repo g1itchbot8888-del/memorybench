@@ -1,0 +1,304 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-11",
+  "session_number": 11,
+  "session_summary": "Andrew and Audrey had a conversation at 9:48 am on 8 July, 2023, where they discussed their love for nature and their dogs. Andrew mentioned having a picnic with his girlfriend, while Audrey talked about her furry friends and a recent walk. They discussed the difficulty of finding dog-friendly places and planned a hike together for the next month. They both expressed excitement about the upcoming adventure and shared photos of their happy dogs. They also admired nature's beauty and the joy it brings. Their conversation highlighted their appreciation for the small moments in life and the happiness that dogs bring.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://cdn.shopify.com/s/files/1/1512/5894/articles/IMG_5426.jpg"
+      ],
+      "blip_caption": "a photo of a picnic table with a variety of snacks and drinks",
+      "query": "picnic friends renovated park",
+      "dia_id": "D11:1",
+      "text": "Hey how's it going? Last Friday was amazing - I had a picnic with my girlfriend and it was so much fun! Being in the nature can be so refreshing and it always brings me joy. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:2",
+      "text": "Wow sounds like the picnic was awesome! Yeah being in the nature is so nice. My furry friends always make me happy. We had a great walk the other day - felt really good!"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/yfeccwau4dya1.jpg"
+      ],
+      "blip_caption": "a photo of a dog wearing a sweater sitting in the grass",
+      "query": "dog park dogs playing",
+      "dia_id": "D11:3",
+      "text": "That's awesome! Dogs really make life more fun doesn't it. I wish I could get one, but like I said, it's tough to find a place and find the right dog. How did you get yours?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:4",
+      "text": "Thanks! I got lucky finding a breeder nearby that has the dogs I wanted. Yeah places that allows dogs are really hard to find unfortunately ."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://d3ekkvinch1ig5.cloudfront.net/suggestion/1658159281-2959image4.jpg"
+      ],
+      "blip_caption": "a photo of a group of dogs running around a park",
+      "query": "dog-friendly park city screenshot",
+      "dia_id": "D11:5",
+      "text": "Yeah it's tough. I found a few parks where you can take your pup on a leash, but it's not the same as having an open area where they can run and play. If I find something, I'll let you know. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:6",
+      "text": "Cool, I should join you for a hike and bring my dogs. It would be great to have a chance where they can run freely."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://community.us.craghoppers.com/wp-content/uploads/2018/05/j3bmicznnmrnfe1uchho.jpg"
+      ],
+      "blip_caption": "a photo of a woman walking up a steep hill with a view of the ocean",
+      "query": "hiking trail beautiful view",
+      "dia_id": "D11:7",
+      "text": "Yeah definitely ! I'm down for a hike with you and your furry friends. Let's do it next month when the weather is more pleasant. Here's the trail that I think it'd be great for the dogs."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:8",
+      "text": "That'd be awesome! I can't wait to take them hiking. Fingers crossed we find a spot with a great view and lots of room for them to explore and have a blast."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://tammynara.files.wordpress.com/2021/01/pxl_20210117_190212518.jpg"
+      ],
+      "blip_caption": "a photo of a map of a park with a lot of trees",
+      "query": "hiking trails map perfect spot",
+      "dia_id": "D11:9",
+      "text": "Looking forward to seeing them have fun hiking. Let's get planning for next month! Here's the map for the trail."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:10",
+      "text": "Yep! I'm gonna look into the trail for my furry friend to run around."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:11",
+      "text": "Sounds good! Let's make sure the trail is safe for the dogs to run around and have fun."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:12",
+      "text": "Yep! After all safety is top priority when the dogs are outside running around."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:13",
+      "text": "Agreed! It's going to be a great with the dogs!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/o6bszg5mmua71.jpg"
+      ],
+      "blip_caption": "a photo of three dogs sitting on the floor with leashes",
+      "query": "four dogs sitting at door",
+      "dia_id": "D11:14",
+      "text": "Yup! Btw, there's going to be some cool stuff happening today."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:15",
+      "text": "Woah! They look so cute! What is going on here? They look ready for an adventure."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:16",
+      "text": "Haha yeah! They're all set for their next outdoor adventure!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:17",
+      "text": "Aw man, can't wait to meet them! They seem like a blast!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:18",
+      "text": "Yeah, they definitely do! They really are a lot of fun."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:19",
+      "text": "Oh I'm sure, dogs definitely add lots of fun to our daily life."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+      ],
+      "blip_caption": "a photo of two dogs running in a field with a ball in their mouth",
+      "query": "dogs playing park",
+      "dia_id": "D11:20",
+      "text": "Yep! They bring me so much joy. Can't get bored at all."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:21",
+      "text": "Aww, they look adorable playing in the park! Seeing them have so much fun must be so rewarding."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:22",
+      "text": "Yeah it sure does. Seeing them so happy and bouncy makes me really happy."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:23",
+      "text": "Yep, they're so happy it's contagious. It makes me happy just by looking at the photos."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:24",
+      "text": "Haha that's great! They're so full of energy, always bringing a smile to my face!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:25",
+      "text": "They make everyone smile. Can't wait to go hiking with them!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:26",
+      "text": "Yep! It'll be great to see them enjoy themselves on the hike!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:27",
+      "text": "Yep! I can't wait to see them have fun on the hike. Super excited!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i2.pickpik.com/photos/607/821/215/playing-puppies-young-dogs-french-bulldog-cocker-spaniel-preview.jpg"
+      ],
+      "blip_caption": "a photography of a dog playing with a group of other dogs",
+      "query": "hiking dogs running field",
+      "dia_id": "D11:28",
+      "re-download": true,
+      "text": "I'm 100% sure that it's gonna be a great day! Just take a look how happy my dogs are just at out local park."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:29",
+      "text": "Aww look at them, so cute! It'll definitely be a great day! I love being outdoors and seeing others enjoy it too."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/iws2jgn6nld71.jpg"
+      ],
+      "blip_caption": "a photo of a person standing on a mountain with a view of the sky",
+      "query": "sunset mountain hiking trip last year",
+      "dia_id": "D11:30",
+      "text": "Yeah! Being outside and seeing people happy is awesome. Here's a pic from a hike last year. Such a pretty sunset!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:31",
+      "text": "Wow, that's stunning! Mind telling me where this is? "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:32",
+      "text": "I hiked this last year! It was a 3 hour drive from me and the sunset was amazing!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:33",
+      "text": "Nice! That sunset with the view is amazing, especially with nature around."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/okd8n7nb0hc71.jpg"
+      ],
+      "blip_caption": "a photo of a view of a lake and mountains at sunset",
+      "query": "sunset mountain peak",
+      "dia_id": "D11:34",
+      "text": "It was a beautiful moment indeed! The colors were so vibrant, and it felt so peaceful. I'm so grateful for moments like these that remind me of the beauty of nature and to appreciate the small things."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:35",
+      "text": "Yeah! It's incredible how nature can have such awesome surprises."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:36",
+      "text": "Nature really has awesome surprises. All those vibrant colors gives me that feeling of peace - it's breathtaking!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D11:37",
+      "text": "Yeah! It is stunning! Life's pretty awesome when we take time to appreciate these moments right?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D11:38",
+      "text": "Yep, taking a second to appreciate those moments makes like much better!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey takes her four dogs out for a long walk.",
+      "Andrew and Audrey decide to hike together next month with Audrey's dogs."
+    ],
+    "Andrew": [
+      "Andrew and his girlfriend enjoy a picnic with friends in a park.",
+      "Andrew and Audrey decide to hike together next month with Audrey's dogs."
+    ],
+    "date": "8 July, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew had a picnic with his girlfriend last Friday and enjoys being in nature.",
+        "D11:1"
+      ],
+      [
+        "Andrew is interested in getting a dog but finds it tough to find a place and the right dog.",
+        "D11:3"
+      ],
+      [
+        "Andrew is planning a hike with Audrey and her dogs for next month.",
+        "D11:7"
+      ],
+      [
+        "Andrew emphasizes the importance of finding a safe trail for the dogs to have fun hiking.",
+        "D11:11"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey enjoys going on walks with her dogs and finds them to be a source of happiness.",
+        "D11:2"
+      ],
+      [
+        "Audrey got her dogs from a breeder nearby that had the dogs she wanted.",
+        "D11:4"
+      ],
+      [
+        "Audrey agrees to join Andrew for a hike with her dogs and looks forward to seeing them enjoy themselves.",
+        "D11:6"
+      ],
+      [
+        "Audrey values the safety of the dogs when outside running around.",
+        "D11:12"
+      ],
+      [
+        "Audrey appreciates moments in nature and finds peace in vibrant colors.",
+        "D11:34"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

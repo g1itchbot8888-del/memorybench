@@ -1,0 +1,167 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-6",
+  "session_number": 6,
+  "session_summary": "John and James caught up at 9:32 pm on April 20, 2022. John shared his excitement about making new friends in his programming course. Meanwhile, James talked about collaborating with a gaming pal on a virtual world project inspired by Witcher 3. He found inspiration for the project from a stranger he saw during a walk with his dogs. Both friends discussed how real-life experiences inspire their creativity. They also shared their love for traveling, with James mentioning his visits to Italy, Turkey, and Mexico, while John recently visited Japan. They expressed interest in traveling together in the future. James agreed to look for a destination as they planned their future trip.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D6:1",
+      "text": "Hey James! Long time no see! I have great news! Last Tuesday I met three cool new friends in my programming course, they share the same passion as me and it's cool to grow my social circle. Have you had any fun surprises lately?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D6:2",
+      "text": "Hey John! Glad you had a great week meeting new people! Something awesome happened to me last Thursday – I got to work with one of my gaming pals on a programming project! We combined programming and gaming, and created this virtual world inspired by Witcher 3. It was awesome to see our ideas come to life!"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a video game screen with a man on it",
+      "dia_id": "D6:3",
+      "text": "It must've felt great to put your skills to work on that project! Do you have any screenshots of the world you made? It must've been so awesome to see it all come together!"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/w5v13bfv8r861.jpg"
+      ],
+      "blip_caption": "a photo of a woman dressed in armor kneeling on a rock",
+      "query": "witcher inspired virtual world screenshot",
+      "dia_id": "D6:4",
+      "text": "It was quite the experience. Unfortunately, I don't have a screenshot of the full virtual world, but I do have a screenshot of the game character I created. It was a lot of work but so rewarding when it all came together. Super satisfying!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D6:5",
+      "text": "Wow, James! This is amazing. I can really feel the atmosphere here. Did you get the inspiration for this from something?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D6:6",
+      "text": "Thanks, I'm glad you can feel the atmosphere. I got the idea from a walk with my dogs two weeks ago. We were walking around our neighborhood, and a stranger was walking towards us. I had never seen her nearby before. Her eyes and appearance amazed me so much, it seemed to me that I fell in love at first sight. It’s a pity that I didn’t approach her to get to know her, but at least I remembered her appearance and embodied it in the game."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/emrf986oa7bb1.jpg"
+      ],
+      "blip_caption": "a photo of a river running through a canyon surrounded by mountains",
+      "query": "canyon hike view",
+      "dia_id": "D6:7",
+      "text": "That's awesome. Real-life experiences can be so inspiring. It's like the virtual world is connected to the real world. By the way, two days ago I wanted to be alone with nature. This is the canyon I found in the surrounding area. Very calming view."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D6:8",
+      "text": "That's so cool you had a similar experience. I bet you felt inspired seeing it in person."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D6:9",
+      "text": "Capturing that view was amazing. It was like connecting the real and the imaginary. It really sparked my creativity and motivation."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D6:10",
+      "text": "Cool! What else gives you motivation?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D6:11",
+      "text": "I adhere to the principle that only those who rest well work well. Therefore, chilling with friends and traveling always give me motivation to work further."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D6:12",
+      "text": "I agree with you, I also love to travel. Last year I visited Italy, for example. A very beautiful country with delicious food."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D6:13",
+      "text": "Oh, Italy! I always dreamed of visiting there. What other countries have you been to?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D6:14",
+      "text": "In fact, I haven't visited many countries. Besides Italy, I was also in Turkey and Mexico. What was the last country you visited?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/l5afku2e4k681.jpg"
+      ],
+      "blip_caption": "a photo of a busy city street at night with people walking",
+      "query": "cyberpunk 2077 futuristic cityscape game",
+      "dia_id": "D6:15",
+      "text": "This was Japan. The megacities of this country impress me, everything there is so technologically advanced, the huge screens on the buildings are mesmerizing. And, of course, very tasty street food."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D6:16",
+      "text": "It would be cool to go somewhere together next year, don't you think?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D6:17",
+      "text": "Of course, I hope everything works out for us, I will believe in it!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D6:18",
+      "text": "Great, then I'll start looking for a country where we can go!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D6:19",
+      "text": "Keep me posted, James! Let me know if you need help."
+    }
+  ],
+  "events": {
+    "James": [
+      "James works on a programming project with one of his gaming pals and creates a virtual world inspired by Witcher 3.",
+      "James meets a woman when walking his dogs and almost falls in love with her but does not ask for her contact.",
+      "James creates a gaming avatar to emobody the woman he met when walking his dogs, in the virtual gaming world he created with his gaming pal."
+    ],
+    "John": [
+      "John meets three new friends through the HTML, CSS programming course he started taking in March 2022.",
+      "John seeks solitude and visits a nearby canyon."
+    ],
+    "date": "20 April, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John met three new friends in his programming course last Tuesday and is excited to expand his social circle.",
+        "D6:1"
+      ],
+      [
+        "John enjoys chilling with friends and traveling to get motivation for work.",
+        "D6:11"
+      ],
+      [
+        "John visited Japan last, where he was impressed by the technologically advanced megacities and delicious street food.",
+        "D6:15"
+      ]
+    ],
+    "James": [
+      [
+        "James worked on a programming project combining gaming with programming, creating a virtual world inspired by Witcher 3 with a game character he designed.",
+        "D6:2"
+      ],
+      [
+        "James got the idea for the virtual world from a stranger he saw while walking his dogs and found inspiring.",
+        "D6:6"
+      ],
+      [
+        "James has visited Italy, Turkey, and Mexico besides his permanent residence and found Italy to be very beautiful with delicious food.",
+        "D6:12"
+      ],
+      [
+        "James expressed an interest in traveling together with John to a new country next year and plans to start looking for options.",
+        "D6:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

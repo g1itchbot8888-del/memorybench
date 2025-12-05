@@ -1,0 +1,153 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-13",
+  "session_number": 13,
+  "session_summary": "Evan and Sam had a conversation at 4:07 pm on 14 October, 2023. Sam confessed to Evan about buying unhealthy snacks and feeling guilty about it, while Evan shared about finishing a painting of a sunset. Sam mentioned dealing with work stress and looking for ways to stay motivated. Evan suggested trying kayaking as a way to de-stress, which Sam found appealing. Sam planned to go kayaking on the lake with a friend, and Evan offered to plan a kayaking trip together in the future. Sam decided to kayak at Lake Tahoe, and Evan encouraged him, mentioning the great views there.",
+  "conversation_turns": [
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/Cliffs_and_mountains_and_sky_at_sunset_--_2_of_33.jpg"
+      ],
+      "blip_caption": "a photography of a painting of a person on a cliff",
+      "query": "painting peaceful sunset",
+      "dia_id": "D13:1",
+      "re-download": true,
+      "text": "Hey Sam, how's it going? Been a while since we talked. Hope all is good."
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "http://raremunchiez.com/cdn/shop/products/soda-can-fizzy-candy-6-pack-raremunchiez.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a box of sodas in front of a wall",
+      "query": "soda candy",
+      "dia_id": "D13:2",
+      "text": "Hey Evan! It's been a rough week - I gave in and bought some unhealthy snacks. I feel kinda guilty. How's it going for you? That painting is awesome! Did you paint it?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D13:3",
+      "text": "Hey Sam, sorry to hear about the rough week. Don't worry about the snacks. I'm doing okay, just finished this painting of a sunset. It really helps me relax. So, how's everything going with you? Anything new and exciting?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D13:4",
+      "text": "Thanks, Evan! Yeah, I just couldn't resist them. Gotta do better. As for me, just dealing with work stress and trying to stay motivated."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D13:5",
+      "text": "Hey Sam, work stress can really get to you. Have you tried anything new to de-stress? Maybe picking up a hobby or something could help."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D13:6",
+      "text": "Thinking about trying something different outdoors. Any suggestions?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D13:7",
+      "text": "Sounds good! Have you ever tried kayaking? It's a fun and active way to paddle on a river or lake. What are your thoughts on that?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D13:8",
+      "text": "Kayaking sounds awesome! Haven't tried it yet, but it looks like a fun way to get in some exercise and enjoy nature. I'm definitely considering giving it a try. Thanks!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D13:9",
+      "text": "No worries, Sam! It's a fun way to get in some exercise and enjoy nature. Let me know when you're ready to give it a try and I can hook you up with a good spot."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D13:10",
+      "text": "Thanks for the idea, my mate and I are just around the corner from kayaking on the lake, we're going to try that now!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D13:11",
+      "text": "Of course, let me know if you like it, we can plan a kayaking trip together, I'll pick a cool spot!"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://www.higherpursuits.com/wp-content/uploads/2019/01/2019-Rental-Boats-1.jpg"
+      ],
+      "blip_caption": "a photography of a row of kayaks lined up on the shore of a river",
+      "query": "kayak river",
+      "dia_id": "D13:12",
+      "re-download": true,
+      "text": "Yep, Evan! Can't wait. Thanks for the help!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D13:13",
+      "text": "Ready for an adventure? Where will you go?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D13:14",
+      "text": "We're traveling through Lake Tahoe! I heard it's great for kayaking."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D13:15",
+      "text": "Hey Sam, it's an awesome pick! You'll love it there - clear water and gorgeous views. Have a blast and take lots of pics!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D13:16",
+      "text": "Thanks, Evan! I'm looking forward to it!"
+    }
+  ],
+  "events": {
+    "Evan": [],
+    "Sam": [
+      "Sam has a slip-up in his health regimen and buys candy and soda at the store to deal with work stress.",
+      "Sam travels through Lake Tahoe with a friend and decides to try out kayaking after recommendation from Evan."
+    ],
+    "date": "14 October, 2023"
+  },
+  "observations": {
+    "Evan": [
+      [
+        "Evan paints as a way to relax, and recently finished a painting of a sunset.",
+        "D13:3"
+      ],
+      [
+        "Evan suggested kayaking to Sam as a way to de-stress and enjoy the outdoors.",
+        "D13:7"
+      ],
+      [
+        "Evan offered to hook Sam up with a good spot for kayaking.",
+        "D13:9"
+      ]
+    ],
+    "Sam": [
+      [
+        "Sam bought some unhealthy snacks and feels guilty about it.",
+        "D13:2"
+      ],
+      [
+        "Sam is dealing with work stress and trying to stay motivated.",
+        "D13:4"
+      ],
+      [
+        "Sam is considering trying kayaking as a new outdoor activity.",
+        "D13:6"
+      ],
+      [
+        "Sam is planning to go kayaking with a friend on the lake.",
+        "D13:10"
+      ],
+      [
+        "Sam and a friend are traveling to Lake Tahoe for kayaking.",
+        "D13:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

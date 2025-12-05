@@ -1,0 +1,104 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-17",
+  "session_number": 17,
+  "session_summary": "At 9:19 am on 2 September 2023, Dave and Calvin caught up, with Dave sharing car modification insights from San Francisco. Calvin understood the joy of fixing cars, describing it as giving them new life. Dave found fixing cars rewarding and purposeful, feeling like a superhero when helping others. Calvin praised Dave for his impact, revealing his excitement for an upcoming trip to Boston. They agreed to meet up in Boston and said their goodbyes with plans to reconnect upon Calvin's arrival.",
+  "conversation_turns": [
+    {
+      "speaker": "Dave",
+      "dia_id": "D17:1",
+      "text": "Hey Calvin! Been a while, what's up? I'm tied up with car stuff lately, yesterday I came back from San Francsico with some great insights and knowledge on car modification that I want to share with you! Changing things around, and giving an old car a new life - so satisfying!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D17:2",
+      "text": "Hey Dave! Nice to hear from you. That's cool! I totally understand the satisfaction you get from fixing cars. It's like you're giving them new life."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D17:3",
+      "text": "Yeah, it's great fixing stuff up and seeing it turn out better. It's really rewarding and gives me a sense of purpose. Plus, it feels like I'm making a difference when I fix someone's car."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D17:4",
+      "text": "Wow, you must feel great making a real difference in someone's life, like being their superhero!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D17:5",
+      "text": "Yeah, it's great! It feels really good to make a difference and see their relief when their car is fixed. Makes me proud!"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://i.redd.it/3n0tonj6zg821.jpg"
+      ],
+      "blip_caption": "a photo of a book with a boarding pass and a boarding pass",
+      "query": "plane ticket boston",
+      "dia_id": "D17:6",
+      "text": "Wow, Dave, that's awesome! You should be really proud of yourself for bringing joy to others. I booked a flight ticket to Boston last week! I'm so excited about my upcoming trip to Boston. Look at this! See you soon, buddy!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D17:7",
+      "text": "Cool! Let me know when you're free and we can catch up in Boston."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D17:8",
+      "text": "Yeah, for sure! I'll let you know when I'm in Boston. See you soon!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D17:9",
+      "text": "Looking forward to seeing you! Have a safe trip, see ya!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D17:10",
+      "text": "Thanks, Dave! Gotta stay safe on the trip. Can't wait to see you there! I will contact you when I arrive. Goodbye!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin books a round trip flight to Boston scheduled for October 2023."
+    ],
+    "Dave": [
+      "Dave returns from the car modification workshop in San Francsico with valuable insights and knowledge on car modifications."
+    ],
+    "date": "2 September, 2023"
+  },
+  "observations": {
+    "Dave": [
+      [
+        "Dave recently came back from San Francisco with insights and knowledge on car modification.",
+        "D17:1"
+      ],
+      [
+        "Dave finds fixing things up and seeing them turn out better really rewarding, giving him a sense of purpose.",
+        "D17:3"
+      ],
+      [
+        "Dave feels like he's making a difference when he fixes someone's car.",
+        "D17:3"
+      ],
+      [
+        "Dave enjoys the feeling of making a difference and seeing the relief when the car is fixed.",
+        "D17:5"
+      ]
+    ],
+    "Calvin": [
+      [
+        "Calvin booked a flight ticket to Boston last week and is excited about the upcoming trip.",
+        "D17:6"
+      ],
+      [
+        "Calvin plans to let Dave know when he is in Boston so they can catch up.",
+        "D17:7"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

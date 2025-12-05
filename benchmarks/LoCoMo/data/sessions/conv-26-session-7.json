@@ -1,0 +1,230 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-7",
+  "session_number": 7,
+  "session_summary": "Caroline and Melanie had a conversation at 4:33 pm on 12 July, 2023. Caroline talked about attending an LGBTQ conference recently, where she felt accepted and connected with others who have similar experiences. She expressed her gratitude for the LGBTQ community and her desire to fight for trans rights. Melanie praised Caroline for her drive to make a difference and asked about her plan to contribute. Caroline mentioned that she is looking into counseling and mental health jobs, as she wants to provide support for others. Melanie commended Caroline for her inspiring goal and mentioned a book she read that reminds her to pursue her dreams. They discussed the power of books, and Caroline recommended \"Becoming Nicole\" by Amy Ellis Nutt, which had a positive impact on her own life. She mentioned that the book taught her about self-acceptance and finding support. Melanie agreed and added that pets also bring joy and comfort. They talked about their own pets and shared pictures. Melanie mentioned that she has been running more to destress and clear her mind. Caroline encouraged her to keep it up and take care of her mental health. Melanie expressed her gratitude for the improvements in her mental health.",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:1",
+      "text": "Hey Mel, great to chat with you again! So much has happened since we last spoke - I went to an LGBTQ conference two days ago and it was really special. I got the chance to meet and connect with people who've gone through similar journeys. It was such a welcoming environment and I felt totally accepted. I'm really thankful for this amazing community - it's shown me how important it is to fight for trans rights and spread awareness."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D7:2",
+      "text": "Wow, Caroline, that sounds awesome! So glad you felt accepted and supported. Events like these are great for reminding us of how strong community can be!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:3",
+      "text": "Yeah, it's true! Having people who back you makes such a huge difference. It's great to see how far LGBTQ rights have come, but there's still plenty of progress to be made. I wanna help make a difference."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D7:4",
+      "text": "Wow, Caroline. We've come so far, but there's more to do. Your drive to help is awesome! What's your plan to pitch in?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:5",
+      "text": "Thanks, Mell! I'm still looking into counseling and mental health jobs. It's important to me that people have someone to talk to, and I want to help make that happen."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D7:6",
+      "text": "Wow, Caroline! You're so inspiring for wanting to help others with their mental health. What's pushing you to keep going forward with it?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:7",
+      "text": "I struggled with mental health, and support I got was really helpful. It made me realize how important it is for others to have a support system. So, I started looking into counseling and mental health career options, so I could help other people on their own journeys like I was helped."
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://www.speakers.co.uk/microsites/tom-oliver/wp-content/uploads/2014/11/Book-Cover-3D1.jpg"
+      ],
+      "blip_caption": "a photography of a book cover with a gold coin on it",
+      "query": "painted canvas follow your dreams",
+      "dia_id": "D7:8",
+      "re-download": true,
+      "text": "Caroline, so glad you got the support! Your experience really brought you to where you need to be. You're gonna make a huge difference! This book I read last year reminds me to always pursue my dreams, just like you are doing!🌟"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:9",
+      "text": "Thanks so much, Mel! Seeing this pic just made me appreciate my love of reading even more. Books guide me, motivate me and help me discover who I am. They're a huge part of my journey, and this one's reminding me to keep going and never give up!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D7:10",
+      "text": "Wow, Caroline! Books have such an awesome power! Which one has been your favorite guide?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://m.media-amazon.com/images/I/A1CPpaLFR2L.jpg"
+      ],
+      "blip_caption": "a photo of a dog sitting in a boat on the water",
+      "query": "becoming nicole book amy ellis nutt",
+      "dia_id": "D7:11",
+      "text": "I loved \"Becoming Nicole\" by Amy Ellis Nutt. It's a real inspiring true story about a trans girl and her family. It made me feel connected and gave me a lot of hope for my own path. Highly recommend it for sure!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D7:12",
+      "text": "That sounds awesome! What did you take away from it to use in your life?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:13",
+      "text": "It taught me self-acceptance and how to find support. It also showed me that tough times don't last - hope and love exist. Pets bring so much joy too, though."
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://st3.depositphotos.com/12674628/16006/i/1600/depositphotos_160060676-stock-photo-multiethnic-girls-with-puppy.jpg"
+      ],
+      "blip_caption": "a photography of two little girls sitting on the steps with a dog",
+      "query": "daughters playing with pet dog backyard",
+      "dia_id": "D7:14",
+      "re-download": true,
+      "text": "Caroline, those lessons are great - self-acceptance and finding support are key. Plus pets are awesome for joy and comfort, can't agree more! "
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:15",
+      "text": "That's so nice! What pet do you have?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i.redd.it/u26t78f0idd91.jpg"
+      ],
+      "blip_caption": "a photo of a cat laying on the floor with its head on the floor",
+      "query": "dog cat kids playing joy",
+      "dia_id": "D7:16",
+      "text": "We've got a pup and a kitty. That's the dog, and here's our cat! They brighten up our day and always make us smile."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:17",
+      "text": "Ah, they're adorable! What are their names? Pets sure do bring so much joy to us!"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwGRNI2jDkrALJHgL2LWfW2rUGhN-GA4OL_gXU2fHPyxtst2MPrv9hkyOMdpj5SppLNYiQrcXUUq90vv5es8ueswy2tuu0Lqa2lh2vKOfDZ5SXSdLVMVvBrfLbFJG19QiqDbv1xs38fv-atd4MYOesJ4c89sQTzv6k93PDQ5T0dwVJV9O2FF95woyP3Q/s4032/IMG_9747.jpg"
+      ],
+      "blip_caption": "a photo of a person wearing pink sneakers on a white rug",
+      "query": "purple running shoe",
+      "dia_id": "D7:18",
+      "text": "Luna and Oliver! They are so sweet and playful - they really liven up the house! Just got some new shoes, too!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:19",
+      "text": "Love that purple color! For walking or running?"
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a pair of pink sneakers in a box",
+      "dia_id": "D7:20",
+      "text": "Thanks, Caroline! These are for running. Been running longer since our last chat - a great way to destress and clear my mind."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:21",
+      "text": "Wow! What got you into running?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D7:22",
+      "text": "I've been running farther to de-stress, which has been great for my headspace."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:23",
+      "text": "Cool, Melanie! Running can really boost your mood. Keep it up!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D7:24",
+      "text": "Thanks, Caroline! This has been great for my mental health. I'm gonna keep it up."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:25",
+      "text": "Awesome, Melanie! Mental health's a priority, so make sure you take care of yourself."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D7:26",
+      "text": "Caroline, thanks! Mental health is important to me, and it's made such an improvement!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D7:27",
+      "text": "Glad it helped ya, Melanie!"
+    }
+  ],
+  "events": {
+    "Caroline": [],
+    "Melanie": [
+      "Melanie begins running longer distances to destress."
+    ],
+    "date": "12 July, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline attended an LGBTQ conference recently and felt accepted and supported, emphasizing the importance of fighting for trans rights and spreading awareness.",
+        "D7:1"
+      ],
+      [
+        "Caroline is looking into counseling and mental health jobs to provide support to others, motivated by her own struggles with mental health and the help she received.",
+        "D7:5"
+      ],
+      [
+        "Caroline's favorite guiding book is 'Becoming Nicole' by Amy Ellis Nutt, a true story about a trans girl and her family that gave her hope and connection.",
+        "D7:11"
+      ],
+      [
+        "According to 'Becoming Nicole,' Caroline learned the importance of self-acceptance, finding support, and the existence of hope and love.",
+        "D7:13"
+      ],
+      [
+        "Caroline values the role of pets in bringing joy and comfort.",
+        "D7:13"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie finds LGBTQ events like the conference Caroline attended to be reminding of the strength of community.",
+        "D7:2"
+      ],
+      [
+        "Melanie supports Caroline's drive to make a difference in LGBTQ rights.",
+        "D7:4"
+      ],
+      [
+        "Melanie reminds Caroline to pursue her dreams and appreciates the power of books in guiding and motivating her.",
+        "D7:8"
+      ],
+      [
+        "Melanie has a dog named Luna and a cat named Oliver that bring joy and liveliness to her home.",
+        "D7:18"
+      ],
+      [
+        "Melanie got new running shoes for running, which she finds great for destressing and clearing her mind.",
+        "D7:20"
+      ],
+      [
+        "Running has been great for Melanie's mental health and mood.",
+        "D7:24"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

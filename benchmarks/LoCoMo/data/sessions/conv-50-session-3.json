@@ -1,0 +1,167 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-3",
+  "session_number": 3,
+  "session_summary": "Calvin and Dave spoke at 4:15 pm on 20 April, 2023. Calvin shared about attending a music festival in Tokyo where he met industry professionals and received advice. He dreams of touring the world and reaching a global audience with his music. Dave plans to show Calvin around Boston, known for its vibrant music scene. Dave also mentioned his passion for classic cars. Calvin looks forward to exploring Boston's food scene with Dave. They both expressed excitement about the upcoming visit.",
+  "conversation_turns": [
+    {
+      "speaker": "Calvin",
+      "dia_id": "D3:1",
+      "text": "Hey Dave! Long time no see. I just went to an awesome music thingy in Tokyo - so cool!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D3:2",
+      "text": "Hey Calvin! Great to hear from you. How was the music thingy in Tokyo? See any cool bands?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D3:3",
+      "text": "Hey Dave! The festival in Tokyo was awesome! Didn't see any bands, but met lots of talented artists and industry people. Totally enriching!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D3:4",
+      "text": "Wow, Calvin, sounds great! What did you learn from it?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D3:5",
+      "text": "I learned a lot and got some great advice from professionals in the music industry. It was inspiring!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D3:6",
+      "text": "Wow, Calvin! Bet that was inspiring being surrounded by professionals. Did you get any advice from them?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D3:7",
+      "text": "The producer gave me some advice to stay true to myself and sound unique. It got me thinking about where I want my music to go. It's really motivating!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D3:8",
+      "text": "Wow, Calvin! It's really motivating to see you staying true to yourself. It got me thinking, where do you see your music taking you?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D3:9",
+      "text": "Thanks, Dave! I'm dreaming of touring the world, performing for different people and connecting with them. I hope my music can reach a global audience and make an impact. I'm also looking forward to my upcoming trip to Boston after I finish the Frank Ocean tour. I've heard that the music scene there is awesome, so I can't wait to check it out!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D3:10",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/67/Boston_Skyline_%28193150499%29.jpeg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a city skyline with a boat in the water",
+      "text": "Sounds like an amazing plan, Cal! I can't wait for your trip to Boston. I'll show you around town and all the cool spots. The music scene there is awesome, with places like Paradise Rock, House of Blues, and Fenway Park. You'll definitely have some great performances there. Count me in for the front row when you're up onstage! Oh, and by the way, check out this pic."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D3:11",
+      "text": "Wow, Boston looks great! Thanks for the tips. And, awesome pic!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D3:12",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Ford_Mustang_-_Shuttleworth_Classic_Car_Show_2017_%2833661471822%29.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a green mustang parked in a field of grass",
+      "text": "Last weekend I went to a car show. Classic cars are so charming and the dedication people put into restoring them is amazing. That's why I'm so into auto engineering. Can't wait to show you some when you come to Boston! Oh, almost forgot to send a photo, look at this beautiful car!"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://hips.hearstapps.com/hmg-prod/images/2020-ferrari-f8-tributo-120-1551808626.jpg"
+      ],
+      "blip_caption": "a photo of a red sports car on display at a show",
+      "query": "car ferrari",
+      "dia_id": "D3:13",
+      "text": "Wow, Dave, that car looks great! Take a look at my car, I put a lot of work into it. Can't wait to see more when I'm in Boston!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D3:14",
+      "text": "Thanks! It definitely took a lot of work. Have you had a chance to check out Boston apart from the gigs?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D3:15",
+      "text": "Not yet, been pretty busy with rehearsals and traveling. But I'm looking forward to exploring the city, trying out some delicious food, and visiting the popular attractions. Maybe we can grab a bite together when I'm there?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D3:16",
+      "text": "Definitely, Cal! Let's grab some food and I'll show you my favorite spots in the city. Can't wait to show them to you!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D3:17",
+      "text": "Sounds great, Dave! Can't wait to try out the food there with you. It'll be fun!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D3:18",
+      "text": "It'll be great, Cal! Can't wait to show you the amazing music and food here. See you soon!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin attends a music festival in Tokyo which is attended by professionals from the music industry.",
+      "Calvin receives advice from music professionals to stay true to his unique sound."
+    ],
+    "Dave": [
+      "Calvin attends a car show."
+    ],
+    "date": "20 April, 2023"
+  },
+  "observations": {
+    "Calvin": [
+      [
+        "Calvin recently attended a music festival in Tokyo where he met talented artists and industry professionals.",
+        "D3:3"
+      ],
+      [
+        "Calvin received advice from a music producer to stay true to himself and sound unique, which he found motivating.",
+        "D3:7"
+      ],
+      [
+        "Calvin dreams of touring the world, connecting with different people through music, reaching a global audience, and making an impact.",
+        "D3:9"
+      ],
+      [
+        "Calvin is planning an upcoming trip to Boston after finishing the Frank Ocean tour to explore the music scene there.",
+        "D3:9"
+      ],
+      [
+        "Calvin has a car that he has put a lot of work into and is looking forward to showing it to Dave when he visits Boston.",
+        "D3:13"
+      ],
+      [
+        "Calvin is busy with rehearsals and traveling but is excited to explore Boston, try delicious food, and visit popular attractions with Dave.",
+        "D3:15"
+      ]
+    ],
+    "Dave": [
+      [
+        "Dave is interested in classic cars and auto engineering, as he went to a car show last weekend and finds the restoration process amazing.",
+        "D3:12"
+      ],
+      [
+        "Dave plans to show Calvin around Boston, including places like Paradise Rock, House of Blues, and Fenway Park, known for their great music scene.",
+        "D3:10"
+      ],
+      [
+        "Dave is looking forward to showing Calvin his favorite spots in Boston, especially in terms of food and music.",
+        "D3:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

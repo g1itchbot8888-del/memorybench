@@ -1,0 +1,237 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-4",
+  "session_number": 4,
+  "session_summary": "At 2:13 pm on 4 April, 2022, John and James caught up after a long time. James shared his experience in an online gaming tournament where he reached the semifinals, had fun, and received gaming tips and autographs from a famous team. John emphasized the importance of communication and teamwork in gaming. They discussed playing Apex Legends together and trying out new genres like RPGs and MOBAs. They agreed to chat soon and update each other on new games.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D4:1",
+      "text": "Hey James! Long time no chat. What's up? Been playing any new games lately?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://cool4dads.com/wp-content/uploads/2019/01/IMG_9117.jpg"
+      ],
+      "blip_caption": "a photo of a group of people posing for a picture",
+      "query": "online gaming tournament fun",
+      "dia_id": "D4:2",
+      "text": "Hey John! Yeah, it's been a while. I've been busy, but I joined an online gaming tournament yesterday. It was so intense and fun! Here is a photo report."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:3",
+      "text": "That online gaming tournament looks awesome! Glad you had a blast. How did it go for you?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/zk7j8z2ik3l71.jpg"
+      ],
+      "blip_caption": "a photo of a man in a costume standing in front of a sign",
+      "query": "victory screen sweet victory",
+      "dia_id": "D4:4",
+      "text": "It was so much fun! I did pretty well in the tournament; I made it to the semis and won some rounds. It was such a rush! Here's a screenshot of my character."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:5",
+      "text": "Wow, awesome! Congrats on your performance and making it to the semifinals. How did the final rounds turn out?"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a man in a costume holding a sword",
+      "dia_id": "D4:6",
+      "text": "Thanks John! The final rounds were tough. I tried my best but didn't make it. It was close, though, and I had a blast competing with talented players. Looking forward to the next tournament!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:7",
+      "text": "Met any famous player there?"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a man sitting in a chair playing a video game",
+      "dia_id": "D4:8",
+      "text": "I met the whole team! It’s a pity I didn’t get a chance to take a photo with them, but one of them even gave me a couple of gaming tips."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:9",
+      "text": "Cool! I'm sure his advice will help you develop in the game."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/shafojm1o4471.jpg"
+      ],
+      "blip_caption": "a photo of a notepad with a pen and a glass of water",
+      "query": "notepad game strategies",
+      "dia_id": "D4:10",
+      "text": "Yes, I'm sure of that too. Also, the whole team gave me autographs. I was very happy about this!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:11",
+      "text": "How cool is this! What advice do you remember most?"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a group of people standing around a table",
+      "dia_id": "D4:12",
+      "text": "The most important thing I remember is that you always need to communicate correctly with the team and never put your ego above team success."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:13",
+      "text": "Yeah, comms and teamwork are super important in gaming. When everyone works together, it's incredible what can be accomplished in a match. How do you usually communicate with your team?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D4:14",
+      "text": "I usually use voice chat to communicate with my team. It's fast and helps us work together effectively."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:15",
+      "text": "Sounds like a good plan. It really helps with communication. What game do you like playing with your team?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/4zewk2444ag71.jpg"
+      ],
+      "blip_caption": "a photo of a video game screen showing a robot and a robot",
+      "query": "apex legends team playing action",
+      "dia_id": "D4:16",
+      "text": "I've been playing my favourite game called Apex Legends with my team and it's intense! Check out this screenshot of us playing!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:17",
+      "text": "Man, Apex Legends looks tough! The graphics are unreal. How does it stack up against other games?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D4:18",
+      "text": "Apex Legends has awesome graphics and super fast-paced gameplay. It definitely stands out among other games."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:19",
+      "text": "Hmm, the speed of it definitely makes it fun! Are there any new games that you're looking forward to trying out?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/bwoh4be8d3m41.jpg"
+      ],
+      "blip_caption": "a photo of a video game cover of a video game",
+      "query": "skyrim league of legends game cover",
+      "dia_id": "D4:20",
+      "text": "Yeah, I'm always excited to try new games. Thinking of trying RPGs like that or MOBAs. Sounds cool!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:21",
+      "text": "RPGs and MOBAs can be awesome to experience an engaging story or have epic multiplayer fights. Let me know how you like them!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D4:22",
+      "text": "Sure thing, John! Can't wait to try out some new genres. I'll definitely let you know my thoughts once I give them a try."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:23",
+      "text": "Love hearing about it. Let's chat soon!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D4:24",
+      "text": "Sure John, I'll keep you updated on all the new games. Talk to you soon! Bye for now!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D4:25",
+      "text": "Let me know how it goes. Stay safe. Talk to you soon. Bye!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James joins an online Apex Legend gaming tournament with his friends, makes it to the semi-finals and wins some rounds.",
+      "James receives gamink skill tips and autographs from skilled Apex Legend players at the gaming tournament."
+    ],
+    "John": [],
+    "date": "4 April, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John asked James if he had been playing any new games lately.",
+        "D4:1"
+      ],
+      [
+        "John inquired about James' performance in the online gaming tournament.",
+        "D4:3"
+      ],
+      [
+        "John asked James if he met any famous players at the tournament.",
+        "D4:7"
+      ],
+      [
+        "John asked James what advice he remembered most from the famous players.",
+        "D4:11"
+      ],
+      [
+        "John discussed the importance of communication and teamwork in gaming.",
+        "D4:13"
+      ],
+      [
+        "John asked James about the game he plays with his team.",
+        "D4:15"
+      ],
+      [
+        "John inquired if James is looking forward to trying out any new games.",
+        "D4:19"
+      ]
+    ],
+    "James": [
+      [
+        "James joined an online gaming tournament and made it to the semifinals, winning some rounds.",
+        "D4:2"
+      ],
+      [
+        "James participated in the final rounds of the online gaming tournament but did not make it to the finals.",
+        "D4:6"
+      ],
+      [
+        "James met the whole team of a famous player at the tournament and received gaming tips and autographs.",
+        "D4:8"
+      ],
+      [
+        "James remembers the gaming advice received was about proper communication and teamwork over ego.",
+        "D4:12"
+      ],
+      [
+        "James usually communicates with his team using voice chat for effective teamwork.",
+        "D4:14"
+      ],
+      [
+        "James enjoys playing Apex Legends with his team due to its fast-paced gameplay.",
+        "D4:16"
+      ],
+      [
+        "James is excited about trying out new games like RPGs and MOBAs.",
+        "D4:20"
+      ],
+      [
+        "James plans to update John on his gaming experiences and new games.",
+        "D4:24"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

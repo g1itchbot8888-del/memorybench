@@ -1,0 +1,151 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-20",
+  "session_number": 20,
+  "session_summary": "Evan and Sam caught up at 6:48 pm on 17th December 2023. Evan shared that his son had a recent bike accident but is doing better now. They discussed coping mechanisms, with Sam mentioning a love for hiking. Evan encouraged Sam to believe in himself, try new things, and not let his weight define him. Evan showcased a contemporary figurative painting he recently completed, with a friend helping to get it published in an exhibition.",
+  "conversation_turns": [
+    {
+      "speaker": "Evan",
+      "dia_id": "D20:1",
+      "text": "Hey Sam, what's up? Long time no see, huh? Lots has happened."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D20:2",
+      "text": "Hey Evan! Long time no see. I'm doing okay, been through a few bumps. How about you?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://d2g8igdw686xgo.cloudfront.net/25280738_15137467980_r.jpg"
+      ],
+      "blip_caption": "a photo of a young boy with crutches and a backpack",
+      "query": "son on crutches",
+      "dia_id": "D20:3",
+      "text": "It's not easy for us right now, my son had an accident last Tuesday, he fell off his bike and it was rough. But he's doing better now. How are you dealing with all this?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D20:4",
+      "text": "Darn, sorry to hear that. Hope he's feeling better. Same here, it's been tough lately. After we talked, I started thinking about ways to cope with it, but it's been challenging."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D20:5",
+      "text": "Life can be hard sometimes. Do you have any hobbies or activities that make you happy?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D20:6",
+      "text": "I used to love hiking, but it's been a while since I had the chance to do it."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D20:7",
+      "text": "I remember you mentioning that! Hiking is indeed a great way to center oneself and be one with nature. We should definitely plan a hike soon!"
+    },
+    {
+      "speaker": "Sam",
+      "blip_caption": "a photo of a beach with a few people walking on it",
+      "dia_id": "D20:8",
+      "text": "Yeah, I'm struggling with my weight and it's affecting my confidence. I feel like I can't overcome all the challenges with my weight, I keep lacking motivation."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D20:9",
+      "text": "Yeah, I understand it can be challenging. But remember, it's important to believe in yourself and take it one day at a time, Sam. Your worth is not defined by your weight."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D20:10",
+      "text": "Cheers, Evan. Appreciate the help. It's tough breaking out of my comfort zone."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D20:11",
+      "text": "Stepping out of your comfort zone can be intimidating, but it's totally worth it. Just challenge yourself to try something new, even if it's just a little thing. You got this!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D20:12",
+      "text": "Thanks, Evan. I'll take your advice. Trying new things can be difficult."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i.redd.it/ub3eyozz1olb1.jpg"
+      ],
+      "blip_caption": "a photo of a woman standing in front of a painting",
+      "query": "painting accomplishment",
+      "dia_id": "D20:13",
+      "text": "Yeah, trying something new and succeeding gives a great feeling of accomplishment. Give it a go, even if it's just a little thing. You'll be amazed!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D20:14",
+      "text": "She looks so confident! What kind of painting is that in the background?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D20:15",
+      "text": "\nThis is a contemporary figurative painting that I've finished few days ago, emphasizing the emotional state through expressive brushwork and vibrant color choices. It captures a moment of introspection, where the subject is deeply immersed in thought. Very proud of it!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D20:16",
+      "text": "That's amazing work, who's the girl standing next to painting?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D20:17",
+      "text": "That's a close friend of mine who helped me get this painting published in the exhibition!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan's son falls off a bike and has to rely on crutches for a while.",
+      "Evan finishes work on a portrait of a woman and his close friend helps him get it published at a exhibition."
+    ],
+    "Sam": [
+      "Sam begins to think the idea of changing his diet and lifestyle is too hard, and feels like he lacks the motivation to deal with his weight.",
+      "Sam's struggle with his weights affects his confidence."
+    ],
+    "date": "17 December, 2023"
+  },
+  "observations": {
+    "Evan": [
+      [
+        "Evan's son had an accident where he fell off his bike last Tuesday but is doing better now.",
+        "D20:3"
+      ],
+      [
+        "Evan is supportive and encouraging towards Sam, giving advice to believe in himself and take things one day at a time.",
+        "D20:9"
+      ],
+      [
+        "Evan is a painter who finished a contemporary figurative painting emphasizing emotion and introspection.",
+        "D20:15"
+      ],
+      [
+        "Evan had a painting published in an exhibition with the help of a close friend.",
+        "D20:17"
+      ]
+    ],
+    "Sam": [
+      [
+        "Sam used to love hiking but hasn't had the chance to do it recently.",
+        "D20:6"
+      ],
+      [
+        "Sam is struggling with weight and confidence issues, feeling like they lack motivation.",
+        "D20:8"
+      ],
+      [
+        "Sam acknowledges that trying new things can be difficult.",
+        "D20:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

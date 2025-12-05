@@ -1,0 +1,196 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-5",
+  "session_number": 5,
+  "session_summary": "Andrew and Audrey discussed Andrew's search for a dog to adopt at 10:47 am on 6 May, 2023. Andrew talked about the challenges and joys of the process, considering factors like living space and breed requirements. Audrey offered advice on considering a dog's space and energy needs. Andrew shared his difficulties in finding pet-friendly housing near nature. They also discussed the joy of road trips with dogs, with Audrey sharing her experience and Andrew expressing his desire to do the same. Audrey wished Andrew luck in finding the perfect furry friend and offered to help. They exchanged goodbyes, with Andrew heading to another shelter and Audrey looking forward to updates on the search.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://live.staticflickr.com/5006/5244715417_aa4e26e1d3_z.jpg"
+      ],
+      "blip_caption": "a photography of a dog looking through a cage at the camera",
+      "query": "cute dog shelter adoption",
+      "dia_id": "D5:1",
+      "re-download": true,
+      "text": "Hey! Since we last spoke, I've been looking for a doggo to adopt - browsing websites, visiting shelters and asking friends of theirs. It's been both fun and annoying!"
+    },
+    {
+      "speaker": "Audrey",
+      "blip_caption": "a photo of two dogs running in a field with a ball in their mouth",
+      "dia_id": "D5:2",
+      "text": "Sounds like a fun and demanding task! Getting to meet new pups must bring so much happiness. What  do you think you can do to make the process smoother?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:3",
+      "text": "Meeting all these adorable pups has been awesome! For those considering getting a pup, the size of living space and the exercise needs of the breed are important. For me, a person living in an apartment, a smaller dog would be best, but if one is active, consider getting one that loves to play and run."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D5:4",
+      "text": "That's some good advice! It's important to consider the space and energy needs of a dog."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:5",
+      "text": "Yeah! Finding a pet-friendly place to live has been tough too. I'm contacting landlords and checking out neighborhoods to find the perfect spot."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D5:6",
+      "text": "Guessing it's tough to find housing. Any particular part of town you want to live in?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:7",
+      "text": "I'm looking for a place near a park or woods, so I can stay close to nature and give the dog a large open space to run around"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://images.pexels.com/photos/12874286/pexels-photo-12874286.jpeg"
+      ],
+      "blip_caption": "a photography of three dogs running through a field of grass",
+      "query": "dogs playing field flowers national park",
+      "dia_id": "D5:8",
+      "re-download": true,
+      "text": "That's a good plan! I'm lucky to have a park near me - it's great for my pup's walks. Last Friday we took a road trip - we went to a beautiful national park and my dogs had a blast! It was an awesome trip!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:9",
+      "text": "Nice! Glad the pups had a great road trip. Do you take them on road trips often?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D5:10",
+      "text": "I take them on road trips once every couple of months. It's a great way for them to explore and stay active."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:11",
+      "text": "Wow, that's awesome! I really wish I could go on a road trip with a furry companion."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D5:12",
+      "text": "It's a cool experience. Having your furry friends on a road trip is an amazing experience. They make it really fun and exciting. It's definitely something to look forward to!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:13",
+      "text": "Adding that to my bucket list! Can't wait for the day I actually go on a trip with my dog!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D5:14",
+      "text": "Good luck with your search! Fingers crossed you find the perfect one."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:15",
+      "text": "Thanks! Your help is much appreciated. I'm still on the lookout for the perfect furry friend."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D5:16",
+      "text": "Not a problem, I'm glad to help! Good luck with your search!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:17",
+      "text": "Thanks! I'll let you know how it goes. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D5:18",
+      "text": "Definitely, keep me posted and let me know if you need any suggestions or help."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:19",
+      "text": "Will do! Really apprecieate it. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D5:20",
+      "text": "Yup! You got it, I'll be expecting a pic of your dog soon! :)"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D5:21",
+      "text": "Haha I can't wait. I'll ttyl, gotta check out another shelter soon."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D5:22",
+      "text": "Have fun! Ttyl!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey takes her four dogs on a road trip to a nearby national park."
+    ],
+    "Andrew": [
+      "Andrew continues his search for a pet-friendly apartment and a pet dog, and is in the process of checking out animal shelters."
+    ],
+    "date": "6 May, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew has been looking to adopt a dog, browsing websites, visiting shelters, and asking friends.",
+        "D5:1"
+      ],
+      [
+        "Andrew is a person living in an apartment.",
+        "D5:3"
+      ],
+      [
+        "Andrew is looking for a pet-friendly place near a park or woods to give the dog a large open space to run around.",
+        "D5:7"
+      ],
+      [
+        "Andrew is contacting landlords and checking out neighborhoods to find a pet-friendly place to live.",
+        "D5:5"
+      ],
+      [
+        "Andrew expressed a wish to go on a road trip with a furry companion.",
+        "D5:11"
+      ],
+      [
+        "Andrew has a bucket list item of going on a road trip with his dog.",
+        "D5:13"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey goes on road trips with her dogs once every couple of months to help them explore and stay active.",
+        "D5:10"
+      ],
+      [
+        "Audrey suggested considering the size of living space and exercise needs when choosing a dog breed.",
+        "D5:4"
+      ],
+      [
+        "Audrey has a park near her that is great for her pup's walks.",
+        "D5:8"
+      ],
+      [
+        "Audrey mentioned taking a road trip to a national park with her dogs and described it as an awesome trip.",
+        "D5:8"
+      ],
+      [
+        "Audrey encouraged Andrew in his search for the perfect furry friend and offered to help with suggestions.",
+        "D5:18"
+      ],
+      [
+        "Audrey will be expecting a picture of Andrew's dog soon.",
+        "D5:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

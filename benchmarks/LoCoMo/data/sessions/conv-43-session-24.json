@@ -1,0 +1,209 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-24",
+  "session_number": 24,
+  "session_summary": "At 3:37 pm on 16 December 2023, Tim and John caught up. John shared about a close basketball game his team won, which was thrilling for him. Tim admired John's dedication to the sport despite facing an injury recently. John revealed he was progressing well with his recovery and had a milestone moment jogging without pain. Tim congratulated him and encouraged him to stay positive. The two friends discussed the importance of staying motivated and supporting each other, ending their conversation on a positive note.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:1",
+      "text": "Hey John, catch up time! What've you been up to? Any good b-ball games lately?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://www.salisburypost.com/wp-content/uploads/sites/9/2023/03/Catawba-basketball-01.jpg"
+      ],
+      "blip_caption": "a photo of a group of women's basketball players holding up a trophy",
+      "query": "basketball team celebration",
+      "dia_id": "D24:2",
+      "text": "Hey Tim! Nice to talk again. The b-ball games have been crazy. We had a real battle against another team last week. It was close until the final buzzer but we got the win."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:3",
+      "text": "Congrats, John! That sounds like an intense game."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:4",
+      "text": "Thanks! We won! It was really close, but we made it!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:5",
+      "text": "Wow, that's amazing! Winning must have been so thrilling!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:6",
+      "text": "Winning was such a thrill, and it was an awesome moment. These experiences really make me love the game."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:7",
+      "text": "You must have been so pumped when it happened! Winning can give us a real confidence boost and makes us keep going with our passions."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://images.fineartamerica.com/images-medium-large-5/basketball-court-sunset-jun-pinzon.jpg"
+      ],
+      "blip_caption": "a photography of a basketball hoop in the sunset with a fence",
+      "query": "basketball court sunset workout",
+      "dia_id": "D24:8",
+      "re-download": true,
+      "text": "Yeah, it really does. It keeps me motivated to keep putting in the effort and makes all the tough times worth it. Here's a pic I took during a morning workout, it's a reminder that the journey can be awesome."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:9",
+      "text": "That's a good spot for a morning workout! Can you tell me about some challenges you've faced?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/o20k6p31qoe41.jpg"
+      ],
+      "blip_caption": "a photo of a person with a cast on their foot",
+      "query": "sprained ankle crutch wrapped ankle injured ankle",
+      "dia_id": "D24:10",
+      "text": "Yeah, I injured myself not too long ago. It sucked because I had to miss some games and couldn't help my team."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:11",
+      "text": "Ouch, that's rough. Have you been able to stay active or keep up with your fitness routine while you're recovering?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://mainephysicaltherapy.com/wp-content/uploads/2017/12/Incline-one-arm-cable-pull-down-1.jpg"
+      ],
+      "blip_caption": "a photo of a man sitting on a chair with a blue ball",
+      "query": "physical therapy exercises",
+      "dia_id": "D24:12",
+      "text": "It's been tough, but I'm trying to stay active and do my rehab. I do physical therapy exercises every day."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:13",
+      "text": "Cool, rehab can be tough but it's key to keep it up. How's it coming along?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://live.staticflickr.com/5189/5618665304_b2e0ccd051_b.jpg"
+      ],
+      "blip_caption": "a photography of a treadmill in a room with a window",
+      "query": "treadmill gym",
+      "dia_id": "D24:14",
+      "re-download": true,
+      "text": "It's going great! I've been working hard and it's paying off. Last Friday, I had a milestone moment at the gym. I was able to jog a bit with no pain, which was such a relief!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:15",
+      "text": "Wow! How was it jogging without any discomfort?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:16",
+      "text": "It was great! After being out for so long, jogging without any pain was a huge success. My wife and I hosted a small get-together with friends and family to celebrate."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:17",
+      "text": "Congrats! That's awesome. Keep at it and you'll be back in no time. That sounds fun, how was it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:18",
+      "text": "Thanks! Appreciate the support and encouragement. I'm gonna keep pushing and staying positive. It was good to see everyone again! We had a ton of fun."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D24:19",
+      "text": "I'm glad everyone had fun!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:20",
+      "text": "Me too. Talk to you later!"
+    }
+  ],
+  "events": {
+    "Tim": [],
+    "John": [
+      "John and his team secure another win that was a close-call until the buzzer.",
+      "John continues doing physical therapy and rehab to recover from his ankle injury.",
+      "John is able to job without any pain for the first time since the injury.",
+      "John and his wife host a small get-together for his friends and family to celebrate his path to recovery from the ankle injury."
+    ],
+    "date": "16 December, 2023"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim is interested in catching up and asks John about recent b-ball games.",
+        "D24:1"
+      ],
+      [
+        "Tim congratulated John on winning a close b-ball game.",
+        "D24:3"
+      ],
+      [
+        "Tim notes that winning a game must have been thrilling for John.",
+        "D24:5"
+      ],
+      [
+        "Tim asks John about challenges he has faced, specifically regarding his recent injury.",
+        "D24:9"
+      ],
+      [
+        "Tim acknowledges the importance of staying active or keeping up with a fitness routine during recovery.",
+        "D24:11"
+      ],
+      [
+        "Tim asks John about the progress of his rehab and encourages him to keep it up.",
+        "D24:13"
+      ],
+      [
+        "Tim congratulates John on his milestone at the gym and hosting a get-together to celebrate.",
+        "D24:17"
+      ],
+      [
+        "Tim expresses happiness that everyone had fun at the get-together.",
+        "D24:19"
+      ]
+    ],
+    "John": [
+      [
+        "John talks about winning a b-ball game against another team that was close until the final buzzer.",
+        "D24:2"
+      ],
+      [
+        "John injured himself recently, had to miss games, and couldn't help his team.",
+        "D24:10"
+      ],
+      [
+        "John mentions that he does physical therapy exercises every day for his recovery.",
+        "D24:12"
+      ],
+      [
+        "John shares that he had a milestone moment at the gym where he was able to jog without pain.",
+        "D24:14"
+      ],
+      [
+        "John hosted a small get-together with friends and family to celebrate his recovery milestone.",
+        "D24:16"
+      ],
+      [
+        "John appreciates Tim's support and encouragement, stating he will keep pushing and staying positive.",
+        "D24:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

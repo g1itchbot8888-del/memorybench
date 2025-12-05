@@ -1,0 +1,146 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-16",
+  "session_number": 16,
+  "session_summary": "At 2:15 pm on 21 June, 2023, Gina informed Jon about new unique pieces for her store. Jon congratulated Gina on her store and inquired about a hoodie, which Gina clarified was from her collection. Gina mentioned creating a limited edition line to showcase her style and creativity. Jon shared attending networking events to progress after losing his job. Gina praised Jon's determination, and they discussed the importance of perseverance and tracking goals. Jon appreciated Gina's support, which motivated him to stay focused and achieve his goals. Gina encouraged Jon to keep persevering and believing in himself. Jon expressed gratitude for Gina's support, feeling confident and determined not to give up.",
+  "conversation_turns": [
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://www.staycoldapparel.com/cdn/shop/files/Foto28.09.23_122631.jpg"
+      ],
+      "blip_caption": "a photo of a woman in a black hoodie posing for a picture",
+      "query": "online clothing store logo fashion unique pieces",
+      "dia_id": "D16:1",
+      "text": "Hey Jon, what's been up? Some pretty cool stuff happened since we talked. I have acquired some new unique pieces for my store."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D16:2",
+      "text": "Congrats on your store, Gina! Happy for you! It looks sick - is it a unique piece you're selling?"
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a hoodie with a camouflage print on it",
+      "dia_id": "D16:3",
+      "text": "Thanks! This hoodie isn't for sale, it's from my own collection. I made a limited edition line last week to show off my style and creativity - it was tough but worth it!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D16:4",
+      "text": "What gave you the idea?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D16:5",
+      "text": "This design reminds me of the grit it takes to stand out and face challenges."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D16:6",
+      "text": "That's awesome, Gina! Yesterday I chose to go to networking events to make things happen. It's been tough but I'm staying determined and focused."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D16:7",
+      "text": "Way to go, Jon! Attending those networking events takes guts and drive. Keep it up!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D16:8",
+      "text": "Thanks! It's been tough going since I lost my job, but I'm sure investing my time in my business will pay off eventually. I really appreciate your help."
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a notepad with a pen and a pen on it",
+      "dia_id": "D16:9",
+      "text": "No worries, Jon! You got this! Let me know if you need anything."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D16:10",
+      "text": "Your help matters to me. I am writing all my plans down."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D16:11",
+      "text": "Nice work! Tracking your plans and goals is key. It's like a picture of all your progress."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D16:12",
+      "text": "Thanks, Gina! Seeing my goals written down on paper really helps keep me motivated and focused on what I have to do. I know it won't be easy, but I'm sure it'll pay off. Thanks for the support!"
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://i.redd.it/b1sgp694awda1.jpg"
+      ],
+      "blip_caption": "a photo of a sign that says never give up never give up never",
+      "query": "never give up sign",
+      "dia_id": "D16:13",
+      "text": "No worries, Jon! When things get rough, keep persevering and keep working hard. You'll get there! Don't quit!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D16:14",
+      "text": "Thanks, Gina! That sign reminds me to never give up, however hard things get. I'll keep going!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D16:15",
+      "text": "Believe in yourself and keep going. You can do it!"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a bulletin board with pictures of people and words",
+      "dia_id": "D16:16",
+      "text": "Thanks! I'm feeling confident and won't give up. Your support means a ton to me."
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon decides to attend networking events to make connections for his business venture."
+    ],
+    "Gina": [
+      "Gina creates unique limited-edition pieces to show off her skills."
+    ],
+    "date": "21 June, 2023"
+  },
+  "observations": {
+    "Gina": [
+      [
+        "Gina has a store where she acquired new unique pieces.",
+        "D16:1"
+      ],
+      [
+        "Gina made a limited edition line of clothing last week to show off her style and creativity.",
+        "D16:3"
+      ],
+      [
+        "Gina's design in her clothing line reminds her of the grit needed to stand out and face challenges.",
+        "D16:5"
+      ]
+    ],
+    "Jon": [
+      [
+        "Jon has been attending networking events to make things happen after losing his job.",
+        "D16:6"
+      ],
+      [
+        "Jon is investing his time in his business and believes it will eventually pay off.",
+        "D16:8"
+      ],
+      [
+        "Jon is writing down all his plans and goals to stay organized and motivated.",
+        "D16:10"
+      ],
+      [
+        "Jon finds that writing down his goals helps him stay motivated and focused.",
+        "D16:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

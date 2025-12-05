@@ -1,0 +1,267 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-28",
+  "session_number": 28,
+  "session_summary": "At 5:54 pm on 9 November 2022, Nate and Joanna had a conversation about their recent activities and future plans. Nate mentioned trying out cooking due to a game tournament delay and showed Joanna his homemade coconut ice cream. He didn't make it to the finals in the last tournament but was positive about the next one and considering joining a new gaming team. Joanna shared that she pitched a script to producers and got positive feedback, boosting her confidence. Nate talked about creating gaming content for YouTube, while Joanna worked on a new suspenseful thriller script. They discussed supporting each other's goals and shared hobbies, including nature photography and turtle-keeping. Joanna planned to visit Nate to watch him play with the turtles from a distance due to her allergy. They made plans to hang out and parted ways, with Nate promising to bathe the turtles before her visit. Joanna said, \"See you tomorrow,\" and Nate replied, \"Bye Joanna.\"",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://beadyarnspatula.files.wordpress.com/2022/07/img_2596.jpg"
+      ],
+      "blip_caption": "a photo of a person scooping a scoop of ice cream into a pan",
+      "query": "coconut milk ice cream homemade red sprinkles",
+      "dia_id": "D28:1",
+      "text": "Hey Joanna, what a wild week! My game tournament got pushed back, so I tried out some cooking. Look at this homemade coconut ice cream! The sprinkles kinda changed the color this time around."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:2",
+      "text": "Hey Nate, that looks yummy! Wish I could try it, but I can't right now. How did the last game tournament go?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:3",
+      "text": "Hey Joanna, thanks! Tough tournament, didn't make it to the finals. But that's okay, I'll get 'em next time!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:4",
+      "text": "Aww, bummer! But the important thing is to stay positive. So, what's your next move in the gaming world?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:5",
+      "text": "Thanks Joanna! Staying positive is key. I'm thinking of joining a new gaming team after this next tourney - I've had a few offers, but I haven't decided yet. It's gonna be a big step, but I'm ready for a shake up."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:6",
+      "text": "Sounds great, Nate! Making a switch could open up new opportunities. Wishing you luck with picking the right team!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:7",
+      "text": "Thanks, Joanna! I really appreciate it. It's a big decision, but I'm excited for what the future holds. How about you? Anything exciting happening on your end?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:8",
+      "text": "Yup! I worked hard on another script and eventually created a plan for getting it made into a movie. It was a ton of work but satisfying. I pitched it to some producers yesterday and they really liked it. It gave me a big confidence boost!"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a trophy and a game controller on a table",
+      "dia_id": "D28:9",
+      "text": "Congrats on the chance to pitch your script - super impressive. Proud of you!"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://www.penboutique.com/cdn/shop/products/image_d3480c08-098f-481b-a456-de0607a4fe91.jpg"
+      ],
+      "blip_caption": "a photo of a pen and notebook on a table with a book",
+      "query": "desk laptop notebook pens",
+      "dia_id": "D28:10",
+      "text": "Appreciate you, Nate! Your support and encouragement mean a lot to me. I feel like I just can't stop writing write now!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:11",
+      "text": "Anytime. What're you working on in that notebook? Anything cool?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:12",
+      "text": "Hey Nate, I'm working on a new project - a suspenseful thriller set in a small Midwestern town. It's been a great creative outlet for me. How about you? Do you have any projects you're working on?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/yldt4paim5k71.jpg"
+      ],
+      "blip_caption": "a photo of a desk with a computer, headphones, and a microphone",
+      "query": "microphone headphones desk",
+      "dia_id": "D28:13",
+      "text": "Yeah actually - creating gaming content for YouTube. It's a cool way to entertain folks and satisfy my video game cravings at the same time when there aren't any tourneys going on."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:14",
+      "text": "Wow, that's a cool idea! What inspired you to start making gaming videos?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:15",
+      "text": "Hey Joanna, I'm a big fan of them and thought it would be a fun idea to start making them myself. I'm hoping to share my love of gaming and connect with others who enjoy it too."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:16",
+      "text": "Way to go, Nate! Making videos and connecting with people about gaming - that's awesome! You'll do great!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:17",
+      "text": "Thanks Joanna! Appreciate the support. It's new to me but I'm excited to get started!"
+    },
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a computer screen displaying a product listing",
+      "dia_id": "D28:18",
+      "text": "Make sure you watch other peoples videos first so you get a handle on what your audience likes! That way your videos don't flop when you post them."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/i2l2lpmkj2mb1.jpg"
+      ],
+      "blip_caption": "a photo of a computer screen with a message on it",
+      "query": "positive comment youtube video screenshot",
+      "dia_id": "D28:19",
+      "text": "Already doing that, but thanks for the advice!"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.redd.it/ap48tronzy411.jpg"
+      ],
+      "blip_caption": "a photo of a sunflower in a field with a sunset in the background",
+      "query": "sunset field flowers",
+      "dia_id": "D28:20",
+      "text": "No worries, Nate! It's great to support each other in reaching our goals. On another note, check out this pic I got a while back!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:21",
+      "text": "Wow, that sunset pic looks incredible! What inspired you to take that photo?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:22",
+      "text": "Thanks, Nate! I took that pic on a hike last summer near Fort Wayne. The sunset and the surrounding beauty were just incredible. It was an awesome reminder of nature's beauty."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/hgcgvd0umzsb1.jpg"
+      ],
+      "blip_caption": "a photo of three turtles sitting on a rock in a pond",
+      "query": "pet turtles basking sun",
+      "dia_id": "D28:23",
+      "text": "That sounds incredible! Nature truly has a way of reminding us to appreciate the beauty around us, and moments like those really stay with you. These critters also make me appreciate life's little joys. And guess what? I got them a new friend!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:24",
+      "text": "Wow, what made you get a third?"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a turtle swimming in a tank with a metal bar",
+      "dia_id": "D28:25",
+      "text": "Turtles really bring me joy and peace. They have such an effect on us - best buddies ever! I saw another at a pet store and just hade to get him. The tank is big enough now for three, so I figured why not!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:26",
+      "text": "Wow! It's always a shock where life will take us next! I bet just last week you would have never thought you would be getting a third turtle this year!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:27",
+      "text": "You got that right, but I'm very happy with the descision and wouldn't have it any other way."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:28",
+      "text": "Can I come over sometime and watch you play with them? From a distance I mean, since I'm allergic."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:29",
+      "text": "Definitely! I'd love to have you over again. Maybe we can watch one of your movies together or go to the park!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:30",
+      "text": "For sure! I'd love to do either of those things with you!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:31",
+      "text": "Sounds good. Well I'll make sure I give the turtles a bath before you get here so they're ready to play."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D28:32",
+      "text": "Alright, see you tomorrow!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D28:33",
+      "text": "Bye Joanna!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna pitches her new movie script based on a love story and it resonates with movie producers.",
+      "Joanna starts working on a new script on a thriller story set in a small Midwestern town"
+    ],
+    "Nate": [
+      "Nate thinks about joining a new gaming team after receving a couple of offers",
+      "Nate's video game tournament gets pushed back",
+      "Nate starts creating gaming content for YouTube to entertain folks and satisfy his video game craving",
+      "Nate gets a third pet turtle"
+    ],
+    "date": "9 November, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate's game tournament got pushed back, so he tried making homemade coconut ice cream.",
+        "D28:1"
+      ],
+      [
+        "Nate did not make it to the finals of the last game tournament.",
+        "D28:3"
+      ],
+      [
+        "Nate is considering joining a new gaming team after the next tournament.",
+        "D28:5"
+      ],
+      [
+        "Nate is creating gaming content for YouTube when there are no tournaments.",
+        "D28:13"
+      ],
+      [
+        "Nate has a third turtle as a pet and enjoys having turtles as companions.",
+        "D28:25"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna worked on a script and pitched it to producers who liked it.",
+        "D28:8"
+      ],
+      [
+        "Joanna is working on a new project - a suspenseful thriller set in a small Midwestern town.",
+        "D28:12"
+      ],
+      [
+        "Joanna encouraged Nate to watch other people's videos before making his own for YouTube.",
+        "D28:18"
+      ],
+      [
+        "Joanna took a beautiful sunset picture on a hike near Fort Wayne last summer.",
+        "D28:22"
+      ],
+      [
+        "Joanna is allergic to turtles but expresses interest in watching Nate play with them.",
+        "D28:28"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

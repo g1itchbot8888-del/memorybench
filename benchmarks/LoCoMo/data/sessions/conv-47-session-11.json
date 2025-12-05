@@ -1,0 +1,157 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-11",
+  "session_number": 11,
+  "session_summary": "John and James spoke at 5:00 pm on 11 May, 2022. John shared how he volunteered his programming skills for a charitable foundation, creating a software tool that streamlined their operations. James expressed admiration for John's contribution and requested visuals of the impact. John explained his motivation was the foundation's dedication to helping kids. The experience inspired John to consider a career in the non-profit sector. James encouraged him to find the right organization for his skills. John appreciated the support and mentioned looking forward to making a positive impact. James wished him luck and they concluded the conversation warmly.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D11:1",
+      "text": "Hey James, it's been a bit since we last talked. Something cool happened recently - I volunteered my programming skills for a social cause. It was cool to use my passion to do something good. I made a software tool for one charitable foundation which helped streamline their operations and make them run more smoothly. Seeing my skills making a real difference in the world was really rewarding."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D11:2",
+      "text": "Hey John! Glad to hear from you. It's awesome that you used your skills to make a difference. Bet it was cool to see it in action. Would love to hear more about it!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:3",
+      "text": "Previously, this foundation used paper records and all inventory was recorded manually. I made an application that structured their work, and now everything they need for inventory is in one application on their smartphone."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D11:4",
+      "text": "Wow John, that's awesome! Must feel great to be part of something so important. I would love to see any visual examples of the impact your software made."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/rak0v41zm4sb1.jpg"
+      ],
+      "blip_caption": "a photo of a computer monitor showing the cpu performance of a computer",
+      "query": "software tool inventory management resources donations reports analysis",
+      "dia_id": "D11:5",
+      "text": "Yeah, here's a screenshot of the system. It'll make tracking inventory, resources, and donations run smoother and generate reports for analysis. Feels great knowing my skills are making a real difference to them."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D11:6",
+      "text": "Wow John, that's awesome! What motivated you to create such an amazing system for them?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:7",
+      "text": "I was inspired by their passion for helping kids, so I wanted to contribute in any way I could. Plus, coding lets me challenge myself and expand my skills, so this was a great chance to do both. It's really rewarding to use my coding skills to make a difference."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D11:8",
+      "text": "That's really great, John! It's awesome how you blended your passion with a good cause. How did it affect you?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:9",
+      "text": "It showed me the power of tech to make positive changes, beyond just my own enjoyment. It gave me a real sense of purpose."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D11:10",
+      "text": "Discovering our passions is truly rewarding. How do you think this experience will impact your future plans?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:11",
+      "text": "This experience has given me a clearer sense of purpose and motivated me to use my programming skills to make a positive impact. I'm now considering volunteer roles and potentially a career in the non-profit sector."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D11:12",
+      "text": "That's really inspiring. Have you found any non-profit organizations that align with your values and passion for programming?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:13",
+      "text": "I haven’t found it yet, but to be honest I haven’t looked for it. I think it won’t be difficult for me to find the organization I need."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D11:14",
+      "text": "There are lots of places where you can show off your skills! I'm sure you'll find one that's perfect for you in making a difference."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:15",
+      "text": "I'll be happy to find a place where my skills and passions are a perfect match. I'm hoping to make a positive impact there."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D11:16",
+      "text": "I'm sure you'll find the right spot, John. Your skills and passions will be a great addition. Good luck!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:17",
+      "text": "Thanks, your encouragement means a lot."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D11:18",
+      "text": "I'm here for you. Good luck!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:19",
+      "text": "Thanks, James! Appreciate it. Take care and talk soon!"
+    }
+  ],
+  "events": {
+    "James": [],
+    "John": [
+      "John volunteers his programming skill to a foundation that helps kids.",
+      "John creates a software tool that streamlines operations of the foundation and digitizes their donation and inventory records.",
+      "John finds satisfaction and passion in working towards a good cause and decides to explore a career in the non-profit sector."
+    ],
+    "date": "11 May, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John volunteered his programming skills for a social cause, creating a software tool for a charitable foundation to streamline their operations.",
+        "D11:1"
+      ],
+      [
+        "John was inspired by the foundation's passion for helping children and used his coding skills to contribute and challenge himself.",
+        "D11:7"
+      ],
+      [
+        "This experience gave John a clearer sense of purpose and motivated him to potentially pursue a career in the non-profit sector.",
+        "D11:11"
+      ],
+      [
+        "John is considering volunteer roles and potentially a career in the non-profit sector.",
+        "D11:11"
+      ]
+    ],
+    "James": [
+      [
+        "James was glad to hear from John and excited to learn about the impact of the software tool John created for the charitable foundation.",
+        "D11:2"
+      ],
+      [
+        "James asked about the motivation behind John's creation of the software tool for the foundation.",
+        "D11:6"
+      ],
+      [
+        "James encouraged John to continue using his skills and passions for making a difference.",
+        "D11:14"
+      ],
+      [
+        "James offered support and encouragement to find the right non-profit organization that aligns with John's values and passion for programming.",
+        "D11:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

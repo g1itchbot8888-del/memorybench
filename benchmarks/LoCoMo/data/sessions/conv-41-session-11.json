@@ -1,0 +1,176 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-11",
+  "session_number": 11,
+  "session_summary": "At 6:13 pm on 10 April 2023, John and Maria caught up after a few days. John shared his car troubles causing financial strain but staying positive. Maria praised his resilience. John shared a picture from a past road trip to the Pacific Northwest, highlighting the beauty of nature. Maria and John discussed the importance of finding peace in nature during tough times. Maria mentioned giving talks at a homeless shelter and finding joy in helping others. John praised her impact and dedication to building relationships. They ended the conversation with mutual appreciation for each other's positivity and promising to talk soon.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D11:1",
+      "text": "Hey Maria, haven't talked for a few days. Had a wild week, my car broke down last Fri on my way to work. Trying to get it fixed but it's tough & putting a strain on my wallet. Staying positive & looking for a solution though."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D11:2",
+      "text": "Aww John, bummer about that. No doubt it's been tough, but I'm impressed by how positive you're being. Keep it up - tough times pass, but you're tough enough to get through 'em!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg"
+      ],
+      "blip_caption": "a photography of a mountain with a sunset and flowers in the foreground",
+      "query": "road beautiful sunset",
+      "dia_id": "D11:3",
+      "re-download": true,
+      "text": "Thanks, Maria. Your kind words mean a lot. Yeah, it's been tough with car trouble and money problems, but I stay positive and find a way. This picture reminds me of a road trip we took last year; even with bumps along the way, there's still beauty and hope."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D11:4",
+      "text": "Wow, great pic! Where did you go on that road trip?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:5",
+      "text": "Thanks! We explored the coast up in the Pacific Northwest and hit some cool national parks. The beauty of nature was absolutely breathtaking!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D11:6",
+      "text": "Wow, that must've been great! It's so nice to appreciate nature and find peace. Lucky you got to experience that."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:7",
+      "text": "Wow, it was amazing. The stunning views really make you think."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D11:8",
+      "text": "Nature helps put things in perspective and reminds us of the beauty even during tough times. Hold onto those moments of peace."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:9",
+      "text": "Yeah, Maria. That peace and beauty are so needed, especially during tough times. They give us the power and inspiration to continue. Anything cool you're up to now?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D11:10",
+      "text": "I recently gave a few talks at the homeless shelter I volunteer at. It was really fulfilling and I received lots of compliments from other volunteers. It was a great reminder about why connecting with and helping others is so important. And, I bought a cross necklace to feel closer to my faith- which has made me happy."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:11",
+      "text": "Way to go, Maria! You're making a real difference. It's awesome how connecting with and helping others brings you so much joy. Keep it up!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D11:12",
+      "text": "Thanks, John! It's so great to make a real difference. Seeing the impact and hearing the gratitude fills me with so much joy. The people at the shelter have become like family to me. I feel really blessed to know them."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:13",
+      "text": "Wow, Maria, what you're doing is truly amazing. Your kindness ripples and creates such incredible relationships!"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://portlandrescuemission.org/wp-content/uploads/2017/11/20160809_gc_0797-copy.jpg"
+      ],
+      "blip_caption": "a photo of a group of people standing around a table filled with food",
+      "query": "homeless shelter volunteers",
+      "dia_id": "D11:14",
+      "text": "Thanks, John. Building relationships and seeing kindness really does make a difference. Here's a pic from last week. Seeing everyone come together warms my heart and fills me with hope."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:15",
+      "text": "Wow, that's amazing how everyone came together. You must have had some great ideas! What do you do there?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D11:16",
+      "text": "We organized a meal for the shelter residents and I helped with getting everything ready. It was cool to see everyone together, eating and supporting each other."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:17",
+      "text": "Wow, Maria, that's awesome! You made everyone so comfortable and it must have been so rewarding. You're really making a difference!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D11:18",
+      "text": "Yeah, it was really nice to help bring people together and create a sense of comfort and community. It's something special to see people supporting each other."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:19",
+      "text": "Definitely, Maria. That's great. It gives us hope and reminds us we're not alone. Thank you for being a positive force."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D11:20",
+      "text": "No problem, John! It's great to feel this sense of community. Thanks for the kind words, they mean a lot."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D11:21",
+      "text": "Glad I could help, Maria. Talk to you soon. Stay safe!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John's car breaks down on the way to work and he is short of money after spending some on repairs.",
+      "John went to road trip in the Pacific North-west last year and visited many beautiful national parks."
+    ],
+    "Maria": [
+      "Maria gives inspirational talks at the shelter which earns her praise from the fellow volunteers.",
+      "Maria organizes a meal at the homeless shelter.",
+      "MAria buys a cross necklace for herself to feel closer to her faith."
+    ],
+    "date": "10 April, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John's car broke down last Friday on his way to work, causing financial strain.",
+        "D11:1"
+      ],
+      [
+        "John remains positive and looks for solutions despite facing tough times.",
+        "D11:1"
+      ],
+      [
+        "John keeps a picture that reminds him of a road trip taken last year as a symbol of beauty and hope.",
+        "D11:3"
+      ],
+      [
+        "John explored the Pacific Northwest coast and visited national parks on the road trip, finding nature's beauty breathtaking.",
+        "D11:5"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria recently gave talks at the homeless shelter where she volunteers and received compliments for her efforts.",
+        "D11:10"
+      ],
+      [
+        "Maria bought a cross necklace to feel closer to her faith and it has made her happy.",
+        "D11:10"
+      ],
+      [
+        "Maria considers the people at the shelter like family to her.",
+        "D11:12"
+      ],
+      [
+        "Maria helped organize a meal for shelter residents to bring people together and create a sense of comfort and community.",
+        "D11:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

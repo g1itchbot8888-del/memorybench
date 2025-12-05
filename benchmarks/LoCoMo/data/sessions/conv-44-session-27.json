@@ -1,0 +1,196 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-27",
+  "session_number": 27,
+  "session_summary": "Andrew told Audrey about his weekend bike ride with his girlfriend, discovering a park outside the city. Audrey shared her love for exploring parks with her four dogs, mentioning joining a dog owners group for tips. Andrew considered getting another dog but decided to focus on his current pets first. Audrey advised on taking care of his current dogs before getting more, suggesting regular socialization and exercise for keeping them happy in the city. She also recommended mental stimulation activities like puzzles and hide-and-seek. Andrew appreciated Audrey's support and friendship, thanking her for the advice.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://www.oregon.com/sites/default/files/bike_bluelake.jpg"
+      ],
+      "blip_caption": "a photo of two people riding bikes on a paved path",
+      "query": "bike ride park lake",
+      "dia_id": "D27:1",
+      "text": "Hey Audrey, had a great weekend! My girlfriend and I went on a bike ride and stumbled upon a cool park outside of town. It was awesome to get away from the city and be surrounded by nature."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/hayawo8f86p51.jpg"
+      ],
+      "blip_caption": "a photo of a group of people and dogs in a park",
+      "query": "dog park playing dogs",
+      "dia_id": "D27:2",
+      "text": "That's cool! I love checking out new parks with my four pups. Last weekend was so fun - our dogs were able to run around and get some fresh air. On top of that, I recently joined a dog owners group to learn how to better take care of them."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D27:3",
+      "text": "That sounds great! Your four pups must have a lot of fun. How often do you hang out with the dog owners group?"
+    },
+    {
+      "speaker": "Audrey",
+      "blip_caption": "a photo of a group of people and dogs in a park",
+      "dia_id": "D27:4",
+      "text": "Yeah, they're having a lot of fun. I try to meet up with other dog owners once a week for tips from other parents and so they can all play together. How about you? Have you ever thought about joining one?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D27:5",
+      "text": "That looks fun! Seeing those adorable pups made me think about getting another dog, but I'm still not sure. Having two dogs is already a lot to take care of. Do you have any tips on being a multi-dog pet owner?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D27:6",
+      "text": "Maybe you want to take care of Toby and Buddy first. Having them happy and healthy would be a good first step before going all in for more dogs."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D27:7",
+      "text": "Thanks, I think that's what I need to hear. I'll take good care of my dogs first."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://elpaseogarden.files.wordpress.com/2021/06/img_2087.jpg"
+      ],
+      "blip_caption": "a photo of two dogs playing with a frisbee in a park",
+      "query": "dogs playing in the park",
+      "dia_id": "D27:8",
+      "text": "That's great! Let me know if you need any help, I'm here for you! See how happy they are? You don't need more dogs to make them happy! :)"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D27:9",
+      "text": "Thanks Audrey! That's so nice of you. I think I've managed to make it work with dogs while still living in the city."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://live.staticflickr.com/2839/12466466553_d534a96181_b.jpg"
+      ],
+      "blip_caption": "a photography of a basket full of stuffed animals on a wooden floor",
+      "query": "dog toys games apartment",
+      "dia_id": "D27:10",
+      "re-download": true,
+      "text": "Yeah I feel you. Taking care of a pup in the city is tough but doable with the right approach. Keeping them active is key. Here's a pic of how I entertain them in my house with toys and games."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D27:11",
+      "text": "Wow, it's great to know there are ways to keep them active in the city. I'll keep that in mind. Thank you so much!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://live.staticflickr.com/8257/8915975033_e7129952e5_b.jpg"
+      ],
+      "blip_caption": "a photography of a dog running with a tennis ball in its mouth",
+      "query": "dogs playing fetch park",
+      "dia_id": "D27:12",
+      "re-download": true,
+      "text": "You got it! There are lots of ways to keep them happy in the city. Make sure to socialize and exercise them daily. Get creative and add some mental stimulation too. Here's a pic of them playing fetch in the park - they love it!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D27:13",
+      "text": "That's so cute! What sort of activities do you do to stay mentally stimulated?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://live.staticflickr.com/340/32261973051_6709776893_b.jpg"
+      ],
+      "blip_caption": "a photography of a dog playing with a frisbee in a room",
+      "query": "dog puzzle toy play",
+      "dia_id": "D27:14",
+      "re-download": true,
+      "text": "We give them lots of activities to keep them busy - puzzles, training, hide-and-seek - they love it all!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D27:15",
+      "text": "Cool ideas! I think I'll give those activities a try with my pups. Thanks!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D27:16",
+      "text": "No problem, glad I could help. Let me know how it goes."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D27:17",
+      "text": "Your advice and support really mean a lot to me! Thank you so much!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D27:18",
+      "text": "That's what friends are for - supporting each other. Your friendship means a lot to me. :)"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey joins a dog owners' support group that meets once a week to find new ways to better care for her four dogs."
+    ],
+    "Andrew": [
+      "Andrew and his girlfriend go for a bike ride and explore a new park in the outskirts of town."
+    ],
+    "date": "4 November, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew went on a bike ride with his girlfriend last weekend to a park outside of town.",
+        "D27:1"
+      ],
+      [
+        "Andrew is considering getting another dog but is unsure due to already having two dogs to take care of.",
+        "D27:5"
+      ],
+      [
+        "Andrew is appreciative of Audrey's advice and support regarding taking care of dogs.",
+        [
+          "D27:7",
+          "D27:9",
+          "D27:15",
+          "D27:17"
+        ]
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey enjoys checking out new parks with her four dogs and spending time with them.",
+        "D27:2"
+      ],
+      [
+        "Audrey meets up with other dog owners once a week for tips and playdates for the dogs.",
+        "D27:4"
+      ],
+      [
+        "Audrey is supportive of Andrew's decision to focus on his current dogs before considering getting another one.",
+        [
+          "D27:6",
+          "D27:8"
+        ]
+      ],
+      [
+        "Audrey provides Andrew with tips on keeping dogs happy and active in the city.",
+        [
+          "D27:10",
+          "D27:12"
+        ]
+      ],
+      [
+        "Audrey engages her dogs in mental stimulation activities like puzzles, training, and hide-and-seek.",
+        "D27:14"
+      ],
+      [
+        "Audrey values the friendship with Andrew and believes in supporting each other.",
+        "D27:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

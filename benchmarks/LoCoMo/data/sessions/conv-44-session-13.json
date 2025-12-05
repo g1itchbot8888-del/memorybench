@@ -1,0 +1,151 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-13",
+  "session_number": 13,
+  "session_summary": "At 3:52 pm on 27 July 2023, Andrew excitedly shared his recent volunteering experience at a pet shelter with Audrey, emphasizing the joy and love animals bring. Audrey, intrigued, expressed her desire to volunteer someday and shared how her four pets each have unique personalities. The conversation turned nostalgic as they discussed Audrey's childhood dog, Max, and the special bond they shared. They both agreed that pets are more than animals; they are friends who provide comfort and love. Andrew highlighted the uplifting impact of volunteering with animals, which Audrey appreciated, acknowledging the positive effect their kindness has on the animals' well-being.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "dia_id": "D13:1",
+      "text": "Hey Audrey! How are you? My GF and I just had a great experience volunteering at a pet shelter on Monday - it was so rewarding! We loved spending time with those cute animals and it gave us so much joy. It was so rewarding, it reminded me just how much I love them!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D13:2",
+      "text": "Hi Andrew! I'm good, thanks. That's awesome about the pet shelter volunteering. Helping animals really is great and you can tell when they're happy! So happy for you getting to experience that! I should do that someday too!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D13:3",
+      "text": "Thanks! Seeing them so content makes me happy, it really makes me realize how special and full of love they are! Have you ever volunteered at an animal shelter? It can be so rewarding. "
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://images.prismic.io/trustedhousesitters/3dcbea0a-d9d9-4590-a57b-c2c15bf2e012_off+leash+dog+parks+portland+or.png"
+      ],
+      "blip_caption": "a photo of a woman kissing a dog in a park",
+      "query": "dogs park fun",
+      "dia_id": "D13:4",
+      "text": "Never been to an animal shelter before, but it must be great! My four fur babies are more important to me than anything! Here's a pic of us from a fun day out at the park."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D13:5",
+      "text": "Aww that's a cute photo! How are their personalities? Tell me more!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D13:6",
+      "text": "Well the oldest one is the most relaxed, like a wise old sage. The second one is always ready for a game. The third one can be naughty but loves a good cuddle. And the youngest one is full of life and always up for an adventure. They all have their own individual personalities and I adore them."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/7dbys2s547b91.jpg"
+      ],
+      "blip_caption": "a photo of a dog is sitting on the floor with a tennis ball",
+      "query": "black labrador playing tennis ball",
+      "dia_id": "D13:7",
+      "text": "Wow, they sound amazing! They must remind you of your childhood pup. That photo of you with your dog is so cute, he looks like the most playful one ever! Pets really do bring so much joy in your life!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D13:8",
+      "text": "Thanks! That one is Max, my childhood dog. He had lots of energy and loved a game of fetch. I have lots of great memories with him. Pets sure bring a lot of joy."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D13:9",
+      "text": "Yeah! Their love and energy can really brighten up a day. It's amazing how close we can get to them and the memories they create for us. Do you have any other special memories with Max that you remember fondly?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D13:10",
+      "text": "Max and I would take long walks in the neighborhood when I was a kid. We explored new paths, him sniffing and marking his territory. We grew really close, and I shared my worries and hopes with him. He was a great listener, always there for me. Those days are some of my favorite memories. "
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D13:11",
+      "text": "Pets are more than just pets - they become friends and confidantes. They always know how to listen and provide comfort when we need it. They can make us feel so loved and understood, leaving a lasting mark on our lives."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D13:12",
+      "text": "Pets truly make our lives so much better. They listen without judging and give us the best unconditional love. They always leave a mark in our hearts and remind us how it feels to be seen and understood. I'm thankful to have them around - they bring so much joy, comfort, and love."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D13:13",
+      "text": "You nailed it! That's why we went volunteering with animals. It has been one of the most rewarding things I've ever done. They really do lift our spirits with all their love, joy, and comfort."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D13:14",
+      "text": "I'm so glad you guys got to experience that! Animals really have a way of brightening our day and giving us lots of love and joy. I'm sure the pet shelter really appreciated your help too!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D13:15",
+      "text": "Yeah we had a blast volunteering. It's our way of giving back and making their lives better!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D13:16",
+      "text": "I'm sure your kindness and care will make them happier no doubt!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey reflects on her close relationship with her childhood pet dog, Max."
+    ],
+    "Andrew": [
+      "Andrew and his girlfriend volunteer in a local animal shelter to spend time and care for the animals."
+    ],
+    "date": "27 July, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew and his girlfriend volunteered at a pet shelter on Monday and found it rewarding.",
+        "D13:1"
+      ],
+      [
+        "Andrew loves animals and finds joy in spending time with them.",
+        "D13:1"
+      ],
+      [
+        "Andrew believes that pets bring a lot of joy to life.",
+        "D13:7"
+      ],
+      [
+        "Andrew considers pets as friends and confidantes, highlighting their role beyond just being pets.",
+        "D13:11"
+      ],
+      [
+        "Andrew finds volunteering with animals to be one of the most rewarding experiences he's ever done.",
+        "D13:13"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey has four fur babies that are very important to her.",
+        "D13:4"
+      ],
+      [
+        "Audrey's childhood dog was named Max, who had lots of energy and loved playing fetch.",
+        "D13:8"
+      ],
+      [
+        "Audrey took long walks with Max in the neighborhood when she was a kid, sharing worries and hopes with him.",
+        "D13:10"
+      ],
+      [
+        "Audrey believes that pets listen without judging and provide unconditional love, bringing joy, comfort, and love to our lives.",
+        "D13:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

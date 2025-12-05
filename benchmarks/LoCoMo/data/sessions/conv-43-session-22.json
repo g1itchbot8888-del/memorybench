@@ -1,0 +1,182 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-22",
+  "session_number": 22,
+  "session_summary": "Tim and John, who are both passionate about Harry Potter, discussed their recent activities at 7:42 pm on 8 December, 2023. Tim shared his experience at a Harry Potter party where he wore a Gryffindor scarf and enjoyed meeting like-minded people. John talked about his recent basketball games, emphasizing the camaraderie and unity within his team. They also discussed their reading preferences, with John recommending \"Dune\" by Frank Herbert and Tim recommending \"A Dance with Dragons\". They both expressed interest in each other's recommendations and wished each other a great day, ending the conversation on a positive note.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "dia_id": "D22:1",
+      "text": "Hey John! Long time no see! I just got back from the coolest Harry Potter party. Met lots of awesome people who were into the same stuff as me, had so much fun!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:2",
+      "text": "Hey Tim! Sounds awesome! So glad you had a blast at the Harry Potter party. Last August I told you about my fun time at a charity event with Harry Potter trivia. Love being with people who are as passionate about Harry Potter as us! Did you dress up as any character?"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://dixiedelightsonline.com/wp-content/uploads/2018/05/IMG_4747.jpg"
+      ],
+      "blip_caption": "a photo of a chocolate frog in a box on a table",
+      "query": "gryffindor scarf chocolate frog",
+      "dia_id": "D22:3",
+      "text": "It was awesome. I didn't dress as any character, but I wore my Gryffindor scarf. Everyone had cool costumes. I even got this as a treat. Any recent meet-ups with your basketball team?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://npr.brightspotcdn.com/df/09/e6b1689047eaa3b05e7d61c36c05/image-from-ios-1.jpg"
+      ],
+      "blip_caption": "a photo of a group of people riding on top of a fire truck",
+      "query": "basketball team victory celebration",
+      "dia_id": "D22:4",
+      "text": "That frog looks yummy! I haven't had one in ages. Been having some wild games lately, we played a top team and it was tough, but we fought hard and got the win! It's awesome having my team to push us all."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D22:5",
+      "text": "Wow, looks fun! What was the best part for you? And congratulations on the win!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://live.staticflickr.com/4030/4426181605_d36196a029_c.jpg"
+      ],
+      "blip_caption": "a photography of a group of young men sitting on top of a basketball court",
+      "query": "post-match team huddle",
+      "dia_id": "D22:6",
+      "re-download": true,
+      "text": "Thanks! The best part for me was the camaraderie we built both on and off the court. Winning felt amazing and it was definitely worth all the hard work we put in."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://www.thegibsonedge.com/hs-fs/hubfs/images/Blog_Images/Beware%20The%20Person%20Of%20One%20Book%20-%20Flashback%20Friday.jpg"
+      ],
+      "blip_caption": "a photo of a stack of books sitting on top of a table",
+      "query": "fantasy novels stack bookmarks power friendship loyalty",
+      "dia_id": "D22:7",
+      "text": "Wow, that's awesome! It's great to see how close you all have become. You must feel a great sense of unity. I'm reading this amazing series about the power of friendship and loyalty – really inspiring stuff. Anything special you do to keep that bond strong?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://live.staticflickr.com/5128/5297313790_4330145c09_b.jpg"
+      ],
+      "blip_caption": "a photography of a group of people sitting around a table eating",
+      "query": "team dinner basketball games outside of practice",
+      "dia_id": "D22:8",
+      "re-download": true,
+      "text": "Sounds awesome! What kind of stuff do they do in the series? I'm sure the importance of friendship is emphasized. Same with us - we have team dinners, outings, and basketball games. It's those moments away from practice that really build and strengthen our unity."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D22:9",
+      "text": "Awesome! Sounds like your team has something similar to the characters in the series. They rely on each other to push through challenges. By the way, what book are you currently reading? I'm always on the lookout for new reads!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:10",
+      "text": "Thanks! I'm currently reading a book that I really enjoy. I highly recommend it!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D22:11",
+      "text": "Sounds cool! Let me know the title so I can add it to my list!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:12",
+      "text": "I'm reading \"Dune\" by Frank Herbert. It's a great story about religion and human control over ecology. What about you? What's the last book that moved you?"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://live.staticflickr.com/4467/24220955708_7548812488_b.jpg"
+      ],
+      "blip_caption": "a photography of a book shelf with a book and a book cover",
+      "query": "the name of the wind book shelf",
+      "dia_id": "D22:13",
+      "re-download": true,
+      "text": "I haven't read that yet but I've heard great things! Just finished \"A Dance with Dragons\" and it's a really good story. Highly recommend it!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:14",
+      "text": "That's cool! I've heard it's such an inspiring book. Have you read all of George R. R. Martin's books?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D22:15",
+      "text": "Just the GoT series. Have you tried reading any of them?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:16",
+      "text": "No, I haven't read them yet but I'll definitely check them out. Cheers!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D22:17",
+      "text": "Let me know if you get around to them! Have a great day!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:18",
+      "text": "Thanks! I'll let you know. Have a great day!"
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim attends a Harry Potter themed party where he dresses up with his Gryffindor scarf, makes many new friends and receives chocolate frogs as treats.",
+      "Tim reads a book on the power of friendship and loyalty, and A Dance with Dragons by George R R Martin"
+    ],
+    "John": [
+      "John's team secures a win in one of their games.",
+      "John reads the book Dune by Frank Herbert"
+    ],
+    "date": "8 December, 2023"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim recently attended a cool Harry Potter party and wore a Gryffindor scarf.",
+        "D22:1"
+      ],
+      [
+        "Tim mentioned reading an amazing series about the power of friendship and loyalty.",
+        "D22:7"
+      ],
+      [
+        "Tim is looking for new reads and asked John for book recommendations.",
+        "D22:9"
+      ],
+      [
+        "Tim recently finished reading 'A Dance with Dragons' and highly recommends it.",
+        "D22:13"
+      ]
+    ],
+    "John": [
+      [
+        "John attended a charity event with Harry Potter trivia in August and enjoys Harry Potter.",
+        "D22:2"
+      ],
+      [
+        "John's basketball team recently played a tough game against a top team and won.",
+        "D22:4"
+      ],
+      [
+        "John is currently reading 'Dune' by Frank Herbert, a story about religion and human control over ecology.",
+        "D22:12"
+      ],
+      [
+        "John is open to reading George R. R. Martin's books after Tim recommended them.",
+        "D22:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

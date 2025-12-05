@@ -1,0 +1,150 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-15",
+  "session_number": 15,
+  "session_summary": "John and Maria were discussing a project John is working on to support military veterans on 20th May 2023 at 7:38 pm. John shared his passion for veterans and his desire to show appreciation for their service. Maria praised John for his kind gesture and agreed to support the project. John showed a picture of veterans from a recent party he organized and mentioned the importance of creating connections and a sense of community. Maria expressed admiration for John's efforts and shared her own plan for a fundraiser. The conversation ended with both agreeing to continue making a positive impact in their community.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D15:1",
+      "text": "Hey Maria, how's it going? Been real busy tackling a project to support military veterans. Trying to get a petition going, it's pretty rewarding but kinda stressful. How are you?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D15:2",
+      "text": "Hey John, I'm good. Sorry to hear it's been rough. How did you decide to take on that project?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a parking lot with a flag and flowers",
+      "dia_id": "D15:3",
+      "text": "Hi Maria, thanks for asking. I've always been passionate about veterans and their rights. Last week, I realized again how much they've done for us and wanted to show my appreciation in some way. So, I worked on a project to support them. It's my way of giving back."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D15:4",
+      "text": "Wow, John! What a kind gesture. It's really cool seeing you making a difference."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:5",
+      "text": "Thanks, Maria. It sure has taken a lot of work, but I think it's worth it. Just want to let them know their hard work is appreciated."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D15:6",
+      "text": "Wow, John, that's awesome! Your project is going to be great for them!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:7",
+      "text": "Yeah, I hope so. They've given so much and deserve our backing. I want to help make their lives better."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D15:8",
+      "text": "That's great, John! It's awesome that you're doing that."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:9",
+      "text": "I'm really passionate about making sure veterans are supported and valued in our community, so let's make it happen!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D15:10",
+      "text": "Count me in, John! I'm in to help out with that. Let's make a difference together."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://cdn2.picryl.com/photo/2020/01/13/combat-veterans-associated-with-troops-first-foundation-06145f-1024.jpg"
+      ],
+      "blip_caption": "a photography of a man shaking hands with a soldier in uniform",
+      "query": "group of veterans smiling and shaking hands",
+      "dia_id": "D15:11",
+      "re-download": true,
+      "text": "Awesome, Maria! I knew you'd be on board. With your help, we can make a real impact. Thank you so much! Here's a pic from last Friday with some veterans who are really excited about this. Their support keeps me motivated."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D15:12",
+      "text": "Wow, John, that looks great! What did you do to make them so happy?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:13",
+      "text": "Thanks, Maria! We had a great time throwing a small party and inviting some veterans to share their stories. It was awesome seeing them make connections and find camaraderie. All the smiles and new friendships made it really heartwarming."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D15:14",
+      "text": "Wow, John, that's really heartwarming! Stories and connections can truly make a difference."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:15",
+      "text": "Yeah, Maria. It reminded me of that sense of community and togetherness. It made me realize how important it is to help veterans."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D15:16",
+      "text": "Yeah John! It's great to see how your project is making a difference for them. The sense of community and support really matters. Keep doing what you're doing; I'm here to back you up!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:17",
+      "text": "Thanks, Maria! Your support means a lot. Together, we can make a difference for our veterans!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D15:18",
+      "text": "Yep, John! Keep going and we'll make a difference! I'm currently planning a ring-toss tournament for the homeless shelter's fundraiser later this month, I can't wait to see the impact it will make. "
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D15:19",
+      "text": "Wow, sounds fun! I can't wait to hear more about it. Talk to you soon!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John reaches out to different groups to start a petition in support of military veterans' rights to show his appreciation towards their service to the country.",
+      "John throws a small party and invites veterans to come share their stories."
+    ],
+    "Maria": [],
+    "date": "20 May, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John is currently working on a project to support military veterans and is trying to get a petition going.",
+        "D15:1"
+      ],
+      [
+        "John decided to take on the project to support veterans because he is passionate about their rights and wanted to show appreciation for their hard work.",
+        "D15:3"
+      ],
+      [
+        "John is very passionate about making sure veterans are supported and valued in the community.",
+        "D15:9"
+      ],
+      [
+        "John organized a small party for some veterans to share their stories and make connections, which was heartwarming for him.",
+        "D15:13"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria is supportive of John's project to support veterans and is willing to help out.",
+        "D15:10"
+      ],
+      [
+        "Maria is planning a ring-toss tournament for a homeless shelter's fundraiser later in the month.",
+        "D15:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

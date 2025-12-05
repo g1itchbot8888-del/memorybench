@@ -1,0 +1,232 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-13",
+  "session_number": 13,
+  "session_summary": "Jolene and Deborah caught up at 3:56 pm on 6 June, 2023. Jolene shared her completion of a tough engineering project last month. Deborah praised her hard work. Jolene expressed pride in overcoming challenges and reaching a milestone. She mentioned interning at an engineering firm and enjoying applying her skills. Deborah inquired about the impact of the internship, to which Jolene shared it inspired her to pursue her dreams. The conversation turned to work-life balance, with Jolene finding it challenging. Deborah suggested yoga for relaxation. Jolene mentioned her yoga routine and its positive impact. Deborah recommended mindful breathing during yoga. Jolene thanked her for the advice as they said their goodbyes.",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/avkvvy4fqr331.jpg"
+      ],
+      "blip_caption": "a photo of a solar powered vehicle with a solar panel on the back",
+      "query": "engineering project complete",
+      "dia_id": "D13:1",
+      "text": "Hey Deborah! Long time no talk - I had lots of stuff going on. Remember the tough engineering project? I finally wrapped that up last month. Look at the result!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:2",
+      "text": "Jolene! Congrats on wrapping up your with it! You really put in the work and it paid off. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:3",
+      "text": " I'm really proud of myself for sticking it out despite the problems and finishing it. It's definitely a big milestone."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:4",
+      "text": "Now that you've reached this big milestone, what do you have planned next?"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://www.arup.com/-/media/arup/images/careers-new/early-careers/interns/americas-interns-banner-image.jpg"
+      ],
+      "blip_caption": "a photo of a group of construction workers posing for a picture",
+      "query": "engineering firm internship",
+      "dia_id": "D13:5",
+      "text": " I'm interning at a well-known engineering firm. It's been a great opportunity to test my skills and gain real-world experience. These are my new colleagues!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:6",
+      "text": "What's been the best part of it so far?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:7",
+      "text": "The best part so far has been being able to apply what I learned in school to real projects. It's so fulfilling to see my ideas come to life."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:8",
+      "text": "Mind if I ask how the internship has impacted you?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:9",
+      "text": "It has had a positive impact on my life. It has stoked my love of engineering and has encouraged me to keep striving for my dreams."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:10",
+      "text": " How has it inspired you to keep striving for your dreams?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:11",
+      "text": "Hanging out with people who love what they do has really inspired me to stay focused and keep working towards my goals. It's shown me that with dedication and effort, anything is possible."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:12",
+      "text": "Have you been able to find a good work-life balance during your internship?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:13",
+      "text": "Honestly, finding that balance has been tough. I've been slogging away and it's been hard to make time for my hobbies and chilling out."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:14",
+      "text": " Have you considered taking some breaks and finding activities like yoga to help you relax and unwind? That might make a difference."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i2.wp.com/azwonders.com/wp-content/uploads/2020/12/IMG_1095.jpg"
+      ],
+      "blip_caption": "a photo of a man standing on a rock with his arms outstretched",
+      "query": "yoga meditation mountaintop",
+      "dia_id": "D13:15",
+      "text": "Yeah, I`m trying to do it. Here's an example of how I spent yesterday morning, yoga on top of mount Talkeetna."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:16",
+      "text": "Nice job, Jolene! How long have you been doing yoga and meditation? It looks like it's really helping you regroup and recharge."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:17",
+      "text": "I've been doing them sporadically for about 3 years now and they've had a real positive effect on me."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:18",
+      "text": "Has it benefited you in any way? Have you found it helpful in difficult moments?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:19",
+      "text": "It has helped me with stress and kept me centered."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:20",
+      "text": "Glad they've been helpful for you!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:21",
+      "text": "No idea how I would've survived without them!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://www.therootboard.com/cdn/shop/articles/IMG_5420.jpg"
+      ],
+      "blip_caption": "a photo of a room with a bench and a window",
+      "query": "yoga studio peaceful soft lighting",
+      "dia_id": "D13:22",
+      "text": "This is my favorite studio and it's always so calming. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:23",
+      "text": " I was wondering if you have any advice on calming the mind and breathing during yoga?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:24",
+      "text": "I'd recommend practicing mindful breathing for yoga. Set aside a few minutes each day to sit with your eyes closed, take deep breaths, and focus on how the air feels entering and leaving your body. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:25",
+      "text": "Thanks, Deborah! I'll definitely give it a try. Appreciate the advice!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D13:26",
+      "text": " If you need more tips or help, just let me know. Take care!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D13:27",
+      "text": "See you!"
+    }
+  ],
+  "events": {
+    "Deborah": [],
+    "Jolene": [
+      "Jolene successfully finishes the robotics project assigned to her by her Professor.",
+      "Jolene joins an engineering firm as an intern over the summer.",
+      "Jolene visits Alask and practices yoga on top of Mt. Talkeetna"
+    ],
+    "date": "6 June, 2023"
+  },
+  "observations": {
+    "Jolene": [
+      [
+        "Jolene recently completed a tough engineering project.",
+        "D13:1"
+      ],
+      [
+        "Jolene is interning at a well-known engineering firm to gain real-world experience.",
+        "D13:5"
+      ],
+      [
+        "Jolene finds it fulfilling to apply what she has learned in school to real projects.",
+        "D13:7"
+      ],
+      [
+        "Jolene's internship has positively impacted her life and stoked her love of engineering.",
+        "D13:9"
+      ],
+      [
+        "Jolene is inspired to keep striving for her dreams by dedicated and hardworking colleagues.",
+        "D13:11"
+      ],
+      [
+        "Jolene has found it tough to maintain a work-life balance during her internship.",
+        "D13:13"
+      ],
+      [
+        "Jolene has been practicing yoga and meditation sporadically for about 3 years and found them to have a positive effect on her.",
+        "D13:17"
+      ],
+      [
+        "Yoga and meditation have helped Jolene with stress and keeping centered.",
+        "D13:19"
+      ]
+    ],
+    "Deborah": [
+      [
+        "Deborah acknowledges Jolene for completing her tough engineering project with dedication.",
+        "D13:2"
+      ],
+      [
+        "Deborah inquires about Jolene's future plans after completing the project.",
+        "D13:4"
+      ],
+      [
+        "Deborah asks Jolene about the impact of her internship experience.",
+        "D13:8"
+      ],
+      [
+        "Deborah suggests activities like yoga to Jolene to help her relax and unwind.",
+        "D13:14"
+      ],
+      [
+        "Deborah recommends practicing mindful breathing for yoga to Jolene.",
+        "D13:24"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

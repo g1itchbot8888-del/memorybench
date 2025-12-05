@@ -1,0 +1,214 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-18",
+  "session_number": 18,
+  "session_summary": "Maria and John had a conversation at 2:47 pm on 12 June, 2023. Maria expressed her sympathy to John for losing his pet, and they both shared recent experiences of finding solace in nature. Maria discussed a camping trip that helped take her mind off things, while John went mountaineering to clear his head. They discussed their past adventures, with Maria mentioning a family trip to Oregon and John sharing a recent mountaineering experience. Maria described a breathtaking view from her trip, and John found solace in nature during his park visit with family, emphasizing the importance of cherishing those moments. They both appreciated nature's calming influence, with Maria highlighting aerial yoga as a way to find peace, and John expressing support for her hobbies. The conversation concluded with John encouraging Maria to keep smiling and shining.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://i.redd.it/zcnesiymmou91.jpg"
+      ],
+      "blip_caption": "a photo of a group of men sitting around a campfire",
+      "query": "camping trip friends",
+      "dia_id": "D18:1",
+      "text": "Hey John, how're you doing? I'm sorry about Max. Losing a pet is tough. Some friends from church and I went camping last weekend - it was a blast! Just something nice to take my mind off things. Anything fun in your life lately?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/q33cupol6fm51.jpg"
+      ],
+      "blip_caption": "a photo of a man standing on top of a mountain with a backpack",
+      "query": "mountaineering expedition standing on mountain peak",
+      "dia_id": "D18:2",
+      "text": "Hey Maria, thanks for your kind words. It's still tough, but I'm finding some comfort in the good memories. Wow, your camping trip sounds awesome! I went on a mountaineering trip last week with some workmates. It was great and helped clear my head. Anything else cool happening in your life?"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://fundiegofamily.com/wp-content/uploads/2019/10/grandcanyon1.jpg"
+      ],
+      "blip_caption": "a photo of a person standing on a cliff overlooking a canyon",
+      "query": "hiking trail beautiful scenery grand canyon road trip",
+      "dia_id": "D18:3",
+      "text": "Glad you're finding comfort, John. That mountaineering trip sounds amazing. Did you reach the summit? When I was younger, my family and I went on a road trip to Oregon."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:4",
+      "text": "Thanks, Maria! Yeah, we made it to the top and the view was stunning. It was tough but awesome. Your family trip must have been great too, right? What was the prettiest spot?"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://everydayrunaway.com/wp-content/uploads/2016/08/20140323-multnomahfalls.jpg"
+      ],
+      "blip_caption": "a photo of a waterfall with a bridge over it",
+      "query": "hiking trail waterfall",
+      "dia_id": "D18:5",
+      "text": "Hiking to the top and seeing this was awesome! Breath-taking."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:6",
+      "text": "Wow, Maria! That waterfall and bridge look amazing! What a view. How was it being there?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D18:7",
+      "text": "I felt like I was in a fairy tale! The water sounded so calming and the surroundings were beautiful. It was truly magical!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:8",
+      "text": "Wow, Maria, that sounds awesome! It seems like nature has a way of calming us down, huh?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D18:9",
+      "text": "Yeah, it's like a natural soul-soother when things get tough."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:10",
+      "text": "Yeah, for sure. It's like a reset button, you know? Have you ever gone camping or mountain climbing before?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D18:11",
+      "text": "I've gone camping a few times but never tried mountain climbing. Sounds thrilling though! Have you been camping before?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:12",
+      "text": "Yeah, plenty of times. It's an awesome way to get away from it all and be at one with nature. I love how uncomplicated it is."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D18:13",
+      "text": "Yeah John, I get it. Being in nature helps us take a break from life's craziness and recognize what truly matters."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:14",
+      "text": "Yeah, Maria. It's important to appreciate the small things and find moments of peace amidst chaos. Nature really helps with that. How about you? How do you find peaceful moments?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D18:15",
+      "text": "Finding my Zen is a mix of things - a moment to myself plus favorite tunes is usually enough. I also enjoy aerial yoga, it's a great way to switch off and focus on my body."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:16",
+      "text": "Cool, Maria! Glad you found something that gives you some peace. Do you have a favorite yoga pose?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D18:17",
+      "text": "Thanks, John! It's tough to pick just one, but I really enjoy the upside-down poses. They make me feel free and light."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:18",
+      "text": "Wow, Maria, that sounds awesome! I can imagine that must be challenging, but it's great to see you embracing them. Keep up the amazing work!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D18:19",
+      "text": "Thanks, John! It can be tough, but aerial yoga is totally worth it. I love the freedom and connection it brings. Appreciate your support!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://www.harpersplayground.org/wp-content/uploads/elementor/thumbs/Harpers-playground-2-copy-2560x1440-e1533267692673-o598m9qoe7o3x8f1l2ljd69xt3o9oeda7waxqhlnz4.jpg"
+      ],
+      "blip_caption": "a photo of a group of people standing around a playground",
+      "query": "children playing park",
+      "dia_id": "D18:20",
+      "text": "Yes, Maria! I'm here for you. Glad you found something that makes you happy. This is what makes me smile. Keep shining!\n"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D18:21",
+      "text": "Wow! Looks like you had fun - what happened there?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D18:22",
+      "text": "It was an awesome day at the park with my family. The kids had a lot of fun on the playground, and we had some really nice family time."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D18:23",
+      "text": "Wow, that's great to hear, John! Cherish those family time moments!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John goes on a mountaineering expedition with some of his colleagues and summits the peak."
+    ],
+    "Maria": [
+      "Maria and her friends from the church she joined recently go on a camping trip.",
+      "Maria reflects on the time she went on a road trip to Oregon with her famly and saw the Multnomah Falls."
+    ],
+    "date": "12 June, 2023"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria went camping with friends from church to take her mind off things.",
+        "D18:1"
+      ],
+      [
+        "Maria and her family went on a road trip to Oregon when she was younger.",
+        "D18:3"
+      ],
+      [
+        "Maria described a view of a waterfall and bridge as awesome and breath-taking.",
+        "D18:5"
+      ],
+      [
+        "Maria felt like she was in a fairy tale at the waterfall, with calming water sounds and beautiful surroundings.",
+        "D18:7"
+      ],
+      [
+        "Maria has gone camping a few times but has never tried mountain climbing.",
+        "D18:11"
+      ],
+      [
+        "Maria finds peaceful moments by having a moment to herself with favorite tunes and practicing aerial yoga.",
+        "D18:15"
+      ],
+      [
+        "Maria enjoys upside-down yoga poses as they make her feel free and light.",
+        "D18:17"
+      ]
+    ],
+    "John": [
+      [
+        "John went on a mountaineering trip with workmates that helped clear his head.",
+        "D18:2"
+      ],
+      [
+        "John reached the summit during the mountaineering trip and found the view stunning.",
+        "D18:4"
+      ],
+      [
+        "John has been camping plenty of times and enjoys getting away from it all to be at one with nature.",
+        "D18:12"
+      ],
+      [
+        "John believes nature helps in calming us down and acts like a reset button amidst chaos.",
+        "D18:8"
+      ],
+      [
+        "John had an awesome day at the park with his family where the kids had fun on the playground.",
+        "D18:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

@@ -1,0 +1,161 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-6",
+  "session_number": 6,
+  "session_summary": "Caroline and Melanie caught up with each other at 8:18 pm on 6 July, 2023. Caroline shared that since their last chat, she has been exploring counseling or mental health work because she is passionate about helping people. Melanie praised Caroline for following her dreams. Melanie mentioned that she recently took her kids to the museum and enjoyed watching their excitement. Caroline was curious about what had them so excited, and Melanie explained that they loved the dinosaur exhibit. Caroline mentioned that she is creating a library for future kids and looks forward to reading to them. Melanie asked about the books she has in her library, and Caroline mentioned classics, stories from different cultures, and educational books. Melanie shared that her favorite book from childhood was \"Charlotte's Web,\" and Caroline agreed that it showed the importance of friendship and compassion. Caroline mentioned that her friends and family have been a great support system during her transition. Melanie praised Caroline for having people who support her and shared a photo of her family camping at the beach.",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "dia_id": "D6:1",
+      "text": "Hey Mel! Long time no talk. Lots has been going on since then!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D6:2",
+      "text": "Hey Caroline! Missed you. Anything new? Spill the beans!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D6:3",
+      "text": "Since our last chat, I've been looking into counseling or mental health work more. I'm passionate about helping people and making a positive impact. It's tough, but really rewarding too. Anything new happening with you?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://live.staticflickr.com/3201/2867258131_2d8bc22859_b.jpg"
+      ],
+      "blip_caption": "a photography of two children playing in a water play area",
+      "query": "kids laughing dinosaur exhibit museum",
+      "dia_id": "D6:4",
+      "re-download": true,
+      "text": "That's awesome, Caroline! Congrats on following your dreams. Yesterday I took the kids to the museum - it was so cool spending time with them and seeing their eyes light up!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D6:5",
+      "text": "Melanie, that's a great pic! That must have been awesome. What were they so stoked about?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D6:6",
+      "text": "They were stoked for the dinosaur exhibit! They love learning about animals and the bones were so cool. It reminds me why I love being a mom."
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://i.pinimg.com/originals/02/94/c3/0294c3460b66d1fd50530e4bd5a2e1f5.jpg"
+      ],
+      "blip_caption": "a photo of a bookcase filled with books and toys",
+      "query": "bookshelf childrens books library",
+      "dia_id": "D6:7",
+      "text": "Being a mom is awesome. I'm creating a library for when I have kids. I'm really looking forward to reading to them and opening up their minds."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D6:8",
+      "text": "Sounds great! What kind of books you got in your library?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D6:9",
+      "text": "I've got lots of kids' books- classics, stories from different cultures, educational books, all of that. What's a favorite book you remember from your childhood?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "http://bookworm-detective.myshopify.com/cdn/shop/products/PXL_20210428_222022427.jpg"
+      ],
+      "blip_caption": "a photo of a book cover with a picture of a girl and a cat",
+      "query": "charlotte's web book",
+      "dia_id": "D6:10",
+      "text": "I loved reading \"Charlotte's Web\" as a kid. It was so cool seeing how friendship and compassion can make a difference."
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://i.pinimg.com/originals/41/d5/60/41d5601e4ab0959ce5e29683a2660938.jpg"
+      ],
+      "blip_caption": "a photo of a group of women sitting on a blanket in a park",
+      "query": "group friends picnic",
+      "dia_id": "D6:11",
+      "text": "Wow, that's great! It sure shows how important friendship and compassion are. It's made me appreciate how lucky I am to have my friends and family helping with my transition. They make all the difference. We even had a picnic last week!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D6:12",
+      "text": "That's a gorgeous photo, Caroline! Wow, the love around you is awesome. How have your friends and fam been helping you out with your transition?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D6:13",
+      "text": "Thanks, Melanie! This support network has been amazing. They've been there for me every step of the way giving me love, guidance, and acceptance. I couldn't have done it without them."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D6:14",
+      "text": "Wow, Caroline! It's great you have people to support you, that's really awesome!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D6:15",
+      "text": "I'm so lucky to have such a great support system around me. Their love and encouragement has really helped me accept and grow into my true self. They've been instrumental in my transition."
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i.redd.it/ye1cp24b18w01.jpg"
+      ],
+      "blip_caption": "a photo of a family sitting around a campfire on the beach",
+      "query": "family campfire",
+      "dia_id": "D6:16",
+      "text": "Glad you have support, Caroline! Unconditional love is so important. Here's a pic of my family camping at the beach. We love it, it brings us closer!"
+    }
+  ],
+  "events": {
+    "Caroline": [],
+    "Melanie": [
+      "Melanie takes her kids to the local musuem for a day of fun."
+    ],
+    "date": "6 July, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline has been looking into counseling or mental health work and is passionate about helping people and making a positive impact.",
+        "D6:3"
+      ],
+      [
+        "Caroline is creating a library for when she has kids, as she looks forward to reading to them and opening up their minds.",
+        "D6:7"
+      ],
+      [
+        "Caroline has a collection of kids' books in her library including classics, stories from different cultures, and educational books.",
+        "D6:9"
+      ],
+      [
+        "Caroline appreciates the importance of friendship and compassion in her life and is lucky to have friends and family helping with her transition.",
+        "D6:11"
+      ],
+      [
+        "Caroline's friends and family have been there for her every step of the way, providing love, guidance, and acceptance during her transition.",
+        "D6:13"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie took her kids to the museum recently and enjoyed seeing their excitement at the dinosaur exhibit.",
+        "D6:4"
+      ],
+      [
+        "Melanie loves spending time with her kids and seeing the joy in their eyes when exploring new things.",
+        "D6:4"
+      ],
+      [
+        "Melanie and her family enjoy camping at the beach as it brings them closer together.",
+        "D6:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

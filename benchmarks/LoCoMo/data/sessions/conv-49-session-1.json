@@ -1,0 +1,186 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-1",
+  "session_number": 1,
+  "session_summary": "Sam and Evan met at 1:47 pm on 18 May, 2023. Evan mentioned his recent trip to the Rockies in his new Prius and shared about his passion for watercolor painting. Sam reminisced about hiking with his dad and expressed an interest in trying painting. Evan encouraged Sam to explore different hobbies until he found one he was passionate about. They both agreed to catch up soon to discuss Sam's new hobbies. The conversation ended with Evan wishing Sam well, and Sam looking forward to trying out new activities.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "dia_id": "D1:1",
+      "text": "Hey Evan, good to see you! What's new since we last met? Anything cool happening?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D1:2",
+      "text": "Hey Sam! Good to see you! Yeah, I just got back from a trip with my family in my new Prius."
+    },
+    {
+      "speaker": "Sam",
+      "blip_caption": "a photo of a person's feet on a car dashboard as the sun sets",
+      "dia_id": "D1:3",
+      "text": "Wow, not bad, what happened to the old one? Where'd you go, by the way?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://res.cloudinary.com/atlasguruprod/image/upload/v1605280914/site-prod/itineraries/402c83d0-237f-11eb-85fd-4d00e2439877/omasxscl2k2xlnc2ggvj.jpg"
+      ],
+      "blip_caption": "a photo of a lake with rocks and mountains in the background",
+      "query": "canadian rockies sunset scenery",
+      "dia_id": "D1:4",
+      "text": "My old prius broke down, decided to get it repaired and sell it. Glad you asked, we went to Rockies, check it out."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D1:5",
+      "text": "Wow! Looks amazing. When did you get to go there?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D1:6",
+      "text": "We all hiked the trails last week - the views were amazing!"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://storage.needpix.com/rsynced_images/family-1784512_1280.jpg"
+      ],
+      "blip_caption": "a photography of a man and a child walking through a forest",
+      "query": "hiking trail lush greenery bonding experience",
+      "dia_id": "D1:7",
+      "re-download": true,
+      "text": "Wow, that's cool. I love hiking, but it's been ages since I've done it. I did this hike with my dad way back when I was ten. Going hiking together was great fun, and really special for us."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D1:8",
+      "text": "Aww, that's cute. How far did you two hike?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D1:9",
+      "text": "We hiked a good distance - quite a feat for me back then. It's definitely a great memory."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D1:10",
+      "text": "What other hobbies have you found for yourself?"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://i.redd.it/hbkrxuiitopb1.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a paint set in a store",
+      "query": "paint set canvas hobbies",
+      "dia_id": "D1:11",
+      "text": "Nothing so far, but I was thinking about trying painting. Do you have any hobbies you love?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D1:12",
+      "text": "Cool idea, Sam! I love it. Have you tried it before?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D1:13",
+      "text": "Not yet, but I'm keen to give it a go. It looks like a nice way to chill and get creative."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i.pinimg.com/originals/73/e4/fd/73e4fd6baf59abc2beca9fd5509a853c.jpg"
+      ],
+      "blip_caption": "a photo of a painting of a cactus in the desert",
+      "query": "watercolor painting sunset",
+      "dia_id": "D1:14",
+      "text": "Yep, it's a great stress-buster. I started doing this a few years back."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D1:15",
+      "text": "Wow, that's impressive! How did you get into watercolor painting?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D1:16",
+      "text": "My friend got me into it and gave me some advice, and I was hooked right away!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D1:17",
+      "text": "Wow! I hope I can find something I'm as passionate about as you are with watercolor painting."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D1:18",
+      "text": "You'll find it, just keep trying new things until something sparks your excitement."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D1:19",
+      "text": "Thanks, Evan! I'm excited to try new things, should be fun!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D1:20",
+      "text": "No worries, Sam! Super pumped for you! Let's catch up soon and see how you're enjoying your new hobbies!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D1:21",
+      "text": "Yeah, I'll keep you posted. See you soon!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D1:22",
+      "text": "Take it easy, Evan! Can't wait to see you. Have a good one!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan buys a new Prius after he repairs and sells his old Prius when it breaks down.",
+      "Evan takes his family on a road trip to the Rockies in the Prius and they hike some trails together."
+    ],
+    "Sam": [
+      "Sam takes up painting as a new hobby and buys a set of colors to kickstart the hobby."
+    ],
+    "date": "18 May, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam went hiking with his dad when he was ten, which was a special and fun memory for them.",
+        "D1:7"
+      ],
+      [
+        "Sam is considering trying painting as a new hobby.",
+        "D1:11"
+      ],
+      [
+        "Sam has not tried painting yet but is keen to give it a go as a way to chill and get creative.",
+        "D1:13"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan has a new Prius after his old one broke down, which he got repaired and sold.",
+        "D1:2"
+      ],
+      [
+        "Evan went on a trip to the Rockies with his family.",
+        "D1:4"
+      ],
+      [
+        "Evan enjoys watercolor painting as a hobby, which he started a few years back.",
+        "D1:14"
+      ],
+      [
+        "Evan got into watercolor painting because a friend introduced him to it and gave him advice.",
+        "D1:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

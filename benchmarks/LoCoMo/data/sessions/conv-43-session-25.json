@@ -1,0 +1,180 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-25",
+  "session_number": 25,
+  "session_summary": "Tim and John caught up after a while at 10:04 am on 19 December, 2023. John shared his excitement about a deal with an outdoor gear company and a successful photoshoot in a beautiful forest. Tim admired the epic photos and discussed the peaceful spot that inspired John. John also mentioned his team's progress in basketball, especially in communication and bonding. Tim encouraged John to keep believing in himself before concluding their conversation.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "dia_id": "D25:1",
+      "text": "Hey John, been a while since we chatted. How's it going?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyDMnkQOmMQNKQfQDDRQlTRpNME7oy0xNlcHjLYB8n_ZwvnWe8nYlRKA3WkZNHEQLsME&usqp=CAU"
+      ],
+      "blip_caption": "a photography of a man with a backpack and a backpack walking down a path",
+      "query": "endorsement deal outdoor gear company photoshoot",
+      "dia_id": "D25:2",
+      "re-download": true,
+      "text": "Yo Tim! Great to hear from you. Things have been wild! Last week I got this amazing deal with a renowned outdoor gear company. So pumped!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D25:3",
+      "text": "That's awesome about the deal! I'm curious, what kind of gear did you end up getting? And how did the photoshoot turn out?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:4",
+      "text": "Cheers! Got some awesome hiking stuff and outdoor gear - all top-notch. The photoshoot went really well too. We did it in a gorgeous forest and the photographer got some epic shots of me doing my thing - it was amazing!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D25:5",
+      "text": "Wow! That sounds amazing. Being out in such a gorgeous location must have been incredible. I'd love to see one of the epic shots you got! Do you have any pictures from the photoshoot?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://cdn.stocksnap.io/img-thumbs/960w/man-jumping_FOTAMAJTAF.jpg"
+      ],
+      "blip_caption": "a photography of a man jumping in the air in a field",
+      "query": "photoshoot forest leap nature",
+      "dia_id": "D25:6",
+      "re-download": true,
+      "text": "Here you go, here's a pic. Nature puts me in a great mood and always gets me energized!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D25:7",
+      "text": "That's an amazing photo! I can see why it inspires you - the rocks and river look so peaceful. What drew you to that spot?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:8",
+      "text": "I stumbled across this spot while hiking. The sound of that river was so soothing, I felt so at peace surrounded by those rocks. It was like nature was telling me to stop and admire its beauty."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D25:9",
+      "text": "Wow, that sounds amazing. It's true, nature has a way of bringing peace and joy. Anything else like that been happening lately?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:10",
+      "text": "Things have been going great on the court. We've been putting in a lot of work and achieving our goals, which is awesome."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D25:11",
+      "text": "Hard work pays off, right? What have you and your team been up to lately?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:12",
+      "text": "We gave it our all during last week's scrimmage. It's amazing to see our team's growth. We know it won't be easy, but it'll be worth it when we see the results."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D25:13",
+      "text": "What areas have you seen the most growth in during your training?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:14",
+      "text": "Our team has seen the most growth in communication and bonding. It has really helped our performances by allowing us to understand each other's strengths and weaknesses."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D25:15",
+      "text": "Wow, that's awesome! Glad to hear you guys are bonding. Keep it up!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:16",
+      "text": "Thanks! Let's keep at it and continue supporting each other. Appreciate your assistance!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D25:17",
+      "text": "Yeah, let's support each other. I'm here for you. Just keep believing in yourself! Bye!"
+    }
+  ],
+  "events": {
+    "Tim": [],
+    "John": [
+      "John lands a new endorsement deal with a renowned outdoor gear company and completes a photoshoot for the same in a gorgeous forest."
+    ],
+    "date": "19 December, 2023"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim is in touch with John after a while and asks how things are going.",
+        "D25:1"
+      ],
+      [
+        "Tim is curious about the gear John got from an outdoor gear company and asks about the photoshoot.",
+        "D25:3"
+      ],
+      [
+        "Tim appreciates the outdoor location where John did the photoshoot and asks to see pictures.",
+        "D25:5"
+      ],
+      [
+        "Tim comments on the photo John shows, mentioning the peaceful rocks and river.",
+        "D25:7"
+      ],
+      [
+        "Tim acknowledges the benefits of nature in bringing peace and joy.",
+        "D25:9"
+      ],
+      [
+        "Tim asks John about recent happenings and appreciates the importance of hard work paying off.",
+        "D25:11"
+      ],
+      [
+        "Tim asks about areas of growth in John's team during training.",
+        "D25:13"
+      ],
+      [
+        "Tim expresses gladness that John's team is bonding and encourages them to keep it up.",
+        "D25:15"
+      ],
+      [
+        "Tim offers support and advises John to continue believing in himself before saying bye.",
+        "D25:17"
+      ]
+    ],
+    "John": [
+      [
+        "John got an amazing deal with a renowned outdoor gear company last week, obtaining hiking stuff and top-notch outdoor gear.",
+        "D25:2"
+      ],
+      [
+        "The photoshoot John did in a gorgeous forest went really well, capturing him in epic shots.",
+        "D25:4"
+      ],
+      [
+        "John stumbled upon a soothing spot by a river while hiking, feeling at peace and admiring nature's beauty.",
+        "D25:8"
+      ],
+      [
+        "Things have been going great on the court for John and his team, putting in work and achieving their goals.",
+        "D25:10"
+      ],
+      [
+        "John's team has seen growth in communication and bonding during their training.",
+        "D25:14"
+      ],
+      [
+        "John appreciates Tim's support and expresses thanks for the assistance.",
+        "D25:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

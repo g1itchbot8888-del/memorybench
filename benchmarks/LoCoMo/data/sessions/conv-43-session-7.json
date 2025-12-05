@@ -1,0 +1,140 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-7",
+  "session_number": 7,
+  "session_summary": "John and Tim had a conversation at 7:54 pm on 17 August, 2023. John shared his excitement about reuniting with his basketball teammates on the 15th, feeling welcomed and appreciated by the team. Tim expressed his own sense of belonging at certain events where people shared his interests. John mentioned a gift from his teammates, a signed basketball, symbolizing their friendship and support. Tim noted the significance of such a reminder from friends. Both agreed on the power of supportive relationships in staying motivated and reaching goals. Tim ended the conversation by acknowledging the strength gained from mutual encouragement.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D7:1",
+      "text": "Hey Tim! We had a wild few days since we talked. I met back up with my teammates on the 15th after my trip and it was amazing! Everyone missed me. The atmosphere was electric and I felt so welcome being back with them. I'm so lucky to be a part of this team!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D7:2",
+      "text": "Wow, John, that sounds amazing! I'm so happy they gave you a warm welcome back. It's such a special feeling when you realize that you share the same passions and talents with others. It's like finding your true place in the world."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:3",
+      "text": "Thanks! Wow, it was such an incredible experience. Being around people who share the same love for basketball creates a special kind of bond. Have you ever felt like you truly belonged somewhere?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D7:4",
+      "text": "Yeah, definitely. I felt like I belonged a few times, but last month at that event was one of my favorites. Everyone shared the same love for it and it felt like being in a world where everyone understood it. I'm really thankful for those experiences - it's great to know there are people out there who appreciate and share my interests."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:5",
+      "text": "Cool! It's great when you find a group that appreciates the same things. It really adds something special to our lives. So, do you have any exciting plans or events coming up?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D7:6",
+      "text": "I have no big events coming up, but I'm hoping to attend a book conference next month. It's an interesting gathering of authors, publishers and book lovers where we talk about our favorite novels and new releases. I'm excited to go because it'll help me learn more about literature and create a stronger bond to it."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/2018_DII_Elite_Eight_Northern_State_Signed_Basketball.jpg"
+      ],
+      "blip_caption": "a photography of a basketball with autographs on it sitting on a table",
+      "query": "basketball signed teammates",
+      "dia_id": "D7:7",
+      "re-download": true,
+      "text": "You're a real bookworm! It would be awesome to go to a book conference with you. Check out this photo of what my teammates gave me when we met. It's a sign of our friendship and all the love we have for each other."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D7:8",
+      "text": "That's so cool of your teammates. Did they sign it for a special reason?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:9",
+      "text": "Thanks! They signed it to show our friendship and appreciation. It's a great reminder of our bond."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D7:10",
+      "text": "That's really cool. It's great that you have something to remind you of your friends. Keeping a bit of their energy and support with you is always nice."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:11",
+      "text": "Having something like this ball to remind me of the bond and support from my teammates is really comforting. It's a nice reminder of why I started playing basketball and my journey. It motivates me to stay strong and give it my all."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D7:12",
+      "text": "That's so sweet. It's great to have something so meaningful to keep you motivated. I'll keep that in mind next time I need a push to reach my goals."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:13",
+      "text": "It's really motivating to have something that reminds you of why you started, and having supportive people around is like having a cheer team that helps you through tough times."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D7:14",
+      "text": "Yeah, that's true. Having them there to cheer you on can be a powerful source of strength."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:15",
+      "text": "Yeah, having that support really encourages me to give it my all and never give up. It's an awesome feeling!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D7:16",
+      "text": "It's awesome how much strength people can get from each other. Bye!"
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim prepares to visit a book conference in September 2023 where he wants to meet with book publishers, authors and fellow readers."
+    ],
+    "John": [
+      "John returns from his trip to Chicago and meets with his team.",
+      "John's teammates gift him a signed basketball as a mark of their friendship and team spirit."
+    ],
+    "date": "17 August, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John is part of a basketball team which he feels lucky to be a part of.",
+        "D7:1"
+      ],
+      [
+        "John values the bond created by being around people who share the same love for basketball.",
+        "D7:3"
+      ],
+      [
+        "John received a signed ball from his teammates as a reminder of their friendship and appreciation.",
+        "D7:7"
+      ],
+      [
+        "The signed ball from his teammates serves as a reminder of the bond and support he has from them in his basketball journey.",
+        "D7:11"
+      ]
+    ],
+    "Tim": [
+      [
+        "Tim felt a sense of belonging at an event last month where everyone shared the same love for a common interest.",
+        "D7:4"
+      ],
+      [
+        "Tim is hoping to attend a book conference next month to learn more about literature and create a stronger bond to it.",
+        "D7:6"
+      ],
+      [
+        "Tim appreciates having something meaningful to keep him motivated, as seen from his conversation with John.",
+        "D7:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

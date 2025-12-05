@@ -1,0 +1,183 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-5",
+  "session_number": 5,
+  "session_summary": "Joanna and Nate caught up at 6:59 pm on 18 March, 2022. Joanna shared her mixed emotions about finishing her second script while Nate encouraged her to believe in herself. They discussed the calming effects of Nate's pet turtles, but Joanna, allergic to certain animals, couldn't get pets. They talked about Joanna's script and the importance of hard work and support. Nate assured Joanna of his ongoing support as they signed off at the end of their conversation.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:1",
+      "text": "Hey Nate, it's been a minute! I wrapped up my second script, and the feels have been wild. Sometimes I'm so relieved, but other times I just feel anxious about what comes next. It's a mix of excitement and terror, thinking about my work getting noticed and hitting the big screen."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D5:2",
+      "text": "Hey Joanna! Awesome to hear from you! Congrats on wrapping up a second one! All that hard work and dedication will definitely shine through and get noticed, no doubt. Hope you've been able to take some time to relax after everything!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:3",
+      "text": "Thanks Nate! It's been a wild ride. I've been decompressing, but it's hard to switch off. There's always this tug-of-war of hope and doubt."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://cdn12.picryl.com/photo/2016/12/31/turtle-nature-slow-nature-landscapes-9a70ba-1024.jpg"
+      ],
+      "blip_caption": "a photography of two tortoises laying on the ground in a jungle",
+      "query": "adorable photo turtles walk grassy area",
+      "dia_id": "D5:4",
+      "re-download": true,
+      "text": "It's normal to have doubts, but you've worked hard and put tons of passion into it. Believe in yourself and things will work out. Here, look at this cute pic - walking them always reminds me to enjoy the small stuff!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:5",
+      "text": "That pic's adorable! They always look so relaxed outside. What made you choose them as pets?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "data:image/jpeg;base64,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"
+      ],
+      "blip_caption": "a photography of three turtles sitting on rocks in a pond",
+      "query": "turtles basking sun",
+      "dia_id": "D5:6",
+      "re-download": true,
+      "text": "I'm drawn to turtles. They're unique and their slow pace is a nice change from the rush of life. They're also low-maintenance and calming. Check out this moment I snapped!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:7",
+      "text": "They look so peaceful! It's amazing how these creatures bring so much calm and joy. Is taking care of them tough?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D5:8",
+      "text": "No, not really. Just keep their area clean, feed them properly, and make sure they get enough light. It's actually kind of fun."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:9",
+      "text": "Sounds great! Having pets must be a wonderful experience."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D5:10",
+      "text": "Pets definitely bring tons of joy. They are always there for us and they're so cute! Relaxing with them is a great way to chill."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:11",
+      "text": "I wish I wasn't allergic! I would get two turtles today if I could! I found out recently I'm allergic to cockroaches as well, so who knows if I'll ever get a pet."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D5:12",
+      "text": "Sorry! Maybe there are other animals you could consider! In the meantime though, I'll be sure to send you pics of my turtles so you can still watch them grow without getting too close."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:13",
+      "text": "Great idea! I'm already really invested in those little guys!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D5:14",
+      "text": "Pets really seem to do that to everyone don't they! So, what about your script now? Any ideas for the next steps?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:15",
+      "text": "I've been doing my fair share of research and networking non-stop for it. It's tough, but I'm determined to make it happen."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D5:16",
+      "text": "Great idea! that should hopefully get some more eyes on it. Keep up the hard work!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:17",
+      "text": "Thanks so much, Nate! Your support means a lot. I'll keep working at it and hopefully the next steps will become clearer soon."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D5:18",
+      "text": "Just make sure you don't quit - the path forward will show up soon. You got this!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D5:19",
+      "text": "Appreciated! I think just having someone to support me throughout the whole process is such a blessing. It gives me the motivation to keep pushing forward."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D5:20",
+      "text": "Glad to hear my support makes a difference, Joanna. I'm here for you!"
+    },
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a cinema ticket on a chair",
+      "dia_id": "D5:21",
+      "text": "Always good to hear! See you later!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna finishes writing her second screenplay, which is about a woman's journey of self-discovery through a road trip after suffering loss."
+    ],
+    "Nate": [
+      "Nate takes his two pet turtles out for a walk."
+    ],
+    "date": "18 March, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna has completed her second script and is experiencing a mix of excitement and anxiety about its future.",
+        "D5:1"
+      ],
+      [
+        "Joanna finds it hard to switch off and experiences a tug-of-war between hope and doubt.",
+        "D5:3"
+      ],
+      [
+        "Joanna has done research and networking non-stop for her script and is determined to make it happen.",
+        "D5:15"
+      ],
+      [
+        "Joanna feels supported and motivated by having someone throughout the process.",
+        "D5:19"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate finds turtles unique, calming, and low-maintenance as pets.",
+        "D5:6"
+      ],
+      [
+        "Nate believes in Joanna's hard work and passion for her scripts, encouraging her to believe in herself.",
+        "D5:4"
+      ],
+      [
+        "Nate suggests Joanna consider other animals due to her allergies, and offers to send her pictures of his turtles.",
+        "D5:12"
+      ],
+      [
+        "Nate supports and motivates Joanna throughout the conversation.",
+        "D5:16"
+      ],
+      [
+        "Nate emphasizes the importance of not quitting and assures Joanna that the next steps will become clearer.",
+        "D5:18"
+      ],
+      [
+        "Nate expresses that his support for Joanna is important and that he is there for her.",
+        "D5:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

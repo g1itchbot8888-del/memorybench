@@ -1,0 +1,188 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-28",
+  "session_number": 28,
+  "session_summary": "Tim and John caught up at 5:24 pm on 7 January, 2024. Tim shared that he got accepted into a study abroad program and will be heading to Ireland for a semester, staying in Galway known for its arts and music. He expressed excitement about exploring the nature and visiting The Cliffs of Moher. John complimented Tim's plans and mentioned hosting a successful benefit basketball game. Tim praised John for making a positive impact through sports. They discussed books and Tim recommended \"The Name of the Wind\" by Patrick Rothfuss to John. They ended the conversation on a positive note, planning to stay in touch.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "dia_id": "D28:1",
+      "text": "Hey John, long time no talk. On Friday, I got great news - I'm finally in the study abroad program I applied for! Next month, I'm off to Ireland for a semester."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:2",
+      "text": "Congrats, Tim! That's amazing news. So, where are you going to stay?"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://roadworksbooks.files.wordpress.com/2022/07/img_4242.jpg"
+      ],
+      "blip_caption": "a photo of a woman standing on the side of a street",
+      "query": "galway colorful street arts scene traditional irish music",
+      "dia_id": "D28:3",
+      "text": "Thanks! I'm gonna stay in Galway, it's great for its arts and Irish music. This place has such a vibrant atmosphere."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:4",
+      "text": "Awesome, Galway looks amazing! Is there anything in particular that you're keen to check out while you're there?"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://images.pexels.com/photos/8456767/pexels-photo-8456767.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-david-riand-8456767.jpg"
+      ],
+      "blip_caption": "a photo of a cliff overlooking the ocean at sunset",
+      "query": "cliffs moher sunset",
+      "dia_id": "D28:5",
+      "text": "Yep! I'm so excited to explore the nature - it looks amazing!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:6",
+      "text": "Wow, great view! Have you visited any other places?"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://i.redd.it/t98kzzhuocp81.jpg"
+      ],
+      "blip_caption": "a photo of a person standing on a cliff overlooking the ocean",
+      "query": "cliffs moher ocean cliffs",
+      "dia_id": "D28:7",
+      "text": "I want to visit The Cliffs of Moher. It has amazing ocean views and awesome cliffs."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:8",
+      "text": "Wow, that's awesome! I could stop by there after my season."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D28:9",
+      "text": "Cool, let me know if you're around!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://outandaboutmummy.files.wordpress.com/2019/11/img_6609.jpg"
+      ],
+      "blip_caption": "a photo of a boy dribbling a basketball on a court",
+      "query": "charity basketball tournament children",
+      "dia_id": "D28:10",
+      "text": "Yep, I'll let you know. Oh, I held a benefit basketball game last week."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D28:11",
+      "text": "Wow! How did the game go?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:12",
+      "text": "The game turned out to be a total success! Lots of people showed up and had a great time, plus we were able to raise some money for charity."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D28:13",
+      "text": "Great job organizing the event. That's really making a difference!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:14",
+      "text": "Thanks! It's amazing how basketball brings people together and creates a positive impact!"
+    },
+    {
+      "speaker": "Tim",
+      "blip_caption": "a photo of a basketball ball and a book on a court",
+      "dia_id": "D28:15",
+      "text": "You rock! Keep it up!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:16",
+      "text": "Thanks, Tim! It's awesome to see how sports can unite people. By the way, what book are you currently reading?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D28:17",
+      "text": "I'm currently reading a fantasy novel called \"The Name of the Wind\" by Patrick Rothfuss. It's really good!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:18",
+      "text": "\"The Name of the Wind\" sounds cool. I'll add it to my list. Thanks!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D28:19",
+      "text": "I hope you enjoy it! Let me know your thoughts."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:20",
+      "text": "Will do! Thanks for the recommendation!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D28:21",
+      "text": "No problem. Talk to you soon!"
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim gets accepted to a Study Abroad program in school and will leave next month to spend the semester at Ireland.",
+      "Tim plans to live in Galway when studying in Ireland and is excited to expore Irish music, arts as well as nature such as The Cliffs of Moher."
+    ],
+    "John": [
+      "John successfully organizes and hosts a benefit basketball tournament for charity."
+    ],
+    "date": "7 January, 2024"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim got accepted into a study abroad program in Ireland.",
+        "D28:1"
+      ],
+      [
+        "Tim will be staying in Galway for its arts and Irish music.",
+        "D28:3"
+      ],
+      [
+        "Tim is excited to explore the nature in Galway.",
+        "D28:5"
+      ],
+      [
+        "Tim wants to visit The Cliffs of Moher for the ocean views and cliffs.",
+        "D28:7"
+      ],
+      [
+        "Tim is currently reading a fantasy novel called 'The Name of the Wind' by Patrick Rothfuss.",
+        "D28:17"
+      ]
+    ],
+    "John": [
+      [
+        "John held a benefit basketball game that was a success and raised money for charity.",
+        "D28:12"
+      ],
+      [
+        "John expressed that basketball brings people together and creates a positive impact.",
+        "D28:14"
+      ],
+      [
+        "John is keen on stopping by The Cliffs of Moher after his season.",
+        "D28:8"
+      ],
+      [
+        "John is adding 'The Name of the Wind' by Patrick Rothfuss to his reading list.",
+        "D28:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

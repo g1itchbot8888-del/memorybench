@@ -1,0 +1,194 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-3",
+  "session_number": 3,
+  "session_summary": "John and James conversed at 12:40 am on 27th March 2022. John shared his recent gaming success and drumming hobby, while James talked about learning a new instrument. They discussed gaming systems, conventions, and mutual admiration for skilled players. John emphasized the importance of learning from experienced gamers, and James mentioned setting small goals to stay motivated. James expressed excitement about exploring new game genres, with John eager to hear about his progress. The conversation ended with John looking forward to hearing updates from James about his gaming adventures.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D3:1",
+      "text": "Hey James, long time no see! I had a big win in my game last week - finally advanced to the next level! It was a huge confidence booster and felt like I'd really achieved something."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://live.staticflickr.com/3286/3130876770_af17e12d68_z.jpg"
+      ],
+      "blip_caption": "a photography of a drum kit with a white drum and a black drum",
+      "query": "drum set drumming progress",
+      "dia_id": "D3:2",
+      "re-download": true,
+      "text": "Hey John, congrats on your win! Games can really boost confidence, huh? I'm challenging myself too - I'm learning this instrument, which has been quite the journey.\n"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/ky9jybgp0bi91.jpg"
+      ],
+      "blip_caption": "a photo of a drum kit sitting on top of a table",
+      "query": "drum set progress",
+      "dia_id": "D3:3",
+      "text": "Thanks, James! I play drums too! Here's a pic of my set."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:4",
+      "text": "Wow, looking good! How long have you been playing?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:5",
+      "text": "I've been playing for a month now, it's been tough but fun. How about you, how's it going?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:6",
+      "text": "This is going great! I started a few days ago, so I'm still picking it up. Been at it daily and seeing improvements. It's tough but rewarding at the same time!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:7",
+      "text": "Nice work! Looks like you're doing great. Anything new in general that you'd recommend?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:8",
+      "text": "Thanks! I just got a new cutting-edge gaming system and the graphics are incredible. I've been playing all kinds of new games and it's been a great way to relax after work. Plus, I can connect with friends who share my passion for gaming."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://live.staticflickr.com/664/22051849804_cff4f4e532_b.jpg"
+      ],
+      "blip_caption": "a photography of a crowded convention hall with a large crowd of people",
+      "query": "gaming convention crowded hall banners games",
+      "dia_id": "D3:9",
+      "re-download": true,
+      "text": "Cool, James! Gaming is great for chilling out. Btw, since we last spoke, I had the chance to go to a gaming convention - it was amazing! Tried out loads of games, met developers, and even took part in a tournament - unreal! Check out this pic I took!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:10",
+      "text": "Wow, that's awesome! What game was it for? Sounds like a dream!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:11",
+      "text": "I played my favorite CS:GO game in an intense tournament. It was awesome to see all the skilled players competing."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:12",
+      "text": "Wow, that sounds cool! Gaming is awesome with all the competition. Must have been thrilling to watch those skilled players!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:13",
+      "text": "It was indeed amazing! Watching those skilled players really inspired me to improve my own gaming skills."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:14",
+      "text": "Nice one, John! Learning from experienced gamers can really help you level up your skills. Keep it up!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:15",
+      "text": "I'm always looking to up my game and hit new goals. That same commitment is true for my hobbies and other stuff. What have you been doing to stay motivated?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:16",
+      "text": "Setting small goals and tracking my progress helps me stay motivated and focused."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:17",
+      "text": "Nice one! Setting small goals and tracking progress is a great way to stay motivated - it helps you stay on track and celebrates progress. Anything specific you're working on or upcoming challenges you're pumped about?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:18",
+      "text": "I'm getting into different types of games now, like RPGs and strategy games. It's really exciting!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:19",
+      "text": "Cool, James! That sounds exciting. Have fun exploring different genres of games!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:20",
+      "text": " I'm super hyped to explore different game genres. Let's see what's in store!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:21",
+      "text": "Definitely! Trying new genres is always exciting. I can't wait to hear about your journey with them. Please let me know how it goes!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D3:22",
+      "text": "Got it, John! I'll keep you updated on my gaming adventures with the new genres. Have a good day!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:23",
+      "text": "Thanks! Can't wait to hear about it. Bye!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James starts learning to play the drums.",
+      "James purchases a new cutting-edge gaming system with great graphics."
+    ],
+    "John": [
+      "John continues his hobby of playing drums that he started in February 2022.",
+      "GO plays.",
+      "GO with skilled players and meets game developers."
+    ],
+    "date": "27 March, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John had a big win in his game last week and advanced to the next level, which was a huge confidence booster for him.",
+        "D3:1"
+      ],
+      [
+        "John plays drums and has been playing for only a month.",
+        "D3:3"
+      ],
+      [
+        "John attended a gaming convention where he tried out loads of games, met developers, and took part in a tournament for CS:GO.",
+        [
+          "D3:9",
+          "D3:11"
+        ]
+      ],
+      [
+        "John is always looking to up his game and hit new goals in his hobbies and other stuff.",
+        "D3:15"
+      ]
+    ],
+    "James": [
+      [
+        "James is learning to play a musical instrument and has been at it daily, seeing improvements.",
+        [
+          "D3:2",
+          "D3:6"
+        ]
+      ],
+      [
+        "James got a new cutting-edge gaming system with incredible graphics and enjoys playing new games to relax after work.",
+        "D3:8"
+      ],
+      [
+        "James is getting into different types of games now, like RPGs and strategy games, which he finds really exciting.",
+        "D3:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

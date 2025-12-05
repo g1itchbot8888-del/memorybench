@@ -1,0 +1,143 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-29",
+  "session_number": 29,
+  "session_summary": "Joanna excitedly shared with Nate at 12:06 am on 11 November, 2022, that she was filming her own movie from a road-trip script. Nate congratulated her, mentioning it's not surprising due to her hard work. Joanna was thrilled to see her script come to life on set daily. She shared that an actor complimenting her script was a highlight. Nate then recounted a peaceful trip with his turtles to the beach in Tampa. Joanna praised the turtles, saying they looked serene. Nate likened turtles to zen masters for their calming effect. Nate then showed Joanna his colorful coconut milk ice cream bowls and offered her a taste. Joanna expressed interest in trying it, and the conversation ended on a positive note as they caught up and bid each other farewell.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.redd.it/l7riz754xlj41.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a clap board with a dog sleeping in a dog bed",
+      "query": "movie clapperboard movie set",
+      "dia_id": "D29:1",
+      "text": "Nate, can you believe it? I'm finally filming my own movie from the road-trip script!"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a trophy and a game controller on a table",
+      "dia_id": "D29:2",
+      "text": "Congrats, Joanna! Not surprised at all that your hard work paid off. Must feel awesome to see your script come alive in a movie! Pretty cool when something you love brings success, right? Tell me more about your movie!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D29:3",
+      "text": "Woohoo, thanks Nate! It's pretty wild to see it come alive. Every day on set is awesome and full of potential. Being able to show my vision is awesome."
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a fish tank with a fish inside of it",
+      "dia_id": "D29:4",
+      "text": "I think so too! What's been the coolest moment on set?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D29:5",
+      "text": "One of the actors came up to me and told me how much she liked my script! I was so excited when that happened - it gave me chills!"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a turtle in a sink with a reflection of its head",
+      "dia_id": "D29:6",
+      "text": "Wow Joanna, that must have been so exciting! It's incredible when you get those moments of joy. Anyway, I took my turtles to the beach in Tampa yesterday! They always bring me peace in the craziness of life."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D29:7",
+      "text": "Woah, that's awesome, Nate! You must really enjoy having them around - they're so cool! What do you love most about having them?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/q35gmvlsr6yb1.jpg"
+      ],
+      "blip_caption": "a photo of a turtle sitting on a log in a pond",
+      "query": "pet turtles basking rock",
+      "dia_id": "D29:8",
+      "text": "Your completely right! I really love having them around. They're so cool and they make me feel calm. Plus, they don't require much looking after, which is great. I love seeing them soaking in the sun like this."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D29:9",
+      "text": "That's awesome, Nate! They look so serene and happy. It's great to have something like that."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://live.staticflickr.com/211/464853107_ccca166bec_b.jpg"
+      ],
+      "blip_caption": "a photography of a bowl of ice cream with a spoon in it",
+      "query": "homemade coconut milk ice cream colorful bowls",
+      "dia_id": "D29:10",
+      "re-download": true,
+      "text": "Yeah, turtles are like zen masters! They always remind me to slow down and appreciate the small things in life. I'm loving experimenting with flavors right now. Here are some colorful bowls of coconut milk ice cream that I made."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D29:11",
+      "text": "Hey Nate, that looks really yummy! The colors and mix-ins give it a nice kick."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D29:12",
+      "text": "Nice! I'm glad you like it too. This recipe really jazzes it up. Wanna give it a try?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D29:13",
+      "text": "Definitely, Nate! That ice cream looks mouthwatering. Thanks so much for offering!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D29:14",
+      "text": "No worries, Joanna. Hope you enjoy it!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D29:15",
+      "text": "Yea, no worries! It was great catching up. Take it easy!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna starts filming her movie based on her script of a woman's journey of self-discovery over a raod trip."
+    ],
+    "Nate": [
+      "Nate takes his turtles to the beach in Tampa"
+    ],
+    "date": "11 November, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna is filming her own movie based on a road-trip script.",
+        "D29:1"
+      ],
+      [
+        "One of the actors on Joanna's movie set told her how much she liked her script, which gave Joanna chills.",
+        "D29:5"
+      ],
+      [
+        "Joanna finds it awesome to be able to show her vision in the movie she's filming.",
+        "D29:3"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate took his turtles to the beach in Tampa and finds peace in their presence amid life's craziness.",
+        "D29:6"
+      ],
+      [
+        "Nate loves having turtles around as they make him feel calm and don't require much looking after.",
+        "D29:8"
+      ],
+      [
+        "Nate is currently experimenting with flavors and made colorful bowls of coconut milk ice cream.",
+        "D29:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

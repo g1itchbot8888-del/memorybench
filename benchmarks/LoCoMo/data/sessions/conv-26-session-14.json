@@ -1,0 +1,307 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-14",
+  "session_number": 14,
+  "session_summary": "Caroline tells Melanie that she went hiking last week and got into a bad situation with some people. She tried to apologize to them. Melanie is supportive and says that it takes a lot of courage and maturity to apologize. Melanie shows Caroline a pottery plate she made and Caroline compliments her on it. Melanie says that pottery is relaxing and creative. Caroline says that she has been busy painting and shows Melanie a painting of a sunset that she recently finished. Melanie compliments the painting and Caroline explains that she was inspired by a visit to the beach. Melanie says that she can feel the serenity of the beach in the painting. They discuss how art can connect people and Melanie mentions a volunteering experience at a homeless shelter. Caroline praises Melanie for her volunteering efforts. Melanie asks Caroline about her decision to transition and join the transgender community. Caroline explains that finding a supportive community has meant a lot to her and shows Melanie a mural that she created, explaining its symbolism. Melanie praises Caroline's courage as a trans person. Melanie asks Caroline if she has made any more art and Caroline shows her a stained glass window that she made for a local church. They discuss the inspiration behind the window and Melanie compliments Caroline on her artistry. Caroline shows Melanie a picture of a rainbow sidewalk that she found in her neighborhood",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://photos.thetrek.co/wp-content/uploads/2017/11/IMG_1742-e1509796327550.jpg"
+      ],
+      "blip_caption": "a photo of a woman sitting on a sign on top of a mountain",
+      "query": "letter apology hike encounter",
+      "dia_id": "D14:1",
+      "text": "Hey, Mel! How's it going? There's something I want to tell you. I went hiking last week and got into a bad spot with some people. It really bugged me, so I tried to apologize to them."
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i0.wp.com/bardith.com/wp-content/uploads/2022/05/IMG_4371-1.jpg"
+      ],
+      "blip_caption": "a photo of a plate with a bunch of flowers on it",
+      "query": "pottery purple bowl floral patterns",
+      "dia_id": "D14:2",
+      "text": "Wow, Caroline! Sorry that happened to you. It's tough when those things happen, but it's great you apologized. Takes a lot of courage and maturity! What do you think of this?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D14:3",
+      "text": "Thanks, Melanie! That plate is awesome! Did you make it?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:4",
+      "text": "Yeah, I made it in pottery class yesterday. I love it! Pottery's so relaxing and creative. Have you tried it yet?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://i0.wp.com/makesomethingmondays.com/wp-content/uploads/2017/07/mini-beach-sunset-painting-diy.jpg"
+      ],
+      "blip_caption": "a photo of a painting of a sunset on a small easel",
+      "query": "vibrant sunset beach painting",
+      "dia_id": "D14:5",
+      "text": "Nah, I haven't. I've been busy painting - here's something I just finished."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:6",
+      "text": "Wow Caroline, that looks amazing! Those colors are so vivid, it really looks like a real sunset. What gave you the idea to paint it?"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a painting of a sunset over the ocean",
+      "dia_id": "D14:7",
+      "text": "Thanks, Melanie! I painted it after I visited the beach last week. Just seeing the sun dip below the horizon, all the amazing colors - it was amazing and calming. So I just had to try to capture that feeling in my painting."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:8",
+      "text": "Wow, the beach really inspired you. The art really took me to that moment and I can feel the serenity. You captured the sunset perfectly, so peaceful!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D14:9",
+      "text": "Thanks Mel, really appreciate your kind words. It means a lot to me that you can feel the sense of peace and serenity. Makes me feel connected."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:10",
+      "text": "I feel the same way! Art is so cool like that - it connects us and helps us understand each other. I was actually just remembering yesterday, spending the day with my fam volunteering at a homeless shelter. It was hard to see how neglected some people are, but it was great to feel like we could make a difference."
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://images.squarespace-cdn.com/content/v1/64cda0c3f2719a0e6e707684/a08e6e1f-f0e0-4f1a-b567-1f1f92b80aab/35970846_829192503937065_1026209343625756672_o_829192493937066.jpg"
+      ],
+      "blip_caption": "a photo of a crowd of people walking down a street with a rainbow flag",
+      "query": "volunteering pride event",
+      "dia_id": "D14:11",
+      "text": "Wow, Mel, you're amazing! Volunteering and making a difference- it's so heartwarming. You're an inspiration to us all!"
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a bulletin board with a rainbow flag and a don't ever be afraid to",
+      "dia_id": "D14:12",
+      "text": "Thanks, Caroline! I really appreciate your help and motivation. What made you decide to transition and join the transgender community?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://npr.brightspotcdn.com/legacy/sites/wuwm/files/201811/20181029_095916.jpg"
+      ],
+      "blip_caption": "a photo of a building with a large eagle painted on it",
+      "query": "rainbow flag painting unity acceptance",
+      "dia_id": "D14:13",
+      "text": "Finding a community where I'm accepted, loved and supported has really meant a lot to me. It's made a huge difference to have people who get what I'm going through. Stuff like this mural are really special to me!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:14",
+      "text": "Caroline, glad you found a supportive community! Can you tell me more about why it's special to you?"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a stained glass window with a picture of a person on a horse",
+      "dia_id": "D14:15",
+      "text": "The rainbow flag mural is important to me as it reflects the courage and strength of the trans community. The eagle symbolizes freedom and pride, representing my own resilience and that of others."
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a stained glass window with a person holding a key",
+      "dia_id": "D14:16",
+      "text": "I'm in awe of your courage as a trans person. Have you made any more art lately?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://projects.history.qmul.ac.uk/thehistorian/wp-content/uploads/sites/24/2017/10/IMG_20170922_072615_165.jpg"
+      ],
+      "blip_caption": "a photo of three stained glass windows in a church with a clock",
+      "query": "stained glass window letter",
+      "dia_id": "D14:17",
+      "text": "Thanks, Mel! I made this stained glass window to remind myself and others that within us all is the key to discovering our true potential and living our best life."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:18",
+      "text": "Wow, Caroline, that looks amazing! What inspired it?"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a large stained glass window in a church",
+      "dia_id": "D14:19",
+      "text": "Thanks! It was made for a local church and shows time changing our lives. I made it to show my own journey as a transgender woman and how we should accept growth and change."
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a door with a stained glass window and a coat rack",
+      "dia_id": "D14:20",
+      "text": "Wow, Caroline!  All those colors are incredible and the story it tells is so inspiring."
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://i0.wp.com/marbleheadcurrent.org/wp-content/uploads/2023/07/rainbow.jpg"
+      ],
+      "blip_caption": "a photo of a painted sidewalk with a rainbow design on it",
+      "query": "painting rainbow flag unity acceptance",
+      "dia_id": "D14:21",
+      "text": "Thanks, Mel! Glad you like it. It's a symbol of togetherness, to celebrate differences and be that much closer. I'd love to make something like this next!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:22",
+      "text": "Wow, that's gorgeous! Where did you find it?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D14:23",
+      "text": "I was out walking in my neighborhood when I came across this cool rainbow sidewalk for Pride Month. It was so vibrant and welcoming, I had to take a picture! It reminds us that love and acceptance are everywhere—even where we least expect it."
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a person drawing a flower on the ground",
+      "dia_id": "D14:24",
+      "text": "That's so nice, Caroline! Art can be in the most unlikely places. Love and acceptance really can be found everywhere."
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://static.skillshare.com/uploads/project/281358/cover_full_592aef91cce2432e71c739804161e0fb.jpg"
+      ],
+      "blip_caption": "a photo of a painting of flowers and a watercolor palette",
+      "query": "drawing flower ground colored chalk simple act creativity",
+      "dia_id": "D14:25",
+      "text": "Agreed, Mel! Art can be a real mood-booster - I saw someone drawing on the ground the other day and it made me so happy. Creativity sure can lighten someone's day."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:26",
+      "text": "Wow, Caroline, that's so nice! The colors are so bright and the flowers are so pretty. Art is such a source of joy."
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://i.pinimg.com/originals/3d/e3/b8/3de3b8a013be3eec63cc454cb0c63536.jpg"
+      ],
+      "blip_caption": "a photo of a drawing of a bunch of flowers on a table",
+      "query": "bouquet wildflowers art",
+      "dia_id": "D14:27",
+      "text": "Thanks, Mel! Art gives me so much joy. It helps me show my feelings and freeze gorgeous moments, like a bouquet of flowers. "
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:28",
+      "text": "Wow, did you make that? It looks so real!"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a drawing of a flower bouquet with a person holding it",
+      "dia_id": "D14:29",
+      "text": "Yeah, definitely! Drawing flowers is one of my faves. Appreciating nature and sharing it is great. What about you, Mel? What type of art do you love?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i.redd.it/k9wcp85ledi91.jpg"
+      ],
+      "blip_caption": "a photo of a painting of a sunflower on a canvas",
+      "query": "painting field sunflowers",
+      "dia_id": "D14:30",
+      "text": "Painting landscapes and still life is my favorite! Nature's amazing, here's a painting I did recently."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D14:31",
+      "text": "Wow, Mel! Any more paintings coming up?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:32",
+      "text": "I'm feeling inspired by autumn so I'm planning a few. You got any cool art projects coming up?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D14:33",
+      "text": "I'm putting together an LGBTQ art show next month and I'm gonna show my paintings. Super stoked!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D14:34",
+      "text": "Wow, Caroline, that's awesome! Can't wait to see your show - the LGBTQ community needs more platforms like this!"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a poster for a concert with a man in a cowboy hat",
+      "dia_id": "D14:35",
+      "text": "Yeah Mel, stoked! Gonna be a great night featuring LGBTQ artists and their awesome talents. We want it to spread understanding and acceptance - let's make it happen!"
+    }
+  ],
+  "events": {
+    "Caroline": [
+      "Caroline writes a letter to the people she encountered on her hike to apologize for the negative experience they had."
+    ],
+    "Melanie": [
+      "Melanie and her family volunteer at a local homeless shelter."
+    ],
+    "date": "25 August, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline went hiking last week and got into a bad spot with some people but tried to apologize.",
+        "D14:1"
+      ],
+      [
+        "Caroline painted a vivid sunset inspired by a beach visit.",
+        "D14:7"
+      ],
+      [
+        "Caroline transitioned and joined the transgender community seeking acceptance and support.",
+        "D14:13"
+      ],
+      [
+        "Caroline created a rainbow flag mural symbolizing courage and strength of the trans community.",
+        "D14:15"
+      ],
+      [
+        "Caroline made a stained glass window showcasing personal journey as a transgender woman and the acceptance of growth and change.",
+        "D14:19"
+      ],
+      [
+        "Caroline found a vibrant rainbow sidewalk during Pride Month, which reminded her of love and acceptance.",
+        "D14:23"
+      ],
+      [
+        "Caroline is organizing an LGBTQ art show next month to showcase paintings and talents of LGBTQ artists aimed at spreading understanding and acceptance.",
+        "D14:33"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie made a plate in pottery class and finds pottery relaxing and creative.",
+        "D14:4"
+      ],
+      [
+        "Melanie loves painting landscapes and still life.",
+        "D14:30"
+      ],
+      [
+        "Melanie volunteered with her family at a homeless shelter to make a difference.",
+        "D14:10"
+      ],
+      [
+        "Melanie appreciates and admires Caroline's courage as a trans person.",
+        "D14:16"
+      ],
+      [
+        "Melanie created a painting inspired by autumn.",
+        "D14:32"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

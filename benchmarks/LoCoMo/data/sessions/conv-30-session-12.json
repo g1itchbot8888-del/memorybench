@@ -1,0 +1,138 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-12",
+  "session_number": 12,
+  "session_summary": "Gina and Jon caught up at 7:18 pm on 27 May, 2023. Gina shared her excitement about getting a fashion internship with an international company, while Jon congratulated her and talked about his business plans. Jon mentioned reading \"The Lean Startup\" for tips, and they discussed ideas for his dance studio. Jon showed Gina his whiteboard of ideas and plans. They spoke about the importance of staying organized and motivated. Jon shared his struggles with finding investors but emphasized his determination. Gina encouraged Jon to keep learning and growing. Jon appreciated her support and vowed to persevere. Gina cheered him on, emphasizing the importance of overcoming obstacles. The conversation highlighted their support for each other's goals and aspirations.",
+  "conversation_turns": [
+    {
+      "speaker": "Gina",
+      "dia_id": "D12:1",
+      "text": "Hey Jon! Long time no talk! A lot's happened - I just got accepted for a fashion internship!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D12:2",
+      "text": "Congrats, Gina! That's awesome news about the fashion internship. 🎉 So stoked for you. Where is the internship and how're you feelin' about it?"
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a laptop computer with a logo on the screen",
+      "dia_id": "D12:3",
+      "text": "Thanks! I'm excited and kinda nervous. Gonna be a big change. It's part-time position in the fashion department of an international company."
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a book with a yellow and green cover",
+      "dia_id": "D12:4",
+      "text": "Way to go, Gina! You really stepped up. What's your plan for the future?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D12:5",
+      "text": "Thanks! I'm a mix of excited and scared to get into fashion, but I'm trying to stay upbeat and learn as much as I can. What about you? Got something new?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D12:6",
+      "text": "I'm currently reading \"The Lean Startup\" and hoping it'll give me tips for my biz."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D12:7",
+      "text": "It sounds great! Could it spark any ideas for your dance studio?"
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://cdn.apartmenttherapy.info/image/upload/v1615494917/at/living/2021-03/IMG_5070.jpg"
+      ],
+      "blip_caption": "a photo of a white board with a list of dates on it",
+      "query": "whiteboard business ideas",
+      "dia_id": "D12:8",
+      "text": "Yeah, the book got me thinking about building a focused and efficient business. Adapting and tweaking from customer feedback is important too, so I'm gonna try it out!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D12:9",
+      "text": "Woah, Jon, that whiteboard's got a bunch of good ideas! How you gonna keep track and stay on schedule with those dates?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D12:10",
+      "text": "Thanks, Gina! It helps me keep track of ideas and milestones. Gives me a visual of my progress and keeps me organized."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D12:11",
+      "text": "Nice idea! Having something visual can help with organizing and motivation. What're you working on currently?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D12:12",
+      "text": "I'm wrapping up the business plan and looking for investors. My passion for the project and belief in its success are driving me."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D12:13",
+      "text": "Wow, Jon! Impressed by your commitment. How's the hunt for investors going?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D12:14",
+      "text": "Thanks! Searching for investors has been tough, but I'm staying hopeful. It's all a process and I'm learning a ton."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D12:15",
+      "text": "Yeah Jon, you've got the right attitude! Keep learning and growing through it all. Keep going!"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a pink sign with a message on it",
+      "dia_id": "D12:16",
+      "text": "Thanks! I really appreciate your help. I'm gonna keep on going and never quit."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D12:17",
+      "text": "Keep it up!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D12:18",
+      "text": "Thanks! Your words really mean a lot. Don't worry, I won't let anything get me down."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D12:19",
+      "text": "Go Jon! Obstacles are inevitable, but you can do awesome things. Keep going!"
+    }
+  ],
+  "events": {
+    "Jon": [],
+    "Gina": [
+      "Gina is accepted for the design internship and starts a part-time job in the fashion department of an international company."
+    ],
+    "date": "27 May, 2023"
+  },
+  "observations": {
+    "Gina": [
+      [
+        "Gina got accepted for a fashion internship at a part-time position in the fashion department of an international company.",
+        "D12:1"
+      ]
+    ],
+    "Jon": [
+      [
+        "Jon is reading the book \"The Lean Startup\" and hoping to get tips for his business.",
+        "D12:6"
+      ],
+      [
+        "Jon is working on a business plan and looking for investors for his project.",
+        "D12:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

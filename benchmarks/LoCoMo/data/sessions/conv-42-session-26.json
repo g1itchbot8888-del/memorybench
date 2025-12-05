@@ -1,0 +1,215 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-26",
+  "session_number": 26,
+  "session_summary": "At 3:56 pm on November 4, 2022, Joanna excitedly told Nate about setting up meetings with movie producers, leading to Nate's congratulatory response about her hard work. Joanna described the positive producer meetings, feeling validated and hopeful. Nate compared her success to winning a video game tournament. They discussed Joanna's earlier writings and passion for writing, including a childhood story about a brave turtle. Nate expressed admiration for her perseverance and encouraged her to keep pushing herself. They exchanged updates on their current projects. Nate invited Joanna over to try a lactose-free dish he made, and they planned to share desserts the next day. Joanna agreed to bring her chocolate and raspberry cake. They bid farewell, looking forward to their meeting.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:1",
+      "text": "Wow, Nate, I'm on fire! I just set up meetings with movie producers — my dreams are comin' true!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D26:2",
+      "text": "Wow Joanna, nice work! How did it go with those producer meetings?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:3",
+      "text": "Thanks, Nate! The meetings went really well. I felt confident discussing my script and vision and they seemed interested and excited. They loved the elements of self-discovery in it. It was so validating to be taken seriously. I'm feeling hopeful and inspired about the future!"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a television screen showing a game being played",
+      "dia_id": "D26:4",
+      "text": "Way to go, Joanna! Putting yourself out there is really brave and winning recognition for your hard work feels great. It's just like when I win a video game tournament - it feels awesome! I'm so proud of you and so glad you're feeling hopeful and inspired."
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://fromthepencup.files.wordpress.com/2023/01/img_3860.jpg"
+      ],
+      "blip_caption": "a photo of a notebook with a list of things to write",
+      "query": "notebook filled handwritten pages early writings",
+      "dia_id": "D26:5",
+      "text": "Thanks Nate! Your support and encouragement mean a lot. Writing isn't always easy but moments like these make me appreciate it. I'm so thankful for all the opportunities. Last week, I found these old notebooks with my early writings - it was cool to see how far I've come."
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a turtle laying on a bed of rocks and gravel",
+      "dia_id": "D26:6",
+      "text": "That's cool! You must love seeing how you've grown as an artist. Is there a favorite piece from your early writings that stands out to you?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:7",
+      "text": "Yup, I still remember this story from when I was 10. It was about a brave little turtle who was scared but explored the world anyway. Maybe even back then, I was inspired by stories about finding courage and taking risks. It's still a part of my writing today."
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a turtle laying on a bed of rocks and gravel",
+      "dia_id": "D26:8",
+      "text": "You obviously have a passion for writing, and it's funny the story was about a turtle! Their resilience is so inspiring! Take courage and keep pushing yourself with your writing. Great job!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:9",
+      "text": "Thanks, Nate! They make me think of strength and perseverance. They help motivate me in tough times - glad you find that inspiring!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D26:10",
+      "text": "What can I say, I love turtles. So, what's been happening with you?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:11",
+      "text": "Hey Nate! Apart from meetings, I'm working on a project - challenging but fulfilling. How about you? What's been going on?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D26:12",
+      "text": "Just been helping some friends reset their high scores at the international tournament. It's been fun!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:13",
+      "text": "Wow, sounds like so much fun! You're really passionate about gaming. Have an awesome time and keep helping others with those high scores!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D26:14",
+      "text": "Thanks! It feels good to use my skills to make a difference."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:15",
+      "text": "I couldn't agree more! Which is why my meetings are so exciting!"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/4q9s9o2607ib1.jpg"
+      ],
+      "blip_caption": "a photo of a bowl of ice cream with a spoon in it",
+      "query": "homemade coconut milk ice cream",
+      "dia_id": "D26:16",
+      "text": "On another note, want to come over and try some of this? It's super yummy, just made it yesterday!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:17",
+      "text": "Mmm, that looks delicious! Is it lactose-free by any chance?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D26:18",
+      "text": "Yep, I made it with coconut milk so it's lactose-free!"
+    },
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a bowl of ice cream with a spoon in it",
+      "dia_id": "D26:19",
+      "text": "Thanks so much, Nate! Sure! I'll come over tomorrow if that's fine."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D26:20",
+      "text": "I don't see why not! I'm not doing anything then, so your completely welcome to!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:21",
+      "text": "Awesome! I'll bring some of my recipes so we can both share deserts!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D26:22",
+      "text": "I'd love that! I've been wanting to try some of your chocolate and rasberry cake for a while now."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D26:23",
+      "text": "You got it! See you tomorrow!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D26:24",
+      "text": "See you then! Take care!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna schedules several meetings with movie producers to discuss her second screenplay which is about a thirty year old woman on a journey of self-discovery after suffering loss."
+    ],
+    "Nate": [
+      "Nate helps the people he met at the international video game tournament in August to reset their high scores."
+    ],
+    "date": "4 November, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna set up meetings with movie producers and feels her dreams are coming true.",
+        "D26:1"
+      ],
+      [
+        "Joanna discussed her script and vision with producers and they liked the elements of self-discovery in it.",
+        "D26:3"
+      ],
+      [
+        "Joanna found old notebooks with her early writings and feels appreciative of her progress as a writer.",
+        "D26:5"
+      ],
+      [
+        "Joanna's early writings include a story about a brave little turtle who explores the world despite being scared, reflecting themes of courage and risk-taking.",
+        "D26:7"
+      ],
+      [
+        "Joanna is working on a challenging but fulfilling project apart from her meetings.",
+        "D26:11"
+      ],
+      [
+        "Joanna is grateful for Nate's support and encouragement.",
+        "D26:5"
+      ],
+      [
+        "Joanna agreed to go to Nate's place and bring dessert recipes to share with him.",
+        "D26:19"
+      ],
+      [
+        "Joanna has a chocolate and raspberry cake recipe that Nate is interested in trying.",
+        "D26:22"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate mentions he likes winning recognition in video game tournaments and compares it to Joanna's recognition.",
+        "D26:4"
+      ],
+      [
+        "Nate has been helping friends reset their high scores at an international tournament.",
+        "D26:12"
+      ],
+      [
+        "Nate uses his gaming skills to make a difference and finds it rewarding.",
+        "D26:14"
+      ],
+      [
+        "Nate invited Joanna to try a lactose-free dish he made with coconut milk.",
+        "D26:16"
+      ],
+      [
+        "Nate is passionate about gaming and helping others with high scores.",
+        "D26:13"
+      ],
+      [
+        "Nate is open to Joanna coming over to try his dish and share dessert recipes.",
+        "D26:19"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

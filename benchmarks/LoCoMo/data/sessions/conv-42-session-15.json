@@ -1,0 +1,152 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-15",
+  "session_number": 15,
+  "session_summary": "On June 5th, 2022, at 2:12 pm, Joanna excitedly shared with Nate that her screenplay bits were on the big screen, feeling inspired but nervous. Nate congratulated her, mentioning her Spider-Man pin. They discussed their favorite superheroes, with Joanna loving Spider-Man for his struggles and Nate admiring Iron Man for his tech and humor. They both found inspiration in their favorite things, with Joanna's cork board filled with motivation. Nate expressed interest in making his own cork board and they bid each other goodbye.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a spider - man poster hanging on a wall",
+      "dia_id": "D15:1",
+      "text": "Hey Nate! Yesterday was crazy cool - I wrote a few bits for a screenplay that appeared on the big screen yesterday! It was nerve-wracking but so inspiring to see my words come alive!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D15:2",
+      "text": "Congrats, Joanna! Seeing your hard work pay off like that must've felt amazing. I bet it was scary too, but awesome! You're so inspiring. By the way, last time we saw eachother, I noticed a spiderman pin on your purse. Is Spider-Man your favorite superhero, or do you have another fave?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D15:3",
+      "text": "Thanks, Nate! It was a real roller coaster, but seeing the hard work pay off was amazing. Spider-Man has always been a favorite of mine - I mean, who doesn't love Peter Parker's struggles between being a hero and being a person? But I'm kind of a sucker for any superhero - everyone has their own rad story and powers. Do you have a favorite superhero?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://live.staticflickr.com/7148/6768759075_81b67d203f_b.jpg"
+      ],
+      "blip_caption": "a photography of a toy iron man standing on a white surface",
+      "query": "iron man action figures",
+      "dia_id": "D15:4",
+      "re-download": true,
+      "text": "That's great, Joanna! Iron Man is my top pick. I love his tech and that sarcastic humor. Seeing these figures just makes me feel invincible!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D15:5",
+      "text": "Wow, Nate! That's awesome. I love the tech and funny jokes of Iron Man too. What made you get that figure?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D15:6",
+      "text": "Thanks Joanna! I got it because it reminded me of something I love. Its presence in my room is a good reminder to keep working on my goals. Any inspiring things in your room?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D15:7",
+      "text": "My cork board is full of inspiring quotes and pictures for motivation and creativity. It's my little corner of inspiration."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D15:8",
+      "text": "Wow Joanna, that sounds great! Could you show me a picture of it?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.pinimg.com/originals/cc/b0/14/ccb0147bd55dfa436f284fb5939a7808.jpg"
+      ],
+      "blip_caption": "a photo of a picture frame with a picture of a family",
+      "query": "cork board quotes photos loved ones mementos",
+      "dia_id": "D15:9",
+      "text": "Here ya go, a pic of my cork board. It's got quotes, photos, and little keepsakes."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D15:10",
+      "text": "That's a great pic of your family! What made you hang it on your cork board?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D15:11",
+      "text": "Thanks, Nate! Having that picture on my cork board reminds me of the love and encouragement from them every day."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D15:12",
+      "text": "That's great, Joanna. Family support is invaluable. It's so good to have those reminders."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D15:13",
+      "text": "Absolutely, it means a lot and keeps me going."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D15:14",
+      "text": "I really should start a cork board of my own shouldn't I. That seems like a really valuable thing!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D15:15",
+      "text": "I would definitely recommend it! As long as your willing to explain what it is to your friends."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D15:16",
+      "text": "Of course! Well see you later Joanna!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D15:17",
+      "text": "Bye Nate!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna is inspired to see a movie that she helped write appear on the big screen."
+    ],
+    "Nate": [],
+    "date": "5 June, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna wrote bits for a screenplay that appeared on the big screen, which was nerve-wracking but inspiring.",
+        "D15:1"
+      ],
+      [
+        "Joanna has a Spider-Man pin on her purse, indicating she likes Spider-Man as a favorite superhero.",
+        "D15:2"
+      ],
+      [
+        "Joanna is a fan of superheroes in general, finding each one's story and powers fascinating.",
+        "D15:3"
+      ],
+      [
+        "Joanna's room has a cork board full of inspiring quotes and pictures for motivation and creativity.",
+        "D15:7"
+      ],
+      [
+        "Joanna has a picture of her family on her cork board which serves as a reminder of their love and encouragement.",
+        "D15:11"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate thinks Iron Man is his top superhero pick due to loving his tech and sarcastic humor.",
+        "D15:4"
+      ],
+      [
+        "Nate has an Iron Man figure in his room which reminds him to keep working on his goals.",
+        "D15:6"
+      ],
+      [
+        "Nate is considering starting a cork board of his own after being impressed by Joanna's.",
+        "D15:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

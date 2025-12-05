@@ -1,0 +1,193 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-18",
+  "session_number": 18,
+  "session_summary": "At 7:49 pm on 6th September 2023, Andrew and Audrey had a conversation. Andrew shared his work stress and challenge in finding balance in life. Audrey emphasized the importance of self-care and finding joy in simple activities. They discussed hobbies and moments of relaxation. Audrey shared about organizing a dog playdate and getting new beds for her furry friends. Andrew inquired about the playdate and new beds with interest. Audrey shared pictures of the playdate and the new beds, expressing joy in her pets' happiness. They discussed the importance of simple joys and bonding with animals. Andrew shared about his hike, while Audrey asked about hiking with Toby. Andrew mentioned the challenge of finding a dog-friendly place to live. Audrey encouraged him not to give up and to keep searching. They ended by exchanging well wishes and encouragement.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:1",
+      "text": "Hey Audrey, how's it going? Since we last talked, a few new things have come up in my life. Work's been tough and stressful, so my outdoor activities have taken a backseat. Finding balance has been challenging."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D18:2",
+      "text": "Hey Andrew, good to hear from you. Sorry to hear about work being tough. Finding that balance can be challenging, huh? It can feel like there's not enough time. Just remember to take care of yourself and find ways to manage stress. Hang in there!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:3",
+      "text": "Thanks! It's tough, but I guess that's just part of life, huh? How do you make sure you have enough time for yourself?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D18:4",
+      "text": "Yeah, it's tough to find time for yourself. I make sure to do at least one self-care activity each day - like treating myself to something nice. Don't forget to take care of yourself and have some fun too!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:5",
+      "text": "Yeah, self-care is really important isn't it. I've been adding simple things to my day like grabbing a coffee in the morning or going for a walk at lunch. It kinda helps me recharge and chill out a little."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D18:6",
+      "text": "That's great! Glad you found ways to relax. It's nice to have those little moments of joy. Something cool recently happened with my furry friends - I organized a doggy playdate with the neighbors' dogs. Seeing all those tails wagging was so sweet. They must have had so much fun!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:7",
+      "text": "That's awesome. I bet they all had a blast! Got any pics from that day?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/1go6sson1bk41.jpg"
+      ],
+      "blip_caption": "a photo of two dogs playing in a fenced in area",
+      "query": "dogs playing backyard",
+      "dia_id": "D18:8",
+      "text": "Here's a pic from the playdate. It was great seeing them having fun together. Their joy was infectious and made my heart feel so full."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:9",
+      "text": "That's so heartwarming! Seeing them enjoy themselves like that is always a joy. :)"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D18:10",
+      "text": "I'm so happy seeing them have a great time. Last week I even got some new beds for them, just to give them some extra comfort now the weather's cooling down and they were happy! It's incredible how such a simple thing can bring them so much happiness."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:11",
+      "text": "Animals can really find joy in the simple things. That was so nice of you. Do you have any pictures of the new beds?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/66f095b1a84b18ac04f6e85fe293a41a.jpg"
+      ],
+      "blip_caption": "a photo of a dog laying on a dog bed in a living room",
+      "query": "dog beds cozy comfy living room",
+      "dia_id": "D18:12",
+      "text": "Sure! Here's a pic of them. Super cozy and comfy. My furry friends love them!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:13",
+      "text": "Do they enjoy snoozing on it? It looks really comfy!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D18:14",
+      "text": "They absolutely love it! They curl up and snuggle like they're in a cloud - it's adorable!"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://cdn.stocksnap.io/img-thumbs/960w/sunset-sky_VEEQZUDEO9.jpg"
+      ],
+      "blip_caption": "a photography of a person on a mountain with a view of the city",
+      "query": "sunset mountain peak hike",
+      "dia_id": "D18:15",
+      "re-download": true,
+      "text": "That's really cute! Animals really know how to be happy with the simple stuff. Last weekend I got away for a hike and it was such a relief to get away from the city. Here's a photo of the beautiful sunset I witnessed during my hike."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D18:16",
+      "text": "Nice escape! Glad you got out hiking. Are you planning to hike with Toby someday?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:17",
+      "text": "Yeah, I've been wanting to for a while, but it's a bit difficult since Toby is still so young."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D18:18",
+      "text": "Did you find a dog-friendly place to live yet? I remember you mentioning it."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:19",
+      "text": "Nah, still working on that. It's been a bit challenging."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D18:20",
+      "text": "Keep going, you'll find a great place to live for your pet soon!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D18:21",
+      "text": "Thanks! I appreciate the help. I'll keep searching for that perfect place for dogs!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D18:22",
+      "text": "No worries! You got this. Don't give up. Take care!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey sets up a doggy-playdate with her neighbors’ dogs.",
+      "Audrey goes shopping for dog beds for her four dogs."
+    ],
+    "Andrew": [
+      "Andrew's work life becomes stressful and his hiking hobbies take a backseat.",
+      "Andrew continues his search for a pet-friendly apartment in the city to take better care of Toby."
+    ],
+    "date": "6 September, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew has been finding work tough and stressful, causing his outdoor activities to take a backseat.",
+        "D18:1"
+      ],
+      [
+        "Andrew tries to find balance in his life but finds it challenging.",
+        "D18:1"
+      ],
+      [
+        "Andrew has been adding self-care activities to his daily routine like grabbing a coffee or going for a walk to recharge and chill out.",
+        "D18:5"
+      ],
+      [
+        "Andrew enjoys hiking and finds it a relief to get away from the city.",
+        "D18:15"
+      ],
+      [
+        "Andrew is looking for a dog-friendly place to live for his young pet Toby.",
+        "D18:17"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey emphasizes the importance of self-care and finding time for oneself.",
+        "D18:4"
+      ],
+      [
+        "Audrey organized a doggy playdate with the neighbors' dogs, finding joy in seeing them have fun together.",
+        "D18:6"
+      ],
+      [
+        "Audrey got new beds for her furry friends to provide them comfort as the weather cools down.",
+        "D18:10"
+      ],
+      [
+        "Audrey's furry friends love the new beds, finding them cozy and comfortable.",
+        "D18:14"
+      ],
+      [
+        "Audrey encourages Andrew in his search for a dog-friendly place to live for Toby.",
+        "D18:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

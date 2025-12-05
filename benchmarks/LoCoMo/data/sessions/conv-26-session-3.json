@@ -1,0 +1,214 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-3",
+  "session_number": 3,
+  "session_summary": "Caroline and Melanie had a conversation at 7:55 pm on 9 June, 2023. Caroline shared about her school event last week where she talked about her transgender journey and encouraged students to get involved in the LGBTQ community. Melanie praised Caroline for spreading awareness and inspiring others with her strength and courage. They discussed the importance of conversations about gender identity and inclusion. Caroline expressed gratitude for the support she has received and the opportunity to give a voice to the trans community. Melanie commended Caroline for using her voice to create love, acceptance, and hope. They talked about the power of sharing personal stories and the impact it can have on others. They both expressed a desire to make a positive difference and support each other. Melanie mentioned that her family motivates her, while Caroline mentioned that her friends, family, and mentors are her support system. They shared photos of their loved ones and talked about the length of their relationships. Melanie mentioned being married for 5 years and Caroline expressed congratulations and well-wishes. They discussed the importance of cherishing family moments and finding happiness in them. They both agreed that family is everything.",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:1",
+      "text": "Hey Melanie! How's it going? I wanted to tell you about my school event last week. It was awesome! I talked about my transgender journey and encouraged students to get involved in the LGBTQ community. It was great to see their reactions. It made me reflect on how far I've come since I started transitioning three years ago."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D3:2",
+      "text": "Hey Caroline! Great to hear from you. Sounds like your event was amazing! I'm so proud of you for spreading awareness and getting others involved in the LGBTQ community. You've come a long way since your transition - keep on inspiring people with your strength and courage!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:3",
+      "text": "Thanks, Mel! Your backing really means a lot. I felt super powerful giving my talk. I shared my own journey, the struggles I had and how much I've developed since coming out. It was wonderful to see how the audience related to what I said and how it inspired them to be better allies. Conversations about gender identity and inclusion are so necessary and I'm thankful for being able to give a voice to the trans community."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D3:4",
+      "text": "Wow, Caroline, you're doing an awesome job of inspiring others with your journey. It's great to be part of it and see how you're positively affecting so many. Talking about inclusivity and acceptance is crucial, and you're so brave to speak up for the trans community. Keep up the great work!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:5",
+      "text": "Thanks Mel! Your kind words mean a lot. Sharing our experiences isn't always easy, but I feel it's important to help promote understanding and acceptance. I've been blessed with loads of love and support throughout this journey, and I want to pass it on to others. By sharing our stories, we can build a strong, supportive community of hope."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D3:6",
+      "text": "Yeah, Caroline! It takes courage to talk about our own stories. But it's in these vulnerable moments that we bond and understand each other. We all have our different paths, but if we share them, we show people that they're not alone. Our stories can be so inspiring and encouraging to others who are facing the same challenges. Thank you for using your voice to create love, acceptance, and hope. You're doing amazing!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:7",
+      "text": "Your words mean a lot to me. I'm grateful for the chance to share my story and give others hope. We all have unique paths, and by working together we can build a more inclusive and understanding world. I'm going to keep using my voice to make a change and lift others up. And you're part of that!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D3:8",
+      "text": "Thanks, Caroline, for letting me join your journey. I'm so proud to be part of the difference you're making. Let's keep motivating and helping each other out as we journey through life. We can make a real impact together!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:9",
+      "text": "Yeah Mel, let's spread love and understanding! Thanks for the support and encouragement. We can tackle life's challenges together! We got this!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D3:10",
+      "text": "Yes, Caroline! We can do it. Your courage is inspiring. I want to be couragous for my family- they motivate me and give me love. What motivates you?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://fox2now.com/wp-content/uploads/sites/14/2023/08/that-tall-family.jpg"
+      ],
+      "blip_caption": "a photo of a family posing for a picture in a yard",
+      "query": "group of friends and family",
+      "dia_id": "D3:11",
+      "text": "Thanks, Mel! My friends, family and mentors are my rocks – they motivate me and give me the strength to push on. Here's a pic from when we met up last week!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D3:12",
+      "text": "Wow, that photo is great! How long have you had such a great support system?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:13",
+      "text": "Yeah, I'm really lucky to have them. They've been there through everything, I've known these friends for 4 years, since I moved from my home country. Their love and help have been so important especially after that tough breakup. I'm super thankful. Who supports you, Mel?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://mrswebersneighborhood.com/wp-content/uploads/2022/07/Cedar-Falls-Hocking-Hills.jpg"
+      ],
+      "blip_caption": "a photo of a man and a little girl standing in front of a waterfall",
+      "query": "husband kids hiking nature",
+      "dia_id": "D3:14",
+      "text": "I'm lucky to have my husband and kids; they keep me motivated."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:15",
+      "text": "Wow, what an amazing family pic! How long have you been married?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i.redd.it/8o28nfllf3eb1.jpg"
+      ],
+      "blip_caption": "a photo of a bride in a wedding dress holding a bouquet",
+      "query": "wedding day",
+      "dia_id": "D3:16",
+      "text": "5 years already! Time flies- feels like just yesterday I put this dress on! Thanks, Caroline!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:17",
+      "text": "Congrats, Melanie! You both looked so great on your wedding day! Wishing you many happy years together!"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "http://shirleyswardrobe.com/wp-content/uploads/2017/07/LF-Picnic-6.jpg"
+      ],
+      "blip_caption": "a photo of a man and woman sitting on a blanket eating food",
+      "query": "family picnic park laughing",
+      "dia_id": "D3:18",
+      "text": "Thanks, Caroline! Appreciate your kind words. Looking forward to more happy years. Our family and moments make it all worth it."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:19",
+      "text": "Looks like you had a great day! How was it? You all look so happy!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D3:20",
+      "text": "It so fun! We played games, ate good food, and just hung out together. Family moments make life awesome."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:21",
+      "text": "Sounds great, Mel! Glad you had a great time. Cherish the moments - they're the best!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D3:22",
+      "text": "Absolutely, Caroline! I cherish time with family. It's when I really feel alive and happy."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D3:23",
+      "text": "I 100% agree, Mel. Hanging with loved ones is amazing and brings so much happiness. Those moments really make me thankful. Family is everything."
+    }
+  ],
+  "events": {
+    "Caroline": [
+      "Caroline speaks at her school and encourages students to get involved in the LGBTQ community."
+    ],
+    "Melanie": [],
+    "date": "9 June, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline started transitioning three years ago.",
+        "D3:1"
+      ],
+      [
+        "Caroline gave a talk at a school event about her transgender journey and encouraged students to get involved in the LGBTQ community.",
+        "D3:1"
+      ],
+      [
+        "Caroline believes conversations about gender identity and inclusion are necessary and is thankful for being able to give a voice to the trans community.",
+        "D3:3"
+      ],
+      [
+        "Caroline feels sharing experiences is important to help promote understanding and acceptance.",
+        "D3:5"
+      ],
+      [
+        "Caroline feels blessed with a lot of love and support throughout her journey.",
+        "D3:5"
+      ],
+      [
+        "Caroline aims to pass on the love and support she has received by sharing stories to build a strong and supportive community of hope.",
+        "D3:5"
+      ],
+      [
+        "Caroline's friends, family, and mentors are her rocks, motivating her and giving her strength to push on.",
+        "D3:11"
+      ],
+      [
+        "Caroline has known her friends for 4 years, since moving from her home country, and values their love and help, especially after a tough breakup.",
+        "D3:13"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie is supportive of Caroline and proud of her for spreading awareness and inspiring others in the LGBTQ community.",
+        "D3:2"
+      ],
+      [
+        "Melanie believes talking about inclusivity and acceptance is crucial.",
+        "D3:4"
+      ],
+      [
+        "Melanie values family moments and feels they make life awesome, alive, and happy.",
+        "D3:20"
+      ],
+      [
+        "Melanie has a husband and kids who keep her motivated.",
+        "D3:14"
+      ],
+      [
+        "Melanie has been married for 5 years.",
+        "D3:16"
+      ],
+      [
+        "Melanie cherishes time with family and feels most alive and happy during those moments.",
+        "D3:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

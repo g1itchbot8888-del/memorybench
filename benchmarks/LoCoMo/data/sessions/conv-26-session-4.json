@@ -1,0 +1,149 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-4",
+  "session_number": 4,
+  "session_summary": "Caroline and Melanie catch up after a long time. Caroline shows Melanie her special necklace, which was a gift from her grandmother in Sweden and represents love, faith, and strength. Melanie admires it and asks if Caroline has any other treasured items. Caroline mentions a hand-painted bowl made by a friend on her 18th birthday, which reminds her of art and self-expression. Melanie shares that she recently went camping with her family and had a great time exploring nature and bonding with her kids. They discuss the importance of family moments. Caroline reveals that she is looking into a career in counseling and mental health, specifically wanting to work with trans people. She attended an LGBTQ+ counseling workshop and found it enlightening. Melanie praises Caroline for her dedication and asks about her motivation to pursue counseling. Caroline shares how her own journey and the support she received inspired her to help others. Melanie commends Caroline's hard work and passion. Caroline expresses gratitude for Melanie's kind words, and Melanie congratulates Caroline for pursuing what she cares about.",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://i.redd.it/67uas3gnmz7b1.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a necklace with a cross and a heart",
+      "query": "pendant transgender symbol",
+      "dia_id": "D4:1",
+      "text": "Hey Melanie! Long time no talk! A lot's been going on in my life! Take a look at this."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D4:2",
+      "text": "Hey, Caroline! Nice to hear from you! Love the necklace, any special meaning to it?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D4:3",
+      "text": "Thanks, Melanie! This necklace is super special to me - a gift from my grandma in my home country, Sweden. She gave it to me when I was young, and it stands for love, faith and strength. It's like a reminder of my roots and all the love and support I get from my family."
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a stack of bowls with different designs on them",
+      "dia_id": "D4:4",
+      "text": "That's gorgeous, Caroline! It's awesome what items can mean so much to us, right? Got any other objects that you treasure, like that necklace?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D4:5",
+      "text": "Yep, Melanie! I've got some other stuff with sentimental value, like my hand-painted bowl. A friend made it for my 18th birthday ten years ago. The pattern and colors are awesome-- it reminds me of art and self-expression."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D4:6",
+      "text": "That sounds great, Caroline! It's awesome having stuff around that make us think of good connections and times. Actually, I just took my fam camping in the mountains last week - it was a really nice time together!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D4:7",
+      "text": "Sounds great, Mel. Glad you made some new family mems. How was it? Anything fun?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D4:8",
+      "text": "It was an awesome time, Caroline! We explored nature, roasted marshmallows around the campfire and even went on a hike. The view from the top was amazing! The 2 younger kids love nature. It was so special having these moments together as a family - I'll never forget it!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D4:9",
+      "text": "That's awesome, Melanie! Family moments like that are so special. Glad y'all had such a great time."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D4:10",
+      "text": "Thanks, Caroline! Family time matters to me. What's up with you lately?"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a book shelf with many books on it",
+      "dia_id": "D4:11",
+      "text": "Lately, I've been looking into counseling and mental health as a career. I want to help people who have gone through the same things as me."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D4:12",
+      "text": "Sounds great! What kind of counseling and mental health services do you want to persue?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D4:13",
+      "text": "I'm still figuring out the details, but I'm thinking of working with trans people, helping them accept themselves and supporting their mental health. Last Friday, I went to an LGBTQ+ counseling workshop and it was really enlightening. They talked about different therapeutic methods and how to best work with trans people. Seeing how passionate these pros were about making a safe space for people like me was amazing."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D4:14",
+      "text": "Woah, Caroline, it sounds like you're doing some impressive work. It's inspiring to see your dedication to helping others. What motivated you to pursue counseling?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D4:15",
+      "text": "Thanks, Melanie. It really mattered. My own journey and the support I got made a huge difference. Now I want to help people go through it too. I saw how counseling and support groups improved my life, so I started caring more about mental health and understanding myself. Now I'm passionate about creating a safe, inviting place for people to grow."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D4:16",
+      "text": "Wow, Caroline! You've gained so much from your own experience. Your passion and hard work to help others is awesome. Keep it up, you're making a big impact!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D4:17",
+      "text": "Thanks, Melanie! Your kind words mean a lot."
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a book shelf filled with books in a room",
+      "dia_id": "D4:18",
+      "text": "Congrats Caroline! Good on you for going after what you really care about."
+    }
+  ],
+  "events": {
+    "Caroline": [],
+    "Melanie": [
+      "Melanie takes her family camping for a weekend to bond."
+    ],
+    "date": "27 June, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline received a special necklace as a gift from her grandmother in Sweden, symbolizing love, faith, and strength.",
+        "D4:3"
+      ],
+      [
+        "Caroline treasures a hand-painted bowl made by a friend for her 18th birthday, which reminds her of art and self-expression.",
+        "D4:5"
+      ],
+      [
+        "Caroline is considering a career in counseling and mental health, particularly working with trans people to help them accept themselves and support their mental health.",
+        "D4:11"
+      ],
+      [
+        "Caroline attended an LGBTQ+ counseling workshop focused on therapeutic methods and supporting trans individuals, finding it enlightening and inspiring.",
+        "D4:13"
+      ],
+      [
+        "Caroline's motivation to pursue counseling comes from her own journey, the support she received, and the positive impact counseling had on her life.",
+        "D4:15"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie went camping with her family in the mountains last week and had a great time exploring nature, roasting marshmallows, and hiking.",
+        "D4:8"
+      ],
+      [
+        "Melanie values family time and finds it to be special and important.",
+        "D4:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

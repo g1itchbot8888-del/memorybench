@@ -1,0 +1,224 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-25",
+  "session_number": 25,
+  "session_summary": "At 8:56 pm on 20 September 2022, John and James caught up on recent events in their lives. John shared his new startup of portable smokers and a mobile game he created, while James talked about receiving positive feedback from the gaming community and his interest in John's game. John emphasized the importance of staying informed and continuously learning in game development, recommending resources like a book and a magazine to James. James appreciated the advice and encouraged John to take care of himself amidst a busy week. They expressed mutual support and admiration for each other's work.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D25:1",
+      "text": "Hey James, been a few days since we chatted. Lots of stuff goin' on in my life!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:2",
+      "text": "Hey John! What new has happened in your life?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/2sop5yn1a8i81.jpg"
+      ],
+      "blip_caption": "a photo of a fire burning in a metal pot on a street",
+      "query": "work project",
+      "dia_id": "D25:3",
+      "text": "Yesterday I started a new startup - portable smokers. Now, I’ve already welded one from metal. Do you think it looks good? How about you, any cool stuff happening?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:4",
+      "text": "Hey John, that looks great! Seeing it makes me think of campfires with pals. Last night I streamed a game and wow, was I blown away by all the nice comments from the gaming community. I felt so stoked and inspired to keep going. "
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a card with a graduation cap on it",
+      "dia_id": "D25:5",
+      "text": "Woohoo, congrats James! That's awesome. Sounds like you're doing well. All your hard work is paying off, so keep it up!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:6",
+      "text": "Thanks for the support, John! This made me think of such an exciting time. Any more big moments recently?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/10/2x1_NSwitch_Bayonetta3_image1600w.jpg"
+      ],
+      "blip_caption": "a photography of a demonic demon flying in the air with a sword",
+      "query": "mobile game screenshot title",
+      "dia_id": "D25:7",
+      "re-download": true,
+      "text": "I just achieved a major career milestone - making my first mobile game! It's launching next month."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:8",
+      "text": "Way to go, John! Congrats on achieving that major career milestone. Could you tell me more about it? Why didn’t you say before that you were creating a mobile game?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Awesomenauts_-_Screenshot_01.jpg"
+      ],
+      "blip_caption": "a photography of a video game with a bunch of different screens",
+      "query": "2D adventure game puzzles exploration colorful virtual world",
+      "dia_id": "D25:9",
+      "re-download": true,
+      "text": "Thanks James! I kept it a secret because I would have been very upset if I had told you about her in advance and then it wouldn't have worked out. I've been working on this for the past few months and I'm really proud of how it's turned out. It's a 2D adventure game with puzzles and exploration. Here's a screenshot."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:10",
+      "text": "John, this sounds great! I'm into 2D adventures with puzzles - like The Legend of Zelda. Can I see it or help with testing it out?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://thethoughtfulgamer.com/wp-content/uploads/2017/10/20171027_105814-e1509116397258.jpg"
+      ],
+      "blip_caption": "a photo of a book with a cartoon of a man playing a game",
+      "query": "game development books resources skills refine game",
+      "dia_id": "D25:11",
+      "text": "Cheers, James! Appreciate your offer to help. I'll definitely let you know when the testing is ready. By the way, here is the book that helped me create the puzzles for this game."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:12",
+      "text": "Wow, that book looks great! What other resources do you use to improve your game? Tell me about your gaming tips!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:13",
+      "text": "It is filled with awesome tips and insights on game design. I also watch tutorials and keep up with developer forums for information and ideas. Basically, staying informed and constantly learning is key!"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/a2jbhj4bi6n61.jpg"
+      ],
+      "blip_caption": "a photo of a magazine with a picture of a cartoon character",
+      "query": "gaming magazine tips and tricks game developers",
+      "dia_id": "D25:14",
+      "text": "You're really dedicated to improving and staying up to date. It's inspiring to see how you stay informed and keep learning. I also advise you to read this magazine, which is also a worthy source of information. Keep up the good work!\n"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:15",
+      "text": "I read it, too. This magazine has been great for me too. Tutorials, interviews with developers, and tips - all really helpful."
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a magazine with a picture of a cartoon character",
+      "dia_id": "D25:16",
+      "text": "Wow, John! Glad that resource was useful - looks like it provides some good tips and tricks for game developers."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:17",
+      "text": "Yeah, that magazine looks great! Have you also found it to be a good resource?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:18",
+      "text": "Of course! It's been great, filled with tutorials and developer interviews to help improve my game dev skills. Super useful!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:19",
+      "text": "Resources like that are great for improving our skills. Keep it up! How's your week been?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:20",
+      "text": "My week's been good. Just trying to find a balance between work and other activities. How about you, how's your week going?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:21",
+      "text": "As for me, this week has been chaotic with everything going on. But I'm powering through!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:22",
+      "text": "Sorry to hear about your busy week, John. Make sure to take some time for yourself and take care. You've got this!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:23",
+      "text": "I appreciate your help. Gonna make time for myself."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D25:24",
+      "text": "No worries, take care of yourself. Relax and recharge - you deserve it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D25:25",
+      "text": "Thanks, man! I'll definitely take your advice. You're the best!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James receives cheers and compliments from the gaming community after a successful stream."
+    ],
+    "John": [
+      "John starts a startup selling portable smokers.",
+      "John finishes working on a mobile 2D adventure game with puzzles and explorations which is due for release in October 2022"
+    ],
+    "date": "20 September, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John started a new startup focusing on portable smokers and has already welded one from metal.",
+        "D25:3"
+      ],
+      [
+        "John achieved a major career milestone by creating his first mobile game, which is launching next month.",
+        "D25:7"
+      ],
+      [
+        "John's mobile game is a 2D adventure game with puzzles and exploration.",
+        "D25:9"
+      ],
+      [
+        "John uses resources like a book, tutorials, and developer forums to improve his game development skills.",
+        "D25:13"
+      ],
+      [
+        "John reads a magazine with tutorials, interviews with developers, and tips for game development.",
+        "D25:15"
+      ],
+      [
+        "John's week has been chaotic, but he is pushing through.",
+        "D25:21"
+      ]
+    ],
+    "James": [
+      [
+        "James received positive feedback from the gaming community while streaming a game, which inspired him to keep going.",
+        "D25:4"
+      ],
+      [
+        "James offered to help John test his mobile game.",
+        "D25:10"
+      ],
+      [
+        "James recommends a magazine with tutorials and developer interviews to John for game development.",
+        "D25:14"
+      ],
+      [
+        "James finds the magazine to be a useful resource for game development.",
+        "D25:18"
+      ],
+      [
+        "James advises John to take care and make time for himself during a busy week.",
+        "D25:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

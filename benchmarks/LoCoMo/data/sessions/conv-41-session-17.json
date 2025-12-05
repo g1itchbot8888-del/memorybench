@@ -1,0 +1,139 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-17",
+  "session_number": 17,
+  "session_summary": "John and Maria, having a conversation at 11:51 am on 3 June, 2023, discussed the loss of John's beloved pet Max, who was a significant part of their family for 10 years. They shared memories of Max, acknowledging the importance of love and loyalty that pets bring to our lives. John expressed his family's sadness but also their gratitude for the joy Max brought. Maria offered comfort and support, suggesting they honor Max's memory by considering adopting a rescue dog to teach their kids love and compassion. They ended the conversation by expressing their appreciation for each other's friendship and support.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D17:1",
+      "text": "Hey Maria, long time no talk! Life's been pretty wild lately. The toughest thing to deal with is that we had to say goodbye to Max. He was such an important part of our family for 10 years and it's so hard to think he's not here wagging that tail anymore."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D17:2",
+      "text": "John, I'm sorry to hear about Max. It can be tough to lose a pet - they're like family. How have you been coping?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:3",
+      "text": "Hey Maria, thanks for the kind words. We're all still sad about it, but have been comforted by the good times we had and the memories we have. It's tough, but we'll keep doing our best."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D17:4",
+      "text": "Good to hear that you're finding comfort in the good times you had with Max. Pets really have a way of touching our hearts. Do you have any pictures you'd like to share?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/pdwhtmvi74va1.jpg"
+      ],
+      "blip_caption": "a photo of a dog sitting in the grass with a leash",
+      "query": "golden retriever backyard tree shade",
+      "dia_id": "D17:5",
+      "text": "Let's make sure we make progress in the coming weeks to ensure that we honor the memories of our loved ones. Here's a picture of him that I cherish. \n"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D17:6",
+      "text": "Max looks so peaceful in that photo, just chilling in the backyard. It's nice to remember him like that. It's a great way to honor him."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:7",
+      "text": "Yeah, that's how we'll think of him - peaceful and happy. He brought us so much joy. It's heartbreaking that he's gone but we're grateful to have had him as part of our family. He taught us a lot about love and loyalty."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D17:8",
+      "text": "Max was truly awesome. Let's cherish the lessons he taught."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:9",
+      "text": "He really taught us the importance of unconditional love and loyalty. I want my kids to learn that too. Our bond with him was so special and something I cherish."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D17:10",
+      "text": "That's a great lesson to pass on to your kids, John. Both are really important for strong relationships. Any plans to give another pet a loving home?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:11",
+      "text": "We're considering adopting a rescue dog - for love and to teach our kids responsibility and compassion."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D17:12",
+      "text": "John, that's such a great idea! It gives the pup a loving home and teaches your kids important values. If you need any help, let me know! I just started volunteering at a local dog shelter once a month."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:13",
+      "text": "Thanks for the offer, Maria! It's so awesome to have friends like you. If we need help, we'll let you know. Appreciate it!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D17:14",
+      "text": "Sure thing, John. Let me know if you need any help."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D17:15",
+      "text": "Sure thing, Maria. Thanks for the support! It means a lot to me."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D17:16",
+      "text": "No worries, John. I'm here for you. Take care!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John's ten year old dog, Max, passes away.",
+      "John and his family consider adopting a rescue dog as a pet."
+    ],
+    "Maria": [
+      "Maria signs an agreement with a local dog shelter to volunteer once a month."
+    ],
+    "date": "3 June, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John recently had to say goodbye to his dog, Max, who was a part of their family for 10 years.",
+        "D17:1"
+      ],
+      [
+        "John is finding it tough to cope with the loss of Max, but he and his family are trying to focus on the good times and memories they shared.",
+        "D17:3"
+      ],
+      [
+        "John shared a picture of Max to honor his memory and cherish the moments they had together.",
+        "D17:5"
+      ],
+      [
+        "John values the lessons that Max taught them about love and loyalty, and wants his kids to learn the same.",
+        "D17:7"
+      ],
+      [
+        "John is considering adopting a rescue dog to give it a loving home and teach his kids responsibility and compassion.",
+        "D17:11"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria offered John her condolences and support after hearing about the loss of Max, acknowledging the importance of pets as part of the family.",
+        "D17:2"
+      ],
+      [
+        "Maria started volunteering at a local dog shelter once a month, showing her compassion towards animals and her willingness to help.",
+        "D17:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

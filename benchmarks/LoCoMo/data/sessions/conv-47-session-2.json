@@ -1,0 +1,177 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-2",
+  "session_number": 2,
+  "session_summary": "At 9:26 pm on 20 March, 2022, James told John about joining a new gaming platform, emphasizing the joy of connecting with gamers and sharing experiences. John agreed, highlighting the community-building aspect of gaming. They both found solace and stress relief in gaming during tough times. James also shared his interest in exploring different gaming styles, while John mentioned his new hobby of beachcombing with a metal detector. James then showed John pictures of his dogs and offered to help him find a pet in the future. They ended their conversation on a friendly note.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "dia_id": "D2:1",
+      "text": "Hey John, something awesome happened since we talked. I made a game avatar and joined a new platform. It's so fun exploring and chatting with other gamers - it's a whole new adventure every time! I feel like I'm part of a super cool online community."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:2",
+      "text": "Hey James, awesome! Glad you're enjoying it and connecting with others. Building a community is really cool, especially when you meet people who enjoy the same things."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D2:3",
+      "text": "Thanks, John! Connecting with other gamers has been great! We've shared tips, strategies, and stories about gaming. It's amazing how it brings people together, regardless of their backgrounds."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:4",
+      "text": "That's incredible! It's so cool how gaming can bring people together and create a strong bond, regardless of their background."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D2:5",
+      "text": "Yeah, it's our shared language and passion. It's been a refuge for me in tough times."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:6",
+      "text": "Yeah, gaming always helps me escape stress. It's amazing how it calms me down during tough times."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D2:7",
+      "text": "Games are my go-to when I'm feeling overwhelmed. It's like therapy. I can relax, forget my troubles, and get lost in another world."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:8",
+      "text": "Gotcha. Gaming can be a great way to take a break and escape for a while. Anything new you've been into lately?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D2:9",
+      "text": "Lately, I've been checking out different styles of it. It's been fun to try something fresh and test myself in other ways. What about you, John? Any new hobbies recently?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:10",
+      "text": "I've been getting into a new hobby recently. I bought a metal detector and walk along the beaches looking for something worthwhile."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D2:11",
+      "text": "Interesting, John! Sounds like an awesome immersive experience. Already found something interesting?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:12",
+      "text": "Mostly just bottle caps, but a couple of times I found coins, and once even a gold ring."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D2:13",
+      "text": "Cool, I wish you good luck in this matter! By the way, I've got something to show you."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:14",
+      "text": "Show me what you've got! What is it?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+      ],
+      "blip_caption": "a photo of two dogs running in a field with a ball in their mouth",
+      "query": "dogs playing park",
+      "dia_id": "D2:15",
+      "text": "Check out this pic of my best buds having a blast in the park. They've brought so much joy to my life. My two dogs are the best pals ever, right?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:16",
+      "text": "They look like they're having a blast! Can they do any tricks?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/bd7160b2t6aa1.jpg"
+      ],
+      "blip_caption": "a photo of a dog laying on a bed with a name tag",
+      "query": "golden retrievers dogs sitting patiently treats",
+      "dia_id": "D2:17",
+      "text": "They can do tricks like sit, stay, paw, and rollover. Here's a picture of Daisy waiting for a treat. I've done lots of training and they've picked it up fast. They're like my family."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:18",
+      "text": "Aww, they're adorable! Pets are the best - they must make life so much better. I want one so bad, but I'm not there yet. Someday!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D2:19",
+      "text": "A pet would truly be great for you! They bring so much love and companionship. If you're interested, I can help find the perfect one for you - you'd make a great pet parent!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:20",
+      "text": "Cheers, James! Yeah, I'll keep that in mind. Appreciate the offer."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D2:21",
+      "text": "No problem, John! Let me know whenever you need assistance. Take care!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James creates an avatar and joining a new online gaming platform where he has a great time connecting with other gamers."
+    ],
+    "John": [
+      "John picks up a hobby of walking along the beach with a metal detector.",
+      "John finds bottle caps, a few coins and a gold ring from his new metal detector hobby."
+    ],
+    "date": "20 March, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James created a game avatar and joined a new platform to connect with other gamers.",
+        "D2:1"
+      ],
+      [
+        "Gaming has been a refuge for James in tough times, providing relaxation and escape from stress.",
+        "D2:5"
+      ],
+      [
+        "James sees games as therapy, where he can relax, forget his troubles, and get lost in another world.",
+        "D2:7"
+      ],
+      [
+        "James has been exploring different styles of gaming lately to try something new and test himself.",
+        "D2:9"
+      ],
+      [
+        "James has two dogs who he has done lots of training with, and they are like family to him.",
+        "D2:17"
+      ],
+      [
+        "James offered to help find the perfect pet for John when John mentioned wanting one.",
+        "D2:19"
+      ]
+    ],
+    "John": [
+      [
+        "John recently got into a new hobby of using a metal detector on the beach to look for items.",
+        "D2:10"
+      ],
+      [
+        "John found mostly bottle caps with his metal detector, but also found coins and even a gold ring a couple of times.",
+        "D2:12"
+      ],
+      [
+        "John expressed interest in getting a pet in the future and appreciated James' offer to help find the perfect one.",
+        "D2:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

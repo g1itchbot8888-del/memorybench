@@ -1,0 +1,182 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-14",
+  "session_number": 14,
+  "session_summary": "John and Tim caught up at 1:50 pm on October 17, 2023, after a long time. John is now mentoring young players, finding it rewarding and fulfilling. He enjoys being a positive role model for them and is proud to see their growth and success. Tim shared a stunning nature picture from the Smoky Mountains, emphasizing the beauty of nature and the importance of taking a break from city life. They discussed finding balance in life, with Tim mentioning his busy school schedule and love for reading, while John expressed his recent enjoyment of reading.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D14:1",
+      "text": "Hey Tim! Long time no talk - a lot has been going on since then!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D14:2",
+      "text": "Hey John! Long time no see! Can't wait to catch up and hear all about what you've been up to."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:3",
+      "text": "Seems like forever since we caught up! I'm now mentoring the younger players on my team. It's super rewarding and I'm loving sharing my skills and knowledge with them. It's also a great way for me to stay involved in the game during the off-season."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D14:4",
+      "text": "Wow! Mentoring must be so rewarding. You get to show others what you know - that's awesome! Is it difficult? Any hiccups?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:5",
+      "text": "There are challenges, since everyone is so different. But it's been awesome gaining experience and adapting, motivating and encouraging everyone. It's been great to watch each of them develop and reach their goals - such a reward!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D14:6",
+      "text": "Wow, that's awesome! It must be really rewarding to see them reach their goals. What's it like mentoring them?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://cdn2.picryl.com/photo/2020/01/16/members-of-the-local-and-us-communities-attend-the-edfa79-1024.jpg"
+      ],
+      "blip_caption": "a photography of a basketball player standing in a gym with his hands on his hips",
+      "query": "mentoring young players practice smiles",
+      "dia_id": "D14:7",
+      "re-download": true,
+      "text": "Mentoring them has been awesome! Seeing their growth, improvement, and confidence is so fulfilling. I'm glad I could make a positive impact on their lives. Here's a pic of me and some of the younger players at a recent practice."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D14:8",
+      "text": "You're really doing great with them. Do any of them see you as a mentor?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:9",
+      "text": "Some of them do see me as a mentor, which is really rewarding. I try to provide them with advice and support on and off the court. Being a positive role model for them is something I enjoy."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D14:10",
+      "text": "That's incredible! How does it feel to have their trust and admiration? It must be such an honor to be a positive role model for them."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:11",
+      "text": "It feels great to have their trust and admiration. Being a role model for these young athletes is so fulfilling. I'm glad my experiences can help shape their future and inspire them to go after their dreams."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://images.pexels.com/photos/12312263/pexels-photo-12312263.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-tanya-badillo-12312263.jpg"
+      ],
+      "blip_caption": "a photo of a sunset over a mountain range with a few trees",
+      "query": "mountain range sunset",
+      "dia_id": "D14:12",
+      "text": "You're doing a great job with them. Way to go! This is what I've been up to."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:13",
+      "text": "Wow, stunning! And thanks. Really appreciate it. Means a lot."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://i.redd.it/hf54pvtf8rt51.jpg"
+      ],
+      "blip_caption": "a photo of a sunset over a mountain with a tree",
+      "query": "sunset blue ridge mountains north carolina",
+      "dia_id": "D14:14",
+      "text": "I took this pic last summer. Seeing it was so stunning. Thanks for appreciating it. It means a lot to me."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:15",
+      "text": "Where did you capture this? Nature is truly amazing, isn't it?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D14:16",
+      "text": "I snapped that pic on my trip to the Smoky Mountains last year. It was incredible seeing it in person. Nature's really something else!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:17",
+      "text": "Yeah, it's amazing how nature's beauty and grandeur can take our breath away. It's so nice to escape the noise of the city and relax in nature. Good for you to get to enjoy that stunning view!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D14:18",
+      "text": "Nature is indeed refreshing. A good break from school."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:19",
+      "text": "How are you doing in shcool?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D14:20",
+      "text": "Doing good! Busy with studies but finding time to relax with books - good balance."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:21",
+      "text": "Cool! Finding that balance is key. Are you currently reading any books?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D14:22",
+      "text": "I'm reading this book and I'm totally hooked! What about you?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:23",
+      "text": "I haven't had much time to read, but after we talked I finally picked up a book and it's been awesome! Talk to you later!"
+    }
+  ],
+  "events": {
+    "Tim": [],
+    "John": [
+      "John starts to mentor the younger players on his team and finds the experience rewarding."
+    ],
+    "date": "17 October, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John is currently mentoring younger players on his team during the off-season.",
+        "D14:3"
+      ],
+      [
+        "John finds mentoring the younger players super rewarding, motivating, and encouraging.",
+        "D14:5"
+      ],
+      [
+        "Some of the younger players see John as a mentor, and he enjoys providing them with advice and support on and off the court.",
+        "D14:9"
+      ],
+      [
+        "John feels honored to have the trust and admiration of the younger players and enjoys being a role model for them.",
+        "D14:11"
+      ]
+    ],
+    "Tim": [
+      [
+        "Tim took a stunning picture last summer on his trip to the Smoky Mountains.",
+        "D14:14"
+      ],
+      [
+        "Tim is busy with studies but finds time to relax with books, seeking a good balance.",
+        "D14:20"
+      ],
+      [
+        "Tim is currently reading a book that he's totally hooked on.",
+        "D14:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

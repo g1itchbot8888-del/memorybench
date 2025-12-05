@@ -1,0 +1,190 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-20",
+  "session_number": 20,
+  "session_summary": "John informed James at 3:57 pm on 21 August, 2022 that he joined an online programming group, finding it incredible to be part of a community with similar goals. He shared that he had exchanged contacts with some members after working on projects together. James praised John's involvement and inquired about potential collaborations. John confirmed a recent successful collaboration and his interest in eSports hosting. James mentioned his gaming group and recent gear upgrades. John shared his gaming setup, highlighting the escape and motivation gaming provides. James discussed a gaming marathon he hosted and asked about John's gaming plans with his siblings. John revealed a plan for a family gaming night next month, which James applauded. They concluded their conversation by agreeing to catch up soon.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D20:1",
+      "text": "Hey, James! Good to hear from you. I have some awesome news - I joined a programming group online last Friday and it's been incredible! It's awesome to be part of a community of people with similar goals - coding and making a difference."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D20:2",
+      "text": "Hey John! That's great to hear! Being part of a coding community can definitely be rewarding. Can you share more about your experiences with the online group? Have you made any interesting connections?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:3",
+      "text": "Thanks for asking. My online programming group has been great - lots of skilled coders, all passionate about using tech for good. We've shared ideas, chatted about coding and worked on a few projects together. It's amazing to see everyone's different skills and viewpoints. I've even exchanged contacts with a few of them."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D20:4",
+      "text": "Nice one, John! Looks like you're really getting involved in the programming world. It's great connecting with like-minded people and building up your network. Have you had the opportunity to collaborate on any projects or work with anyone yet?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:5",
+      "text": "Yeah, collaborating is great. Last week I worked with someone from the group on a project and we both had our strong points which helped out. It was cool seeing how we created something awesome together. It's great working with others."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D20:6",
+      "text": "Working together on a project can create amazing results, when everyone brings in their different strengths and abilities. It's cool when the final product is done and you know you were a part of making something awesome. Can we say that you are returning to working with programming again?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:7",
+      "text": "I think not, this is just a one-time experience to learn something new and work as a team. I'm still full of courage to start hosting eSports competitions. Do you participate in any online groups?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/xy7hyzrpdd481.jpg"
+      ],
+      "blip_caption": "a photo of a gaming room with a computer and a gaming chair",
+      "query": "gaming marathon friends home",
+      "dia_id": "D20:8",
+      "text": "Nah, not in any online groups right now, but I do have my gaming group I play with regularly. We even stream our game sessions, and recently had a get-together. Super fun!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/i1x9q5nr1io51.jpg"
+      ],
+      "blip_caption": "a photo of a desk with a computer and a keyboard",
+      "query": "gaming programming setup desk monitors coding books shelf",
+      "dia_id": "D20:9",
+      "text": "Wow, James! That's great that you have some friends to game with. By the way, I bought some new devices and refurbished my gaming desk."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/0rff1x0pj7u81.jpg"
+      ],
+      "blip_caption": "a photo of a gaming desk with a computer and a gaming chair",
+      "query": "gaming setup computer keyboard mouse chair",
+      "dia_id": "D20:10",
+      "text": "Cool! What kind of gear do you have now for gaming? I have a setup with a gaming PC, keyboard, mouse, and a comfy chair - makes gaming for hours a lot more bearable!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:11",
+      "text": "Nice set-up, James! I have a similar gaming chair and keyboard. I'm currently using a gaming PC with a powerful graphics card for intense games. I also have a headset for immersive sound. Gaming has always been an awesome escape for me - it keeps me focused and motivated in other areas."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "http://nicksmarathon.org/wp-content/uploads/2018/11/20181110_164805.jpg"
+      ],
+      "blip_caption": "a photo of a family sitting on a couch in a living room",
+      "query": "gaming marathon friends",
+      "dia_id": "D20:12",
+      "text": "Nice one! A strong graphics card and headset really enhance the gaming experience. Yeah, gaming is a great way to escape and stay motivated. It takes us to different places and stories. I even hosted a gaming marathon with some friends and we had a blast. We played all night and it really strengthened our bond."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of two children sitting on a couch with a baby",
+      "dia_id": "D20:13",
+      "text": "Sounds great! Gaming marathons are the best. When I was younger, my siblings threw me one and it was awesome! We stayed up all night playing games and it really bonded us."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D20:14",
+      "text": "Wow, that sounds awesome! Do you still play with your siblings these days?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:15",
+      "text": "Me and my siblings don't hang out much since we live far apart, but when we do we always try to plan a gaming night."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D20:16",
+      "text": "Sounds great, John! Family time is the best. Are you planning any gaming nights in the near future?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:17",
+      "text": "Yep, I'm organizing one with my siblings next month. We're stoked! Can't wait!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D20:18",
+      "text": "Wow, John! Family game nights are so much fun. Have a great time!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:19",
+      "text": "Thanks, James! Can't wait! It was nice catching up - talk soon!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D20:20",
+      "text": "Hey John! Good to talk to you. Have fun at family game night! Talk to you later."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D20:21",
+      "text": "Thanks, James! Gonna have a great time. Talk to you later."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D20:22",
+      "text": "Take it easy. Have fun and let's chat soon. Have a good night!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James hosts a gaming marathon in his home for his gaming friends."
+    ],
+    "John": [
+      "John joins a programming group on a social media platform to keep in touch with his fellow coders, share ideas and collaborate on coding projects.",
+      "John plans a gaming night with his siblings for September 2022.",
+      "John refurbishes his gaming desk."
+    ],
+    "date": "21 August, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John joined an online programming group last Friday.",
+        "D20:1"
+      ],
+      [
+        "John worked on a project with someone from the online group last week.",
+        "D20:5"
+      ],
+      [
+        "John is full of courage to start hosting eSports competitions.",
+        "D20:7"
+      ],
+      [
+        "John bought new devices and refurbished his gaming desk.",
+        "D20:9"
+      ],
+      [
+        "John uses a powerful graphics card for intense games and has a headset for immersive sound.",
+        "D20:11"
+      ],
+      [
+        "John organized a gaming night with his siblings for next month.",
+        "D20:17"
+      ]
+    ],
+    "James": [
+      [
+        "James has a gaming group that he plays with regularly and they stream their game sessions.",
+        "D20:8"
+      ],
+      [
+        "James hosted a gaming marathon with friends and it strengthened their bond.",
+        "D20:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

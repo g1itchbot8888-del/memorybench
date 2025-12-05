@@ -1,0 +1,220 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-15",
+  "session_number": 15,
+  "session_summary": "Caroline and Melanie had a conversation at 3:19 pm on 28 August, 2023. Melanie had taken her kids to a park and enjoyed seeing them have fun outdoors. Caroline had been volunteering at an LGBTQ+ youth center and found it gratifying and fulfilling to support and guide the young people there. Melanie asked Caroline about her experience at the youth center and Caroline shared that connecting with the young folks and sharing her story had been meaningful and made her feel like she could make a difference. Caroline expressed her dedication to continuing volunteering at the youth center and mentioned that they were planning a talent show for the kids. Melanie expressed her excitement and support for Caroline's dedication to helping others. They also briefly discussed a band Melanie saw and Caroline spoke about her love for music and playing the guitar. They shared their favorite songs and agreed on the power of music to inspire and uplift.",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:1",
+      "text": "Hey Melanie, great to hear from you. What's been up since we talked?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://img-aws.ehowcdn.com/1280x/www.onlyinyourstate.com/wp-content/uploads/2022/12/gym8.jpg"
+      ],
+      "blip_caption": "a photo of a playground with a climbing net and a slide",
+      "query": "kids climbing jungle gym park",
+      "dia_id": "D15:2",
+      "text": "Hey Caroline! Since we last spoke, I took my kids to a park yesterday. They had fun exploring and playing. It was nice seeing them have a good time outdoors. Time flies, huh? What's new with you?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:3",
+      "text": "Wow, your kids had so much fun at the park! Being outdoors can be really enjoyable. A lot happened since our last chat. I've been chasing my ambitions and had the chance to volunteer at an LGBTQ+ youth center. It was so gratifying to talk to similar young people. It made me remember how essential it is to be kind and show support."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D15:4",
+      "text": "That sounds great, Caroline. Volunteering is a great way to meet people. Creating community and supporting each other, especially for kids, is really important. How did you feel about your time there? Anything that sticks out to you?"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a table with a black table cloth and a group of people",
+      "dia_id": "D15:5",
+      "text": "I loved it. It was awesome to see how strong the young people were, with all the challenges they face. I felt fulfilled guiding and supporting them. I even got to let them know they're not alone by sharing my story. Such a powerful, emotional experience."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D15:6",
+      "text": "Was connecting with those young folks meaningful for you? "
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:7",
+      "text": "It was so special to me. It reminded me of my own struggles in the past and how I felt alone. I was glad I could share my story and offer them support - it felt like I could make a difference."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D15:8",
+      "text": "That's great. Sharing your story and support might make a difference for a long time. What do you hope to do next time?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:9",
+      "text": "I'm definitely carrying on volunteering at the youth center. It's an important part of my life and I've made strong connections with people there. I really believe in community and supporting each other. So I wanna keep making a difference."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D15:10",
+      "text": "That's great news, Caroline! Love seeing your dedication to helping others. Any specific projects or activities you're looking forward to there?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:11",
+      "text": "We're putting together a talent show for the kids next month. I'm looking forward to seeing how much fun everyone has and how proud they'll feel of their talents!"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://www.stomplight.com/cdn/shop/products/DavidAguilar.jpg"
+      ],
+      "blip_caption": "a photo of a band playing on a stage in a park",
+      "query": "talent show stage colorful lights microphone",
+      "dia_id": "D15:12",
+      "text": "That's so cool, Caroline! That's a great way to show off and be proud of everyone's skills. You know I love live music. Can't wait to hear about it!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:13",
+      "text": "Wow! Did you see that band?"
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a crowd of people at a concert with their hands in the air",
+      "dia_id": "D15:14",
+      "text": "Yeah, that pic was from a show I went to. It was so much fun and reminded me of how music brings us together."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:15",
+      "text": "Wow, what a fun moment! What's the band?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D15:16",
+      "text": "\"Summer Sounds\"- The playing an awesome pop song that got everyone dancing and singing. It was so fun and lively!"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a man playing a guitar in a recording studio",
+      "dia_id": "D15:17",
+      "text": "That sounds great! Music brings us together and brings joy. Playing and singing let me express myself and connect with others - love it! So cathartic and uplifting."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D15:18",
+      "text": "Cool! What type of music do you play?"
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a guitar on display in a store",
+      "dia_id": "D15:19",
+      "text": "Guitar's mostly my thing. Playing it helps me get my emotions out."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D15:20",
+      "text": "That's awesome! What type of guitar? Been playing long?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:21",
+      "text": "I started playing acoustic guitar about five years ago; it's been a great way to express myself and escape into my emotions."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D15:22",
+      "text": "Music's amazing, isn't it? Any songs that have deep meaning for you?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:23",
+      "text": "Yeah totally! \"Brave\" by Sara Bareilles has a lot of significance for me. It's about being courageous and fighting for what's right. Whenever I hear this jam, I think about the paths I've taken and the progress I've made."
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a piece of paper with a drawing of a man playing a piano",
+      "dia_id": "D15:24",
+      "text": "That's a gorgeous song, Caroline. It really fits with your journey and your determination to make a difference. Music can be so inspiring and uplifting."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:25",
+      "text": "Thanks, Melanie! Appreciate it. You play any instruments?"
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a sheet music with notes and a pencil",
+      "dia_id": "D15:26",
+      "text": "Yeah, I play clarinet! Started when I was young and it's been great. Expression of myself and a way to relax."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D15:27",
+      "text": "Cool! Got any fav tunes?"
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a laptop computer with a graph on it",
+      "dia_id": "D15:28",
+      "text": "I'm a fan of both classical like Bach and Mozart, as well as modern music like Ed Sheeran's \"Perfect\"."
+    }
+  ],
+  "events": {
+    "Caroline": [],
+    "Melanie": [
+      "Melanie takes her kids to a local park"
+    ],
+    "date": "28 August, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline had the opportunity to volunteer at an LGBTQ+ youth center and found it gratifying to support and guide the young people there.",
+        "D15:3"
+      ],
+      [
+        "Caroline shared her story with the young people at the LGBTQ+ youth center and felt fulfilled by the experience.",
+        "D15:5"
+      ],
+      [
+        "Caroline plans to continue volunteering at the youth center as she believes in community and supporting others.",
+        "D15:9"
+      ],
+      [
+        "Caroline is involved in organizing a talent show for the kids at the youth center.",
+        "D15:11"
+      ],
+      [
+        "Caroline mentioned that playing the guitar helps her express her emotions.",
+        "D15:19"
+      ],
+      [
+        "Caroline started playing acoustic guitar about five years ago as a way to express herself and escape in her emotions.",
+        "D15:21"
+      ],
+      [
+        "Caroline finds the song \"Brave\" by Sara Bareilles significant and inspiring as it resonates with her journey and determination to make a difference.",
+        "D15:23"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie took her kids to a park and enjoyed seeing them have fun exploring and playing.",
+        "D15:2"
+      ],
+      [
+        "Melanie plays the clarinet as a way to express herself and relax.",
+        "D15:26"
+      ],
+      [
+        "Melanie enjoys classical music like Bach and Mozart, as well as modern music like Ed Sheeran's \"Perfect\".",
+        "D15:28"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

@@ -1,0 +1,115 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-7",
+  "session_number": 7,
+  "session_summary": "At 7:37 pm on 15 April 2022, Nate told Joanna he dyed his hair last week and invited her to see it. Joanna admired Nate's new hair color, and he explained he chose it to stand out. This inspired Joanna, who shared a story about a sunset she saw while hiking. They discussed upcoming plans, with Joanna focused on writing and Nate offering support. They agreed to stay in touch, with Nate suggesting they see each other soon. They bid goodbye, with Nate saying, \"Take care.\"",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "dia_id": "D7:1",
+      "text": "Hey Jo, guess what I did? Dyed my hair last week - come see!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D7:2",
+      "text": "Wow, Nate! Can't wait to see it. Must feel so liberating! How're you feeling?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://live.staticflickr.com/2378/2443069910_bf08328b2b_b.jpg"
+      ],
+      "blip_caption": "a photography of a man with purple hair and glasses taking a selfie",
+      "query": "purple hair selfie",
+      "dia_id": "D7:3",
+      "re-download": true,
+      "text": "I'm so stoked about it! Check it out!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D7:4",
+      "text": "Wow, your new hair color looks amazing! What made you choose that shade? Tell me all about it!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D7:5",
+      "text": "Thanks Jo! I picked this color because it's bright and bold - like me! I wanted to stand out from the regular options."
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.redd.it/ruvtfm6ixchb1.jpg"
+      ],
+      "blip_caption": "a photo of a street with a stop sign and a cloudy sky",
+      "query": "sunset hike pink blue bold",
+      "dia_id": "D7:6",
+      "text": "That's amazing, Nate! Your boldness really inspired me. It reminded me of this gorgeous sunset I saw while hiking the other day. It made me realize the importance of showing the world who we are."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D7:7",
+      "text": "Wow, that sunset looks awesome! Jealous! I bet you had a great time. Are there any more exciting trips coming up for you?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D7:8",
+      "text": "I did! the sky was so gorgeous! Wish I had a vacation lined up, but right now my writing is consuming me. Hoping for some good news soon!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D7:9",
+      "text": "I understand, Joanna. Big projects can be so taxing. Keep me posted on how it goes, alright?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D7:10",
+      "text": "Cheers, Nate! Your support means a lot. I'll definitely keep you updated."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D7:11",
+      "text": "Sounds great, See you soon?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D7:12",
+      "text": "Totally! Bye Nate!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D7:13",
+      "text": "Take care!"
+    }
+  ],
+  "events": {
+    "Joanna": [],
+    "Nate": [
+      "Nate dyes his hair purple and shows off to friends."
+    ],
+    "date": "15 April, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate dyed his hair a bright and bold color last week to stand out.",
+        "D7:5"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna finds Nate's boldness inspiring and relates it to a gorgeous sunset she saw while hiking.",
+        "D7:6"
+      ],
+      [
+        "Joanna is currently consumed by her writing and is hoping for good news soon.",
+        "D7:8"
+      ],
+      [
+        "Joanna appreciates Nate's support for her writing projects.",
+        "D7:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

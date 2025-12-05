@@ -1,0 +1,166 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-18",
+  "session_number": 18,
+  "session_summary": "Joanna and Nate caught up at 6:12 pm on 14 August, 2022. Joanna shared her passion for writing as a form of solace and creativity, mentioning how it has become her escape. Nate found her writing inspiring and mentioned how words have a healing power. Joanna also talked about a touching moment when her writing had a positive impact on someone, making her realize the power of words. Nate started teaching people how to make dairy-free desserts and shared a new recipe with Joanna. She expressed excitement to try it and thanked him for sharing. They ended the conversation wishing each other well.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.pinimg.com/originals/2f/df/23/2fdf2357bee9649780477b595cb2b003.jpg"
+      ],
+      "blip_caption": "a photo of a notebook with a bunch of stickers on it",
+      "query": "writing journal ideas notes",
+      "dia_id": "D18:1",
+      "text": "Hey Nate, long time no talk! I've been busy with writing projects and really going all out with it. It's been the best thing ever - a mix of highs and lows - and my journal's pretty much my rock. Writing's such a huge part of me now."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D18:2",
+      "text": "Hey Joanna! Great to hear it! It's amazing how much a certain activity can become a part of our lives. Keep it up, you're inspiring! Is writing your way to solace and creativity?"
+    },
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a handwritten letter from a man who is holding a piece of paper",
+      "dia_id": "D18:3",
+      "text": "Yeah, definitely. Writing has become like an escape and a way to express my feelings. It gives me a chance to put all my thoughts and feelings down and make something good out of it. Words just have a magical way of healing."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D18:4",
+      "text": "That's really cool, I like it! It's incredible how words can turn something sad into something special. I'm glad it worked for you. Anything cool happening recently?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.redd.it/6a9y8ycad0ga1.jpg"
+      ],
+      "blip_caption": "a photo of a note written to a person on a piece of paper",
+      "query": "handwritten letter impact writing",
+      "dia_id": "D18:5",
+      "text": "Yep. Last week, someone wrote me a letter after reading an online blog post I made about a hard moment in my life. Their words touched me; they said my story had brought them comfort. It was awesome to realize my words had that kind of power. It reminded me why I love writing."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D18:6",
+      "text": "Nice work, Joanna! That must feel sureal. Keep it up - you're changing lives!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D18:7",
+      "text": "Thanks, Nate! Really appreciate your kind words. It's knowing that my writing can make a difference that keeps me going, even on tough days. So glad to have this outlet to share my stories and hopefully have an impact. How about you? Anything new since we last talked?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i2.pickpik.com/photos/798/109/80/ice-cream-sundae-ice-cream-sundae-vanilla-preview.jpg"
+      ],
+      "blip_caption": "a photography of a dessert with whipped cream and chocolate sauce",
+      "query": "coconut milk ice cream homemade toppings",
+      "dia_id": "D18:8",
+      "re-download": true,
+      "text": "Thanks, Joanna! Your words mean a lot. Since we last spoke, I started teaching people how to make this. Sharing my love for dairy-free desserts has been fun and rewarding."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D18:9",
+      "text": "Yum, Nate! I love it when you make coconut milk icecream, it's so good!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D18:10",
+      "text": "I've been really into making this lately - it's creamy, rich, dairy-free and a new recipe! Wanna try it? I can share the recipe with you if you'd like!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D18:11",
+      "text": "I'd love to try it! Thanks for sharing your love for dairy-free desserts. I really appreciate it!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D18:12",
+      "text": "No problem, Joanna! Always happy to share them with you. Sending you the recipe now!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D18:13",
+      "text": "Thanks, Nate! Can't wait to surprise my family with something delicious!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D18:14",
+      "text": "No problem, Joanna! Wish them luck! Let me know how it goes. Have a blast baking!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D18:15",
+      "text": "Thanks, Nate. I'll keep you posted. Have a great day."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D18:16",
+      "text": "You too!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna is reminded of why she loves writing after she receives a letter from one of the readers of her blog post on how her words brought them comfort."
+    ],
+    "Nate": [
+      "Nate starts teaching others how to make coconut milk ice cream."
+    ],
+    "date": "14 August, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna is heavily invested in writing projects and considers writing a huge part of her life.",
+        "D18:1"
+      ],
+      [
+        "Joanna finds solace and creativity in writing, considering it an escape and a way to express her feelings.",
+        "D18:3"
+      ],
+      [
+        "Someone wrote Joanna a touching letter after reading an online blog post she made about a difficult moment in her life.",
+        "D18:5"
+      ],
+      [
+        "Joanna values the impact her writing has on others, mentioning that it keeps her going even on tough days.",
+        "D18:7"
+      ],
+      [
+        "Joanna is appreciative of Nate's support and kind words.",
+        "D18:7"
+      ],
+      [
+        "Joanna is excited to try Nate's dairy-free desserts and expresses gratitude for his willingness to share the recipe.",
+        "D18:11"
+      ],
+      [
+        "Joanna plans to surprise her family with Nate's dairy-free dessert.",
+        "D18:13"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate started teaching people how to make dairy-free desserts and finds it fun and rewarding.",
+        "D18:8"
+      ],
+      [
+        "Nate has been making a creamy, rich, dairy-free dessert with a new recipe that he wants Joanna to try.",
+        "D18:10"
+      ],
+      [
+        "Nate is supportive and enthusiastic about sharing his dairy-free dessert recipe with Joanna.",
+        "D18:10"
+      ],
+      [
+        "Nate wishes Joanna luck with surprising her family with the dessert and looks forward to hearing about the outcome.",
+        "D18:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

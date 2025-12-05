@@ -1,0 +1,205 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-9",
+  "session_number": 9,
+  "session_summary": "John and James caught up at 7:01 pm on 4 May, 2022. James had a frustrating week due to a bug in his project but managed to fix it with the help of friends. They discussed the importance of teamwork and balancing work with socializing. James spends time with his Labrador, Daisy, and two loyal shepherds. James finds happiness in his pets, computer games, travel, and pizza, particularly loving pepperoni, cheese, and prosciutto pizzas. John prefers Hawaiian pizza. They concluded by discussing trying out prosciutto pizza in the future.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D9:1",
+      "text": "Hey James! How've you been? Had an eventful week since our last chat."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:2",
+      "text": "Hey John! Man, it's been wild since we talked. Last Friday, something happened on my project that I've been working on for weeks. I got so close to finishing it but I just couldn't figure it out. Super frustrating."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:3",
+      "text": "Ugh, that's rough. I understand how frustrating it can be. What happened with that project of yours?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:4",
+      "text": "I hit a major snag - a bug in the code messed up the game mechanics. I tried debugging it for hours but couldn't solve it. It was super disappointing."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:5",
+      "text": "Yeah, dealing with those bugs can be frustrating. Did you manage to solve the issue?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:6",
+      "text": "Nah, I couldn't figure it out on my own so a group of friends and I teamed up and got it fixed. Took a bit of work, but I'm glad it got done."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:7",
+      "text": "Cool! Having a reliable team can really make a difference."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:8",
+      "text": "Yeah, totally! It's awesome to have a group of people who share the same passions. They give you help and bring their own ideas to the mix. You can achieve so much when everyone works together. Are you working on anything today?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:9",
+      "text": "Nah, I have day-off today. I had a few new friends over to watch some movies. Trying to socialize more and it's been great! I think it's important to balance work and enjoyment. You're welcome to join us next time!"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/1go6sson1bk41.jpg"
+      ],
+      "blip_caption": "a photo of two dogs playing in a fenced in area",
+      "query": "dogs playing backyard",
+      "dia_id": "D9:10",
+      "text": "Sounds great, John! I'm definitely in next time. Hanging out with friends and unwinding is key. By the way, today I decided to spend time with my beloved pets again.\n"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:11",
+      "text": "Cool! They look like they're having a blast. What type are they?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:12",
+      "text": "One of them, Daisy, is a Labrador. She loves to play with her toys, but most of all she loves to eat."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:13",
+      "text": "Cool, what about the other two? Judging by the photo, shepherds?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:14",
+      "text": "Exactly! You would know how much joy they bring me. They are so loyal, and this is their main feature."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:15",
+      "text": "Wow, James! Love hearing about the joy that furry friends bring into your life. What else brings you happiness?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:16",
+      "text": "My pets, computer games, travel and pizza are all that bring me happiness in life."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:17",
+      "text": "Pizza? Cool, I love pizza too! Which one do you love the most?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:18",
+      "text": "Pepperoni of course! An amazing combination of spicy salami and cheese."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://c1.wallpaperflare.com/preview/469/790/507/big-city-pizza.jpg"
+      ],
+      "blip_caption": "a photography of a pizza with pineapples and ham on a wooden board",
+      "query": "the witcher 3 game case",
+      "dia_id": "D9:19",
+      "re-download": true,
+      "text": "Cool, but my favorite thing is Hawaiian pizza. This combination of sweet and salty delights me! What other pizza do you like?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:20",
+      "text": "I like also cheese pizza and prosciutto."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:21",
+      "text": "Haven't tried prosciutto yet, but I've heard it`s great!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:22",
+      "text": "Give it a shot! It`s really great. No regrets, I promise."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:23",
+      "text": "Got it, will check it out. Thanks!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D9:24",
+      "text": "Be sure to tell us your impressions when you try it! And Bon Appetit!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:25",
+      "text": "Thanks! Catch you later!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James faces a major snag in the development of his Witcher-inspired game and takes the help of a group of friends to get it fixed."
+    ],
+    "John": [
+      "John invites the friends he made in his programming class to come over and watch movies on his day-off."
+    ],
+    "date": "4 May, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John had some new friends over to watch movies on his day off.",
+        "D9:9"
+      ],
+      [
+        "John enjoys socializing and believes in balancing work with enjoyment.",
+        "D9:9"
+      ],
+      [
+        "John is interested in what type of pets James has.",
+        "D9:11"
+      ],
+      [
+        "John loves Hawaiian pizza for its sweet and salty combination.",
+        "D9:19"
+      ]
+    ],
+    "James": [
+      [
+        "James faced a bug in his project that messed up the game mechanics, causing disappointment.",
+        "D9:4"
+      ],
+      [
+        "James enjoys spending time with his beloved pets - a Labrador named Daisy and two shepherds.",
+        "D9:10"
+      ],
+      [
+        "James finds joy and loyalty in his pets.",
+        "D9:14"
+      ],
+      [
+        "James's happiness comes from his pets, computer games, travel, and pizza.",
+        "D9:16"
+      ],
+      [
+        "James's favorite type of pizza is pepperoni for its spicy salami and cheese combination.",
+        "D9:18"
+      ],
+      [
+        "James also likes cheese pizza and prosciutto on his pizza.",
+        "D9:20"
+      ],
+      [
+        "James recommends prosciutto pizza to John, highlighting its greatness.",
+        "D9:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

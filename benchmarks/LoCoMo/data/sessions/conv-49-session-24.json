@@ -1,0 +1,205 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-24",
+  "session_number": 24,
+  "session_summary": "Evan and Sam discuss a funny incident where Evan had an embarrassing moment with some roses after a night out. Evan apologized and the situation was handled well. They talk about learning from mistakes and staying healthy. Sam plans to see a doctor for diet and exercise advice. Evan suggests low-impact exercises like swimming, yoga, and walking. Sam also mentions watching The Godfather for motivation. Evan recommends beach walks as another fun low-impact exercise. They end on a positive note, planning to make positive changes and enjoy outdoor activities.",
+  "conversation_turns": [
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:1",
+      "text": "Hey Sam, hope you're doing good. Something funny happened last night."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D24:2",
+      "text": "Hey Evan, what's up? What happened? Let me know."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:3",
+      "text": "Yesterday I went out with my friends and had a bit too much to drink. I ended up doing something I regret and it involved someone's roses."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D24:4",
+      "text": "What's up with that incident? All good now?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:5",
+      "text": "Oof, Sam, so embarrassing! I had a pee accident near some roses - can you believe it? I'm so sorry about that."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D24:6",
+      "text": "Uh oh, Evan! That's awkward. Did anyone get mad at you? Are you okay?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:7",
+      "text": "I was so embarrassed when I saw what happened the next morning, so I apologized and luckily they were understanding. Yeah, I was out of control--guess I gotta be more careful next time."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D24:8",
+      "text": "They were understanding? Phew! We all mess up sometimes, we're human after all."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:9",
+      "text": "Yeah, they were understanding, which was great. But it's a good reminder to be more careful. We all make mistakes, but it's important to learn from them. Speaking of, my partner and I tried snowshoeing this weekend. It was part of a new adventure for us and surprisingly fun."
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://i.pinimg.com/originals/c7/f7/30/c7f7308cbae589efb28ffee439cff05f.jpg"
+      ],
+      "blip_caption": "a photo of a white board with a bunch of writing on it",
+      "query": "meal plan workout schedule motivation health journey",
+      "dia_id": "D24:10",
+      "text": "Yeah, Evan, you're right. Mistakes happen, but it's good to learn from them. Snowshoeing sounds like a great way to stay active during the winter. I've been thinking and I made a meal plan and workout schedule. I'm getting motivated by something I saw, so starting today I'm gonna do my best to stay on track."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:11",
+      "text": "Good work, Sam! You've got a plan and you're dedicated to staying healthy - have you asked your doctor for advice? They could probably give you even more diet and exercise tips."
+    },
+    {
+      "speaker": "Sam",
+      "blip_caption": "a photo of a red and orange card with a yellow sun",
+      "dia_id": "D24:12",
+      "text": "Thanks, Evan! Haven't seen a doctor in a while, but it's probably a good idea to get some advice. I'm going to make an appointment soon."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:13",
+      "text": "What advice are you planning to get from the doctor?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D24:14",
+      "text": "I'm gonna ask the doc about a balanced diet plan and getting advice on low-impact exercises, given my current situation."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i.redd.it/rhcb1m5vwyhb1.jpg"
+      ],
+      "blip_caption": "a photo of a salad with chicken, avocado, tomatoes, corn, and cheese",
+      "query": "salad grilled chicken avocado mixed greens",
+      "dia_id": "D24:15",
+      "text": "Sounds good, Sam. That's definitely a step in the right direction. Remember to focus on a balanced diet and low-impact exercises. Let me know how it goes."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D24:16",
+      "text": "That looks great! Where did you get the idea for this salad? Also, do you have any suggestions for low-impact exercises?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:17",
+      "text": "I got it from a nearby restaurant. As for low-impact exercises, swimming, yoga, and walking are good options."
+    },
+    {
+      "speaker": "Sam",
+      "blip_caption": "a photo of a young boy is playing in a pool",
+      "dia_id": "D24:18",
+      "text": "The salad idea from a restaurant is a smart move, Evan! And thanks for the exercise tips. Also I watched The Godfather last night, and it motivated me to keep up with my routine. \"I'm gonna make him an offer he can't refuse\" - now that's motivation!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:19",
+      "text": "Yoga's definitely a great start, Sam. It's helped me with stress and staying flexible, which is perfect alongside the diet. And yes, The Godfather is a legendary thing to watch, can be re-watched many times!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D24:20",
+      "text": "Between a healthier diet and yoga, I’m hoping for some positive changes."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i.pinimg.com/originals/5e/cc/75/5ecc7518568d48830960915a86af39ab.jpg"
+      ],
+      "blip_caption": "a photo of a woman standing on a beach at sunset",
+      "query": "sunset walk beach",
+      "dia_id": "D24:21",
+      "text": " By the way there are plenty of other low-impact exercises that can be fun. Going on beach sunsets is one of my favorites - good for exercise and totally calming."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D24:22",
+      "text": "That looks zen. Gonna go for some beach walks - thanks for the tip, Evan! I want to brag, I had that recurring dream again where I'm flying over skyscrapers!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D24:23",
+      "text": "I think a little more and you'll learn how to control those dreams, once you get the hang of it let me know haha! Enjoy the fresh air and the views. Have fun!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D24:24",
+      "text": "Thanks Evan! Gonna make the most of it. You too, have a good one!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan and his partner try snowshoeing.",
+      "Evan goes out partying with his friends and gets too drunk, resulting in him urinating on someone's roses."
+    ],
+    "Sam": [
+      "Sam watches The Godfather to get motivation to keep up with his healthy eating routine.",
+      "Sam reevaluates his diet and plans to stick to his new healthier habits.",
+      "Sam has a recurring dream about soaring over skyscrapers."
+    ],
+    "date": "10 January, 2024"
+  },
+  "observations": {
+    "Evan": [
+      [
+        "Evan had a bit too much to drink and had an embarrassing incident involving someone's roses.",
+        "D24:3"
+      ],
+      [
+        "Evan had a pee accident near some roses and felt embarrassed about it.",
+        "D24:5"
+      ],
+      [
+        "Evan and his partner tried snowshoeing as part of a new adventure and found it surprisingly fun.",
+        "D24:9"
+      ],
+      [
+        "Evan suggested swimming, yoga, and walking as good low-impact exercises.",
+        "D24:17"
+      ],
+      [
+        "Evan mentioned that beach sunsets are one of his favorite low-impact exercises.",
+        "D24:21"
+      ]
+    ],
+    "Sam": [
+      [
+        "Sam made a meal plan and workout schedule to stay healthy and motivated.",
+        "D24:10"
+      ],
+      [
+        "Sam planned to make an appointment with the doctor to get advice on a balanced diet plan and low-impact exercises.",
+        "D24:12"
+      ],
+      [
+        "Sam was motivated to keep up with a fitness routine after watching The Godfather.",
+        "D24:18"
+      ],
+      [
+        "Sam expressed hope for positive changes with a healthier diet and yoga.",
+        "D24:20"
+      ],
+      [
+        "Sam mentioned having a recurring dream where he's flying over skyscrapers.",
+        "D24:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

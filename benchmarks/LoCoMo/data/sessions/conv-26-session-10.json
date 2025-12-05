@@ -1,0 +1,202 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-10",
+  "session_number": 10,
+  "session_summary": "Caroline and Melanie had a conversation at 8:56 pm on 20 July, 2023. Caroline told Melanie that she recently joined a new LGBTQ activist group and is enjoying making a difference. Melanie expressed her happiness for Caroline and wanted to know more about the group. Caroline explained that the group, \"Connected LGBTQ Activists,\" is focused on positive changes and supporting each other. Melanie praised the group and asked if Caroline has participated in any events or campaigns. Caroline mentioned a recent pride parade in their city and how it was a powerful reminder of the fight for equality. Melanie shared that she recently went to the beach with her kids, which they thoroughly enjoyed. Caroline inquired about other summer traditions, and Melanie mentioned their family camping trip as the highlight of their summer. She recalled witnessing the Perseid meteor shower and how it made her feel in awe of the universe. Caroline asked about the experience, and Melanie described it as breathtaking, making her appreciate life. Melanie then shared another special memory of her youngest child taking her first steps. Caroline found it sweet and mentioned that such milestones remind us of the special bonds we have. Melanie agreed and expressed gratitude for her family. Caroline praised Melanie for having an awesome family. Melanie thanked Caroline and expressed her happiness for having a",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:1",
+      "text": "Hey Melanie! Just wanted to say hi!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D10:2",
+      "text": "Hey Caroline! Good to talk to you again. What's up? Anything new since last time?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:3",
+      "text": "Hey Mel! A lot's happened since we last chatted - I just joined a new LGBTQ activist group last Tues. I'm meeting so many cool people who are as passionate as I am about rights and community support. I'm giving my voice and making a real difference, plus it's fulfilling in so many ways. It's just great, you know?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D10:4",
+      "text": "That's awesome, Caroline! Glad to hear you found a great group where you can have an impact. Bet it feels great to be able to speak your truth and stand up for what's right. Want to tell me a bit more about it?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:5",
+      "text": "Thanks, Melanie! It's awesome to have our own platform to be ourselves and support others' rights. Our group, 'Connected LGBTQ Activists', is made of all kinds of people investing in positive changes. We have regular meetings, plan events and campaigns, to get together and support each other."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D10:6",
+      "text": "Wow, Caroline, your group sounds awesome! Supporting each other and making good things happen - that's so inspiring! Have you been part of any events or campaigns lately?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:7",
+      "text": "Last weekend our city held a pride parade! So many people marched through the streets waving flags, holding signs and celebrating love and diversity. I missed it but it was a powerful reminder that we are not alone in this fight for equality and inclusivity. Change is possible!"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://mdkidadventures.files.wordpress.com/2023/06/img_2130.jpg"
+      ],
+      "blip_caption": "a photo of three children playing on the beach with a kite",
+      "query": "beach family playing frisbee sandy shore",
+      "dia_id": "D10:8",
+      "text": "Wow, fantastic, Caroline! Bet the atmosphere was incredible. Oh yeah, we went to the beach recently. It was awesome! The kids had such a blast."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:9",
+      "text": "Sounds fun! What was the best part? Do you do it often with the kids?"
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a sand castle on the beach with a blue sky",
+      "dia_id": "D10:10",
+      "text": "Seeing my kids' faces so happy at the beach was the best! We don't go often, usually only once or twice a year. But those times are always special to spend time together and chill."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:11",
+      "text": "Sounds special, those beach trips! Do you have any other summer traditions you all do together? Create those memories!"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i.redd.it/hjh0wp8s721a1.jpg"
+      ],
+      "blip_caption": "a photo of a fire pit with a lot of fire and sparks",
+      "query": "family camping trip campfire night",
+      "dia_id": "D10:12",
+      "text": "We always look forward to our family camping trip. We roast marshmallows, tell stories around the campfire and just enjoy each other's company. It's the highlight of our summer!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:13",
+      "text": "Wow, Mel, that's awesome! What's your best camping memory?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i.redd.it/ms0tvo85cto91.jpg"
+      ],
+      "blip_caption": "a photo of a plane flying in the sky with a star filled sky",
+      "query": "shooting star night sky",
+      "dia_id": "D10:14",
+      "text": "I'll always remember our camping trip last year when we saw the Perseid meteor shower. It was so amazing lying there and watching the sky light up with streaks of light. We all made wishes and felt so at one with the universe. That's a memory I'll never forget."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:15",
+      "text": "Cool! What did it look like?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i.redd.it/eqtu6adwcrfb1.jpg"
+      ],
+      "blip_caption": "a photo of a plane flying in the sky with a trail of smoke coming out of it",
+      "query": "night sky stars meteor shower",
+      "dia_id": "D10:16",
+      "text": "The sky was so clear and filled with stars, and the meteor shower was amazing - it felt like we were part of something huge and awe-inspiring."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:17",
+      "text": "Wow, Mel. That must've been breathtaking!"
+    },
+    {
+      "speaker": "Melanie",
+      "blip_caption": "a photo of a beach with footprints in the sand and a blue sky",
+      "dia_id": "D10:18",
+      "text": "It was one of those moments where I felt tiny and in awe of the universe. Reminds me how awesome life is - so many little moments like that."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:19",
+      "text": "That's great, Mel! What other good memories do you have that make you feel thankful for life?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D10:20",
+      "text": "I'll never forget the day my youngest took her first steps. Seeing her wobble as she took those initial steps really put into perspective how fleeting life is and how lucky I am to be able to share these moments."
+    },
+    {
+      "speaker": "Caroline",
+      "blip_caption": "a photo of a baby in a white crib with a blue blanket",
+      "dia_id": "D10:21",
+      "text": "Aw, that's sweet, Mel! Those milestones are great reminders of how special our bonds are."
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://freerangestock.com/sample/134391/happy-family-holding-hands-with-ocean-and-sunset-in-the-background.jpg"
+      ],
+      "blip_caption": "a photography of a family standing on the beach at sunset",
+      "query": "children playing and laughing",
+      "dia_id": "D10:22",
+      "re-download": true,
+      "text": "Yeah, they sure are. It's special moments like these that make me appreciate life and how lucky I am to be with my family and have our love."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D10:23",
+      "text": "Wow, Melanie, what a beautiful moment! Lucky you to have such an awesome family!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D10:24",
+      "text": "Thanks, Caroline! I'm really lucky to have my family; they bring so much joy and love."
+    }
+  ],
+  "events": {
+    "Caroline": [
+      "Caroline joins a group of connected LGBTQ activists."
+    ],
+    "Melanie": [
+      "Melanie and her family takes a trip to the beach"
+    ],
+    "date": "20 July, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' last Tuesday.",
+        "D10:3"
+      ],
+      [
+        "Caroline and her LGBTQ activist group plan events and campaigns to support each other and positive changes.",
+        "D10:5"
+      ],
+      [
+        "Caroline and her activist group participated in a pride parade last weekend to celebrate love and diversity.",
+        "D10:7"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie enjoys family beach trips with her kids once or twice a year.",
+        "D10:8"
+      ],
+      [
+        "Melanie's family tradition includes a camping trip where they roast marshmallows and tell stories around the campfire.",
+        "D10:12"
+      ],
+      [
+        "Melanie and her family watched the Perseid meteor shower during a camping trip last year and it was a memorable experience.",
+        "D10:14"
+      ],
+      [
+        "Melanie treasures the memory of her youngest child taking her first steps.",
+        "D10:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

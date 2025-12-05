@@ -1,0 +1,117 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-27",
+  "session_number": 27,
+  "session_summary": "Calvin told Dave about his networking event with artists to build his fan base. Dave shared his new interest in photography, showing Calvin pictures of a stunning sunset and a clock tower in Boston. Calvin praised Dave's talent and they discussed their creative projects, including Dave's car restoration and Calvin's upcoming album. They agreed to catch up soon.",
+  "conversation_turns": [
+    {
+      "speaker": "Calvin",
+      "dia_id": "D27:1",
+      "text": "Hey Dave! Since we last talked, I went to a networking event to meet more artists. So cool! The people I met will help me build up my fan base. Super excited about what it could lead to. You? Anything new since we last spoke?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D27:2",
+      "text": "Hey Calvin! That's cool that you've been networking with other artists. Nice! I've been getting into photography recently. I've seen some amazing places and taken some great shots. Would you like to see them?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D27:3",
+      "text": "Yeah, show me what you got!"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://i.redd.it/yhfpmmq2j8f71.jpg"
+      ],
+      "blip_caption": "a photo of a city skyline at sunset with a clock tower",
+      "query": "sunset boston skyline",
+      "dia_id": "D27:4",
+      "text": "Look at this magnificent sunset I captured on camera. It's truly breathtaking to witness such beautiful sunsets! The sky looks like it's on fire!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D27:5",
+      "text": "Wow, that view looks awesome! What city is it? Have you taken any good pictures lately?"
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://live.staticflickr.com/28/66275862_c39a8015c2_b.jpg"
+      ],
+      "blip_caption": "a photography of a clock tower in a city with buildings",
+      "query": "waterfall white mountains new hampshire",
+      "dia_id": "D27:6",
+      "re-download": true,
+      "text": "That's Boston, Cal! Check this out, I took this picture last month, and got a great shot - it was stunning!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D27:7",
+      "text": "Wow, that pic is amazing! In your last photo, is that the clock tower? I was there a few years back, it's such a beautiful city. You're so talented, Dave!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D27:8",
+      "text": "Thanks, Calvin! Your kind words mean a lot. Yep, that's the clock tower in the last photo. I snapped it at sunset and the colors were stunning. Photography helps me capture and appreciate the beauty of nature. It's been an awesome creative outlet and I'm loving it."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D27:9",
+      "text": "Wow, Dave! Sounds like you're having a blast with your photography. Hope it's bringing you lots of joy. By the way, how is your car project going?"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D27:10",
+      "text": "Hey Calvin, photography has been great for me! The car project is doing well - I just finished restoring it and it looks amazing. Wanna come by and check it out? How's everything with the music? Any updates?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D27:11",
+      "text": "That's awesome, Dave! Your car project sounds amazing. I've had some great collaborations recently and my album is almost finished. I'll send you some previews soon. Let me know when you're free for a catch-up."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D27:12",
+      "text": "Cool, Calvin! Can't wait to hear it. Let me know when you're free and take it easy!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D27:13",
+      "text": "Cheers! I'll let you know when I'm free. Bye!"
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin attends a networking event to meet artists further spread his fanbase."
+    ],
+    "Dave": [
+      "Dave learns how to take amazing photographs and captures a series of his travels."
+    ],
+    "date": "29 October, 2023"
+  },
+  "observations": {
+    "Calvin": [
+      [
+        "Calvin went to a networking event to meet more artists to build up his fan base.",
+        "D27:1"
+      ],
+      [
+        "Calvin has had some great collaborations recently and his album is almost finished.",
+        "D27:11"
+      ]
+    ],
+    "Dave": [
+      [
+        "Dave has been getting into photography recently and has taken some great shots.",
+        "D27:2"
+      ],
+      [
+        "Dave has a car project that he recently finished restoring and it looks amazing.",
+        "D27:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

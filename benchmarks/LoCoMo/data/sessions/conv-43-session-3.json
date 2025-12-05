@@ -1,0 +1,302 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-3",
+  "session_number": 3,
+  "session_summary": "John and Tim met at 4:21 on July 16, 2023. John shared about scoring 40 points in a game, celebrating with teammates, and securing endorsements with Nike and Gatorade. Tim talked about a magical chat with a Harry Potter fan in California and the love for the sport community. They discussed Seattle, surfing, and finding happiness through different activities, ending the conversation on a positive note.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://live.staticflickr.com/44/145388126_0fd9b13887_b.jpg"
+      ],
+      "blip_caption": "a photography of a score board with a clock and a phone",
+      "query": "basketball scoreboard personal best",
+      "dia_id": "D3:1",
+      "re-download": true,
+      "text": "Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://live.staticflickr.com/2174/2061292757_73e8ef5397_b.jpg"
+      ],
+      "blip_caption": "a photography of a table with a bunch of books on it",
+      "query": "harry potter books california discussion favorite books and characters magical experience",
+      "dia_id": "D3:2",
+      "re-download": true,
+      "text": "Congrats on your achievement! I'm so proud of you. Last week, I had a nice chat with a Harry Potter fan in California. It was magical!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/87ov530kw9ub1.jpg"
+      ],
+      "blip_caption": "a photo of a group of men sitting on top of a basketball court",
+      "query": "teammates celebrating court",
+      "dia_id": "D3:3",
+      "text": "Thank you! Scoring those points was an incredible experience. The atmosphere was electric, and my teammates and I were thrilled. We pulled off a tough win!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:4",
+      "text": "Wow, sounds awesome! Winning after that game must have felt amazing - what was it like? Did you celebrate afterward?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a group of people sitting at a table eating",
+      "dia_id": "D3:5",
+      "text": "We were all exhausted but so happy. After that, we celebrated at a restaurant, laughing and reliving the intense moments - it felt amazing!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:6",
+      "text": "Wow, sounds like a blast! I had an incredible time meeting with that fellow fan. You can really feel the love when you're surrounded by people who share the same passion. Does that happen with your sport too?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a rack of basketball jerseys in a store",
+      "dia_id": "D3:7",
+      "text": "Definitely! Being surrounded by teammates who are equally passionate creates a strong bond. We push each other to be our best and the love for the game is infectious. It's like having a second family."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:8",
+      "text": "That's awesome! Having a second family through sport must be such a great feeling. Glad you have that support. Oh, you mentioned exploring endorsements - have you made any progress?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.imgur.com/uvVOoeM.jpg"
+      ],
+      "blip_caption": "a photo of a handwritten letter with a black ink marker",
+      "query": "handwritten marketing plan",
+      "dia_id": "D3:9",
+      "text": "Yeah, I'm getting somewhere with endorsements. I've talked to some big names, which looks promising. Exciting to see what's in store!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:10",
+      "text": "How did you manage to connect with these big companies?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a basketball card with a picture of a man holding a basketball",
+      "dia_id": "D3:11",
+      "text": "I used my contacts in the basketball industry and my marketing skills to make connections. Networking plays a big role in getting endorsements, and I'm grateful for the support I've received."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:12",
+      "text": "Wow, what endorsements have you managed to get through networking?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:13",
+      "text": "I just signed up Nike for a basketball shoe and gear deal. I'm also in talks with Gatorade about a potential sponsorship. It's pretty cool to be working with such big brands!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:14",
+      "text": "Wow, Congrats on those deals with Nike and Gatorade! You're killing it! Any other brands you're dreaming of working with?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://hips.hearstapps.com/hmg-prod/images/img-8577-1571255920.jpg"
+      ],
+      "blip_caption": "a photo of a mannequin in a blue suit and a chair",
+      "query": "under armour advertisement",
+      "dia_id": "D3:15",
+      "text": "Thanks! The Nike and Gatorade deals have me stoked! I've always liked Under Armour, working with them would be really cool."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:16",
+      "text": "Wow! What kind of stuff are you exploring? It looks like good things are coming your way."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://images.pexels.com/photos/5854539/pexels-photo-5854539.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-millah-5854539.jpg"
+      ],
+      "blip_caption": "a photo of a city skyline at sunset with a body of water",
+      "query": "city skyline sunset",
+      "dia_id": "D3:17",
+      "text": "Just checking out some exciting things that are happening. Really looking forward to what's coming next! This is where I'm headed."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:18",
+      "text": "Wow, amazing view! Where's that? What's got you so excited?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/ua7cvodhrkca1.jpg"
+      ],
+      "blip_caption": "a photo of a crowd of people watching a basketball game",
+      "query": "seattle basketball court bright lights",
+      "dia_id": "D3:19",
+      "text": "It's Seattle, I'm stoked for my game there next month! It's one of my favorite cities to explore - super vibrant!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:20",
+      "text": "Cool! What do you love about Seattle?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:21",
+      "text": "I love the energy, diversity, and awesome food of this city. Trying local seafood is a must! Plus, the support from the fans at games is incredible."
+    },
+    {
+      "speaker": "Tim",
+      "blip_caption": "a photo of a stack of three plates of food with crab legs",
+      "dia_id": "D3:22",
+      "text": "Sounds fab! Seattle is definitely a great and colorful city. I've always wanted to try the seafood there. Good luck with everything!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+      ],
+      "blip_caption": "a photo of a person walking on the beach with a surfboard",
+      "query": "sunset ocean",
+      "dia_id": "D3:23",
+      "text": "Thanks! Can't wait for the seafood too. I love the ocean."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:24",
+      "text": "That looks peaceful! Do you have a favorite beach memory?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://images.pexels.com/photos/8890340/pexels-photo-8890340.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-anastasia-baranova-8890340.jpg"
+      ],
+      "blip_caption": "a photo of a man holding a surfboard on a beach",
+      "query": "surfing waves beach scenery surfboard",
+      "dia_id": "D3:25",
+      "text": "I had an awesome summer with my friends, surfing and riding the waves. The feeling was unreal!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:26",
+      "text": "Wow! How long have you been surfing?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:27",
+      "text": "I started surfing five years ago and it's been great. I love the connection to nature."
+    },
+    {
+      "speaker": "Tim",
+      "blip_caption": "a photo of a person riding a surfboard on a body of water",
+      "dia_id": "D3:28",
+      "text": "Wow! That sounds amazing! The connection to nature must be incredible."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+      ],
+      "blip_caption": "a photo of a person walking on the beach with a surfboard",
+      "query": "sunset ocean",
+      "dia_id": "D3:29",
+      "text": "Yup! Being out in the water can be amazing. The waves, the wind, it's super exciting and free-feeling. Nature's pretty special."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://d3525k1ryd2155.cloudfront.net/h/072/089/1318089072.0.x.jpg"
+      ],
+      "blip_caption": "a photo of a book with a harry potter cover",
+      "query": "harry potter books",
+      "dia_id": "D3:30",
+      "text": "That's awesome! I don't surf, but reading a great fantasy book helps me escape and feel free."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:31",
+      "text": "Cool! We all find our own way to escape and feel free!"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://cdn.apartmenttherapy.info/image/upload/v1617734023/at/news-culture/2021-04/katharine-scrivener-nook.jpg"
+      ],
+      "blip_caption": "a photo of a living room with a brown couch and a white ottoman",
+      "query": "cozy reading nook blanket pillows",
+      "dia_id": "D3:32",
+      "text": "Yeah! It's great to find stuff that makes us happy and feel free. It's like bliss for me when I do this in a comfy spot. It's like being in another world, same as surfing is for you."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:33",
+      "text": "Yeah! Those moments of happiness and freedom are amazing. Let's all find our own bliss."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D3:34",
+      "text": "Sure thing! It's what makes life awesome!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D3:35",
+      "text": "Yeah. Awesome catching up! Bye!"
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim meets and converses with a fellow Harry Potter fan in California."
+    ],
+    "John": [
+      "John scores his highest score ever - 40 points - during a playoff in June 2023.",
+      "John and his team are thrilled by their win and celebrate in a restaurant afterwards.",
+      "John secures a basketball shoe and gear deal with Nike and is in talks with Gatorade for a potential sponsorship.",
+      "John look forward to a game in Seattle in the first week of August 2023."
+    ],
+    "date": "16 July, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John scored 40 points in a game last week, his highest ever.",
+        "D3:1"
+      ],
+      [
+        "John celebrated with his teammates at a restaurant after winning a tough game.",
+        "D3:5"
+      ],
+      [
+        "John has signed a deal with Nike for a basketball shoe and gear, and is in talks with Gatorade for a potential sponsorship.",
+        "D3:13"
+      ],
+      [
+        "John mentioned exploring endorsements and used his contacts in the basketball industry and marketing skills to make connections.",
+        "D3:11"
+      ],
+      [
+        "John's game next month is in Seattle, a city he loves for its energy, diversity, food, and fan support.",
+        "D3:19"
+      ],
+      [
+        "John started surfing five years ago and loves the connection to nature it provides.",
+        "D3:27"
+      ]
+    ],
+    "Tim": [
+      [
+        "Tim had a nice chat with a Harry Potter fan in California last week.",
+        "D3:2"
+      ],
+      [
+        "Tim finds bliss in reading a great fantasy book to escape and feel free.",
+        "D3:30"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

@@ -1,0 +1,140 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-21",
+  "session_number": 21,
+  "session_summary": "Deborah and Jolene talked at 9:34 am on 24 August, 2023. Deborah shared her experience at a yoga retreat and how it changed her perspective on life. Jolene discussed her goal of success in her field, including presenting at a virtual conference. They supported each other's achievements and future plans. Deborah encouraged Jolene to enjoy the journey towards her goals and expressed continuous support. Jolene expressed gratitude for the support and pledged to keep pushing forward while finding joy along the way.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://holmanhealthconnections.com/wp-content/uploads/2019/01/IMG_0412.jpg"
+      ],
+      "blip_caption": "a photo of a trail in a forest with moss and trees",
+      "query": "yoga retreat forest dusk nature",
+      "dia_id": "D21:1",
+      "text": "Hey Jolene! Good to hear from you! A lot's happened since we talked - last week I got to go to this yoga retreat near my mom's place. It was so cool - I got to hang with nature and really get to know myself. Definitely life-changing! That's how beautiful it was there!"
+    },
+    {
+      "speaker": "Jolene",
+      "blip_caption": "a photo of a man bending over on a blanket in the grass",
+      "dia_id": "D21:2",
+      "text": "Wow, Deb, sounds great! Glad you got to connect with yourself and nature. That's my own way to relax. What are your thoughts on life now?"
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a mountain range with a colorful sunset in the background",
+      "dia_id": "D21:3",
+      "text": "Life's been super meaningful lately. Nature and self-reflection have helped me see how beautiful every moment is. We can really grow and learn when we listen to ourselves. What's been up with you lately? Any insights or experiences?\n"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D21:4",
+      "text": "Life's been hectic, but I'm making strides toward my goals. It's tough, but satisfying."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D21:5",
+      "text": "Can you tell me a bit more about it and what you've achieved?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D21:6",
+      "text": "My goal is to be successful in my field and make a positive impact. I've been studying, attending workshops, and networking to make it happen. Recently, I had the opportunity to present at a virtual conference and received positive feedback.  It was a great experience and confirmed that I'm on the right track."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D21:7",
+      "text": "You really put your heart and soul into it. Must have been amazing having it go so well. How did it feel when people gave you positive feedback? Any ideas for what comes next?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D21:8",
+      "text": "I was thrilled to receive such positive feedback! It felt so rewarding to know that my efforts were appreciated. Right now, I'm focusing on studying and gaining more experience. I'm even thinking about more internships to further enhance my skills. Exciting times! Hopefully, there will be more updates to share with you soon."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D21:9",
+      "text": "Wow, Jolene! Way to go! I'm super proud of all you've achieved. Let me know if you need any help. Onward!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D21:10",
+      "text": "Thanks, Deb! Your support means a lot to me. "
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D21:11",
+      "text": "No problem. You got this! "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D21:12",
+      "text": " I'm not giving up, just gonna keep pushing forward."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D21:13",
+      "text": "Reach for your goals and don't forget to enjoy the journey. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D21:14",
+      "text": "Thanks, Deb. Your support means a lot. I'll keep pushing forward and remember to enjoy every step of the way."
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a field of sunflowers with a sunset in the background",
+      "dia_id": "D21:15",
+      "text": "Come on! The journey's as important as the destination. Take time for yourself and find joy in it. We believe in you!"
+    },
+    {
+      "speaker": "Jolene",
+      "blip_caption": "a photo of a city skyline at sunset with a body of water",
+      "dia_id": "D21:16",
+      "text": "Yeah, you're right! I'll take your advice and find joy on the way. Cheers for the support!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D21:17",
+      "text": "Always by your side!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah participates in a yoga retreat surrounded by nature near her mother's place."
+    ],
+    "Jolene": [
+      "Jolene presents her work in a virtual conference and is pumped by the positive feedback she receives about her work.",
+      "Jolene reflects on the progress she has made so far and decides to gain more experience by attending workshops, networking and doing more internships."
+    ],
+    "date": "24 August, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah attended a yoga retreat near her mom's place last week and found it life-changing.",
+        "D21:1"
+      ],
+      [
+        "Deborah finds life super meaningful lately and believes in growth through self-reflection.",
+        "D21:3"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene's goal is to be successful in her field, make a positive impact, and has been working towards it by studying, attending workshops, and networking.",
+        "D21:6"
+      ],
+      [
+        "Jolene recently presented at a virtual conference and received positive feedback, confirming she is on the right track.",
+        "D21:6"
+      ],
+      [
+        "Jolene is focusing on studying, gaining more experience, and considering more internships to enhance her skills.",
+        "D21:8"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

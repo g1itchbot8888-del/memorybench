@@ -1,0 +1,154 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-19",
+  "session_number": 19,
+  "session_summary": "At 9:16 am on 10 August, 2022, John and James caught up after a few days. John appreciated James' encouragement to explore new game genres. John had been trying strategy and RPG games instead of shooters and was considering organizing competitions. He was engrossed in \"The Witcher 3\" due to its storytelling and character depth. James shared his beach outing with his dogs and meeting a girl named Samantha, planning to ask her out. John encouraged James to call Samantha, wishing him a great time.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D19:1",
+      "text": "Hey James, been a few days. The convo got me thinking about my passions and goals. Thanks for encouraging me to try new game genres."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D19:2",
+      "text": "Hey John! Nice to hear from you! Glad our chat made an impact. What sort of games are you interested in exploring?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D19:3",
+      "text": "Lately, I've been playing some different genres like strategy and RPG games instead of my usual shooters. I’m already thinking about making competitions for them too."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D19:4",
+      "text": "That's great, John! Trying out different genres can really add to your gaming experiences. Have you come across any standout games?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D19:5",
+      "text": "Hooked a new RPG that I've been playing lately! The storytelling and characters are amazing, can't get enough of it."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D19:6",
+      "text": "Sounds great! I think storytelling is what makes RPGs so fun. What game are you playing? Do you have any favorite characters?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D19:7",
+      "text": "I'm playing \"The Witcher 3\"! There's this awesome monster hunter with a cool story, and I'm totally hooked, trying to make the right choices to shape the world. It's really immersive."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/p1ok9m9zkrw61.jpg"
+      ],
+      "blip_caption": "a photo of a man dressed in armor holding a sword",
+      "query": "the witcher 3 geralt fighting monster",
+      "dia_id": "D19:8",
+      "text": "Yeah, \"The Witcher 3\" is amazing! I love how you can shape the world with your choices and feel the impact. The graphics are insane too - check out this pic."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.pinimg.com/originals/23/13/24/231324d44f9471ead5535950153378f1.jpg"
+      ],
+      "blip_caption": "a photo of a gaming room with a computer and a gaming chair",
+      "query": "gaming setup",
+      "dia_id": "D19:9",
+      "text": "That's a great pic! The graphics are truly stunning! By the way, look how I organized my workplace!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D19:10",
+      "text": "Cool! Wall lighting adds beauty to your workspace."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D19:11",
+      "text": "Thanks James! What's new with you?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D19:12",
+      "text": "Yesterday I took my three dogs to a beach outing to have fun and bond with other dogkeepers."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a refrigerator with a calendar on it and a magnet",
+      "dia_id": "D19:13",
+      "text": "Cool! Surely you gained a new experience from communicating with other dog lovers!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D19:14",
+      "text": "Yes, we had fun and I even met one beautiful girl. I'm thinking of asking her out on a date! She left me her phone number, I think I'll call tomorrow."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D19:15",
+      "text": "Wow! That's cool, what's her name? Be sure to call her, everything will work out!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D19:16",
+      "text": " She is Samantha. I'll definitely call her!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D19:17",
+      "text": "Yoohoo! Hope you have a wonderful time!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James takes the three dogs to a beach outing to have fun and bond with other dogkeepers.",
+      "James meets a woman named Samantha during the outing to the beach and asks for her phone number to call and meet up later."
+    ],
+    "John": [
+      "John starts playing the RPG Witcher 3."
+    ],
+    "date": "10 August, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John has recently started exploring different game genres like strategy and RPGs instead of his usual shooters.",
+        "D19:3"
+      ],
+      [
+        "John hooked on playing a new RPG game, \"The Witcher 3\", where he enjoys the storytelling and characters.",
+        "D19:5"
+      ],
+      [
+        "John is considering organizing competitions for the new game genres he is exploring.",
+        "D19:3"
+      ],
+      [
+        "John took an initiative to organize his workplace to make it more efficient.",
+        "D19:9"
+      ],
+      [
+        "John is encouraging towards James, thanking him for encouraging him to try new game genres.",
+        "D19:1"
+      ]
+    ],
+    "James": [
+      [
+        "James took his three dogs to a beach outing to bond with other dogkeepers.",
+        "D19:12"
+      ],
+      [
+        "James is considering asking a girl named Samantha out on a date after they met at the beach outing.",
+        "D19:14"
+      ],
+      [
+        "James shared a picture with John showcasing the graphics of a game they were discussing.",
+        "D19:8"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

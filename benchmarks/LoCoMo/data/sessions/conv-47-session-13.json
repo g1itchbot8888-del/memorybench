@@ -1,0 +1,165 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-13",
+  "session_number": 13,
+  "session_summary": "John and James caught up at 4:30 pm on 13 June, 2022. John shared his excitement about landing his dream job, starting next month. James was supportive, mentioning his passion for gaming and programming. James talked about a football simulator project he was working on, combining his love for football and self-improvement. The conversation shifted to football, with James rooting for Liverpool and John supporting Manchester City. They made a friendly bet about their teams' final standings, setting the stage for a competitive season.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D13:1",
+      "text": "Hey James, long time no talk! A lot has happened during this time. Let me fill you in."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:2",
+      "text": "Hey John! Awesome to hear from you. Yeah, a lot has happened. Let's catch up!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D13:3",
+      "text": "I finally got my dream job! After lots of interviews and late nights, I got the offer and was ecstatic. Can't wait to start my journey!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:4",
+      "text": "Wow, John! Congrats on getting your dream job. I'm super stoked for you. When do you start?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D13:5",
+      "text": "Thank you! ! I'm starting next month."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:6",
+      "text": "It can be rough getting started, but I'm sure you'll do great. Don't be afraid to seek help if you need it. Can't wait to hear about your experience! By the way, I recently started a course that combines my passion for gaming and programming. It's fun and challenging, and it has definitely increased my excitement for both."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D13:7",
+      "text": "Cool! That sounds awesome. Combining your love of gaming and coding sounds like a dream. Tell me more! Are there any interesting projects you're working on?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:8",
+      "text": "Yes, we are currently working on a new part of the football simulator. I was working on collecting player databases. It wasn't easy, but I did it!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D13:9",
+      "text": "Cool! Did you choose this course because you love football?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:10",
+      "text": "Not least because of this. I love football, but, of course, the most important reason is to improve yourself. But it’s nice if it’s also connected with something you like."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D13:11",
+      "text": "I completely agree! By the way, did you watch the Liverpool vs Chelsea match?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:12",
+      "text": "Of course, they played well! As I like to say, there is no sport better than football, no club better than Liverpool! I don't miss a single match of theirs!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D13:13",
+      "text": "It looks like you really root for this team!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:14",
+      "text": "Absolutely! They are forever in my heart, they are a great team. I hope they become champions next season!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D13:15",
+      "text": "As a Manchester City fan, I can't agree with you. You'll see, our two teams will fight for the championship, and mine will win!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:16",
+      "text": "I'm sure you're wrong, John. Manchester City are in bad form and their transfer policy is terrible!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D13:17",
+      "text": "You may be right, but the City manager can handle it, you'll see!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:18",
+      "text": "I bet we'll be higher than you in the final standings!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D13:19",
+      "text": "I'll take the bet, James! This will be a great battle!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D13:20",
+      "text": "Sure, John!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James starts taking a course on game design."
+    ],
+    "John": [
+      "John gets his dream job after lots of interviews and plans to start in July 2022."
+    ],
+    "date": "13 June, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John recently got his dream job after many interviews and late nights.",
+        "D13:3"
+      ],
+      [
+        "John is starting his new job next month.",
+        "D13:5"
+      ],
+      [
+        "John is a Manchester City fan.",
+        "D13:15"
+      ]
+    ],
+    "James": [
+      [
+        "James recently started a course combining his passion for gaming and programming.",
+        "D13:6"
+      ],
+      [
+        "James is currently working on a football simulator project, specifically on collecting player databases.",
+        "D13:8"
+      ],
+      [
+        "James is a Liverpool fan and follows all their matches closely.",
+        "D13:12"
+      ],
+      [
+        "James believes there is no sport better than football and no club better than Liverpool.",
+        "D13:12"
+      ],
+      [
+        "James is confident that Liverpool will become champions next season.",
+        "D13:14"
+      ],
+      [
+        "James is competitive with John about the standings of their respective football teams.",
+        "D13:18"
+      ],
+      [
+        "James agrees to a bet with John regarding the final standings of their football teams.",
+        "D13:19"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

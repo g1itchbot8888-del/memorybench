@@ -1,0 +1,132 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-19",
+  "session_number": 19,
+  "session_summary": "Summary:\nOn 9 December 2023 at 1:45 pm, Evan excitedly shared with Sam that his partner is pregnant, expressing both excitement and nervousness about becoming a parent again. Evan reminisced about the joys of parenthood and family memories. He showed Sam a collage of their top family memories, explaining the significance of a sign that symbolizes their family motto. Sam admired Evan's strong family bond and offered support for their upcoming family reunion. Evan expressed gratitude for Sam's support, looking forward to creating more beautiful memories with his expanding family. The conversation ended with warm goodbyes and promises to stay in touch.",
+  "conversation_turns": [
+    {
+      "speaker": "Evan",
+      "dia_id": "D19:1",
+      "text": "Hey Sam, hope you're doing good. Wanted to share some amazing news - my partner is pregnant! We're so excited! It's been a while since we had a kiddo around."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D19:2",
+      "text": "Congrats, Ev! That's great news! Parenthood is so amazing. How are you feeling about it?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D19:3",
+      "text": "So excited and a bit nervous! It's been a while since I had a toddler around but I'm really looking forward to it. Parenthood is so rewarding. I still remember when my first child was born, the joy was amazing. Looking forward to witness the miracle of life and build more memories with my family!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D19:4",
+      "text": "Wow, you're gonna be an amazing parent! Treasure those memories, they're truly special."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://clickinmyheels.files.wordpress.com/2019/09/fpthpk1wrjgpigitpdlw3w.jpg"
+      ],
+      "blip_caption": "a photo of a desk with a lamp, a picture frame, and a sign",
+      "query": "collage family photos living room wall memories",
+      "dia_id": "D19:5",
+      "text": "Thanks Sam! Absolutely. Talking of memories, I want to show you this. It's a collage of some of our top family memories. Each photo has an amazing moment - birthdays, holidays, vacations - so good to look back and recall all the great times we had."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D19:6",
+      "text": "That's so lovely, Evan. Your family looks so happy. What's the story behind that sign in the center?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D19:7",
+      "text": "Oh, that one? It's from our trip to Banff. We have this sign in the frame that says 'Bring it on Home' - it's our family's motto, always reminding us of the importance of togetherness, no matter where we are."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D19:8",
+      "text": "That's really touching, Evan. It's important to have something that keeps the family bond strong."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D19:9",
+      "text": "Absolutely, Sam. My family means the world to me. They're my rock. I'm looking forward to expanding our family and creating even more beautiful memories."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D19:10",
+      "text": "That's wonderful to hear, Evan! It's clear how much you value your family. Are you thinking of any specific plans or events to add to that collage?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D19:11",
+      "text": "Thanks, Sam! Yeah, we're planning a big family reunion next summer. It's going to be a blast and a perfect opportunity to add to our collage."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D19:12",
+      "text": "Sounds fantastic! If you need any tips on organizing such a big event, just let me know. I'm always here to support and celebrate your family's milestones."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D19:13",
+      "text": "Thanks, Sam! Your support means a lot. I'll keep you updated. Take care, bye!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D19:14",
+      "text": "Take care, Evan! Can't wait to hear about it. Bye!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D19:15",
+      "text": "Bye Sam. I'll definitely keep you updated. Thanks for the kind words and support. Take care!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan's Canadian partner gets pregnant.",
+      "Evan plans to hold a big family reunion in summer 2024."
+    ],
+    "Sam": [],
+    "date": "9 December, 2023"
+  },
+  "observations": {
+    "Evan": [
+      [
+        "Evan's partner is pregnant, and they are excited about having a child.",
+        "D19:1"
+      ],
+      [
+        "Evan is excited and a bit nervous about becoming a parent again.",
+        "D19:3"
+      ],
+      [
+        "Evan values family greatly and considers them as their rock.",
+        "D19:9"
+      ],
+      [
+        "Evan is planning a big family reunion next summer to create more memories with family.",
+        "D19:11"
+      ]
+    ],
+    "Sam": [
+      [
+        "Sam congratulates Evan on the news of their partner being pregnant.",
+        "D19:2"
+      ],
+      [
+        "Sam appreciates and recognizes Evan's value for family and memories.",
+        "D19:4"
+      ],
+      [
+        "Sam offers support and assistance to Evan for organizing the family reunion.",
+        "D19:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

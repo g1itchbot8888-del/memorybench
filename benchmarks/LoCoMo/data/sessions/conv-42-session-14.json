@@ -1,0 +1,189 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-14",
+  "session_number": 14,
+  "session_summary": "Joanna shared with Nate that she received a rejection letter for her screenplay, feeling discouraged. Nate comforted her, advising not to give up on her dreams. He encouraged her to stay positive and keep believing in herself. They discussed the generic rejection letter Joanna received without feedback. Nate shared his recent victory in a video game tournament, which boosted his confidence. Joanna congratulated him and admired his dedication to gaming. They expressed support for each other's endeavors and made plans for their respective weekends. Nate planned a gaming party and mentioned providing custom controller decorations for guests. Joanna wished him the best for the party, and they parted ways, each looking forward to their own activities.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:1",
+      "text": "Nate, after finishing my screenplay I got a rejection letter from a major company. It really bummed me out."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:2",
+      "text": "Sorry to hear that, Joanna. Rejection stinks, but it doesn't mean you're not talented. Don't give up on your dreams!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:3",
+      "text": "Thanks, Nate. It can feel like a step back sometimes. But I appreciate your kind words and encouragement."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:4",
+      "text": "Sure, just make sure you keep going and believing in yourself. Did something happen with the company?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:5",
+      "text": "They just sent me a generic rejection letter without much feedback. It's disheartening not knowing why it didn't work out."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:6",
+      "text": "Ugh, that's so frustrating. But don't get discouraged, just keep going."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:7",
+      "text": "Yeah, you're right. I won't let this bring me down. Thanks for your support. What have you been up to lately?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:8",
+      "text": "I've been doing great - I just won another regional video game tournament last week! It was so cool, plus I met some new people. Connecting with fellow gamers is always awesome."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:9",
+      "text": "Way to go, Nate! Congratulations on your victory in the tournament! It must feel great to be recognized for your gaming skills."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:10",
+      "text": "Thanks, Joanna! Winning was a huge confidence boost and shows my hard work paid off. I'm really happy with my progress."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:11",
+      "text": "I am as well! It's great to hear from you about your tournaments throughout the years!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:12",
+      "text": "Thanks! I has been a while since my first tournament hasn't it? I appreciate your support!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:13",
+      "text": "Anytime Nate! I'm here for you every step of the way."
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a purple and blue controller with a star field design",
+      "dia_id": "D14:14",
+      "text": "I talked to some of the guys at the tournament afterwards, and they said they wanted to hang out later!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:15",
+      "text": "Sounds like fun! It's good to have friends that share your interests!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:16",
+      "text": "For sure! They asked for some tips in how to improve their game, so I said I could help."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:17",
+      "text": "Good on you for helping strangers out! Stepping outside your comfort zone is always great."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:18",
+      "text": "Thanks, I just like helping people. Do you have any plans for the weekend?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:19",
+      "text": "Yep, I'm hiking with some buddies this weekend. We're checking out a new trail with a rad waterfall. Can't wait! Do you have any fun plans?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:20",
+      "text": "Sounds great! Have fun with that. I'm organizing a gaming party two weekends later - it'll be hectic but fun!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:21",
+      "text": "Oh? Are you going to invite your tournament friends?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:22",
+      "text": "Definitely! And some old friends and teamates from other tournaments."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:23",
+      "text": "Sounds like fun, Nate! I wish you the best on your party. Have a blast!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:24",
+      "text": "Thanks Joanna! I'm sure it'll be a blast. I'm even getting everyone custom controller decorations just for coming!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:25",
+      "text": "Wow, I bet they'll love that! What a sweet idea."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D14:26",
+      "text": "I know right? Have a great hike. Take lots of pics! See ya later!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D14:27",
+      "text": "Thanks Nate! See you later!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna's receives a generic rejection letter without much feedback from a major company for her first screenplay on drama and romance.",
+      "Joanna explores a new hiking trail with her friends",
+      "Joanna finishes writing her third screenplay, which is based on a story of loss, identity and connection."
+    ],
+    "Nate": [
+      "Nate wins another regional video game tournament.",
+      "Nate plans to host a gaming party and invites people he met at the regional video game tournament as well as friends from other tournaments he has attended.",
+      "Nate gets custom controller decorations for everyone attending the gaming party he plans on hosting."
+    ],
+    "date": "3 June, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna finished a screenplay but received a rejection letter from a major company.",
+        "D14:1"
+      ],
+      [
+        "Joanna appreciates Nate's kind words and encouragement.",
+        "D14:3"
+      ],
+      [
+        "Joanna is planning to go hiking with buddies to check out a new trail with a rad waterfall on the weekend.",
+        "D14:19"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate won a regional video game tournament last week and met new people.",
+        "D14:8"
+      ],
+      [
+        "Nate enjoys connecting with fellow gamers and helping them improve their game.",
+        "D14:8"
+      ],
+      [
+        "Nate is organizing a gaming party two weekends later and is getting custom controller decorations for everyone.",
+        "D14:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

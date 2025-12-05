@@ -1,0 +1,226 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-2",
+  "session_number": 2,
+  "session_summary": "At 6:10 pm on 22 December 2022, Maria asked John about his campaign progress and shared her recent experience of donating her old car. John mentioned networking for insights, motivated by a conversation on education. Maria praised his enthusiasm and commitment, highlighting the power of minor tweaks in the community. She encouraged John, who credited his family for his drive, showing a photo of them. Maria acknowledged the importance of family support and shared her preference for quality time with loved ones. John reciprocated the sentiment, emphasizing the value of making memories together. They discussed family activities and shared pictures, concluding with a plan to cherish happy moments with their families. John then mentioned his plan to do some taekwondo.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:1",
+      "text": "Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:2",
+      "text": "Hi Maria! It's been an interesting ride so far. I've been networking with some people to get their input."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:3",
+      "text": "That's awesome, John! Networking is great for gaining new perspectives and insights. Have you had any interesting conversations or revelations so far?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:4",
+      "text": "I just talked to someone who shared some amazing stories. It really fired up my passion to make education better in our area."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:5",
+      "text": "Wow, John! Hearing that can really make an impact and get us fired up to make a difference. It's great to hear that you're feeling motivated to make improvements to our community's education!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:6",
+      "text": "Definitely, Maria. Investing in our future generations is key, giving them the right tools for success. It's the foundation of progress and opportunity."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:7",
+      "text": "Yeah, John. It's amazing how even minor tweaks to the system can make a big difference for lots of people. I'm really impressed with your enthusiasm and commitment to it!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:8",
+      "text": "Thanks, Maria. Your encouragement means a lot to me. It's true that with effort and support, we can make a real difference in our community."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:9",
+      "text": "You got this, John! I believe in your power to make a positive difference. Your passion inspires me. Keep going - I'm here for you."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://images.pexels.com/photos/5119595/pexels-photo-5119595.jpeg"
+      ],
+      "blip_caption": "a photography of a family having a picnic in the park",
+      "query": "family smiling hugging",
+      "dia_id": "D2:10",
+      "re-download": true,
+      "text": "Thanks a lot, Maria. Your help is really motivating and makes me more determined. Here's a pic of my family - they're the reason why I never give up. Their love gives me strength."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:11",
+      "text": "Wow, John, that's a great pic! Your family looks so cheerful and loving. It's wonderful to have such a supportive and loving family."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:12",
+      "text": "Thanks, Maria. They really help me stay centered. They remind me why I'm so passionate about making a positive impact."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:13",
+      "text": "Family's love really grounds us and gives us strength. Their support certainly boosts your motivation."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://cdn.stocksnap.io/img-thumbs/960w/playground-child_RL9KRCSWHD.jpg"
+      ],
+      "blip_caption": "a photography of a family enjoying a ride on a swing",
+      "query": "family park",
+      "dia_id": "D2:14",
+      "re-download": true,
+      "text": "Yeah, they are my rock in tough times and always cheer me on. I'm really thankful for their love. Family time means a lot to me."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:15",
+      "text": "Wow, John, that playground looks cool! What kind of stuff do you and your family do there?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:16",
+      "text": "Thanks, Maria! We love climbing, sliding, and playing games. It's an awesome way to connect and have a blast. What do you enjoy doing with your family?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:17",
+      "text": "My fam's small, but I love spending time with the friends I have. We usually watch movies, hike, and have game nights at my place. Quality connections matter most to me."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:18",
+      "text": "Sounds nice, Maria! Spending time with loved ones is important."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:19",
+      "text": "Definitely, John. They bring us joy, support, and a feeling of being part of something special. We should cherish every moment with them."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lisa-fotios-1655329.jpg"
+      ],
+      "blip_caption": "a photo of a group of people standing around a kitchen table",
+      "query": "family dinner gathering",
+      "dia_id": "D2:20",
+      "text": "Yeah Maria, making memories with family is priceless! Life is so much more meaningful when we spend time together. Here's a pic of us at dinner."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:21",
+      "text": "Woah, that's a nice pic, John! You all obviously had a blast at dinner. Nothing beats getting together with loved ones for a good meal - it makes some awesome memories!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:22",
+      "text": "Thanks, Maria! Meal times are always fun. Good food, laughs, and chats help us stay close."
+    },
+    {
+      "speaker": "Maria",
+      "blip_caption": "a photo of a table with pizzas and salads on it",
+      "dia_id": "D2:23",
+      "text": "Yeah, John! It definitely builds a strong bond. Those shared meals really make life enjoyable and meaningful. What did you make?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:24",
+      "text": "We made pizza! We had so much fun making them together. It was great picking out toppings and sharing a tasty meal with family. Have you made anything lately?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:25",
+      "text": "I can picture you all laughing and having a blast making your own pizzas - a great way to bond! I made some peach cobbler recently, it was great."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:26",
+      "text": "Yeah Maria, it's awesome! We get our creative on and have a blast together."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D2:27",
+      "text": "Sure, John! It's those moments of creativity and laughter that bring us closer. Let's make happy memories with our family and keep them close."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D2:28",
+      "text": " Yep, let's keep making great memories with our loved ones and cherishing the time we have. I'm off to do some taekwondo!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John networks with some people to make progress towards his goal of joining local politics and hears some inspiring stories from them.",
+      "John practices taekwondo.",
+      "John and his family have a fun dinner where they make pizza and choose toppings for themselves."
+    ],
+    "Maria": [
+      "Maria donates her old car to the homeless shelter she volunteers at.",
+      "Maria makes some peach cobbler."
+    ],
+    "date": "22 December, 2022"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria donated her old car to a homeless shelter where she volunteers.",
+        "D2:1"
+      ],
+      [
+        "Maria believes that even minor tweaks to the system can make a big difference for many people.",
+        "D2:7"
+      ],
+      [
+        "Maria enjoys spending time with friends watching movies, hiking, and having game nights at her place.",
+        "D2:17"
+      ],
+      [
+        "Maria made peach cobbler recently.",
+        "D2:25"
+      ]
+    ],
+    "John": [
+      [
+        "John has been networking to gather input for a campaign to make improvements to the community's education system.",
+        "D2:2"
+      ],
+      [
+        "John is motivated to make education better in their area to invest in future generations.",
+        "D2:4"
+      ],
+      [
+        "John's family serves as a source of strength and motivation for him.",
+        "D2:10"
+      ],
+      [
+        "John and his family enjoy spending time at a playground together, climbing, sliding, and playing games.",
+        "D2:16"
+      ],
+      [
+        "John's family loves to make and enjoy pizzas together.",
+        "D2:24"
+      ],
+      [
+        "John practices taekwondo.",
+        "D2:28"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

@@ -1,0 +1,178 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-25",
+  "session_number": 25,
+  "session_summary": "Sam and Evan caught up at 9:37 pm on 11 January, 2024. Sam shared about his health issues and feeling weighed down, while Evan apologized to his partner for a drunken incident involving rose bushes. Sam enjoys relaxing car rides in the countryside, which Evan thinks is a great way to unwind. They both agree on the calming effect of nature and sharing photos that brighten their days. Evan emphasizes the importance of appreciating small joys during tough times and offers support to Sam. They end the conversation with well wishes and a reminder to take care of themselves.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "dia_id": "D25:1",
+      "text": "Hey Evan, been a few days since we last chatted. Hope you're doing OK. A lot's happened since then. Got issues with my health, it's been rough. Feels like this weight's keeping me from fully living. Trying to stay positive, not easy."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D25:2",
+      "text": "Hey Sam, sorry to hear about your health. It's tough when it gets in the way of life. You're being positive, but remember to take care of yourself too. By the way, I had to apologize to my partner for that drunken night, it was pretty embarrassing."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D25:3",
+      "text": "Hey Evan, that does sound like a tough situation. I'm doing my best with my health. How did your partner take the news about the rose bushes?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D25:4",
+      "text": "Well, she wasn't thrilled, but understood it was an accident. I promised to be more careful in the future. Changing the subject, have you found any low-impact exercises that you enjoy?"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://i.imgur.com/hjUwenM.jpg"
+      ],
+      "blip_caption": "a photo of a field with a fence and a dirt road",
+      "query": "beautiful drive countryside open road green fields sunlight clouds",
+      "dia_id": "D25:5",
+      "text": "Hey Evan, haven't found any exercises I like. But lately, I've been on a few car rides. Helps me chill and enjoy the view. Check out this cool pic I snapped last week in the country."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D25:6",
+      "text": "Nice pic! Does being out in the countryside help you relax and get some fresh air away from the city?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D25:7",
+      "text": "Yeah, being in nature really helps me relax and get some fresh air away from the city."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://camperchristina.com/wp-content/uploads/2016/12/img_2641.jpg"
+      ],
+      "blip_caption": "a photo of a kayak is seen from the front of the boat",
+      "query": "sunset calm lake camping trip",
+      "dia_id": "D25:8",
+      "text": "Glad to hear it! Nature really has a way of calming and reviving the soul. Last summer, I took this pic on a camping trip - it was such an amazing sunset. Moments like these remind us of the beauty of life, even during tough times."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D25:9",
+      "text": "Wow, that pic is amazing! It must have been a great experience being out on the lake."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D25:10",
+      "text": "I had a great time kayaking and watching the sunset last summer - it was truly unforgettable. Being out on the water is so peaceful."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D25:11",
+      "text": "Wow, that sounds amazing. Being in nature is so calming, right?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D25:12",
+      "text": "Nature can be super calming. It's like pushing a reset button for your mind and body."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D25:13",
+      "text": "Definitely, I couldn't agree more. There's something about being outdoors that rejuvenates you. I'm planning to spend more time in nature myself!"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "http://deborahsilver.com/wp-content/uploads/2018/05/May-Baroque-12.jpg"
+      ],
+      "blip_caption": "a photo of a tree with pink flowers in a park",
+      "query": "blooming flowers vibrant colors nature moment",
+      "dia_id": "D25:14",
+      "text": "Got it. When health stuff cramps your style, it sucks. But small moments outdoors can make a big impact. This photo reminds me of last spring when I was feeling a bit down, but the vibrant colors brought a smile to my face, even if just for a moment. Remember to find joy in the little things."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D25:15",
+      "text": "That pic is gorgeous! It really brightens my day. Sometimes, it's the little things that matter, right?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D25:16",
+      "text": "Absolutely, Sam. It's often those little moments that make the biggest difference. Keep finding those bright spots."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D25:17",
+      "text": "Thanks, Evan. It's good to be reminded to appreciate the small things. They do add up."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D25:18",
+      "text": "Anytime, Sam. It's all about those small joys, especially when times are tough. You've got this!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D25:19",
+      "text": "Really appreciate it, Evan. Your words help a lot. Take care!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D25:20",
+      "text": "You too, Sam. And remember, I'm always here if you need to chat. Look after yourself!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan tells his newly-wed partner about his drunken night out and apologizes for urinating on the rose bushes."
+    ],
+    "Sam": [],
+    "date": "11 January, 2024"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam is dealing with health issues that have been rough on him.",
+        "D25:1"
+      ],
+      [
+        "Sam enjoys going on car rides to chill and enjoy the view.",
+        "D25:5"
+      ],
+      [
+        "Sam finds being in nature relaxing and enjoys getting fresh air away from the city.",
+        "D25:7"
+      ],
+      [
+        "Sam is planning to spend more time in nature to rejuvenate.",
+        "D25:13"
+      ],
+      [
+        "Sam appreciates and finds joy in small moments outdoors.",
+        "D25:14"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan had to apologize to his partner for a drunken night which was embarrassing.",
+        "D25:2"
+      ],
+      [
+        "Evan enjoys kayaking on the water and finds it peaceful.",
+        "D25:10"
+      ],
+      [
+        "Evan believes nature has a way of calming and reviving the soul.",
+        "D25:8"
+      ],
+      [
+        "Evan believes small moments outdoors can make a big impact when dealing with tough times.",
+        "D25:14"
+      ],
+      [
+        "Evan emphasizes finding joy in the little things and appreciating small joys, especially during tough times.",
+        "D25:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

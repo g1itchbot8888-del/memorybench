@@ -1,0 +1,158 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-27",
+  "session_number": 27,
+  "session_summary": "John and Maria had a conversation at 6:20 pm on 3 August, 2023. John shared how he involved family and friends in supporting the military through a virtual group. Maria praised John's efforts, mentioning her own volunteer work at a homeless shelter. She started volunteering after seeing a struggling family and finding fulfillment in helping others. John admired Maria's impact and discussed a note from a shelter resident expressing gratitude. They shared experiences about military memorials and emphasized teaching respect for veterans to younger generations. Maria commended John's work and emphasized the power of teamwork in achieving great things.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D27:1",
+      "text": "Hey Maria, hope you're doing OK. I had to share something cool with you - I asked family and friends to join the virtual support group I am a part of and be advocates for the military. It's been awesome seeing so many people coming together to back the courageous people serving our nation."
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://static.wixstatic.com/media/0726909c8a194fd1bdc04ebf3e03bea3.jpg/v1/fill/w_640,h_558,al_t,q_80,usm_0.66_1.00_0.01,enc_auto/0726909c8a194fd1bdc04ebf3e03bea3.jpg"
+      ],
+      "blip_caption": "a photography of a group of people standing around a table",
+      "query": "volunteer badge",
+      "dia_id": "D27:2",
+      "re-download": true,
+      "text": "Wow, John! Way to go helping veterans! I'm doing my part too, volunteering at a homeless shelter. It's so rewarding."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:3",
+      "text": "Maria, that's great! That picture shows a lot of joy. What got you started at that place?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D27:4",
+      "text": "I started volunteering here about a year ago after witnessing a family struggling on the streets. It made me want to help, so I reached out to the shelter and asked if they needed any volunteers. They said yes, and it has been a really fulfilling experience for me since then."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:5",
+      "text": "Wow, Maria! You really made an impact – it's awesome! I seriously admire what you do."
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://i.redd.it/5xasiy4gnohb1.jpg"
+      ],
+      "blip_caption": "a photo of a note from a person who is writing",
+      "query": "handwritten thank you note shelter resident",
+      "dia_id": "D27:6",
+      "text": "Thanks John. That really means a lot. It's been tough but knowing I can make a difference keeps me motivated."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:7",
+      "text": "Maria, what's the deal with that note? Who wrote it and what does it say?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D27:8",
+      "text": "One of the residents at the shelter, Cindy, wrote it. It's a heartfelt expression of gratitude and shows the impact of the support they receive."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i2.wp.com/lifecomingalive.com/wp-content/uploads/2018/05/IMG_0960-e1527675276357.jpg"
+      ],
+      "blip_caption": "a photo of a young boy holding a flag in a cemetery",
+      "query": "kids flag military memorial",
+      "dia_id": "D27:9",
+      "text": "Wow, Maria, that's so cool that you're making a difference like that! You're so inspiring. Last week, we had a meaningful experience at a military memorial. It really made an impact on my kids."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D27:10",
+      "text": "That's so moving! How did they react when they saw it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:11",
+      "text": "They were awestruck and humbled."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D27:12",
+      "text": "Imagining visiting a military memorial makes me feel humble too. It's important for younger generations to remember and appreciate those who served."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:13",
+      "text": "Yeah, totally! Showing them how to respect and appreciate those who served our country is important. It was a moving experience for all of us."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D27:14",
+      "text": "Yeah John, it's super important to teach kids about veterans and what they did for us. You're doing a great thing - we need more people like you!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D27:15",
+      "text": "Thanks, Maria. Appreciate your support. It's amazing what teamwork can accomplish!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D27:16",
+      "text": "Yeah, we can really get amazing stuff done together. We can do this!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John encourages family and friends to join the online support group he has been a part of for months and become advocates for military service.",
+      "John and his family have a humbling moment during a visit to a military memorial."
+    ],
+    "Maria": [
+      "Maria receives a letter of appreciation from Cindy, a resident at the homeless shelter."
+    ],
+    "date": "3 August, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John is part of a virtual support group advocating for the military and has involved family and friends in supporting veterans.",
+        "D27:1"
+      ],
+      [
+        "John admires Maria's volunteer work at a homeless shelter and finds it inspiring.",
+        "D27:5"
+      ],
+      [
+        "John had a meaningful experience at a military memorial with his kids last week.",
+        "D27:9"
+      ],
+      [
+        "John's kids were awestruck and humbled when they visited the military memorial.",
+        "D27:11"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria volunteers at a homeless shelter, which she started about a year ago after witnessing a struggling family on the streets.",
+        "D27:2"
+      ],
+      [
+        "Maria finds volunteering at the homeless shelter really fulfilling and impactful.",
+        "D27:4"
+      ],
+      [
+        "Maria mentioned Cindy, a resident at the shelter, who wrote a heartfelt expression of gratitude.",
+        "D27:8"
+      ],
+      [
+        "Maria believes it's important for younger generations to remember and appreciate those who served in the military.",
+        "D27:12"
+      ],
+      [
+        "Maria thinks it's important to teach kids about veterans and their contributions.",
+        "D27:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

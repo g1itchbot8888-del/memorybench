@@ -1,0 +1,160 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-7",
+  "session_number": 7,
+  "session_summary": "On 23 April, 2022 at 11:04 am, John greeted James, who had taken his dogs on a hike the previous Thursday, sharing that they had a great time exploring trails and enjoying the outdoors. John asked for pictures, which James had, showcasing the adventure. James explained he chose the spot for its views and trails, perfect for the dogs. They both agreed on the benefits of being in nature to relax. John revealed work had been hectic due to numerous deadlines, especially struggling with a challenging coding project. James offered to help by suggesting breaking down the problem and seeking advice. John appreciated the advice, determined to keep going. James encouraged him not to give up, emphasizing that every problem has a solution, ending the conversation on a positive note.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D7:1",
+      "text": "Hey James! How's it going?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D7:2",
+      "text": "Hey John! Good to hear from ya. Yeah, been crazy. Last Thursday I took my dogs out for a hike. Was quite the adventure! Explored some nice trails and enjoyed fresh air."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:3",
+      "text": "Wow, sounds like quite an adventure! Do you have any pictures from that day?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i0.wp.com/mikicc.org/wp-content/uploads/2020/11/20201024_1014341921784989571737117.jpg"
+      ],
+      "blip_caption": "a photo of a man walking two dogs on a path in the woods",
+      "query": "dogs trail woods breathtaking views",
+      "dia_id": "D7:4",
+      "text": "Yeah, I have one. It was great! They loved it - so many trails to discover and amazing views. So fun!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:5",
+      "text": "Wow, that looks like a cool place you took them! Why'd you pick that spot?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D7:6",
+      "text": "I picked that spot because it had great views and lots of trails. It was perfect for them to explore nature and have fun. Plus, there's nothing like being surrounded by lush greenery and clean air."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:7",
+      "text": "Agreed! It is a great way to escape the everyday. Wish I could spend more time in nature!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D7:8",
+      "text": "Love hearing the crunch of leaves under my feet and the peacefulness. It helps me clear my head and chill."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:9",
+      "text": "I need some chill vibes too because it's been crazy for me lately."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D7:10",
+      "text": "What's been going on? Is there anything you want to talk about? I'm here for you."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:11",
+      "text": "Thanks, James. Yeah, been super busy at work. Deadlines all over the place and so much to do. It's just been really hectic lately."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D7:12",
+      "text": "Yeah, work can be tough. Is there something specific that's making it worse?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:13",
+      "text": "Ugh, this project is giving me a hard time. It's a difficult assignment that involves coding and I'm stuck on it. It's frustrating because I hate being stuck and not making progress."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D7:14",
+      "text": "Yeah, it's really frustrating when a project doesn't go as planned. What specifically is giving you trouble? Maybe I can offer some assistance."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:15",
+      "text": "This coding is really tough. I'm working on something complicated and it's not going well. I've been staring at it for ages and I feel like I'm getting nowhere."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D7:16",
+      "text": "Gotcha, what's the problem with the project? Need a hand figuring out some ideas?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:17",
+      "text": "Yeah, that'd be great. I'm trying to make this new algorithm work better, but I'm stuck. Do you have any ideas?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D7:18",
+      "text": "Not sure about your algorithm, but breaking it down into smaller steps might help. Doing some research on similar algorithms or asking other programmers for advice could be beneficial. Don't be afraid to seek help and remember, every problem has a solution."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:19",
+      "text": "Yep, breaking it down into smaller steps and asking for help can definitely be helpful. I'll give it a try. Thanks for the advice, James. Much appreciated."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D7:20",
+      "text": "No problem John. Glad to help. You got this. Keep going and you'll find the answer."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a notebook with a quote written on it",
+      "dia_id": "D7:21",
+      "text": " Your words really helped. I won't quit. Gonna keep going. Cheers! \n"
+    }
+  ],
+  "events": {
+    "James": [
+      "James takes his two older dogs and the puppy on an adventurous hike."
+    ],
+    "John": [
+      "John faces a difficult assignment involving coding at work and is stressed because of not making much progress."
+    ],
+    "date": "23 April, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John took his dogs out for a hike last Thursday and they enjoyed discovering trails and views.",
+        "D7:2"
+      ],
+      [
+        "John has been super busy at work with deadlines and lots to do, making it a hectic time for him.",
+        "D7:11"
+      ],
+      [
+        "John is working on a difficult coding project that he finds frustrating and is struggling to make progress on.",
+        "D7:13"
+      ]
+    ],
+    "James": [
+      [
+        "James enjoys the outdoors and finds being surrounded by lush greenery and clean air comforting.",
+        "D7:6"
+      ],
+      [
+        "James finds the crunch of leaves under his feet and the peacefulness of nature helpful in clearing his head and chilling.",
+        "D7:8"
+      ],
+      [
+        "James offers assistance and suggests breaking down the project into smaller steps, doing research, and seeking help to overcome coding difficulties.",
+        "D7:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

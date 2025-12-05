@@ -1,0 +1,209 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-20",
+  "session_number": 20,
+  "session_summary": "Jolene and Deborah caught up at 9:11 am on 21 August, 2023. They discussed memories, appreciating the simple things in life, and finding balance through yoga and meditation. Deborah shared her moments of nostalgia and how she cherishes flowers in memory of her mom. Jolene mentioned her love for savasana in yoga. They both emphasized the importance of slowing down to appreciate life's small joys. The conversation ended with well wishes for each other to stay connected.",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:1",
+      "text": " Long time no talk! We were given a new game for the console last week, it is Battlefield 1. What's been up with you?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://bmoreenergy.files.wordpress.com/2023/08/img_2540.jpg"
+      ],
+      "blip_caption": "a photo of a flower cart on a sidewalk with flowers in it",
+      "query": "bench vibrant flowers",
+      "dia_id": "D20:2",
+      "text": "Hey Jolene! Good to hear from you. That`s cool! Been thinking about a few big moments lately - went to a place that held a lot of memories for me. Sat on a bench where we used to chat and it brought back a lot of emotions. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:3",
+      "text": "Mostly happy or a bit of everything?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://www.inbloomhomestead.com/wp-content/uploads/2023/07/stunning.jpg"
+      ],
+      "blip_caption": "a photo of a vase of flowers on the ground in a street",
+      "query": "flower cart sidewalk flowers",
+      "dia_id": "D20:4",
+      "text": "It was quite a mix, Jolene. I felt nostalgia and longing, but also grateful for the memories. It's amazing how a place can mean so much. I brought these flowers there."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:5",
+      "text": "Do you think she would like it?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://images.pexels.com/photos/12473781/pexels-photo-12473781.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-pexels-user-12473781.jpg"
+      ],
+      "blip_caption": "a photo of a woman holding a bouquet of red roses",
+      "query": "mother holding bouquet flowers",
+      "dia_id": "D20:6",
+      "text": "Yeah, my mom really loved flowers. They always made her so happy. She appreciated the simple things in life.\n"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:7",
+      "text": "Wow, that's a great photo! How did she show you to appreciate it?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D20:8",
+      "text": "By taking it slow, seeing beauty in them, and finding joy."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:9",
+      "text": "Wow Deb, that's awesome! We should definitely take time to enjoy that and not let the business of life cause us to miss out on the good stuff."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D20:10",
+      "text": "Yeah, Jolene. Life can be so busy that we often overlook the small things that truly matter. Let's make an effort to appreciate them more."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:11",
+      "text": "Yep Deb, slowing down and enjoying simple moments can bring a lot of balance and happiness. I'm trying to do more yoga and meditation myself to help relax and stay focused. Are there any calming habits that you practice to feel balanced?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+      ],
+      "blip_caption": "a photo of a sunset over a body of water",
+      "query": "sunset calm lake",
+      "dia_id": "D20:12",
+      "text": "Yeah, same here, Jolene! Yoga and meditation help me find balance and inner peace. Going out for walks and staying mindful also keep me grounded. I take similar photos on walks."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:13",
+      "text": "Gorgeous! Going for a walk and feeling so peaceful must be amazing."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D20:14",
+      "text": "Moments like that I'll always cherish."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:15",
+      "text": "That calm and peaceful feeling is so nice - it's great for recharging and thinking."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D20:16",
+      "text": " It's like a reboot for me."
+    },
+    {
+      "speaker": "Jolene",
+      "blip_caption": "a photo of a green cushion on a floor in front of a window",
+      "dia_id": "D20:17",
+      "text": "Got it! It's like hitting the refresh button and coming back even better."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D20:18",
+      "text": "What's your favorite yoga pose for some rest?"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/12yit6phiwl21.jpg"
+      ],
+      "blip_caption": "a photo of a person laying on the floor with a paper bag",
+      "query": "savasana yoga mat",
+      "dia_id": "D20:19",
+      "text": "I'm a fan of savasana - aka the corpse pose. It's so calming and helps me just let go and surrender."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D20:20",
+      "text": "Funny photo! How long have you been doing yoga?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:21",
+      "text": "Been doing it for 3 years. It's a great way to escape studying and work stress."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D20:22",
+      "text": "Wow, Jolene! Taking time to unwind is key and that seems just right for you!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:23",
+      "text": "I'm really finding my zen again!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D20:24",
+      "text": "Keep it up!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D20:25",
+      "text": "Thanks for your support, Deb! "
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D20:26",
+      "text": "Good luck with everything. Stay in touch."
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah visits the bench where she and her mother used to have chats and revisits some nostalgic memories."
+    ],
+    "Jolene": [
+      "Jolene and her partner attempt to play Battlefield 1 on the new game console she bought as a gift for her partner."
+    ],
+    "date": "21 August, 2023"
+  },
+  "observations": {
+    "Jolene": [
+      [
+        "Jolene received a new game called Battlefield 1 for her console last week.",
+        "D20:1"
+      ],
+      [
+        "Jolene practices yoga and meditation to relax and stay focused.",
+        "D20:11"
+      ],
+      [
+        "Jolene has been doing yoga for 3 years as a way to escape studying and work stress.",
+        "D20:21"
+      ]
+    ],
+    "Deborah": [
+      [
+        "Deborah went to a place that held a lot of memories for her.",
+        "D20:2"
+      ],
+      [
+        "Deborah felt nostalgia, longing, and grateful for memories when visiting a place that held memories.",
+        "D20:4"
+      ],
+      [
+        "Deborah's mom loved flowers, and they always made her happy.",
+        "D20:6"
+      ],
+      [
+        "Deborah practices yoga and meditation to find balance and inner peace.",
+        "D20:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

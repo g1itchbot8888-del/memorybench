@@ -1,0 +1,174 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-12",
+  "session_number": 12,
+  "session_summary": "Nate and Joanna caught up at 7:49 pm on 20 May, 2022. Nate shared about his new adopted pet, Max, bringing joy to his life. Joanna, allergic to pets, finds solace in writing and creative projects. She showed Nate her latest work on loss and identity, appreciated his support, and valued their friendship. Nate commended Joanna for her bravery in exploring personal topics. The conversation ended with mutual encouragement to pursue dreams and talents.",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "dia_id": "D12:1",
+      "text": "Hey Joanna! How've you been? Been a busy week since we talked."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D12:2",
+      "text": "Hey Nate! Just finished something - pretty wild journey!"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/rgx6yqabu5e91.jpg"
+      ],
+      "blip_caption": "a photo of a dog laying on a couch in a living room",
+      "query": "cute dog max",
+      "dia_id": "D12:3",
+      "text": "Way to go! I just got a new addition to the family, this is Max!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D12:4",
+      "text": "Wow, he's adorable! How long have you had him? I can see why you're thrilled!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D12:5",
+      "text": "Thanks! It's awesome - he's adopted and so full of energy, and he's filling my life with so much joy. He's even keeping my other pets active."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D12:6",
+      "text": "Pets sure do make life better! Glad Max is bringing you lots of joy."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D12:7",
+      "text": "Yep, totally! Pets make us so much happier and never let us down. Have you thought any more of getting one of your own?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D12:8",
+      "text": "Unfortunately, allergies make it so I don't really want to get any, and I'm too lazy to research alternative pets for my allergies."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D12:9",
+      "text": "Aww, that's unfortunate. It's nice seeing the joy pets bring to others, though. How do you find comfort when you don't have any?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D12:10",
+      "text": "Writing and creative projects are what get me through tough times. I'm also grateful for my supportive friends."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D12:11",
+      "text": "Wow, that's awesome! Those both can definitely be therapeutic. It's great to have such positive relationships that make such a great impact."
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.redd.it/0hvywunpjfs91.jpg"
+      ],
+      "blip_caption": "a photo of a notepad with a dog on it and a pen",
+      "query": "handwritten screenplay notebook.",
+      "dia_id": "D12:12",
+      "text": "Yeah. It's so nice to have friends who understand and appreciate my work - it's priceless being able to talk about it together and receive feedback. Here's a look at what I've been working on – it's been quite a journey, but I made it!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D12:13",
+      "text": "Wow, that looks great Joanna! Is that your third one?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D12:14",
+      "text": "Yep! I chose to write about this because it's really personal. It's about loss, identity, and connection. It's a story I've had for ages but just got the guts to write it. It was hard, but I'm so proud of it."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D12:15",
+      "text": "That sounds impressive. You really do like writing about sadness and loss don't you."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D12:16",
+      "text": "Thanks, Nate! Yeah I really do. I had to be vulnerable and dig deep into those topics. But I think meaningful stories come from personal experiences and feelings. It was scary, but I found that I write best when I'm being true to myself - even if it's hard."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D12:17",
+      "text": "Well done, Joanna! It takes guts to explore your experiences and feelings. I'm proud of you for staying strong and being true to yourself. Keep it up!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D12:18",
+      "text": "Thanks, Nate! Your support really means a lot. Knowing I've got people like you cheering me on makes this journey way easier."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D12:19",
+      "text": "No worries, Joanna! Keep going and reach for your dreams. You've got tons of talent and potential!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna find the guts to start writing her third screenplay on loss, identity, and connection based on a story she has had since ages."
+    ],
+    "Nate": [
+      "Nate adopts a new dog named Max as an addition to his pet family that consisted of two turtles."
+    ],
+    "date": "20 May, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate has a new addition to the family, an adopted pet named Max who is full of energy and joy.",
+        "D12:3"
+      ],
+      [
+        "Nate believes that pets bring happiness and joy into people's lives.",
+        "D12:7"
+      ],
+      [
+        "Nate is supportive and encouraging towards Joanna's writing and creative projects.",
+        "D12:11"
+      ],
+      [
+        "Nate acknowledges that Joanna likes to write about topics like sadness and loss.",
+        "D12:15"
+      ],
+      [
+        "Nate is proud of Joanna for staying true to herself and exploring personal experiences in her writing.",
+        "D12:17"
+      ],
+      [
+        "Nate supports Joanna and cheers her on in her creative journey.",
+        "D12:19"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna finds comfort in writing and creative projects during tough times.",
+        "D12:10"
+      ],
+      [
+        "Joanna has supportive friends who appreciate her work and with whom she can discuss and receive feedback.",
+        "D12:12"
+      ],
+      [
+        "Joanna has written at least three personal stories, with the latest one being about loss, identity, and connection.",
+        "D12:14"
+      ],
+      [
+        "Joanna believes that meaningful and powerful stories stem from personal experiences and feelings, even if they are challenging to write about.",
+        "D12:16"
+      ],
+      [
+        "Joanna values Nate's support and finds it encouraging in her creative endeavors.",
+        "D12:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

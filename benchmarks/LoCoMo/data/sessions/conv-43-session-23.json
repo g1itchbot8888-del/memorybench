@@ -1,0 +1,153 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-23",
+  "session_number": 23,
+  "session_summary": "John and Tim, who met at 8:28 pm on 11 December 2023, had a conversation where Tim shared about his English lit class struggles and John talked about his recent career-high in assists. John described a thrilling game against their rivals and reminisced about a buzzer-beater shot. They discussed the power of sports and chasing dreams, inspiring and motivating each other before saying goodbye.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://assets-global.website-files.com/60ed47e10552352d9d7e0a44/61e5cf5d296761732633ffcc_wsp_banner_w_joanne__dO8vP.jpg"
+      ],
+      "blip_caption": "a photo of two women standing next to a banner with sales pros written on it",
+      "query": "marketing team collaboration trust leadership",
+      "dia_id": "D23:1",
+      "text": "Hey Tim, great to see you! Any new success stories?"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D23:2",
+      "text": "Hey John, I had a tough time with my English lit class. Did an analysis on this series and I think it went ok!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.pinimg.com/originals/cf/a0/7f/cfa07fa76047b5d731b3af313d98fc01.jpg"
+      ],
+      "blip_caption": "a photo of a basketball game being played in a large arena",
+      "query": "basketball court game",
+      "dia_id": "D23:3",
+      "text": "Thanks! It's a bummer about your English lit class, but you did your best. By the way, I had a career-high in assists last Friday in our big game against our rival. Yay!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D23:4",
+      "text": "Congrats! That's awesome. How did it feel being out there making those plays?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:5",
+      "text": "Thanks! It felt great being out there, making plays for my team. I love seeing my teammates succeed because of the opportunities I create for them. The atmosphere in the arena was really electric and playing against our rivals added an extra level of intensity. It was a memorable night!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D23:6",
+      "text": "Sounds incredible! Must have been quite an atmosphere. Have you had any other games that were as thrilling as this one?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:7",
+      "text": "I've had some thrilling games in my career. My favorite was when we were down 10 in the 4th and I hit the buzzer-beater shot to win. The atmosphere was incredible and it was such a thrilling experience. Those moments make me love basketball so much."
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://c8.alamy.com/zooms/9/de5f1d4e73244a8f94b16a6b6d093748/ttnmea.jpg"
+      ],
+      "blip_caption": "a photo of a basketball ball on the ground with a basketball hoop in the background",
+      "query": "basketball court sunset",
+      "dia_id": "D23:8",
+      "text": "Wow, John! Moments like that make us love sports, huh? I still think about this pic you sent me a while back."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:9",
+      "text": "Yeah, that pic reminds me of when I was younger. I'd practice basketball outside for hours, dreaming of playing in big games. It was my way of dealing with doubts and stress. It's amazing how a ball and hoop can be so powerful, right?"
+    },
+    {
+      "speaker": "Tim",
+      "blip_caption": "a photo of a basketball ball on the ground with a basketball hoop in the background",
+      "dia_id": "D23:10",
+      "text": "Yeah! Sports are the best. When we're feeling down, it's a way to express ourselves and stay positive. It's awesome how much basketball has done for you. Keep going with your dreams!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:11",
+      "text": "Thanks! Appreciate the support. It's been a significant part of my life and allows me to be myself and pursue my passions. Gonna keep chasing my dreams!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D23:12",
+      "text": "Wow! It's really important to do our own thing and follow our dreams. Keep it up, you're gonna do amazing things!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:13",
+      "text": "Your encouragement means a lot. Let's keep pushing and following our dreams - we can make a difference!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D23:14",
+      "text": "Definitely. We both have so much potential! Let's keep supporting each other on our journey towards our dreams."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:15",
+      "text": "Yeah, you're super inspiring and motivating. Keep it up!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D23:16",
+      "text": "Thanks, it means a lot. Let's keep each other motivated. Bye!"
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim does an analysis of a fantasy novel for his English literature class and it goes okay."
+    ],
+    "John": [
+      "John achieves a career-high assist during a big game."
+    ],
+    "date": "11 December, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John had a career-high in assists last Friday during a big game against their rival.",
+        "D23:3"
+      ],
+      [
+        "John hit a buzzer-beater shot to win a game when they were down 10 in the 4th quarter, which was one of their favorite thrilling sports moments.",
+        "D23:7"
+      ],
+      [
+        "John used to practice basketball outside for hours when he was younger, dreaming of playing in big games.",
+        "D23:9"
+      ],
+      [
+        "John values basketball as a meaningful part of his life that allows him to pursue his passions.",
+        "D23:11"
+      ]
+    ],
+    "Tim": [
+      [
+        "Tim struggled with his English lit class but did an analysis on a series that he thinks went okay.",
+        "D23:2"
+      ],
+      [
+        "Tim finds sports as a way to express himself and stay positive.",
+        "D23:10"
+      ],
+      [
+        "Tim sent John a pic that reminds John of practicing basketball outside when he was younger.",
+        "D23:8"
+      ],
+      [
+        "Tim believes in the importance of following dreams and doing one's own thing.",
+        "D23:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

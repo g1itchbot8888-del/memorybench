@@ -1,0 +1,151 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-5",
+  "session_number": 5,
+  "session_summary": "Jolene informed Deborah about her mini retreat last Wednesday, which gave her a new outlook on life and boosted her confidence. She discussed her engineering project accomplishments, focusing on green technology to help disadvantaged areas and her idea for a volunteer program teaching STEM to underprivileged kids. Deborah supported the idea, and Jolene mentioned plans to work with local schools/centers for workshops with guest speakers. Jolene shared sketches with Deborah, who offered further assistance if needed. They ended the conversation with mutual appreciation and well wishes.",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "dia_id": "D5:1",
+      "text": "Hey Deborah! Been a few days since we last talked so I wanted to fill you in on something cool. Last Wednesday I did a mini retreat to assess where I'm at in life. It was a dope experience that totally gave me a new outlook."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D5:2",
+      "text": "Hey Jolene! Sounds great. Taking time to reflect can be really awesome. Did you gain any new insights from it?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D5:3",
+      "text": "Yep! I achieved so much more than I imagined. It was a real confidence boost."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D5:4",
+      "text": "You deserve credit for stepping outside your comfort zone and believing in yourself. What cool stuff did you accomplish at the retreat?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D5:5",
+      "text": "I really accomplished something with my engineering project - I came up with some neat solutions and I'm really excited about it."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D5:6",
+      "text": "Let's go into more detail."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D5:7",
+      "text": " Green tech could really make a difference in disadvantaged areas. I'd like to look into it and see how I can contribute. Hey, speaking of helping out, I had an idea: a volunteer program where engineers teach STEM to underprivileged kids. What do you think of that?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D5:8",
+      "text": "That sounds great, Jolene! It's a great way to help and inspire others. They would benefit a lot from your knowledge. Have you thought of a plan yet?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D5:9",
+      "text": "Haven't finished planning yet but I'm thinking of teaming up with local schools/centers to do workshops. We could even invite engineers as guest speakers to show kids their career options."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D5:10",
+      "text": "Having guest speakers, like them, would definitely give the kids a real-world view. Have you reached out to any schools or centers yet?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D5:11",
+      "text": "No, not yet. I want to solidify the plan first. Can't wait to start reaching out, though!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D5:12",
+      "text": "That makes sense. I'm excited to hear how you reach out and help those kids. Let me know how it goes!"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.pinimg.com/originals/12/ee/9a/12ee9ab40a074f87e1c89f1c0b084de8.jpg"
+      ],
+      "blip_caption": "a photo of a notebook with a pen and a notebook with a page of notes",
+      "query": "engineering notebook ideas",
+      "dia_id": "D5:13",
+      "text": "I'll keep you posted! Appreciate the support! Here are my sketches in the planner."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D5:14",
+      "text": "Sounds like you're doing great. Let me know if you need more tips or information."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D5:15",
+      "text": "Thanks, Deb! If I need anything else, I'll let you know. You're awesome!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D5:16",
+      "text": "You're awesome too! Take care!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D5:17",
+      "text": "Stay safe!"
+    }
+  ],
+  "events": {
+    "Deborah": [],
+    "Jolene": [
+      "Jolene reflects on her accomplishments and future by taking a mini retreat in life and comes up with some solutions for her engineering projects such as developing green tech for disadvantaged areas.",
+      "Jolene plans to start a volunteer program where engineers can teach STEM to underpriveleged kids by holding workshops at local schools.",
+      "Jolene uses a planner to note her ideas on the volunteer program and green tech."
+    ],
+    "date": "9 February, 2023"
+  },
+  "observations": {
+    "Jolene": [
+      [
+        "Jolene did a mini retreat last Wednesday to assess her life and gained new insights and a confidence boost from it.",
+        "D5:1"
+      ],
+      [
+        "Jolene accomplished something significant with her engineering project and came up with neat solutions that she's excited about.",
+        "D5:5"
+      ],
+      [
+        "Jolene is considering looking into green technology to make a difference in disadvantaged areas.",
+        "D5:7"
+      ],
+      [
+        "Jolene had an idea for a volunteer program where engineers teach STEM to underprivileged kids.",
+        "D5:7"
+      ],
+      [
+        "Jolene plans to team up with local schools/centers to do workshops and invite engineers as guest speakers for the volunteer program.",
+        "D5:9"
+      ]
+    ],
+    "Deborah": [
+      [
+        "Deborah acknowledged Jolene for stepping outside her comfort zone and believing in herself.",
+        "D5:4"
+      ],
+      [
+        "Deborah supported Jolene's volunteer program idea and suggested that it's a great way to help and inspire others.",
+        "D5:8"
+      ],
+      [
+        "Deborah expressed excitement to hear about Jolene reaching out and helping underprivileged kids.",
+        "D5:12"
+      ],
+      [
+        "Deborah offered to provide more tips or information if Jolene needs them.",
+        "D5:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

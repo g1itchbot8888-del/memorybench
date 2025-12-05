@@ -1,0 +1,204 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-31",
+  "session_number": 31,
+  "session_summary": "At 3:14 pm on August 13, 2023, John told Maria about volunteering as a mentor and how rewarding it was. Maria shared adopting a new pup named Shadow. They discussed the joy pets bring, and John expressed interest in getting a new pup. They praised the positive impact of animals. John mentioned improvements in the mentoring program, while Maria talked about Shadow's progress. They agreed on the comfort and happiness pets bring. John described family activities they enjoy, and they both emphasized the importance of family time. They shared goodbyes, wishing each other a great day.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a group of people sitting around a table",
+      "dia_id": "D31:1",
+      "text": "Hi Maria, since we last chatted, I'm volunteering as a mentor for a local school. It's really rewarding to see how much I can help these students."
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://www.k9aholics.com/wp-content/uploads/2021/12/Things-to-Consider-Before-Getting-a-Puppy.jpg"
+      ],
+      "blip_caption": "a photography of a black puppy sitting in the grass looking at the camera",
+      "query": "puppy animal shelter adoption",
+      "dia_id": "D31:2",
+      "re-download": true,
+      "text": "Wow, John! You're doing great things. Kudos for helping kids learn. On another note, I just adopted this cute pup from a shelter last week. She brings so much joy! I feel blessed to be able to give her a home."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D31:3",
+      "text": "Wow, Maria, how cute! What's her name? Do she and your other dog get along?"
+    },
+    {
+      "speaker": "Maria",
+      "blip_caption": "a photo of a dog sitting in the grass with a leash",
+      "dia_id": "D31:4",
+      "text": "Her name is Shadow! She's full of energy and always puts a smile on my face. She's been a great addition to my life. They get along great."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D31:5",
+      "text": "Aww, that sounds adorable! Animals really bring a lot of joy and love, don't they? Did you have any pets growing up?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D31:6",
+      "text": "No, I didn't. But having a furry pal definitely brightens my days."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D31:7",
+      "text": "They sure do!  I'll have to look into shelters near me soon, it would be great to have a new pup in the house."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D31:8",
+      "text": "Yeah, John! Pets are great at making you feel loved. It's awesome having them around, they bring so much joy! How's everything going with the mentoring program? Are the students making progress?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://createyourbalancewithliteracy.com/wp-content/uploads/2023/06/Science-Interactive-Notebook-6.jpg"
+      ],
+      "blip_caption": "a photo of a poster with a picture of a person and a child",
+      "query": "students mentoring program whiteboard project",
+      "dia_id": "D31:9",
+      "text": "They're doing great - there's been a real improvement in their confidence and skills. It was so amazing to see one of them last week, so excited to show me their essay. It was a proud moment! How's your new pup doing, Maria?"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://hips.hearstapps.com/hmg-prod/images/side-view-of-young-man-training-his-dog-by-wall-royalty-free-image-717234545-1559064531.jpg"
+      ],
+      "blip_caption": "a photo of a man standing next to a dog pointing at something",
+      "query": "puppy new command training",
+      "dia_id": "D31:10",
+      "text": "Awesome, John! Sounds like it's really making a difference. The little one is doing great - learning commands and house training.\n"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D31:11",
+      "text": "Wow, cool Maria! Your little one is so smart and keen to learn, must be awesome!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D31:12",
+      "text": "She's an amazing learner - so much fun to work with and watch her grow. She's brought me so much joy!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D31:13",
+      "text": "Animals are amazing— They can be incredible companions."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D31:14",
+      "text": "Yeah, they can really comfort us and make us feel understood in ways others can't. It's amazing how they bring us so much happiness."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D31:15",
+      "text": "Yeah, animals bring us peace and understanding, plus we can always count on them. That's so priceless."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D31:16",
+      "text": "Absolutely, John. They're always there for us."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/wi6u64sicow71.jpg"
+      ],
+      "blip_caption": "a photo of a family posing for a picture in the park",
+      "query": "wife kids",
+      "dia_id": "D31:17",
+      "text": "Yeah, my family is awesome - me, the missus, and the kids. Even when times are hard, they always have my back. Best thing ever, really."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D31:18",
+      "text": "That picture is so cute! What activities do you all enjoy doing together?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://cdn.shopify.com/s/files/1/0586/8149/1647/t/127/assets/pickneys_2-1662359454750.jpg"
+      ],
+      "blip_caption": "a photo of two children sitting at a table with a board game",
+      "query": "family playing board games",
+      "dia_id": "D31:19",
+      "text": "Thanks, Maria! We love being outdoors - going for hikes, hanging out at the park, having picnics - plus playing board games and having movie nights at home. "
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D31:20",
+      "text": "Sounds like a blast, John! Spending time with family is so important, and that all sounds perfect. Have a great time!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D31:21",
+      "text": "Thanks, Maria! I'm off to spend some time with them now. Have a good day!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D31:22",
+      "text": "Enjoy your family time, John! Have a great day!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D31:23",
+      "text": "Thanks, Maria! You too! Stay safe!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John volunteers as a mentor for a local school and is excited to see the growth in confidence in the kids from his mentorship."
+    ],
+    "Maria": [
+      "Maria adopts another puppy from the dog shelter she volunteers at, and names it Shadow."
+    ],
+    "date": "13 August, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John is volunteering as a mentor for a local school, helping students improve their confidence and skills.",
+        "D31:1"
+      ],
+      [
+        "John is considering adopting a new pup and plans to look into shelters near him soon.",
+        "D31:7"
+      ],
+      [
+        "John enjoys outdoor activities such as hiking, picnics, and board games with his family.",
+        "D31:19"
+      ],
+      [
+        "John values his family greatly and appreciates their support, considering them the best thing ever.",
+        "D31:17"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria recently adopted a cute pup named Shadow from a shelter.",
+        "D31:2"
+      ],
+      [
+        "Maria's new pup, Shadow, is full of energy and brings joy to her life.",
+        "D31:4"
+      ],
+      [
+        "Maria did not have any pets growing up, but having a furry companion brightens her days.",
+        "D31:6"
+      ],
+      [
+        "Maria's pup is learning commands and house training well.",
+        "D31:10"
+      ],
+      [
+        "Maria believes that animals bring comfort, understanding, and happiness to our lives.",
+        "D31:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

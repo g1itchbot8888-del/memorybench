@@ -1,0 +1,150 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-14",
+  "session_number": 14,
+  "session_summary": "Sam and Evan caught up at 1:50 pm on 17 October, 2023. Sam shared about a recent health scare with gastritis, prompting him to focus on health. Evan mentioned his fitness routine helping his well-being and assisting lost tourists often. Evan advised Sam on setting goals and finding enjoyable exercises to stay motivated. They planned a hike together to enjoy nature and bond. Sam appreciated Evan's support and looked forward to the hike. They agreed to stay in touch and support each other, ending the conversation with plans for the upcoming hike.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "dia_id": "D14:1",
+      "text": "Hey Evan! I've been missing our chats. I had quite the health scare last weekend - ended up in the ER with a severe stomachache. Turns out, it was gastritis, which was pretty alarming. It was a wake-up call for me to start prioritizing my health, like adopting a more nutritious diet and getting regular exercise. On top of that, my phone's been giving me a hard time, adding to the stress."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D14:2",
+      "text": "Hey Sam, sorry to hear about that. Gastritis can be tough. Taking care of ourselves is important. BTW, I've been focusing on fitness and it's been really beneficial for my overall well-being. Funny thing, I had another encounter with a lost tourist recently. Seems like helping tourists is becoming a recurring theme in my life!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D14:3",
+      "text": "Thanks, Evan! Glad you've found that it's been good for you! I totally need to get into it too. Just getting started is hard - any tips for staying motivated? Also, you mentioned another lost tourist? Seems like you're becoming the go-to guy for tourists in need!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D14:4",
+      "text": "Yup, Sam! Set some goals, like a certain distance to run or number of push-ups to do. It'll give you something to strive for and stay motivated. Also, try to find an exercise that you enjoy and maybe even get a buddy for extra fun and accountability. Sound good?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D14:5",
+      "text": "Yeah, that sounds like a good idea. Having goals and someone to exercise with might help. I'll give it a try!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D14:6",
+      "text": "Awesome, Sam! Getting started will get easier with time. And don't forget it's about feeling good and reaching goals, too. Let's plan a hike soon!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D14:7",
+      "text": "Sounds awesome, Evan! Can't wait to go on a hike with you. It's going to be a fun challenge and a great opportunity to appreciate the beauty of nature."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D14:8",
+      "text": "Definitely, Sam! Hiking is an awesome way to bond with nature and push ourselves. It's gonna be a cool memory for us both. It's great to see progress, was just at the gym yesterday. Gaining strength!"
+    },
+    {
+      "speaker": "Sam",
+      "blip_caption": "a photo of a person wearing hiking shoes on a couch",
+      "dia_id": "D14:9",
+      "text": "Super excited to get fit with ya. Let's hit the trails soon!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D14:10",
+      "text": "Thanks, Sam! That's so nice of you. We'll definitely have a great time on our hike!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D14:11",
+      "text": "Totally! I'm so pumped for this hike. Connecting with nature is exactly what I need. Thanks so much for the support and always being there. Means a lot."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D14:12",
+      "text": "Sure thing! Our hike is going to be awesome, I can tell. I'm always here to support you."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D14:13",
+      "text": "Thanks, Evan. I appreciate your support."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D14:14",
+      "text": "No problem, Sam. Whenever you need support, I'm here for you. Stay safe!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D14:15",
+      "text": "Thanks, I'll get in touch if I need anything. Stay safe. Bye!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D14:16",
+      "text": "Later! Stay safe and don't hesitate to holler if you need anything. Can't wait to hit the trail."
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan has another opportunity to help a lost tourist."
+    ],
+    "Sam": [
+      "Sam goes to the ER due to stomachache and receives a diagnosis of gastritis stemming from his unhealthy lifestyle."
+    ],
+    "date": "17 October, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam had a health scare last weekend and ended up in the ER with gastritis.",
+        "D14:1"
+      ],
+      [
+        "Sam realized the importance of prioritizing health by adopting a more nutritious diet and getting regular exercise after the health scare.",
+        "D14:1"
+      ],
+      [
+        "Sam has been stressed with phone issues on top of the health scare.",
+        "D14:1"
+      ],
+      [
+        "Sam is interested in starting fitness to improve overall well-being.",
+        "D14:3"
+      ],
+      [
+        "Sam is planning a hike with Evan and is excited about it as a fun challenge.",
+        "D14:7"
+      ],
+      [
+        "Sam values the support and appreciated Evan's presence in their friendship.",
+        "D14:11"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan has been focusing on fitness and found it beneficial for his overall well-being.",
+        "D14:2"
+      ],
+      [
+        "Evan had another encounter with a lost tourist recently, suggesting a recurring theme of helping tourists in his life.",
+        "D14:2"
+      ],
+      [
+        "Evan suggested setting fitness goals and finding an enjoyable exercise to stay motivated to Sam.",
+        "D14:4"
+      ],
+      [
+        "Evan is planning a hike with Sam and sees it as an opportunity to bond with nature and push themselves.",
+        "D14:8"
+      ],
+      [
+        "Evan values being a supportive friend to Sam and is always there for him.",
+        "D14:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

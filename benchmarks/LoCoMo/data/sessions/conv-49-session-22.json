@@ -1,0 +1,202 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-22",
+  "session_number": 22,
+  "session_summary": "Sam and Evan talked at 11:00 am on 31 December 2023. Sam shared about a recent hiking trip, while Evan mentioned a mountain drive that ended in a minor accident. Despite the mishap, Evan was excited about sharing news of his marriage with work friends. The conversation shifted to the healing power of nature and healthy snacks. Evan recommended energy balls to Sam, who was keen on trying new healthy snacks. Sam also mentioned ongoing self-checkout issues at the store, prompting Evan to joke about needing Sam around to attract the problem.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://c1.wallpaperflare.com/preview/524/680/1013/people-man-back-mountain.jpg"
+      ],
+      "blip_caption": "a photography of a man standing on a rock looking out over a valley",
+      "query": "hiking trip mountain top",
+      "dia_id": "D22:1",
+      "re-download": true,
+      "text": "Hey Evan! I’m really getting into this healthier lifestyle—just took my friends on an epic hiking trip last Friday!"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://disguisemeforever.files.wordpress.com/2021/05/good-click.jpg"
+      ],
+      "blip_caption": "a photo of a small stream running through a lush green forest",
+      "query": "scenic lookout drive peaceful relaxing",
+      "dia_id": "D22:2",
+      "text": "Hey Sam! That’s fantastic—nothing like a good hike to feel alive. We took the Prius for a long drive to the mountains last weekend. It was perfect until we got into a little scrape on the way back."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:3",
+      "text": "Oh no, were you guys okay after the accident?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D22:4",
+      "text": "Yeah, we were fine, thanks. Just a minor accident, but it put a bit of a damper on telling my work friends about getting married. They’ve been a great support, though."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:5",
+      "text": "I bet they were thrilled to hear about your marriage, despite the mishap!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D22:6",
+      "text": "Absolutely, it's been a whirlwind of emotions. Good thing the accident was minor. Just a reminder to take it easy on the road, I guess."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:7",
+      "text": "True, it’s important to stay safe. Glad you can still enjoy the peaceful moments after something like that."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D22:8",
+      "text": "Definitely, nature brings peace and clarity - it's a great experience."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:9",
+      "text": "Nature can make everything else seem small and help us find peace inside. It reminds us of the bigger picture, you know?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i0.wp.com/therosetable.com/wp-content/uploads/2023/09/IMG_4235.jpg"
+      ],
+      "blip_caption": "a photo of a woman sitting at a table with plates and glasses",
+      "query": "ginger snaps tea cups table",
+      "dia_id": "D22:10",
+      "text": "For sure, and nature has been a great healer. Speaking of which, I’ve got to share some of these new healthy snacks I’ve been trying."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:11",
+      "text": "They look healthy and delicious! Perfect for after a hike or, I guess, post-accident recovery, huh?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://blessedbeyondcrazy.com/wp-content/uploads/2019/09/00000PORTRAIT_00000_BURST20190918165701335.jpg"
+      ],
+      "blip_caption": "a photo of a bunch of cookies on a cooling rack",
+      "query": "ginger snaps plate",
+      "dia_id": "D22:12",
+      "text": "Exactly! They’re packed with nutrients and really easy to make. You also need to try these cookies, they are awesome! I’ll send you the recipes."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:13",
+      "text": "Thanks, I’d appreciate that. It’s good to find new ways to stay healthy. Do you have any healthier snack ideas?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://paleoglutenfreeguy.com/wp-content/uploads/2020/08/IMG_7067.jpg"
+      ],
+      "blip_caption": "a photo of a bowl of coconut balls and a bowl of oats",
+      "query": "energy balls plate",
+      "dia_id": "D22:14",
+      "text": "Yeah, I've been trying to eat healthier too. Check out this cool recipe I discovered for these energy balls."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:15",
+      "text": "Do you like them? I know they can be an acquired taste."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D22:16",
+      "text": "I enjoy the taste of these. They're energizing and a healthy way to satisfy your sweet tooth."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:17",
+      "text": "Awesome! Always on the lookout for healthy snacks, thanks for the tip!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D22:18",
+      "text": "Glad to help - hope you enjoy it!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:19",
+      "text": "Thanks, Evan! I'll give these a try. They look yum. Your help means a lot to me. Btw you know what? I went to the store again and, unsurprisingly, had issues with the self-checkout. It's becoming a regular annoyance."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D22:20",
+      "text": "That's very strange, I've never had a problem with it once!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D22:21",
+      "text": "Apparently I attract that to me, if you ever want to be in that situation, call me at the store with you!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan takes a long drive to the mountains with his newly-wedded and pregnant wife in his Prius.",
+      "Evan gets in a minor accident when driving his Prius with his wife.",
+      "Evan spends time with his friends from work and tells them about his recent marriage."
+    ],
+    "Sam": [
+      "Sam takes his friends on a hiking trip after a long time, proudly showing off his new healthier lifestyle."
+    ],
+    "date": "31 December, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam recently took friends on an epic hiking trip.",
+        "D22:1"
+      ],
+      [
+        "Sam expresses concern for Evan's well-being after hearing about a minor accident.",
+        "D22:3"
+      ],
+      [
+        "Sam appreciates nature for bringing peace and helping find clarity.",
+        "D22:7"
+      ],
+      [
+        "Sam is open to trying new healthy snacks and recipes to stay healthy.",
+        "D22:11"
+      ],
+      [
+        "Sam had issues with the self-checkout at the store and finds it to be a regular annoyance.",
+        "D22:19"
+      ],
+      [
+        "Sam humorously mentions attracting issues with self-checkout and offers to be called if someone wants to experience the situation.",
+        "D22:21"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan recently went for a long drive to the mountains with friends in a Prius.",
+        "D22:2"
+      ],
+      [
+        "Evan mentions getting married to his work friends after a minor accident.",
+        "D22:4"
+      ],
+      [
+        "Evan finds peace and clarity in nature and views it as a great healer.",
+        "D22:8"
+      ],
+      [
+        "Evan enjoys sharing and trying new healthy snacks and recipes.",
+        "D22:10"
+      ],
+      [
+        "Evan recommends a recipe for energy balls as a healthier snack idea.",
+        "D22:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

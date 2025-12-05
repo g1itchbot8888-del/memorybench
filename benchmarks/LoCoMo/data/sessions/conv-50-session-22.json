@@ -1,0 +1,154 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-22",
+  "session_number": 22,
+  "session_summary": "Dave and Calvin, at 3:13 pm on 8 October, 2023, discussed Dave's passion for cars. Dave described his recent visit to a car show and his love for car mods. He showed Calvin a car he restored and modified himself, expressing pride in his work. Dave shared that working on cars is therapeutic for him and a lifelong passion. Calvin admired Dave's dedication and viewed his work as inspiring. They discussed the satisfaction of restoring broken items and pursuing one's passion. Calvin encouraged Dave to chase his dreams, while Dave appreciated Calvin's support and encouragement. Dave expressed gratitude for Calvin's support, and they mutually encouraged each other to keep pushing forward.",
+  "conversation_turns": [
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://images.pexels.com/photos/5835359/pexels-photo-5835359.jpeg"
+      ],
+      "blip_caption": "a photography of two men looking at a car engine",
+      "query": "car show vintage mustang open hood",
+      "dia_id": "D22:1",
+      "re-download": true,
+      "text": "Hey Calvin! What’s up? Last Friday I went to the car show. I saw some awesome cars and got to mess with car mods! There were so many cool machines around, it was so much fun! Take a look at this beautiful car!"
+    },
+    {
+      "speaker": "Calvin",
+      "blip_caption": "a photo of a red sports car parked in a showroom",
+      "dia_id": "D22:2",
+      "text": "Hey Dave, that sounds awesome! I'm into the rush of awesome cars. Can't wait to check out your garage."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D22:3",
+      "text": "Thanks! Yeah, this one looks great! I restored and modified it myself and added a custom exhaust and some performance upgrades. It's got a sweet sound and I'm really proud of how it turned out."
+    },
+    {
+      "speaker": "Calvin",
+      "blip_caption": "a photo of a car driving down a street with a traffic light",
+      "dia_id": "D22:4",
+      "text": "Wow, Dave! You really turned it into a masterpiece. Impressive!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D22:5",
+      "text": "Thanks Calvin! I've spent a lot of time and effort on it. It's not just a hobby, it's a passion. It's like therapy, a way to get away from everyday stress. When I was little I'd spend hours in my dad's garage, tinkering with engines - it was like my own sanctuary. Now I'm lucky enough to do this as a job, to take something broken and make it into something awesome."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D22:6",
+      "text": "Wow, Dave, that's amazing. Bringing broken things back to life is so satisfying. Working on cars can be a real escape from reality, and I understand that feeling. Doing what you love for a living, that's the ultimate goal, right? Keep going with it, it's really inspiring."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D22:7",
+      "text": "Thanks, Calvin. It's been my goal since I was a kid and it's awesome to be able to do something I love. Restoring things like this can be tough but the feeling of accomplishment it gives is great. Absolutely, I'm loving it."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D22:8",
+      "text": "Go for it, Dave! Chasing your dreams is what life's about. It's awesome to see how far you've come. Keep working hard and living your best life."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D22:9",
+      "text": "Thanks, Calvin! Means a lot. I'm going to keep chasing my dreams and working hard. Conversations like this remind me why I love what I do."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D22:10",
+      "text": "Glad I can remind you, Dave. Keep up the good work and stay focused. You got this!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D22:11",
+      "text": "Thanks, Calvin! Your support really means a lot. I'll stay focused and keep going. Appreciate the encouragement!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D22:12",
+      "text": "Yeah Dave! I'll always be here to support you and give you that boost. You're doing great!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D22:13",
+      "text": "Thanks so much, Calvin. Your support means everything to me. I'll keep pushing and reaching for them."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D22:14",
+      "text": "No worries, Dave. Keep going for it. You got this!"
+    }
+  ],
+  "events": {
+    "Calvin": [],
+    "Dave": [
+      "Dave goes to a local car show and experiments with car modifications.",
+      "Dave finishes restoring a car with a custom exhaust and performance upgrades."
+    ],
+    "date": "8 October, 2023"
+  },
+  "observations": {
+    "Dave": [
+      [
+        "Dave went to a car show last Friday and enjoys checking out awesome cars and car mods.",
+        "D22:1"
+      ],
+      [
+        "Dave restored and modified a car himself, adding a custom exhaust and performance upgrades.",
+        "D22:3"
+      ],
+      [
+        "Working on cars is like therapy for Dave and a way to get away from everyday stress. He sees it as more than a hobby, but a passion.",
+        "D22:5"
+      ],
+      [
+        "Dave spent hours as a child tinkering with engines in his dad's garage, finding it to be like his sanctuary.",
+        "D22:5"
+      ],
+      [
+        "Dave's job involves taking something broken and making it into something awesome.",
+        "D22:5"
+      ],
+      [
+        "Restoring things can be tough for Dave, but the feeling of accomplishment it gives him is great.",
+        "D22:7"
+      ],
+      [
+        "Dave's ultimate goal has been doing what he loves for a living.",
+        "D22:6"
+      ],
+      [
+        "Dave finds conversations like the one with Calvin to be a reminder of why he loves what he does.",
+        "D22:9"
+      ]
+    ],
+    "Calvin": [
+      [
+        "Calvin is interested in checking out Dave's garage and the awesome cars he has worked on.",
+        "D22:2"
+      ],
+      [
+        "Calvin admires Dave for his work on restoring and modifying the car, calling it a masterpiece.",
+        "D22:4"
+      ],
+      [
+        "Calvin recognizes that working on cars can be a real escape from reality and understands the feeling of doing what you love for a living.",
+        "D22:6"
+      ],
+      [
+        "Calvin encourages Dave to keep working hard and living his best life, appreciating his progress.",
+        "D22:8"
+      ],
+      [
+        "Calvin supports and encourages Dave, reminding him to stay focused and keep going for his dreams.",
+        "D22:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

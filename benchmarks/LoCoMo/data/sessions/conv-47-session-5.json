@@ -1,0 +1,132 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-5",
+  "session_number": 5,
+  "session_summary": "James and John caught up at 9:52 am on 12 April, 2022. James shared about adopting a pup named Ned and how it made his days happier. John mentioned being busy with work but still finding solace in gaming. They discussed a new RPG game John is playing, which James showed interest in despite some lag and errors. John convinced James to try the game, offering to send a link. They agreed to discuss it later, expressing excitement. They bid farewell with James looking forward to trying the game and John wishing him a great time.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://cdn.shopify.com/s/files/1/0624/9512/9787/files/b7d0234c78c382f9d9fc42142115a987.jpg"
+      ],
+      "blip_caption": "a photo of a dog and a cat sitting on a dog bed",
+      "query": "puppy dog bed",
+      "dia_id": "D5:1",
+      "text": "Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:2",
+      "text": "Hey James! Congrats on getting a pup! They really do make days brighter. I haven't made much progress with gaming lately, life's been busy with work and stuff but it's always nice to remember how happy gaming makes me. It's a good way to forget the stresses of life."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D5:3",
+      "text": "Thanks, John! Gaming really does help forget about the stresses of life. It's like heading into another world! Have you played any interesting games lately?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/941ph75y0yb91.jpg"
+      ],
+      "blip_caption": "a photo of a city at night with a view of the city",
+      "query": "cyberpunk 2077 cityscape",
+      "dia_id": "D5:4",
+      "text": "I'm playing this new RPG that has a really cool story and world. It's kinda like getting transported to a futuristic dystopia."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D5:5",
+      "text": "Sounds great! Will I like it? I'm always up for trying new games."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/xu1i4gjzg6jb1.jpg"
+      ],
+      "blip_caption": "a photo of a computer screen with a game on it",
+      "query": "game menu",
+      "dia_id": "D5:6",
+      "text": "You'll love it! It has a fun story and an awesome world. Plus, it has some tough gameplay. However, the game is a little laggy and sometimes produces errors. Here is one of them that I came across yesterday."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D5:7",
+      "text": "The game must still be raw. I'd rather wait until the bugs are completely fixed, and then I'll try it out."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:8",
+      "text": "Even with minor bugs, the game still looks great. The graphics are awesome and the gameplay is super immersive. I'm sure you should try it out now. I can send you a link."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D5:9",
+      "text": "Okay, you convinced me. Well, I'll wait for the link then, thanks!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:10",
+      "text": "Cool, I'll send it to you. Let me know what you think after you check it out!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D5:11",
+      "text": "Cool, John! I'll check it out and let you know what I think. I'm excited to give it a try."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:12",
+      "text": "Thanks, James! Excited to hear your thoughts. Have a great time!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D5:13",
+      "text": "Cheers! Will do. Enjoy the gaming! Bye!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:14",
+      "text": "Bye for now!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D5:15",
+      "text": "See ya! Take care!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:16",
+      "text": "Take care!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James adopts a puppy from a shelter and names it Ned. He now has three dogs."
+    ],
+    "John": [
+      "John starts playing a new RPG set in a futuristic dystopia and with a cool story."
+    ],
+    "date": "12 April, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James adopted a pup from a shelter in Stamford last week and named it Ned, making his days happier.",
+        "D5:1"
+      ]
+    ],
+    "John": [
+      [
+        "John is playing a new RPG that transports players to a futuristic dystopia with a cool story and world.",
+        "D5:4"
+      ],
+      [
+        "John found the game to have some lags and errors but still believes it has great graphics and immersive gameplay.",
+        "D5:6"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

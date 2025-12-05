@@ -1,0 +1,157 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-5",
+  "session_number": 5,
+  "session_summary": "John and Maria discussed the sorry state of education and the need for more funding and resources for schools to support kids' success. They both agreed on the importance of advocating for better education. Maria shared her experience volunteering at a shelter event for kids and how it was inspired by her aunt. She mentioned a touching moment with a little girl that left a lasting impact. John also shared a childhood memory that reinforced the importance of looking out for others in times of need. Both emphasized the significance of kindness and support in making a difference for those feeling down, expressing their agreement on the topic.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a wooden floor with a white wall and a wooden floor",
+      "dia_id": "D5:1",
+      "text": "Hey Maria, since we last spoke I went to that community mtg. It was really interesting hearing everyone's worries and how it affects our area. It made me realize how crucial the upgrades are, especially for the kids. I'm really upset seeing the state of our education. How do you think we can make things better?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D5:2",
+      "text": "Hey John, cool that you made it. You're right, it's really sad to see the state of education. We should fight for more money and resources for schools and raise awareness about the importance of education. It's not just for our kids, but for all of us too!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:3",
+      "text": "Yup, education is essential for a successful society. I totally agree that we should fight for more money and resources for our schools. It breaks my heart that our kids don't have the proper stuff they need. They deserve better."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D5:4",
+      "text": "Yeah, John. Our kids are our future; they should have the best. It kills me to think about all the kids without the proper stuff they need. It's just not right."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:5",
+      "text": "It's definitely isn't, Maria. My kids have so much and others don't. We really need to do something about it."
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://media.cnn.com/api/v1/images/stellar/prod/230608195849-brandi-tuck-college-volunteer2-cnnheroes.jpg"
+      ],
+      "blip_caption": "a photo of three women in green aprons holding pots and cups",
+      "query": "volunteer homeless shelter residents",
+      "dia_id": "D5:6",
+      "text": "Sure, it's not right that some kids get all they need while others have nothing to help them succeed. We gotta do something! Last week I volunteered at a shelter during an event for kids, and it's been a great experience."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:7",
+      "text": "Wow, Maria! That's really making a big impact. What made you decide to get involved with that?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D5:8",
+      "text": "I started volunteering to help make a difference. My aunt believed in volunteering, and used to help my family out when we were struggling, so I'm inspired by her. It makes me happy knowing I can brighten somebody's day."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:9",
+      "text": "Wow, Maria. That's amazing! I can imagine it's incredibly rewarding. Is there a particular moment that stands out to you as the most impactful?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D5:10",
+      "text": "For me, it was when I noticed a little girl around 8 sitting all alone. She seemed so sad. So, I sat with her and we talked. Turns out she had no other family - it broke my heart. I was able to give her some comfort and a listening ear. We ended up laughing and having a good time."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i2.pickpik.com/photos/428/450/411/girl-baby-doll-baby-girl-preview.jpg"
+      ],
+      "blip_caption": "a photography of a little girl kissing a doll with a doll in her lap",
+      "query": "smiling child toy",
+      "dia_id": "D5:11",
+      "re-download": true,
+      "text": "Wow, what a touching moment, Maria. I'm glad you were there for her when she needed someone. I'm sure it made a big impact."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D5:12",
+      "text": "That's nice of you, John. What's the photo about?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:13",
+      "text": "It reminds me of something from my childhood. I had a little doll like this and it always made me feel better. It reminds me to always look out for others, especially when they're feeling down."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D5:14",
+      "text": "That's sweet. Spreading kindness and support can really make a difference, especially when someone is feeling down. Thanks for sharing."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D5:15",
+      "text": "No problem, Maria. It's important to support each other when we're feeling down. You never know the difference a kind gesture can make."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D5:16",
+      "text": "Yep, kindness is key and a little compassion can really turn someone's day around. So glad we're on the same page here."
+    }
+  ],
+  "events": {
+    "John": [
+      "John attends a community meeting where he is motivated to work towards providing upgrades to education infrastructure in underserved communities. He is particularly struck by the inequality in access across neighborhoods."
+    ],
+    "Maria": [
+      "Maria volunteers at the homeless shelter during a kids event. She is inspired by her aunt who used to volunteer and helped her family during tough times."
+    ],
+    "date": "28 January, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John attended a community meeting focused on the state of education and the need for upgrades, especially for kids.",
+        "D5:1"
+      ],
+      [
+        "John expressed concern about the lack of proper resources for kids in education and the need to make things better.",
+        "D5:3"
+      ],
+      [
+        "John mentioned his kids having a lot while others lack resources, indicating a sense of empathy and awareness.",
+        "D5:5"
+      ],
+      [
+        "John shared that he had a doll in his childhood that made him feel better, reminding him to look out for others when they're feeling down.",
+        "D5:13"
+      ],
+      [
+        "John emphasizes the importance of supporting each other, especially when feeling down.",
+        "D5:15"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria expressed sadness about the state of education and the lack of proper resources for kids.",
+        "D5:2"
+      ],
+      [
+        "Maria mentioned volunteering at a shelter during an event for kids, showing a commitment to helping those in need.",
+        "D5:6"
+      ],
+      [
+        "Maria volunteered to help make a difference and shared that her aunt's involvement in volunteering inspired her.",
+        "D5:8"
+      ],
+      [
+        "Maria had a touching moment with a lonely girl at the shelter, providing comfort and company, which made an impact on her.",
+        "D5:10"
+      ],
+      [
+        "Maria values spreading kindness and support to make a difference, especially for those feeling down.",
+        "D5:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

@@ -1,0 +1,193 @@
+{
+  "sample_id": "conv-26",
+  "session_id": "conv-26-session-16",
+  "session_number": 16,
+  "session_summary": "Caroline and Melanie were chatting at 12:09 am on 13 September, 2023. Caroline told Melanie about her biking trip with friends and sent her a stunning picture. Melanie complimented the picture and shared her own experience of camping with her kids. They both agreed that being in nature was refreshing for the soul. Melanie asked Caroline about her upcoming plans. Caroline expressed how excited she was about her work volunteering for the LGBTQ+ community and how it inspired her to create art. Melanie admired Caroline's art and shared her own love for painting and pottery. They talked about the therapeutic aspect of art and how it helped them express their feelings. Caroline showed Melanie a painting she made about her journey as a trans woman. Melanie was impressed and proud of Caroline's progress. Caroline spoke about the changes in her relationships and how she was happier being around accepting and loving people. Melanie shared a picture from a café they visited and assured Caroline that everything was fine despite the serious sign. They ended their conversation by celebrating the joyful moments in life.",
+  "conversation_turns": [
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_371,q_75,w_640/v1/crm/corpuschristitx/Sunset-Lake-Park_38118D81-5056-A36F-23E62D2F41525FF4-38118cb45056a36_381194bb-5056-a36f-23c599c63a3950d7.jpg"
+      ],
+      "blip_caption": "a photo of a beach with a fence and a sunset",
+      "query": "sunset lake",
+      "dia_id": "D16:1",
+      "text": "Hey Mel, long time no chat! I had a wicked day out with the gang last weekend - we went biking and saw some pretty cool stuff. It was so refreshing, and the pic I'm sending is just stunning, eh?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://exploringtheprime.com/wp-content/uploads/2019/10/IMG_6705-2.jpg"
+      ],
+      "blip_caption": "a photo of a dirt road surrounded by trees with yellow leaves",
+      "query": "family hiking trail vibrant autumn colors",
+      "dia_id": "D16:2",
+      "text": "Hey Caroline! It's so good to hear from you! That pic is so beautiful, the colors really pop. Biking sounds like a great way to get out in nature. We went camping with the kids a few weeks ago, had a blast exploring the forest and hiking. Nature can be so refreshing for your soul. Any plans coming up?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D16:3",
+      "text": "Melanie, that photo's amazing! I love all the yellow leaves, it looks so cozy. That sounds like fun! Seeing how excited they get for the little things is awesome, it's so contagious."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D16:4",
+      "text": "Thanks, Caroline! It's awesome seeing the kids get excited learning something new about nature. Those moments make being a parent worth it. We roasted marshmallows and shared stories around the campfire. Those simple moments make the best memories. What inspires you with your volunteering?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://i.pinimg.com/originals/34/2e/72/342e72b194865e01a38af86c307e95c7.jpg"
+      ],
+      "blip_caption": "a photo of a painting of a heart on a table",
+      "query": "canvas painting rainbow colors",
+      "dia_id": "D16:5",
+      "text": "I'm inspired seeing my work make a difference for the LGBTQ+ community. Knowing I'm helping create a more loving world is amazing. I'm really thankful for my friends, family and mentors' support. It inspires me to keep making art, too."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D16:6",
+      "text": "Wow, Caroline, that looks awesome! I love how it shows the togetherness and power you were talking about. How long have you been creating art?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D16:7",
+      "text": "Since I was 17 or so. I find it soempowering and cathartic. It's amazing how art can show things that are hard to put into words. How long have you been into art?"
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://www.1hotpieceofglass.com/cdn/shop/files/image_93ad5985-ff65-4b93-877b-3ee948ac5641_5000x.jpg"
+      ],
+      "blip_caption": "a photo of a group of bowls and a starfish on a white surface",
+      "query": "pottery bowl intricate patterns purple glaze",
+      "dia_id": "D16:8",
+      "text": "Seven years now, and I've finally found my real muses: painting and pottery. It's so calming and satisfying. Check out my pottery creation in the pic!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D16:9",
+      "text": "Melanie, those bowls are amazing! They each have such cool designs. I love that you chose pottery for your art. Painting and drawing have helped me express my feelings and explore my gender identity. Creating art was really important to me during my transition - it helped me understand and accept myself. I'm so grateful."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D16:10",
+      "text": "Thanks, Caroline! It has really helped me out. I love how it's both a creative outlet and a form of therapy. Have you ever thought about trying it or another art form?"
+    },
+    {
+      "speaker": "Caroline",
+      "img_url": [
+        "https://i.redd.it/z8zsh53ycfvb1.jpg"
+      ],
+      "blip_caption": "a photo of a painting on a easel with a red and blue background",
+      "query": "canvas colourful brush strokes",
+      "dia_id": "D16:11",
+      "text": "I haven't done pottery yet, but I'm game for trying new art. I might try it sometime! Check out this piece I made!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D16:12",
+      "text": "Wow, Caroline! This painting is awesome. Love the red and blue. What gave you the idea?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D16:13",
+      "text": "Thanks, Melanie! I made this painting to show my path as a trans woman. The red and blue are for the binary gender system, and the mix of colors means smashing that rigid thinking. It's a reminder to love my authentic self - it's taken a while to get here but I'm finally proud of who I am."
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D16:14",
+      "text": "Wow, Caro, that painting is amazing! You've made so much progress. I'm super proud of you for being your true self. What effect has the journey had on your relationships?"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D16:15",
+      "text": "Thanks, Melanie. It's definitely changed them. Some close friends kept supporting me, but a few weren't able to handle it. It wasn't easy, but I'm much happier being around those who accept and love me. Now my relationships feel more genuine."
+    },
+    {
+      "speaker": "Melanie",
+      "img_url": [
+        "https://i.redd.it/epuj1xq8eaga1.jpg"
+      ],
+      "blip_caption": "a photo of a sign posted on a door stating that someone is not being able to leave",
+      "query": "me kids park joy love happiness",
+      "dia_id": "D16:16",
+      "text": "Caroline, it's got to be tough dealing with those changes. Glad you've found people who uplift and accept you! Here's to a good time at the café last weekend - they even had thoughtful signs like this! It brings me so much happiness."
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D16:17",
+      "text": "Whoa, Mel, that sign looks serious. Did anything happen?"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D16:18",
+      "text": "The sign was just a precaution, I had a great time. But thank you for your concern, you're so thoughtful!"
+    },
+    {
+      "speaker": "Caroline",
+      "dia_id": "D16:19",
+      "text": "Phew! Glad it all worked out and you had a good time at the park!"
+    },
+    {
+      "speaker": "Melanie",
+      "dia_id": "D16:20",
+      "text": "Yeah, it was so much fun! Those joyful moments definitely show us life's beauty."
+    }
+  ],
+  "events": {
+    "Caroline": [
+      "Caroline spends a day out outdoors bike riding and sight seeing with her friends."
+    ],
+    "Melanie": [],
+    "date": "13 September, 2023"
+  },
+  "observations": {
+    "Caroline": [
+      [
+        "Caroline spends time with friends biking and exploring nature.",
+        "D16:1"
+      ],
+      [
+        "Caroline is very focused on making a difference for the LGBTQ+ community through her work.",
+        "D16:5"
+      ],
+      [
+        "Caroline has been creating art since the age of 17.",
+        "D16:7"
+      ],
+      [
+        "Caroline uses art to express her feelings and explore her gender identity.",
+        "D16:9"
+      ],
+      [
+        "Caroline made a painting representing her journey as a trans woman.",
+        "D16:13"
+      ],
+      [
+        "Caroline's relationships have changed due to her journey, some friends were not able to handle the changes.",
+        "D16:15"
+      ]
+    ],
+    "Melanie": [
+      [
+        "Melanie enjoys camping with her kids, exploring the forest, and hiking.",
+        "D16:2"
+      ],
+      [
+        "Melanie finds inspiration in seeing her kids excited about learning new things about nature.",
+        "D16:4"
+      ],
+      [
+        "Melanie has been into art for seven years, finding a passion for painting and pottery.",
+        "D16:8"
+      ],
+      [
+        "Melanie uses painting and pottery as a calming and satisfying creative outlet.",
+        "D16:8"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-26",
+  "total_sessions": 19
+}

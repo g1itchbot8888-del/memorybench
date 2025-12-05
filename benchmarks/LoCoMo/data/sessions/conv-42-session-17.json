@@ -1,0 +1,177 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-17",
+  "session_number": 17,
+  "session_summary": "Nate shared his recent victory in a video game tournament, winning for the fourth time and being proud to make money doing what he loves. Joanna congratulated him, mentioning her road trip to Woodhaven during his tournament. Nate showed interest in her discoveries, and Joanna talked about finding an old book with stories and sketches that inspired her next script. They exchanged words of encouragement and support, with Nate praising Joanna's talent and Joanna expressing excitement about her new script and book. Nate encouraged her to believe in herself and her talent. Joanna appreciated his support and stated her determination to continue working hard.",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/p59z4xlbytfa1.jpg"
+      ],
+      "blip_caption": "a photo of a television screen showing a trophy and a trophy",
+      "query": "video game tournament trophy game screenshot",
+      "dia_id": "D17:1",
+      "text": "Hey Joanna, check this out! I won my fourth video game tournament on Friday! It was awesome competing and showing off my skills - and the victory was indescribable. I'm really proud that I can make money doing what I love. This one was online!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D17:2",
+      "text": "Congrats, Nate! That's awesome! So proud of you. Your hard work really paid off - keep it up! BTW, I took a road trip for research for my next movie while you were winning. Much-needed break and a chance to explore new places and get inspired."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D17:3",
+      "text": "Thanks, Joanna! Your support means a lot to me. That road trip sounds great! Where did you go? Did you discover any interesting places?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/Old_Geodesy_library_books.jpg"
+      ],
+      "blip_caption": "a photography of a book shelf filled with lots of books",
+      "query": "vintage library woodhaven midwest",
+      "dia_id": "D17:4",
+      "re-download": true,
+      "text": "Thanks Nate! Appreciate your kind words. I went to Woodhaven, a small town in the Midwest. Got to see some lovely scenery and historic buildings. Checked out the library there, it had a cool old book collection!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D17:5",
+      "text": "That place looks interesting! Did you find any cool books there?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.redd.it/sqyihv2m1j871.jpg"
+      ],
+      "blip_caption": "a photo of a book with writing on it and a pen",
+      "query": "old journal stories sketches handwritten pages",
+      "dia_id": "D17:6",
+      "text": "I stumbled upon this super cool book from the 1900s with stories and sketches - so awesome to read about the town and the people living there!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D17:7",
+      "text": "That sounds really interesting! Anyting specific stick out to you about it?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D17:8",
+      "text": "Woodhaven has had an interesting past with lots of cool people. Seeing how much it changed sparked ideas for my next script."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D17:9",
+      "text": "Real-life stories are the best for inspiration. Can't wait to hear about your next one. Keep it up!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D17:10",
+      "text": "Thanks, Nate! I'm stoked about this new script. It's different from my previous work, but it has the potential to be something awesome! I'll be sure to keep you posted."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D17:11",
+      "text": "I'm sure it will do just as well as your last one! Keep on trying and believe in yourself!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D17:12",
+      "text": "Thanks, Nate! Your encouragement really means a lot to me. You're the best for supporting me in my writing journey."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D17:13",
+      "text": "I'm always here for you! You've got so much talent, just keep going for it!"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.imgur.com/bJiLDHb.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a notebook with a handwritten page",
+      "query": "notebook writing talent dreams",
+      "dia_id": "D17:14",
+      "text": "I will! I actually started on a book recently since my movie did well!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D17:15",
+      "text": "Nice! I'm curious, what is it about?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D17:16",
+      "text": "That page specifically has some dialogues exploring loss, redemption, and forgiveness. It's a deep and emotional story that I'm really excited about!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D17:17",
+      "text": "Wow, Joanna! It sounds awesome. I'm so excited to see how it all plays out!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D17:18",
+      "text": "Thanks, Nate! I'm so glad you're excited. I've never really tried publishing a book, but this might be the first!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D17:19",
+      "text": "Good luck on that! I'm sure people will recognise you as the same author of the movie you got published and love the book even more."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D17:20",
+      "text": "Thanks, Nate! Your belief in me means a lot. I'll keep doing my best. Thanks for the support!"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a person holding a small turtle in a container",
+      "dia_id": "D17:21",
+      "text": "No problem, Joanna. I'm here for you. Your hard work will pay off, I promise. Believe in yourself and your talent - you're incredible!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna takes a road trip to a small Midwestern town Woodhaven for research on her next movie script and is inspired by the history of the town and its interesting people.",
+      "Joanna starts writing a book on a deep and emotional story after seeing the movie she helped co-write do well."
+    ],
+    "Nate": [
+      "Nate wins his fourth video game tournament"
+    ],
+    "date": "10 July, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate won his fourth video game tournament online and is proud to make money doing what he loves.",
+        "D17:1"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research for her next movie.",
+        "D17:2"
+      ],
+      [
+        "Joanna found a super cool book from the 1900s with stories and sketches during her trip, inspiring her next script.",
+        "D17:6"
+      ],
+      [
+        "Joanna's new script is different from her previous work but has the potential to be something awesome.",
+        "D17:10"
+      ],
+      [
+        "Joanna started working on a book recently after her movie did well. The book explores themes of loss, redemption, and forgiveness.",
+        "D17:14"
+      ],
+      [
+        "Joanna mentioned that she has never really tried publishing a book, but this might be her first one.",
+        "D17:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

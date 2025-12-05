@@ -1,0 +1,142 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-1",
+  "session_number": 1,
+  "session_summary": "Maria and John met at 11:01 am on 17 December, 2022. Maria mentioned she has been busy volunteering at a homeless shelter and doing aerial yoga to stay fit. John shared that he had just returned from a family road trip and is now into kickboxing to stay energized. John expressed his goal of getting into local politics to improve education and infrastructure, inspired by the needs he saw growing up in his neighborhood. Maria applauded his efforts and asked about his next steps in the campaign. John plans to talk to local leaders and organizations for support and ideas. Maria encouraged him and asked to keep her updated on his progress.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "dia_id": "D1:1",
+      "text": "Hey John! Long time no see! What's up?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D1:2",
+      "text": "Hey Maria! Good to see you. Just got back from a family road trip yesterday, it was fun! Anything exciting happening for you?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D1:3",
+      "text": "Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D1:4",
+      "text": "Woah, Maria, that sounds cool! I'm doing kickboxing and it's giving me so much energy."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D1:5",
+      "text": "Cool, John. Kickboxing is a perfect way to stay in shape and de-stress. Do you have any goals you're working towards?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D1:6",
+      "text": "Yeah Maria, I'm really hoping to get into local politics. I love helping the community and making it a better place."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D1:7",
+      "text": "Woohoo, John! That's awesome! Any specific areas you want to tackle?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D1:8",
+      "text": "I'm passionate about improving education and infrastructure in our community. Those are my main focuses."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D1:9",
+      "text": "Wow, John! It's great to hear that. Could you tell me what got you interested in those topics?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://www.greenbaypressgazette.com/gcdn/presto/2019/07/16/PGRB/fa8d60a1-0a21-421c-b36d-31f4bc2d2b6d-KEW_0720_LC_referendum_Peters_Concrete_pour.png"
+      ],
+      "blip_caption": "a photo of a group of men working on a building",
+      "query": "school building renovation",
+      "dia_id": "D1:10",
+      "text": "Growing up, I saw how lack of education and crumbling infrastructure affected my neighborhood. I don't want future generations to go through that, so I think schools and infrastructure should be funded properly. Here's a pic of a school last year, after they got the funding."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D1:11",
+      "text": "Looks good! How did the extra funding help with building the school?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D1:12",
+      "text": "It enabled needed repairs and renovations, making the learning environment safer and more modern for students."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D1:13",
+      "text": "Wow John, it really made a difference for schools and students! It must have been great to be involved. What's your next move in politics?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D1:14",
+      "text": "I'm gonna chat with local leaders and organizations, get support and gather ideas for my next move."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D1:15",
+      "text": "Sounds good, John. Let's get support and great ideas from local leaders and organizations. Keep me posted on how your campaign is going."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D1:16",
+      "text": "Got it! Thanks, Maria. I definitely will."
+    }
+  ],
+  "events": {
+    "John": [
+      "John, his wife and their four kids, take a road trip together.",
+      "John practices kickboxing to stay in shape.",
+      "John aims to get into local politics and improve education, infrastructure in the community.",
+      "John plans to chat with local leaders to gain support and advices for his ideas."
+    ],
+    "Maria": [
+      "Maria volunteers at a homeless shelter.",
+      "Maria starts practicing aerial yoga to stay fit."
+    ],
+    "date": "17 December, 2022"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria volunteers at a homeless shelter and recently started aerial yoga.",
+        "D1:3"
+      ]
+    ],
+    "John": [
+      [
+        "John just got back from a family road trip.",
+        "D1:2"
+      ],
+      [
+        "John is currently doing kickboxing as a workout.",
+        "D1:4"
+      ],
+      [
+        "John aspires to get into local politics to help improve the community.",
+        "D1:6"
+      ],
+      [
+        "John's passion in politics revolves around improving education and infrastructure in the community.",
+        "D1:8"
+      ],
+      [
+        "John is focused on funding schools and improving infrastructure due to past experiences of lack of education and infrastructure in his neighborhood.",
+        "D1:10"
+      ],
+      [
+        "John's next move in politics involves chatting with local leaders and organizations to gather support and ideas.",
+        "D1:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

@@ -1,0 +1,195 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-22",
+  "session_number": 22,
+  "session_summary": "Joanna and Nate, conversing at 11:15 am on 6 October, 2022, shared updates on their recent achievements and interests. Joanna talked about her successful dairy-free recipe while Nate mentioned winning a video game tournament and earning money. They discussed the joy of having extra cash, watching movies, and supporting each other's endeavors, with Nate even creating something special for Joanna. They both expressed pride and encouragement in each other's accomplishments and concluded by sharing their mutual love for DIY projects before saying goodbye.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i0.wp.com/mittsandmeasures.com/wp-content/uploads/2019/10/img_0051.jpg"
+      ],
+      "blip_caption": "a photo of a tart with raspberries on a white plate",
+      "query": "dairy-free chocolate raspberry tarts",
+      "dia_id": "D22:1",
+      "text": "Hey Nate, hi! Yesterday, I tried my newest dairy-free recipe and it was a winner with my family! Mixing and matching flavors is fun and I'm always trying new things. How about you?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/0z7nrwjeqc431.jpg"
+      ],
+      "blip_caption": "a photo of a trophy and a game controller on a table",
+      "query": "video game tournament trophy cash prize",
+      "dia_id": "D22:2",
+      "text": "Hey Joanna! That tart looks yummy! Lately, I've been doing great - I won a really big video game tournament last week and it was awesome! I still can't believe I made so much money from it."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:3",
+      "text": "Way to go, Nate! Winning the tournament and earning cash is awesome - congrats! Did you save it for something special?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D22:4",
+      "text": "Thanks Joanna! Yeah, I saved some but I'm not sure what to do with it - I'm completely content already. I don't have big plans anyway, so it's nice to have the extra cash on hand."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:5",
+      "text": "That's awesome, Nate! Having some extra cash on hand definitely brings a sense of freedom and relaxation, huh?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D22:6",
+      "text": "Yes! Finally, I don't have to stress about it, so I can just enjoy my movies and games."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:7",
+      "text": "Taking breaks and reducing stress is pretty nice! Have you watched any good movies recently? I could use some recommendations!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D22:8",
+      "text": "I watched \"Little Women\" recently, and it was great! The acting was awesome and the story was so captivating. Definitely a good one!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:9",
+      "text": "I'm so glad you enjoyed it! I recommended it to you a while back. I watched it too and it really spoke to me. Themes like sisterhood, love, and chasing dreams were explored so well. By the way, I finished up my writing for my book last week. Put in a ton of late nights and edits but finally got it done. I'm so proud of it! Can't wait to see what happens next."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D22:10",
+      "text": "Way to go! We both know it took some effort, but I'm sure it'll be great. Congrats on finishing it up!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:11",
+      "text": "Thanks Nate! Your words mean a lot. Dedication and late nights got me here, but it was worth it. Just like you with your recent tournament - hard work pays off. I appreciate your support throughout!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D22:12",
+      "text": "I'm always here for you, Joanna! You've worked so hard and accomplished a lot – I'm proud. Keep on going!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:13",
+      "text": "Thanks, Nate! I won't give up on my goals as long as your here to support me."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.pinimg.com/originals/5e/f4/f9/5ef4f9bd2f094b2d0a4ddd4861b928a0.jpg"
+      ],
+      "blip_caption": "a photo of a white board with a drawing of arrows and words",
+      "query": "motivational quotes whiteboard",
+      "dia_id": "D22:14",
+      "text": "You can always count on me! I even made this for you!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:15",
+      "text": "Wow, Nate, that looks awesome! What inspired you?"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a young boy drawing on a white board",
+      "dia_id": "D22:16",
+      "text": "I figured you could always look back on this whenever you need encouragement, and that was all the inspiration I needed. And I would also say that your life path can be quite inspirational!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:17",
+      "text": "Wow, Nate! That's sweet of you! I'll make sure to remember this when I need the encouragement the most."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D22:18",
+      "text": "Awesome! I know encouragement is what got me so far in my gameing career, so I figured why not share the love."
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.pinimg.com/originals/7e/d3/bb/7ed3bb9129ef6126259592e038e2cd17.jpg"
+      ],
+      "blip_caption": "a photo of a bookmark with a plant on top of it",
+      "query": "stack of books bookmark",
+      "dia_id": "D22:19",
+      "text": "Rest assured, it will be something I cherish! On another note, I just finished this cute little bookmark for one of the ladies at my writing club!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D22:20",
+      "text": "That bookmark is great. I'm sure she'll love it!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:21",
+      "text": "Thanks Nate! I absolutley love DIYs, and I know she does too."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D22:22",
+      "text": "Let me know how it goes!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D22:23",
+      "text": "Sure thing! Bye for now!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna cooks her new dairy free recipe for chocolate raspberry tart for her family.",
+      "Joanna finishes writing the book on a deep and emotional story that she started writing in July.",
+      "Joanna makes a cute book mark for one the ladies at her local writing group"
+    ],
+    "Nate": [
+      "Nate wins another video game tournament and makes a lot of money from it"
+    ],
+    "date": "6 October, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna tried her newest dairy-free recipe and it was a winner with her family.",
+        "D22:1"
+      ],
+      [
+        "Joanna finished writing her book last week after putting in a ton of late nights and edits.",
+        "D22:9"
+      ],
+      [
+        "Joanna made a cute little bookmark for one of the ladies at her writing club.",
+        "D22:19"
+      ],
+      [
+        "Joanna loves DIYs.",
+        "D22:21"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate won a really big video game tournament last week and made a lot of money from it.",
+        "D22:2"
+      ],
+      [
+        "Nate watched 'Little Women' recently and found the acting and story captivating.",
+        "D22:8"
+      ],
+      [
+        "Nate made something for Joanna to encourage her.",
+        "D22:14"
+      ],
+      [
+        "Nate believes encouragement got him far in his gaming career.",
+        "D22:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

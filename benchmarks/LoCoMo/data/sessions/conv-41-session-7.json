@@ -1,0 +1,151 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-7",
+  "session_number": 7,
+  "session_summary": "Maria informed John about taking a creative writing class, while John revealed his excitement about running for office again. They discussed their reasons for volunteering and running for office, sharing inspiring stories about resilience and positivity. They emphasized the importance of kindness, optimism, and making a positive impact. John mentioned attending a yoga class soon, and they agreed to work together to bring positive change to their community.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "dia_id": "D7:1",
+      "text": "Hey John, how's it going? Just wanted to give you the heads up on what's been happening lately- I took a creative writing class recently, and it was super enlightening!"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a crowd of people sitting on a sidewalk with umbrellas",
+      "dia_id": "D7:2",
+      "text": "Hey Maria! Wanted to let you know that I'm running for office again. It's been a wild ride, but I'm more excited than ever! How have you been?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D7:3",
+      "text": "Congrats, John! What made you decide to run again? As for me, I've been volunteering at a homeless shelter and it's really rewarding."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:4",
+      "text": "Thanks, Maria! After my last run, I saw the impact I could make in the community through politics. It's rewarding to work towards positive changes and a better future."
+    },
+    {
+      "speaker": "Maria",
+      "blip_caption": "a photo of a woman with a blue shirt and a ring on her neck",
+      "dia_id": "D7:5",
+      "text": "Wow John, your enthusiasm for making a better future is inspiring. Making a positive impact is so rewarding! While volunteering yesterday, I met this amazing woman, Jean, who had been through a lot, yet stayed optimistic and resilient. She showed me the importance of gratitude and connection."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:6",
+      "text": "Wow, Maria! How did she end up in such a situation, and how did she remain positive throughout?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D7:7",
+      "text": "She had a tough time, going through a divorce, losing her job, and ending up homeless. Yet, she still values the little things and believes in the good of kindness."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:8",
+      "text": "It's really inspiring to see someone staying optimistic even when things get tough."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D7:9",
+      "text": "Yeah, sure is. It's a reminder that, no matter what, we can still find joy and hope."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:10",
+      "text": "Keep up the great work, Maria! It's important to stay positive and thankful, even when life's tough. A little kindness and optimism can go a long way. Sounds like your volunteer work has been very influential - amazing!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D7:11",
+      "text": "Thanks, John! Your words mean a lot. It's incredible how much positivity and optimism can impact someone."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:12",
+      "text": "Yep. It's moments like these that remind me of how important it is to be kind and optimistic."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D7:13",
+      "text": "Sure thing, John. Those things can really make a difference. Let's keep spreading positivity and making an impact together."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a man holding a child on his shoulders",
+      "dia_id": "D7:14",
+      "text": "I totally agree, Maria! Let's keep helping each other and make the world a better place.\n\n"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D7:15",
+      "text": "Sounds cool, John! Let's make some positive change and brighten up that place. Do you have anything fun coming up soon?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D7:16",
+      "text": "Let's do it, Maria! Together, we can make a real difference and bring a brighter future. And nothing too soon, but my colleague Rob invited me to a beginner's yoga class."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D7:17",
+      "text": "Sounds fun! I hope you have a good time. In the meantime, let's work together to make things better for our community."
+    }
+  ],
+  "events": {
+    "John": [
+      "John runs for office again, with even more zeal and enthusiasm than his first run, inspired by the observation that one can make a lot of social impact when in office.",
+      "John is invited to a begineer's yoga class by his colleague, Rob."
+    ],
+    "Maria": [
+      "Maria joins a creative writing class and finds it super enlightening.",
+      "MAria meets a person named Jean when volunteering at the homeless shelter, who became homeless after she got divorced and lost her job. Maria inspires to find positivity and happiness even during the tough times in life."
+    ],
+    "date": "25 February, 2023"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria recently took a creative writing class.",
+        "D7:1"
+      ],
+      [
+        "Maria has been volunteering at a homeless shelter, finding it rewarding.",
+        "D7:3"
+      ],
+      [
+        "During her volunteering, Maria met a woman named Jean who showed her the importance of gratitude and connection.",
+        "D7:5"
+      ],
+      [
+        "Maria values positivity and optimism, even in tough situations.",
+        "D7:9"
+      ]
+    ],
+    "John": [
+      [
+        "John is running for office again.",
+        "D7:2"
+      ],
+      [
+        "John believes in making positive changes through politics for a better future.",
+        "D7:4"
+      ],
+      [
+        "John sees staying optimistic during tough times as inspiring.",
+        "D7:8"
+      ],
+      [
+        "John believes in the impact of kindness and optimism.",
+        "D7:10"
+      ],
+      [
+        "John's colleague invited him to a beginner's yoga class.",
+        "D7:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

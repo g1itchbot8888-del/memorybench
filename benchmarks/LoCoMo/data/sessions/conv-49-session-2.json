@@ -1,0 +1,140 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-2",
+  "session_number": 2,
+  "session_summary": "Evan and Sam spoke at 7:11 pm on 24 May, 2023. Evan shared about his recent road trip to Jasper, which he found peaceful and rejuvenating. Sam, who had a tough week and a concerning doctor's visit about his weight, sought advice on starting a healthier lifestyle. Evan suggested finding enjoyable fitness routines and making smarter food choices. Sam mentioned considering painting as a hobby to de-stress, and Evan encouraged him to try it out alongside exercising. They ended the conversation with Evan asking Sam to keep him updated as he starts this journey.",
+  "conversation_turns": [
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://1.bp.blogspot.com/-50oDf6izLpk/XtyM4RGdDgI/AAAAAAACwcA/nnQkAWVln4M3AQ4ZWAkGUfgrxjhpHbtJQCK4BGAsYHg/s4032/IMG_4686.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a book in front of a lake",
+      "query": "jasper national park glacier",
+      "dia_id": "D2:1",
+      "text": "Hey Sam, good to hear from you! Since we last talked, lots has been happening! Last weekend, I took my family on a road trip to Jasper. It was amazing! We drove through the Icefields Parkway and the glaciers and lakes were gorgeous. I got a shot of a glacier, check it out!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D2:2",
+      "text": "Hey Evan, looks amazing! I've never been to Jasper, but it looks breathtaking. Tell me more about your road trip. Was it relaxing?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D2:3",
+      "text": "Hey Sam, thanks for asking! It was great - fresh air, peacefulness and a cozy cabin surrounded by mountains and forests made it feel like a real retreat."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D2:4",
+      "text": "That sounds great, Evan! It's so important to take time for ourselves and find peace, especially after a hard week. Mine's been tough."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D2:5",
+      "text": "Sorry to hear that, Sam. Is there anything I can do to help?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D2:6",
+      "text": "Thanks, Evan. Appreciate the offer, but had a check-up with my doctor a few days ago and, yikes, the weight wasn't great. It was pretty eye-opening."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D2:7",
+      "text": "That must have been a challenging experience, Sam. It's tough when we have to confront our own health challenges. Remember, it's never too late to make positive changes for a healthier lifestyle. Is there anything I can do to support you in this journey?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D2:8",
+      "text": "Thanks, Evan. Breaking old habits isn't easy. Do you have any tips for starting the process?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D2:9",
+      "text": "Yeah, what worked for me was finding a fitness routine I really enjoy. It's my go-to, I love the feeling of being healthy and strong. Making it fun and finding little ways to make smarter choices in my diet really added up. Don't forget, you got this!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D2:10",
+      "text": "Thanks, Evan. Like you said, I've been looking for a hobby to stay motivated. I've been thinking about trying painting. Do you think it will help me de-stress?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D2:11",
+      "text": "Of course, Sam! Painting is a great way to relieve stress and be creative. It gives you the freedom to explore colors and textures and express feelings. I've been doing it for a few years now and it helps me find peace. But unfortunately it won't help you with your weight problem, besides painting I recommend exercising!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D2:12",
+      "text": "Thanks, Evan! Appreciate the encouragement. I'll give it a go and let you know how it turns out."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D2:13",
+      "text": "Awesome, Sam! Have fun with it and don't put too much pressure on yourself. Can't wait to hear how it's going!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D2:14",
+      "text": "Cheers, Evan! I won't stress - just gonna enjoy it."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D2:15",
+      "text": "Alright Sam, have fun with it! Keep me updated!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D2:16",
+      "text": "Thanks, Evan! Will do. Bye for now."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D2:17",
+      "text": "Take care, Sam! I'll catch up with you later."
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan goes on a roadtrip to Jasper with this family where they drive through Icefield Parkways and stay in a cozy cabin in the mountains."
+    ],
+    "Sam": [
+      "Sam has a check up with his doctor and finds that his current weight is not ideal.",
+      "Sam decides to take up hobbies to improve his weight and stay motivated."
+    ],
+    "date": "24 May, 2023"
+  },
+  "observations": {
+    "Evan": [
+      [
+        "Evan took his family on a road trip to Jasper last weekend, driving through the Icefields Parkway.",
+        "D2:1"
+      ],
+      [
+        "Evan described the road trip to Jasper as having fresh air, peacefulness, and a cozy cabin surrounded by mountains and forests.",
+        "D2:3"
+      ],
+      [
+        "Evan recommended finding a fitness routine that is enjoyable and making smarter choices in diet for maintaining a healthier lifestyle.",
+        "D2:9"
+      ],
+      [
+        "Evan has been painting for a few years as a way to find peace and relieve stress.",
+        "D2:11"
+      ]
+    ],
+    "Sam": [
+      [
+        "Sam had a tough week and had a check-up with the doctor where the weight wasn't great.",
+        "D2:4"
+      ],
+      [
+        "Sam expressed interest in trying painting as a hobby to stay motivated and de-stress.",
+        "D2:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

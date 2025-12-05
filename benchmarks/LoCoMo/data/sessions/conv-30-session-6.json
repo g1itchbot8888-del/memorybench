@@ -1,0 +1,184 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-6",
+  "session_number": 6,
+  "session_summary": "Jon and Gina, at 2:35 pm on 16 March 2023, caught up on their recent activities. Jon mentioned starting at the gym to balance his ventures, while Gina revealed she had a tough time after losing her job at Door Dash but had exciting news about opening an online clothes store. The two discussed their entrepreneurial journeys, with Gina blending her passion for fashion and dance into her store, and Jon facing challenges but staying determined to succeed. They both found inspiration in each other's perseverance and decided to support each other in reaching their goals. Jon and Gina expressed mutual encouragement and determination to pursue their dreams together.",
+  "conversation_turns": [
+    {
+      "speaker": "Jon",
+      "dia_id": "D6:1",
+      "text": "Hi Gina! Been hectic for me lately. Started hitting the gym last week to stay on track with the venture. Gotta figure out how to balance it all, but it's going well. How about you?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D6:2",
+      "text": "Hey Jon! Great to hear from you. Been having some tough times lately."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D6:3",
+      "text": "Oof, sorry to hear that. What's up? Is there anything I can do to help?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D6:4",
+      "text": "Thanks, Jon! Appreciate your offer. Since I lost my job at Door Dash, things have been tough. But here's some good news - I've got something to share!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D6:5",
+      "text": "Wow, that's awesome! Can't wait to hear it!"
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://i.redd.it/i9k97vw6pgs51.jpg"
+      ],
+      "blip_caption": "a photo of a computer screen showing a book and a pair of shoes",
+      "query": "online clothing store website screenshot",
+      "dia_id": "D6:6",
+      "text": "Yay! My online clothes store is open! I've been dreaming of this for a while now - can't wait to see what happens!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D6:7",
+      "text": "Congrats! That's awesome! What gave you the idea to start the online store?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D6:8",
+      "text": "Thanks! I'm passionate about fashion trends and finding unique pieces. Plus, I wanted to blend my love for dance and fashion, so it was a perfect match."
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of three young girls standing next to each other with trophies",
+      "dia_id": "D6:9",
+      "text": "Wow, that's awesome! Combining your two interests into a store is super cool. Best of luck with it!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D6:10",
+      "text": "Thanks! How is biz going? I hope it's going well!"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a laptop computer sitting on top of a table",
+      "dia_id": "D6:11",
+      "text": "Thanks for askin', Gina! Losing my job was hard, but I'm livin' my dreams now. Startin' my biz has been tough but I'm gonna make it! I keep facing new challenges, but I'm sure it'll be worth it in the end."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D6:12",
+      "text": "Yeah, starting and running my own biz has had its ups and downs - but it's been an amazing ride!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D6:13",
+      "text": "Yeah, it's been a rollercoaster. But your success really inspires me to keep pushing forward. Your determination is awesome!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D6:14",
+      "text": "Thanks, Jon! Your words are really encouraging. Glad my journey is inspiring others."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D6:15",
+      "text": "Yeah, totally! It's great we both face the same challenges, it motivates us and it's like having a partner to dance with!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D6:16",
+      "text": "Yep! We're both on different paths, but it's nice to have someone to root for us. We can do it!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D6:17",
+      "text": "Definitely! Having someone back us up is great. Let's keep going and reach success together!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D6:18",
+      "text": "Let's keep chasing our dreams, supporting each other, and celebrating achievements. We can do great things together!"
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://www.news-press.com/gcdn/presto/2018/12/21/PFTM/e043df2d-48d9-4591-a714-f27ecbd42007-GD1.jpg"
+      ],
+      "blip_caption": "a photo of two glasses of champagne with a bottle of wine in the background",
+      "query": "champagne celebration",
+      "dia_id": "D6:19",
+      "text": "Yeah, Gina, thanks for having my back. Here's to taking on new heights, and all the trials that come with it. Cheers!"
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon joins a gym to stay fit while pursuing his business venture."
+    ],
+    "Gina": [
+      "Gina opens her online clothing store"
+    ],
+    "date": "16 March, 2023"
+  },
+  "observations": {
+    "Jon": [
+      [
+        "Jon started hitting the gym last week to stay on track with a venture.",
+        "D6:1"
+      ],
+      [
+        "Jon lost his job at Door Dash.",
+        "D6:4"
+      ],
+      [
+        "Jon is starting his own business after losing his job and finds it tough but fulfilling.",
+        "D6:11"
+      ],
+      [
+        "Jon finds Gina's success inspiring and her determination awesome.",
+        "D6:13"
+      ],
+      [
+        "Jon feels motivated by facing similar challenges to Gina and considers her like a partner in this journey.",
+        "D6:15"
+      ],
+      [
+        "Jon is encouraged by Gina's journey and finds it inspiring.",
+        "D6:19"
+      ]
+    ],
+    "Gina": [
+      [
+        "Gina lost her job at Door Dash.",
+        "D6:4"
+      ],
+      [
+        "Gina opened an online clothes store which she had been dreaming of for a while.",
+        "D6:6"
+      ],
+      [
+        "Gina is passionate about fashion trends and unique pieces, and she blended her love for dance and fashion in starting the online store.",
+        "D6:8"
+      ],
+      [
+        "Gina finds starting and running her own business to be a rollercoaster ride with its ups and downs.",
+        "D6:12"
+      ],
+      [
+        "Gina feels inspired by Jon's determination and success, and his words of encouragement mean a lot to her.",
+        "D6:14"
+      ],
+      [
+        "Gina sees Jon as someone on a different path but appreciates having him as someone to root for and support each other.",
+        "D6:16"
+      ],
+      [
+        "Gina values having someone like Jon to back her up and encourages each other to chase their dreams and achieve great things together.",
+        "D6:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

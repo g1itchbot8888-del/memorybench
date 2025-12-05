@@ -1,0 +1,302 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-14",
+  "session_number": 14,
+  "session_summary": "James and John had a conversation at 5:07 pm on 16 June, 2022. James shared that he has been through ups and downs recently but feels lucky to have a support system. John mentioned starting a coding blog and shared his love for sci-fi and fantasy books. He recommended \"The Stormlight Archive\" and \"Kingkiller Chronicle\". James talked about his dog Max, who loves swimming and playing fetch. John praised James for taking breaks in nature, emphasizing the importance of self-care and support.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a dog laying on a person on a couch",
+      "dia_id": "D14:1",
+      "text": "Hey John, how's it going? A lot has happened for me lately, some good and some not so great. I`m lucky to have at least two people who always help me out when I'm struggling. What about you?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/bkol9biz39j21.jpg"
+      ],
+      "blip_caption": "a photo of a computer screen with a program on it",
+      "query": "screenshot coding blog",
+      "dia_id": "D14:2",
+      "text": "Gad to hear you have your support system ready. It's crucial, especially during hard times. For me, it's been quite an emotional rollercoaster. Last week, I started my blog about coding. It's exciting and kinda scary too. This is the first picture I uploaded there."
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a video game scene of a man and woman",
+      "dia_id": "D14:3",
+      "text": "Wow, starting a blog about coding is awesome! Must be so exciting. What do you think about it?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a computer screen showing a number of items",
+      "dia_id": "D14:4",
+      "text": "Thanks, James! It has been an awesome and challenging experience. I'm loving sharing my coding journey with others and tracking everything. It's a great way to connect with other coders."
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a vase with a plaque on it",
+      "dia_id": "D14:5",
+      "text": "Congrats on your coding journey! What`s more new in your world?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/qx7qmvp5abx41.jpg"
+      ],
+      "blip_caption": "a photo of a bookshelf with a lot of books on it",
+      "query": "bookshelf coding books",
+      "dia_id": "D14:6",
+      "text": "Well, I bought a lot of new books, and now my bookcase is almost completely filled!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D14:7",
+      "text": "What genre do you enjoy reading?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/62ogg70rblbb1.jpg"
+      ],
+      "blip_caption": "a photo of a book shelf with a few books on it",
+      "query": "epic fantasy series book cover",
+      "dia_id": "D14:8",
+      "text": "I'm a big fan of sci-fi and fantasy books. Epic fantasy series with immersive world-building and intricate storylines are what I enjoy reading. Just getting lost in the pages of a great story is a wonderful escape from reality."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D14:9",
+      "text": "Cool! Are there any book series that you love and would recommend to others?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:10",
+      "text": "Definitely! Two of my favorites are \"The Stormlight Archive\" and \"Kingkiller Chronicle\". If SF is your thing, check out \"The Expanse\" series. It's epic!"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a cd with a picture of a knight on it",
+      "dia_id": "D14:11",
+      "text": "Thanks for the recommendations, John! I'll definitely check out those books. What makes them your favorites?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/gnwdz3ysqra71.jpg"
+      ],
+      "blip_caption": "a photo of a dog sitting on a couch in a living room",
+      "query": "dog couch cozy",
+      "dia_id": "D14:12",
+      "text": "Glad you're giving these books a try! I'm obsessed with the way they create a magical world you can escape into - plus the characters feel really real. By the way, what's the name of the dog in this picture from your Facebook? It`s so cute!"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/3gzujt17mgkb1.jpg"
+      ],
+      "blip_caption": "a photo of a dog chewing on a shoe on a person's lap",
+      "query": "dog max playing fetch",
+      "dia_id": "D14:13",
+      "text": "This is Max – he's so lovable and playful. He brings me so much joy, especially in tough times."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:14",
+      "text": "Aww, he's adorable! I can tell Max brings you a lot of happiness. Pets are always such a great source of joy and love."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/a6vjqnq17kcb1.jpg"
+      ],
+      "blip_caption": "a photo of a dog standing in front of a pool",
+      "query": "Max playing ball backyard",
+      "dia_id": "D14:15",
+      "text": "Yeah, Max is great - he always cheers me up when I'm feeling down. Enjoying those cuddles with him!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:16",
+      "text": "Does he enjoy swimming?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D14:17",
+      "text": "Yeah, he loves it! We usually hit the beach or lake, and he loves playing in the water. He's a pro swimmer!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:18",
+      "text": "Max must be having so much fun swimming and playing - it's the best!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D14:19",
+      "text": "He has a blast! Always a joy to see him so happy and carefree in his favorite activity."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:20",
+      "text": "He looks so happy - this is a great achievement of yours!"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a dog running in a field with a frisbee",
+      "dia_id": "D14:21",
+      "text": "Thanks, John! I love making him happy."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:22",
+      "text": "Does Max have any special talents? He seems like quite the go-getter!"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://d4yxl4pe8dqlj.cloudfront.net/images/061f1763-db03-4b77-a9c7-85a24844f99e/58b4c82d-18f3-4736-87f7-de2a7a3de0a8_full_size.jpg"
+      ],
+      "blip_caption": "a photo of a dog laying in the grass with a frisbee",
+      "query": "dog catching frisbee",
+      "dia_id": "D14:23",
+      "text": "Max is a real go-getter! He's awesome at catching frisbees in mid-air - never misses!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:24",
+      "text": "Wow, Max loves playing fetch! Does he also enjoy long walks?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
+      ],
+      "blip_caption": "a photo of a man walking a dog on a trail",
+      "query": "dog walking trail",
+      "dia_id": "D14:25",
+      "text": "Yep! We love them; they're great exercise and give us fresh air. Here is a photo of us from a recent walk in the forest."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:26",
+      "text": "Where's that spot where you could take a stroll? Bet Max loves all those hikes."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i0.wp.com/runoregonblog.com/wp-content/uploads/2023/03/img_3358.jpg"
+      ],
+      "blip_caption": "a photo of a dirt path in a field with trees",
+      "query": "nearby trail forest serene peaceful nature",
+      "dia_id": "D14:27",
+      "text": "Max and I love taking walks on this nearby trail. It's a mile from my house. It's so tranquil and a great way to relax and connect with nature."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:28",
+      "text": "Wow, that looks awesome! Going for a nature walk is so refreshing, don't you think?"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a park with a bench and trees in the fall",
+      "dia_id": "D14:29",
+      "text": "Yeah, John! It's so relaxing and refreshing. It helps me think straight and find my inner peace."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:30",
+      "text": "That park is so peaceful. What do you do when you're there alone?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D14:31",
+      "text": "When I'm there, I usually bring a book and just chill. It's like an escape from reality."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:32",
+      "text": "Sounds great, James! Taking breaks and switching up the scenery is a great way to feel recharged. Keep it up."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D14:33",
+      "text": "Definitely! Taking breaks is important for recharging. Thanks for the support!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D14:34",
+      "text": "No problem, always here to have your back. Take care of yourself!"
+    }
+  ],
+  "events": {
+    "James": [],
+    "John": [
+      "John starts a blog to document his coding journey.",
+      "John buys new sci-fi anf fantasy books that fill up his bookcase."
+    ],
+    "date": "16 June, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James has two people who always help him out when he's struggling.",
+        "D14:1"
+      ],
+      [
+        "James posted a picture on his blog about coding last week.",
+        "D14:2"
+      ],
+      [
+        "James has a dog named Max who brings him joy, especially in tough times.",
+        "D14:13"
+      ],
+      [
+        "James enjoys cuddling with his dog Max.",
+        "D14:15"
+      ],
+      [
+        "James and Max enjoy swimming together at the beach or lake.",
+        "D14:17"
+      ],
+      [
+        "James takes walks with Max in a nearby tranquil trail to relax and connect with nature.",
+        "D14:27"
+      ],
+      [
+        "When alone in the park, James brings a book to chill and escape from reality.",
+        "D14:31"
+      ]
+    ],
+    "John": [
+      [
+        "John started a blog about coding last week and finds it exciting and challenging.",
+        "D14:2"
+      ],
+      [
+        "John enjoys reading sci-fi and fantasy books, particularly epic fantasy series with immersive world-building and intricate storylines.",
+        "D14:8"
+      ],
+      [
+        "John's favorite book series are 'The Stormlight Archive', 'Kingkiller Chronicle', and 'The Expanse'.",
+        "D14:10"
+      ],
+      [
+        "John's dog Max loves swimming and playing in the water, being a pro swimmer.",
+        "D14:17"
+      ],
+      [
+        "John appreciates James' achievement in making Max happy.",
+        "D14:20"
+      ],
+      [
+        "John thinks that taking breaks and switching up the scenery is important for recharging.",
+        "D14:32"
+      ],
+      [
+        "John is supportive of James and always there to have his back.",
+        "D14:34"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

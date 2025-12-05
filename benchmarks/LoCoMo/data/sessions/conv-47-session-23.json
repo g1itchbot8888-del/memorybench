@@ -1,0 +1,172 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-23",
+  "session_number": 23,
+  "session_summary": "At 9:23 pm on 4 September 2022, James and John catch up on recent events. James shared that he asked Samantha to be his girlfriend at the theater, later they visited McGee's bar discovering they both enjoy lager. John talked about teaching his parents coding and purchasing new gaming equipment involving Sennheiser headphones and a Logitech mouse. James signed up for a cooking class, sharing he made an omelette and meringue there. They planned to attend a baseball game together. John praised James for seeking self-improvement. The conversation ended with friendly goodbyes.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "dia_id": "D23:1",
+      "text": "Hey John, it's been a few days since we talked. So much has gone on, both good and bad. Yesterday, when we were at the theater, Samantha loves theater, I asked her to become my girlfriend, and she agreed. We have gone through a lot in this short period. There were good and bad, but I'm happy with her. All that ups and downs were a bit overwhelming, but it's part of life. What about you? Anything interesting lately?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://c0.wallpaperflare.com/preview/885/290/450/adult-coder-coding-company.jpg"
+      ],
+      "blip_caption": "a photography of a man sitting at a desk with a computer",
+      "query": "family coding together computer",
+      "dia_id": "D23:2",
+      "re-download": true,
+      "text": "Hey James, this is great news! Where else have you been besides the theater? My parents just started learning coding from me - it's been a learning experience, but I'm glad to help them out. It binds us a little closer. Look at this photo, this is my father coding his own program for the first time.\n "
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D23:3",
+      "text": "That's great, John! Looks like he's having a good time in the pic. Samantha and I were also at McGee's bar. It turned out that she loves a good lager beer. She and I have so much in common!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:4",
+      "text": "I'm glad you finally found someone other than dogs that brings you joy. Well done, you will succeed!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D23:5",
+      "text": "Thanks, John. She and I are going to a baseball game next Sunday, want to join? I'll show you what Samantha looks like."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:6",
+      "text": "Yeah! Let's do it. It'll be a fun experience!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D23:7",
+      "text": "Great. Well, what else is new in your life?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:8",
+      "text": "I bought some new gaming equipment to improve my skills. For example, new headphones."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D23:9",
+      "text": "Cool, which company did you choose? And what other devices did you buy?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:10",
+      "text": "I chose headphones from Sennheiser. Judging by the reviews, they have excellent sound. Also, I bought a mouse from Logitech."
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a video game scene of a couple of people",
+      "dia_id": "D23:11",
+      "text": "Cool! I hope the new devices will improve your skill and you will play even better!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:12",
+      "text": "I really hope so too. Well, do you have anything new besides the great news about you and Samantha?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D23:13",
+      "text": "Yes, two days ago I signed up for a cooking class. I never liked cooking, but I felt that I wanted to learn something new. At the first lesson we prepared several simple dishes. I got a great omelette the first time!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:14",
+      "text": "Cool! I’ve never heard of your desire to cook, you surprise me! How much do these cooking courses cost and what else did you cook there?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D23:15",
+      "text": "At only $10 per class, it's very cheap! Also, I made meringue there and they taught us how to make the dough."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:16",
+      "text": "Really cheap. It's great that you are always looking for a way to improve yourself!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D23:17",
+      "text": "Thanks for your support, John! I really appreciate it. I hope I can treat you to my creation once I learn a little more about cooking."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:18",
+      "text": "I look forward to it, James, you can do it!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D23:19",
+      "text": "Your words give me even more strength to pursue my new hobby!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D23:20",
+      "text": "That's why we are friends, to support each other! Well, I have to go, bye!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D23:21",
+      "text": "Take care, John, bye!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James asks Samantha to be his girlfriend at the theater and she agrees.",
+      "James and Samantha plan on visiting a baseball game and James invites John to join them.",
+      "James takes cooking classes and learns to cook omlette, meringue, dough."
+    ],
+    "John": [
+      "John's parents start taking coding lessons from him.",
+      "John buys Sennheiser headphones and Logitech mouse gaming equipment to improve his skills."
+    ],
+    "date": "4 September, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James asked Samantha to be his girlfriend at the theater, and she agreed.",
+        "D23:1"
+      ],
+      [
+        "James and Samantha were at McGee's bar where he found out she loves lager beer.",
+        "D23:3"
+      ],
+      [
+        "James signed up for a cooking class two days ago to learn something new.",
+        "D23:13"
+      ],
+      [
+        "James made a great omelette at the cooking class.",
+        "D23:13"
+      ],
+      [
+        "James's cooking class costs $10 per class.",
+        "D23:15"
+      ],
+      [
+        "James made meringue and learned how to make dough at the cooking class.",
+        "D23:15"
+      ]
+    ],
+    "John": [
+      [
+        "John's parents started learning coding from him, bringing them closer.",
+        "D23:2"
+      ],
+      [
+        "John bought new gaming equipment including headphones from Sennheiser and a mouse from Logitech.",
+        "D23:8"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

@@ -1,0 +1,194 @@
+{
+  "sample_id": "conv-50",
+  "session_id": "conv-50-session-16",
+  "session_number": 16,
+  "session_summary": "Dave and Calvin caught up at 2:55 pm on 31 August, 2023. Calvin shared his amazing experience performing on a big stage and shooting a video in Miami for his new album. Dave showed support and praised Calvin's unique guitar, symbolizing his journey and passion for music. They discussed the importance of staying true to one's style and being unique in music. Dave encouraged Calvin to keep sharing his unique talent with the world.",
+  "conversation_turns": [
+    {
+      "speaker": "Dave",
+      "blip_caption": "a photo of a crowd of people at a concert with their hands in the air",
+      "dia_id": "D16:1",
+      "text": "Hey Calvin! Long time no chat! How was the end of your tour? I bet it was amazing!"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://www.wavy.com/wp-content/uploads/sites/3/2023/04/20230430_023901861_iOS-1.jpg"
+      ],
+      "blip_caption": "a photo of a crowd of people watching a concert with a large screen",
+      "query": "stage crowd energizing connection",
+      "dia_id": "D16:2",
+      "text": "Hey Dave! The tour was amazing! I was so pumped from all the energy from the audience. This pic totally captures how I felt. Such an amazing time!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:3",
+      "text": "Wow, that looks amazing! How was it performing on that big stage?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D16:4",
+      "text": "Performing on such a big stage was a dream come true! The energy was incredible and I felt on top of the world. It was seriously surreal."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:5",
+      "text": "Wow, that must have been an incredible experience! Congrats on achieving such an awesome moment!"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://indiestonia413850954.files.wordpress.com/2019/01/mvimg_20181118_091403_12.jpg"
+      ],
+      "blip_caption": "a photo of a camera and a video camera on a beach",
+      "query": "album video shoot set crew members",
+      "dia_id": "D16:6",
+      "text": "Cool! Last weekend I started shooting a video for my new album - can't wait for you to check it out! Look how great it was!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:7",
+      "text": "Wow, Calvin! Can't wait to see it. Will it be shot on location?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D16:8",
+      "text": "We're doing the shoot in Miami and picked an awesome beach. It's going to have some epic visuals!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:9",
+      "text": "Sounds great, Calvin! The beaches in Miami are awesome - can't wait to see them!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D16:10",
+      "text": "Oh man, they are amazing! I love the Miami vibe, it's perfect for the vid. Can't wait to show you!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:11",
+      "text": "Looking forward to it! I'm excited to see the vibe and the location. Let me know if you need any help with props or anything else for the video. I'm here to support you!"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D16:12",
+      "text": "Thanks, Dave! I'll let you know if I need any assistance with props or anything else. Your support is much appreciated."
+    },
+    {
+      "speaker": "Dave",
+      "img_url": [
+        "https://i.pinimg.com/originals/a9/a5/b5/a9a5b5be5f815beb22bd11caf542d827.jpg"
+      ],
+      "blip_caption": "a photo of a guitar with a octopus on it",
+      "query": "paintbrush guitar pick art",
+      "dia_id": "D16:13",
+      "text": "Sure, let me know when, I'm here to lend a hand. It's great to fuel your ideas. Remember that photo you sent me once? Love how this guitar shows our different artistic styles."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D16:14",
+      "text": "Yes Dave, I remember! I had this custom made by my Japanese artist friend. It's got an octopus on it, which represents my love for art and the sea. It's one of my favorites!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:15",
+      "text": "That's a great guitar, Calvin! Love the design, it's so unique and special."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D16:16",
+      "text": "Cheers, mate! Really appreciate it. This guitar means so much to me; it's a reminder of my passion for music and the amazing friendships I've made."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:17",
+      "text": "Wow, Calvin, this instrument obviously means a lot to you - it's like a representation of your journey, your passion for music, and the friendships you've made. Amazing!"
+    },
+    {
+      "speaker": "Calvin",
+      "img_url": [
+        "https://images.pexels.com/photos/14436042/pexels-photo-14436042.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-carter-nguyen-14436042.jpg"
+      ],
+      "blip_caption": "a photo of a guitar with a purple glow on it",
+      "query": "guitar close-up",
+      "dia_id": "D16:18",
+      "text": "Yeah, Dave! It's like every mark and strum holds a story. Take a look."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:19",
+      "text": "That guitar has a gorgeous purple hue. Why did you make it so shiny?"
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D16:20",
+      "text": "I got it customized with a shiny finish because it gives it a unique look. Plus, it goes with my style."
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:21",
+      "text": "Good pick! The customized purple glow gives it a unique look that really stands out."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D16:22",
+      "text": "Thanks, dude! I dig how it's so unique. It's totally my style!"
+    },
+    {
+      "speaker": "Dave",
+      "dia_id": "D16:23",
+      "text": "Looks great on you! Your unique style really stands out in your music and playing."
+    },
+    {
+      "speaker": "Calvin",
+      "dia_id": "D16:24",
+      "text": "Thanks, Dave! Trying to stay true to myself and be unique in my music is something that I value, so it's really great to hear that you appreciate it."
+    },
+    {
+      "speaker": "Dave",
+      "blip_caption": "a photo of a man working on a car engine in a garage",
+      "dia_id": "D16:25",
+      "text": "Definitely, staying true to yourself and your style is vital. It makes you unique and your music stand out. Keep it real, bud. You've got something great to give the world."
+    }
+  ],
+  "events": {
+    "Calvin": [
+      "Calvin begins shooting a video for his new album on the Miami beach."
+    ],
+    "Dave": [],
+    "date": "31 August, 2023"
+  },
+  "observations": {
+    "Dave": [
+      [
+        "Dave expresses support for Calvin's music and creative endeavors.",
+        "D16:11"
+      ],
+      [
+        "Dave mentions a guitar that shows their different artistic styles, which he appreciates.",
+        "D16:13"
+      ]
+    ],
+    "Calvin": [
+      [
+        "Calvin completed a tour where he performed on a big stage and felt on top of the world.",
+        "D16:4"
+      ],
+      [
+        "Calvin started shooting a video for his new album in Miami at an awesome beach for epic visuals.",
+        "D16:6"
+      ],
+      [
+        "Calvin had a guitar custom made with an octopus design by his Japanese artist friend, representing his love for art and the sea.",
+        "D16:14"
+      ],
+      [
+        "Calvin values being true to himself and his unique style in his music.",
+        "D16:24"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-50",
+  "total_sessions": 30
+}

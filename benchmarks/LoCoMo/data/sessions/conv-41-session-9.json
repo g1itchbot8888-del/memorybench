@@ -1,0 +1,178 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-9",
+  "session_number": 9,
+  "session_summary": "Maria and John reconnected at 9:36 am on 2 April, 2023. Maria shared about taking a poetry class to express her feelings while John mentioned finishing his degree, expressing interest in policymaking to make a positive impact. John's focus areas were education and infrastructure, influenced by his community involvement. Maria praised John's dedication and they both agreed on the importance of finding solutions together. They reminisced about past volunteer experiences and pledged support for each other's efforts to improve lives.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "dia_id": "D9:1",
+      "text": "Hey John, long time no see! I've been taking a poetry class lately to help me put my feelings into words. It's been a rough ride, but it's been good. How have you been?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://www.diplomaoutlet.com/wp-content/uploads/u9-1.jpg"
+      ],
+      "blip_caption": "a photo of a certificate of completion of a university degree",
+      "query": "diploma university",
+      "dia_id": "D9:2",
+      "text": "Hey Maria! Awesome to hear from you. Sounds like a great way to delve into your feelings. Since we spoke last, I've had quite the adventure!\n"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D9:3",
+      "text": "Congrats on finishing your degree, John! It must have been quite the adventure. How did it feel when you achieved such a big goal?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:4",
+      "text": "Thanks, Maria! It was quite a journey, but definitely worth it. I graduated last week!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D9:5",
+      "text": "I bet! What are your plans for the future?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:6",
+      "text": "Thanks! I'm considering going into policymaking because of my degree and my passion for making a positive impact. There are many opportunities to make improvements."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D9:7",
+      "text": "Sounds great, John! That seems perfect for you with your passion and dedication. Are there any specific areas you're particularly interested in?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:8",
+      "text": "Thanks, Maria! Improving education and infrastructure is particularly interesting to me. It's important for our community."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D9:9",
+      "text": "Yeah, I remember you mentioning those areas. How have your experiences in the community meeting and involvement shaped your views on them?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:10",
+      "text": "Going to community meetings and getting involved in my community has given me a better understanding of the challenges our education and infrastructure systems face. It has also shown me the impact these issues have on our neighbors, highlighting the need for us to work towards finding solutions."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D9:11",
+      "text": "Way to go, John! You're really showing dedication and commitment. Gaining first-hand experience and working to find solutions is awesome!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:12",
+      "text": "Thanks Maria! It's important to me to put my words into action and find solutions. Even though it can be hard, it's so rewarding to know I'm making a difference!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D9:13",
+      "text": "Agreed, John! Yeah, it can be tough, but it's really satisfying and worthwhile. Keep it up!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:14",
+      "text": "Maria, thanks a lot! Your support is really encouraging - I appreciate having you in my corner!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D9:15",
+      "text": "No problem, John. Let me know if you need any help. We work well together!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:16",
+      "text": "Thanks, Maria! Will do. Working together would be great!"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/4/2d/42d9b634-18c9-11ed-8a1b-039214ad9eb3/62f3dc54b5a61.image.jpg"
+      ],
+      "blip_caption": "a photo of a man and woman shaking hands in front of a food tray",
+      "query": "volunteering at local homeless shelter",
+      "dia_id": "D9:17",
+      "text": "Yes, John, let's keep supporting each other and finding ways to improve the lives of others. Remember when we volunteered together last year? It was such a fulfilling experience."
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a woman and a child walking in a park",
+      "dia_id": "D9:18",
+      "text": "Yeah, I remember that! It was cool to see how our actions can make a big impact. Let's keep helping out and making things better! Our actions really do matter. "
+    }
+  ],
+  "events": {
+    "John": [
+      "John graduates from his college with a degree related to policymaking and is inspired to pursue a career where he can use his degree to improve society."
+    ],
+    "Maria": [
+      "Maria takes a poetry class to learn more about expressing her emotions."
+    ],
+    "date": "2 April, 2023"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria has been taking a poetry class to help express her feelings.",
+        "D9:1"
+      ],
+      [
+        "Maria congratulated John on finishing his degree.",
+        "D9:3"
+      ],
+      [
+        "Maria is supportive of John's plans for the future in policymaking.",
+        "D9:7"
+      ],
+      [
+        "Maria remembers John mentioning his interest in education and infrastructure improvements.",
+        "D9:9"
+      ],
+      [
+        "Maria praised John for his dedication and commitment to finding solutions for community issues.",
+        "D9:11"
+      ],
+      [
+        "Maria finds it satisfying and worthwhile to work on community issues.",
+        "D9:13"
+      ]
+    ],
+    "John": [
+      [
+        "John has recently graduated.",
+        "D9:4"
+      ],
+      [
+        "John is considering going into policymaking to make a positive impact.",
+        "D9:6"
+      ],
+      [
+        "John is particularly interested in improving education and infrastructure.",
+        "D9:8"
+      ],
+      [
+        "John's experiences in community meetings have shaped his views on education and infrastructure challenges.",
+        "D9:10"
+      ],
+      [
+        "John finds it rewarding to make a difference in the community.",
+        "D9:12"
+      ],
+      [
+        "John values Maria's support and finds it encouraging.",
+        "D9:14"
+      ],
+      [
+        "John reminisced about volunteering with Maria last year and found it fulfilling.",
+        "D9:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

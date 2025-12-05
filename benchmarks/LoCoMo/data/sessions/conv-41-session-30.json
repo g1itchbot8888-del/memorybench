@@ -1,0 +1,217 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-30",
+  "session_number": 30,
+  "session_summary": "Maria and John caught up at 12:10 am on 11 August 2023. Maria shared that she got a puppy named Coco, and John showed her a photo of his late dog, Max. They discussed the joy of having pets and how nature can be a refreshing escape. John opened up about feeling stagnant and wanting to make a positive impact, considering joining local organizations. Maria offered support and encouraged him, ending the conversation on a positive note.",
+  "conversation_turns": [
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://i.redd.it/ulfxreudf3c81.jpg"
+      ],
+      "blip_caption": "a photo of a white dog laying in the grass with a baseball",
+      "query": "puppy playing ball coco",
+      "dia_id": "D30:1",
+      "text": "Hey John! Long time no talk! Guess what - I got a puppy two weeks ago! Her name's Coco and she's adorable."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D30:2",
+      "text": "Wow, Maria! Coco looks so adorable! She seems so happy in that photo. How's it been having her around?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:3",
+      "text": "Thanks, John! It really brings joy to my life; she's always there to greet me when I come home. It's definitely been an adjustment taking care of her, but it's totally worth it!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/kwoxu9jx5jua1.jpg"
+      ],
+      "blip_caption": "a photo of a dog laying on the floor next to a person",
+      "query": "young kid play fetch golden retriever",
+      "dia_id": "D30:4",
+      "text": "That's great! Pets are the best for lifting our spirits. I'm always still thinking about Max- here's a pic of him."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:5",
+      "text": "Aww, he looks so cute in that pic! He obviously brought you lots of joy. What's your best memory with him?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/g92z4kf3aph91.jpg"
+      ],
+      "blip_caption": "a photo of a dog and a person sitting by a campfire",
+      "query": "camping trip max campfire hiking swimming",
+      "dia_id": "D30:6",
+      "text": "Thanks, Maria! Max and I had a blast on our camping trip last summer. We hiked, swam, and made great memories. It was a really peaceful and awesome experience."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:7",
+      "text": "Wow, John, sounds like you and Max had a great time! Camping with pets can be so soul-nourishing, right?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a tent in the woods with a blue tarp",
+      "dia_id": "D30:8",
+      "text": "Definitely, Maria! It was so chill. Being out in nature, away from all the noise and taking some quality time was great. It was a nice break from the everyday hustle and bustle. "
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:9",
+      "text": "Wow, John! Sounds awesome! I can imagine that it felt good to tune out and get lost in nature!"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of a person sitting on a bench looking at the sunset",
+      "dia_id": "D30:10",
+      "text": "Yeah, it was like restarting my mind and spirit. It's amazing how peaceful and pretty it can be. It made me remember the little things in life and savor the peaceful moments."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:11",
+      "text": "Yeah, nature is amazing like that. It's like a reset for our souls and your photos capture it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D30:12",
+      "text": "Thanks, Maria! I'm glad my photos can capture that feeling. They help me take a step back and appreciate the little things in life - especially these days. There've been some tough times lately for me."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:13",
+      "text": "Sorry to hear that, John. Is there anything on your mind lately?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D30:14",
+      "text": "Lately, I've been stumped about something. Don't feel like I'm making much of an impact here, which has me questioning my decisions and goals."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:15",
+      "text": "Hey John, I understand how you feel. It's tough when you start questioning that. But remember, even small things can make a difference. Why do you feel that way?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D30:16",
+      "text": "Thanks for understanding. I just want to positively affect people and the world, but it feels like I'm stuck. I need to find a better way to focus my passion and enthusiasm."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:17",
+      "text": "Yeah, it can be tough. Taking small steps can help. Have you thought about any ideas for how to channel your energy into something meaningful?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D30:18",
+      "text": "Lately I've been exploring options. One idea I had was to join local organizations or volunteering programs. Maybe that's an option."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:19",
+      "text": "Sounds like a great plan, John! That could definitely help you make a difference. You can meet like-minded people and contribute to causes that you care about. Why not do some research and explore the organizations you'd be interested in?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D30:20",
+      "text": "Yeah, Maria, that's a good idea. I'll make a list of the ones that suit what I believe in and reach out for more info. Thanks!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:21",
+      "text": "No worries, John. I'm happy to help. Let me know if you need anything else. Keep going, you can do it!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D30:22",
+      "text": "Thanks for your kind words, Maria! I'll let you know if I need anything else. Keep being positive and kind, you're an inspiration!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D30:23",
+      "text": "Thanks, John. Your words mean a lot. I'll definitely keep spreading positivity. Take care!"
+    }
+  ],
+  "events": {
+    "John": [
+      "John feels stuck in life because he feels he has not been able to make enough impact with his work and is unable to follow his passions."
+    ],
+    "Maria": [
+      "Maria volunteers at the animal shelter where she adopts a puppy and names her Coco."
+    ],
+    "date": "11 August, 2023"
+  },
+  "observations": {
+    "Maria": [
+      [
+        "Maria got a puppy named Coco two weeks ago, bringing joy to her life.",
+        "D30:1"
+      ],
+      [
+        "Maria finds joy in greeting her puppy, Coco, when coming home.",
+        "D30:3"
+      ],
+      [
+        "Maria believes that taking care of her puppy, Coco, is worth the adjustment.",
+        "D30:3"
+      ],
+      [
+        "Maria mentions that camping with pets can be soul-nourishing.",
+        "D30:7"
+      ],
+      [
+        "Maria acknowledges nature as a reset for our souls.",
+        "D30:11"
+      ],
+      [
+        "Maria understands tough times and offers support to John.",
+        "D30:13"
+      ],
+      [
+        "Maria suggests to John to focus his energy on something meaningful, like joining local organizations or volunteering programs.",
+        "D30:19"
+      ],
+      [
+        "Maria encourages John, assures him he can make a difference, and offers help.",
+        "D30:21"
+      ],
+      [
+        "Maria plans to keep spreading positivity.",
+        "D30:23"
+      ]
+    ],
+    "John": [
+      [
+        "John cherishes memories of his pet Max, including a camping trip where they hiked, swam, and made great memories.",
+        "D30:6"
+      ],
+      [
+        "John found the camping trip with his pet Max to be peaceful and awesome.",
+        "D30:6"
+      ],
+      [
+        "John values nature as a way to restart his mind and spirit, appreciating the peaceful moments.",
+        "D30:10"
+      ],
+      [
+        "John expresses feeling stuck and wanting to positively affect people and the world.",
+        "D30:16"
+      ],
+      [
+        "John has been exploring options to make a difference, considering joining local organizations or volunteering programs.",
+        "D30:18"
+      ],
+      [
+        "John appreciates Maria's kind words and finds her an inspiration.",
+        "D30:22"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

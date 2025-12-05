@@ -1,0 +1,156 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-28",
+  "session_number": 28,
+  "session_summary": "\nAt 5:19 pm on 5 August, 2023, John informed Maria that he lost his job at a mechanical engineering company that tanked. He expressed gratitude for her concern and mentioned pursuing opportunities in the tech industry, feeling hopeful about a potential job in a tech company. Maria praised his adaptability and offered support. The conversation shifted to volunteer experiences, with Maria sharing her recent community work and John recalling renovating a community center. They exchanged encouraging words, with Maria commending John for making a real difference and John expressing appreciation for her support. John promised to reach out if needed.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D28:1",
+      "text": "Hey Maria, great chatting with you again! Crazy thing happened since we last talked. I lost my job at the mechanical engineering company. They tanked and it's been really rough. Never saw this coming."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D28:2",
+      "text": "Sorry to hear about your job, John. I can only imagine how tough it must be. How are you holding up?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:3",
+      "text": "Thanks for your care, Maria. It's been tough but I'm trying to stay up. I've been looking into some opportunities in the tech industry for a while now. Maybe this is the change I need, you gave me the push!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D28:4",
+      "text": "Hey John, glad you're looking into other avenues. Any promising leads come up?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:5",
+      "text": "Thanks Maria! I may have found a job at a tech company I like that needs my mechanical skills for their hardware team. It feels different, but I think it's a great opportunity to learn and contribute."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D28:6",
+      "text": "Wow, John, that sounds like the perfect job for you! You're so adaptable, I'm sure you'll do great. Good luck!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:7",
+      "text": "Thanks, Maria! I appreciate your support, it really means a lot."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D28:8",
+      "text": "Hey John, I'm here for you! Staying positive makes a big difference, even in tough times. Yesterday, I took up some community work with my friends from church. It was super rewarding!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:9",
+      "text": "Wow, Maria! That's great. Glad it was rewarding for you."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D28:10",
+      "text": "Thanks, John! These moments remind me of how important kindness and compassion are. Have you had any volunteer experiences you'd like to share?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:11",
+      "text": "I haven't been able to volunteer much lately, but I definitely care about it. Last year, I helped renovate a rundown community center back home. It took a lot of work, but seeing the impact on the community was so worth it."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D28:12",
+      "text": "John, that's great! Must be really satisfying to witness the positive effect it's having on your hometown."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:13",
+      "text": "Yeah! It was really cool to see everyone come together and help out - it's been amazing to see it so busy!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D28:14",
+      "text": "Wow, John, awesome job! Keep doing what you're doing - you're making a real difference!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:15",
+      "text": "It's really encouraging to hear that. I'll keep pushing forward and doing my best."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D28:16",
+      "text": "You got this! You're inspiring and keep making a difference."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:17",
+      "text": "I appreciate it! Your words are really motivating."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D28:18",
+      "text": "No worries, John. I'm here to support you. If there's anything else I can do, just let me know."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D28:19",
+      "text": "Thanks, Maria. Your support means a lot to me. If I need anything, I'll be sure to reach out."
+    }
+  ],
+  "events": {
+    "John": [
+      "John loses his job at the mechanical engineering company and is on the look out for other jobs, potentially at tech companies that require his mechanical engineering skills for their hardware division."
+    ],
+    "Maria": [
+      "Maria and her friends from the church take up some community work."
+    ],
+    "date": "5 August, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John lost his job at a mechanical engineering company that tanked.",
+        "D28:1"
+      ],
+      [
+        "John is looking into opportunities in the tech industry after losing his job.",
+        "D28:3"
+      ],
+      [
+        "John found a job at a tech company that needs his mechanical skills for their hardware team.",
+        "D28:5"
+      ],
+      [
+        "John helped renovate a rundown community center back home last year.",
+        "D28:11"
+      ],
+      [
+        "John finds volunteering satisfying and valuable.",
+        "D28:11"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria engaged in community work with friends from church yesterday.",
+        "D28:8"
+      ],
+      [
+        "Maria believes in the importance of kindness and compassion.",
+        "D28:10"
+      ],
+      [
+        "Maria offered her support and encouragement to John in his tough times.",
+        "D28:6"
+      ],
+      [
+        "Maria finds volunteering rewarding and important.",
+        "D28:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

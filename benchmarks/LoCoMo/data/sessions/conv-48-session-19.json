@@ -1,0 +1,202 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-19",
+  "session_number": 19,
+  "session_summary": "Deborah and Jolene spoke at 12:52 am on 19 August, 2023. Deborah shared her experience of connecting with Anna after sharing her life story, organizing a yoga event, and teaching yoga. Jolene mentioned buying a console for her partner on the 17th and managing her engineering studies. They discussed balancing hobbies and studies, with Deborah suggesting prioritizing and schedule management. Jolene recommended video games like Zelda BOTW and Animal Crossing. They also discussed playing Overcooked 2 with their partners and favorite memories of gaming. Deborah shared her favorite activity of playing detective games with her husband. They both enjoyed spending time outdoors and exploring nature. Deborah mentioned a special park near her house with a meaningful bench where she cherished memories with her mom, including watching a beautiful sunset together. Jolene acknowledged the importance of cherishing special moments.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:1",
+      "text": "Hey Jolene! Hope you're having a good one. Last Friday I told Anna the story of my life and they were super kind about it. It was so nice to have a meaningful connection. How's the mindfulness workshops and reading going? Need any help?"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/90qd3jqxi2781.jpg"
+      ],
+      "blip_caption": "a photo of a black xbox console with a yoda yoda figure next to it",
+      "query": "new game console",
+      "dia_id": "D19:2",
+      "text": "Life's been hella busy since we last talked. I bought a console for my partner as a gift on the 17th and it's so much fun, he even managed to play it.! Engineering studies are still going strong too. Balance has been key for me lately. How about you? What's been up?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:3",
+      "text": " Well done! As for me, I've been focusing on teaching yoga and spending time with the community. Organizing a yoga event last month was really cool."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:4",
+      "text": " Was it rewarding seeing everyone come together? Can you tell me more about how you put it together? Also, any tips for maintaining a balance between hobbies and studies?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:5",
+      "text": " I reached out to different nearby businesses and places to make it happen. We had yoga, food stalls, and even some live music - it was amazing! As for balancing hobbies and studies, I find it helpful to prioritize and manage my time effectively. Making a schedule and setting aside specific time for studying and pursuing hobbies can go a long way in maintaining balance."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:6",
+      "text": "Wow, that's awesome! Gonna make a plan to manage my studies and hobbies. Say, do you ever play video games?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:7",
+      "text": "I used to play some video games, but it's been a while. It's a good way to relax after a busy day. Do you have any game suggestions? What's your favorite game?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:8",
+      "text": "I have a few game recommendations. Zelda BOTW for Switch is an awesome open-world game. Animal Crossing: New Horizons is really calming and cute. As for my favorite game, it's hard to choose just one!"
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a man and a woman sitting in a chair in front of a computer",
+      "dia_id": "D19:9",
+      "text": "Cool recs! I'll definitely check those out. What about your favorite memories of playing video games?\n"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:10",
+      "text": "Oh, I forgot to mention Overcooked 2 - this is a good co-op game if you're into hilarious and chaotic cooking. My partner and I often play for bets! I once won three large pizzas!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:11",
+      "text": "Reminds me of when I used to play games with my husband. We'd take turns and it was a great way to bond and make memories. Gaming really can bring people closer, right?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:12",
+      "text": "Yeah, you`re right! What's your favorite game to play with that person?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:13",
+      "text": "We prefer to play detective games together."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:14",
+      "text": "What other activities do you both enjoy doing together?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:15",
+      "text": "We also enjoyed spending time outdoors and exploring nature. It was always so refreshing to be outside and soak up the fresh air."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:16",
+      "text": "I'm a big fan of being outside too! It's so calming and refreshing. Do you have any special spots you like to go to?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:17",
+      "text": "I love going to this park near my house - it has a nice forest trail and a beach. It's a peaceful spot where I can do some yoga and reflect. There's also a special bench that holds special meaning to me."
+    },
+    {
+      "speaker": "Jolene",
+      "blip_caption": "a photo of a bench in a park with a tree in the background",
+      "dia_id": "D19:18",
+      "text": "Sounds lovely! Nature can be calming. What makes this bench special to you?"
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a person sitting on a bench in a forest",
+      "dia_id": "D19:19",
+      "text": "It holds a lot of special memories for me and my mom - we would come here and chat about dreams and life. It's full of good moments. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:20",
+      "text": "That's awesome, Deborah! What were some of your favorite memories with your mom at this spot? It looks super peaceful and pretty."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:21",
+      "text": "I'll always cherish my memories with her at this spot. I remember a beautiful sunset we watched together in silence - the colors in the sky were so special. Every time I go back, I feel so much peace and gratitude for the time I spent with her."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:22",
+      "text": "Places and moments like that can mean so much, and it's a gift to find peace and gratitude in them."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D19:23",
+      "text": " I'm really thankful for all the time we had."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D19:24",
+      "text": "It's so important to cherish it. "
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah shares her life story with the neighbor Anna and she appreciates Deborah's life experiences.",
+      "Deborah organizes a yoga event in her community, complete with live music and food stalls from local businesses."
+    ],
+    "Jolene": [
+      "Jolene buys a new game console and gifts it to her partner."
+    ],
+    "date": "19 August, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah teaches yoga and spends time with the community.",
+        "D19:3"
+      ],
+      [
+        "Deborah organized a yoga event last month that included yoga, food stalls, and live music.",
+        "D19:5"
+      ],
+      [
+        "Deborah prioritizes and manages her time effectively by making a schedule and setting aside specific time for studying and pursuing hobbies.",
+        "D19:5"
+      ],
+      [
+        "Deborah used to play video games, finding it a good way to relax.",
+        "D19:7"
+      ],
+      [
+        "Deborah cherishes special memories with her mom at a park, including watching a beautiful sunset together.",
+        "D19:21"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene bought a console as a gift for her partner on the 17th.",
+        "D19:2"
+      ],
+      [
+        "Jolene's partner enjoys playing the console she bought.",
+        "D19:2"
+      ],
+      [
+        "Jolene's studies in engineering are going strong.",
+        "D19:2"
+      ],
+      [
+        "Jolene values balance in her life, mentioning it has been key for her lately.",
+        "D19:2"
+      ],
+      [
+        "Jolene enjoys video games and recommends Zelda BOTW and Animal Crossing: New Horizons.",
+        "D19:8"
+      ],
+      [
+        "Jolene and her partner play Overcooked 2 for bets and enjoy it for its chaotic cooking.",
+        "D19:10"
+      ],
+      [
+        "Jolene and her partner enjoy spending time outdoors and exploring nature together.",
+        "D19:15"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

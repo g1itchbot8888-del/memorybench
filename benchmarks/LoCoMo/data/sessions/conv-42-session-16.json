@@ -1,0 +1,147 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-16",
+  "session_number": 16,
+  "session_summary": "Joanna and Nate caught up at 10:55 am on 24 June, 2022. Joanna submitted her screenplay to a film contest, and Nate's gaming party was successful. Nate shared about making vegan ice cream and Joanna wanted the recipe. They agreed to share it the next day. Joanna planned to make it for her family. Nate offered support, and Joanna promised to keep him updated. Nate wished her a great day and told her to take care.",
+  "conversation_turns": [
+    {
+      "speaker": "Joanna",
+      "dia_id": "D16:1",
+      "text": "Hey Nate, long time no see! How have you been? I just got done submitting my recent screenplay to a film contest just to see how others might like it!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D16:2",
+      "text": "That's really cool Joanna! I hope it does well, and I've been doing great! The gaming party was a great success! We even played some Chess afterward just for fun."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D16:3",
+      "text": "Nice! Did your friends like the controller accessories?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D16:4",
+      "text": "Most of them did! I can't say if all of them will continue to use them or not, but that's beside the point."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D16:5",
+      "text": "Yeah Nate, you're right. It doesn't matter if they use it, its the thought that matters right?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D16:6",
+      "text": "Absolutely! There were 7 people that attended, and 6 of them said they'd want to do it again next month!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D16:7",
+      "text": "That sounds like a huge success then! Congrats!"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://www.stockvault.net/data/2022/06/05/293150/preview16.jpg"
+      ],
+      "blip_caption": "a photography of a group of people sitting on a bench",
+      "query": "vegan coconut milk ice cream vegan diet group",
+      "dia_id": "D16:8",
+      "re-download": true,
+      "text": "Thanks! On another note, I made vegan ice cream last Friday and shared it with some people in my vegan diet group. It was awesome!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D16:9",
+      "text": "Mm, yum! Can you give me the recipe for that? It sounds like it'd be a good recipe!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D16:10",
+      "text": "Sure thing! I can give it to you tomorrow, how does that sound?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D16:11",
+      "text": "Awesome! I'm going to make it for my family this weekend - can't wait!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D16:12",
+      "text": "Nice one, Joanna! Hope you and your family like it. Let me know how it went!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D16:13",
+      "text": "Sure thing! They love it when I make them new things!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D16:14",
+      "text": "Then I have no doubt they'll love the icecream!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D16:15",
+      "text": "Thanks Nate! Your support is greatly appreciated. I'll make sure to keep you updated."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D16:16",
+      "text": "Can't wait to hear about it. Have a great day! Take care."
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna submits her third screenplay on loss, identity and connection to a film contest"
+    ],
+    "Nate": [
+      "Nate makes vegan ice cream and shares with the vegan diet group he is part of."
+    ],
+    "date": "24 June, 2022"
+  },
+  "observations": {
+    "Joanna": [
+      [
+        "Joanna submitted her screenplay to a film contest recently.",
+        "D16:1"
+      ],
+      [
+        "Joanna showed interest in Nate's controller accessories for gaming.",
+        "D16:3"
+      ],
+      [
+        "Joanna expressed excitement to receive Nate's vegan ice cream recipe.",
+        "D16:9"
+      ],
+      [
+        "Joanna mentioned her family enjoys it when she makes them new things.",
+        "D16:13"
+      ],
+      [
+        "Joanna appreciates Nate's support for her ice cream making.",
+        "D16:15"
+      ]
+    ],
+    "Nate": [
+      [
+        "Nate hosted a successful gaming party with 7 attendees.",
+        "D16:6"
+      ],
+      [
+        "Nate made vegan ice cream last Friday and shared it with his vegan diet group.",
+        "D16:8"
+      ],
+      [
+        "Nate offered to share the vegan ice cream recipe with Joanna the next day.",
+        "D16:10"
+      ],
+      [
+        "Nate expressed confidence that Joanna's family will love the ice cream.",
+        "D16:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

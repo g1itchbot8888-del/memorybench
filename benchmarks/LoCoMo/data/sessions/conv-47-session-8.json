@@ -1,0 +1,303 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-8",
+  "session_number": 8,
+  "session_summary": "James and John conversed at 2:36 pm on 29 April, 2022. John mentioned he is doing freelance programming to improve his coding skills and is working on a website for a local business. Despite facing challenges like setting up payments, he's determined to succeed. James praised John for his progress and shared his interest in fantasy novels. They discussed the book \"The Name of the Wind\" and strategy games like Civilization VI and Valhalla. James talked about playing a strategy game that tests problem-solving skills and how satisfying it is to win. John brought up enjoying strategy board games and a mystery game with friends. They agreed it's fun to play with others and recommended playing games like the impostor game in large groups for a better experience.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "dia_id": "D8:1",
+      "text": "Hey John! What's up? Anything fun going on?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:2",
+      "text": " I'm currently taking on some freelance programming to hone my coding skills. It's challenging, but I'm determined to improve."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:3",
+      "text": "Freelancing can definitely be a great way to sharpen skills and gain experience. What projects are you currently working on?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:4",
+      "text": "I'm actually working on a website for a local small business. It's my first professional project outside of class."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:5",
+      "text": "Congrats on your first professional project, John! Bet it's been great applying what you learned in class. How's the progress been?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:6",
+      "text": "Thanks, James! I've learned a lot and it's been an interesting journey so far. Progress is slow and there have been some hiccups along the way."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:7",
+      "text": "Yeah, nothing ever goes smooth. It's normal to have hiccups, but use them to learn and grow. Push through it and you'll make it!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:8",
+      "text": "You're right, I appreciate the boost. It's tough sometimes but I'm gonna keep pushing and make this work. Hiccups won't stop me."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:9",
+      "text": "What challenges have you encountered?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:10",
+      "text": "Figuring out how to get payments on the website was tough. I needed some help so I used some resources to understand the process. It's taken a while, but I'm getting closer to a solution."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/2xbwn05lpc761.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a book open to a picture of a male character",
+      "query": "witcher 3 artwork stunning",
+      "dia_id": "D8:11",
+      "text": "That sounds challenging, but you're making progress. Hang in there! By the way, three days ago I bought myself an adventure book with fantasy novels and cool arts."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:12",
+      "text": "Wow, that art's awesome! It takes me back to reading fantasy books."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:13",
+      "text": "Yeah, I love this genre. Got any suggestions?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:14",
+      "text": "Cool! Heard of \"The Name of the Wind\"? It's another great novel with awesome writing."
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a book set of three books on a wooden table",
+      "dia_id": "D8:15",
+      "text": "Never heard of it, but it sounds interesting. I'll definitely check it out. Thanks for the recommendation, John!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:16",
+      "text": "Always happy to help. I'm sure you'll love this trilogy!"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/qjblw3fb7hnb1.jpg"
+      ],
+      "blip_caption": "a photo of a dog laying on a bed with a computer in the background",
+      "query": "gaming setup dogs furry gaming buddies",
+      "dia_id": "D8:17",
+      "text": "Look, I was playing a game and my faithful furry friend Daisy came and lay down next to me. This is so cute!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:18",
+      "text": "Awww, this is really so cute! Your furry friend looks so cozy. Do your dogs often come to you like this while playing?"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a person holding a blue controller in their hand",
+      "dia_id": "D8:19",
+      "text": "Yeah, they love to watch me gaming and often hug me. Such good cuddle buddies! What game have you been playing lately?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:20",
+      "text": "Awesome that you have them! I'm currently playing AC Valhalla, it's cool. Are you playing anything new?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/c15urew02q041.jpg"
+      ],
+      "blip_caption": "a photo of a map of the world on a tv screen",
+      "query": "civilization vi strategy game",
+      "dia_id": "D8:21",
+      "text": "Thanks, John! Valhalla is awesome. I'm trying out some strategy games like this. It's different but so cool!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:22",
+      "text": "Is that Civilization VI? Heard good things about it. How's it?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/nbyl9ym1dpj41.jpg"
+      ],
+      "blip_caption": "a photo of a computer screen showing a game of war",
+      "query": "turn-based strategy game screenshot",
+      "dia_id": "D8:23",
+      "text": "This is a high-quality turn-based strategy game where you manage resources, lead armies, and conquer territories - challenging and cool!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:24",
+      "text": "That sounds fun! What's the game like? Does it require a lot of strategy?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:25",
+      "text": "Sure, John! It requires a lot of strategy. It's all about planning, managing resources and making good decisions to beat your rivals. Every move matters!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:26",
+      "text": "Sounds intense but cool. I like games that test my strategizing. Does it help with your problem-solving?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:27",
+      "text": "Yeah, it's a great way to work on problem-solving and thinking. Plus, it's awesome to see your plans go the way you wanted and win!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:28",
+      "text": "Yeah! It's really satisfying when your plans work out and you win. How long have you been playing this game?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:29",
+      "text": "Been playing it for a month now - it's really challenged my strategy skills."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/m0vu1etdlol91.jpg"
+      ],
+      "blip_caption": "a photo of a board game with a lot of cards on it",
+      "query": "strategy board game",
+      "dia_id": "D8:30",
+      "text": "Wow, that's impressive! I'm really enjoying games like this, they really make me think. What do you think of strategy board games? I played one with friends two days ago, it's very exciting!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:31",
+      "text": "Sounds good! Board games are always a blast when you hang out with friends."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:32",
+      "text": "Yeah! They're great for having fun together."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:33",
+      "text": "Anything else that is fun to play with others?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:34",
+      "text": "Yes, we played one game, but I forgot its name. Perhaps you know this game. There were multi-colored cards with numbers. You can only place a card with the same color or number on your opponent's card. Sometimes you trade cards, sometimes you need to draw a few extra from the deck or skip a turn."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:35",
+      "text": "I can't remember such a game. Maybe you have some other interesting games?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:36",
+      "text": "Yeah for sure! I've been playing one more game with friends these days. It's a game to figure out who the impostors are and it's super fun."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:37",
+      "text": "Sounds cool! I've heard of that game, been meaning to try it out."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:38",
+      "text": "Go for it, James! I advise you to gather a large group, it will be much more interesting to play."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D8:39",
+      "text": "Sure thing, sounds like fun."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D8:40",
+      "text": "That really is!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James buys a fantasy novel with cool artwork.",
+      "James starts exploring some strategy games like Civilization VI."
+    ],
+    "John": [
+      "John takes up free-lance programming work to increase his proficiency in the subject and apply the learnings from his programming class.",
+      "John's first freelance programming project is to create a website for a local business, where he faces some struggles with getting payments to work on the website.",
+      "John plays strategy board games with friends."
+    ],
+    "date": "29 April, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James bought an adventure book with fantasy novels and cool arts three days ago.",
+        "D8:11"
+      ],
+      [
+        "James has furry friends, like his dog Daisy, who lay down next to him while he plays games.",
+        "D8:17"
+      ],
+      [
+        "James is currently trying out some strategy games.",
+        "D8:21"
+      ],
+      [
+        "James has been playing the game AC Valhalla.",
+        "D8:21"
+      ],
+      [
+        "James has been playing a turn-based strategy game where you manage resources, lead armies, and conquer territories.",
+        "D8:23"
+      ],
+      [
+        "James has been playing the turn-based strategy game for a month to challenge his strategy skills.",
+        "D8:29"
+      ]
+    ],
+    "John": [
+      [
+        "John is currently taking on freelance programming to hone his coding skills.",
+        "D8:2"
+      ],
+      [
+        "John is working on a website for a local small business, which is his first professional project outside of class.",
+        "D8:4"
+      ],
+      [
+        "John faced challenges figuring out how to get payments on the website he's working on.",
+        "D8:10"
+      ],
+      [
+        "John recommended the novel \"The Name of the Wind\" to James.",
+        "D8:14"
+      ],
+      [
+        "John has been playing the game AC Valhalla.",
+        "D8:20"
+      ],
+      [
+        "John has been playing Among Us, a game where players figure out who the impostors are.",
+        "D8:36"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

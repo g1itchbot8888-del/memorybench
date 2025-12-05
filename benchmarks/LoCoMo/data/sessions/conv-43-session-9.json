@@ -1,0 +1,173 @@
+{
+  "sample_id": "conv-43",
+  "session_id": "conv-43-session-9",
+  "session_number": 9,
+  "session_summary": "Tim mentioned his struggles with balancing studies and hobbies, specifically his love for fantasy reading. John shared about catching up with old friends from his high school sports team, where they played together for four years. Tim expressed his interest in traveling to experience different magical worlds through books and actual visits. John shared his experience exploring New York City and recommended it as a must-visit place. They both discussed their love for exploring new cities and hobbies. John offered assistance with Tim's travel plans, and Tim thanked him for his support before ending the conversation.",
+  "conversation_turns": [
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://i.redd.it/nziqtijj65i11.jpg"
+      ],
+      "blip_caption": "a photo of a stack of books on a table",
+      "query": "stack of textbooks and notes",
+      "dia_id": "D9:1",
+      "text": "Hey John, this week's been really busy for me. Assignments and exams are overwhelming. I'm not giving up though! I'm trying to find a way to juggle studying with my fantasy reading hobby. How have you been?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.pinimg.com/originals/79/c5/6c/79c56ca8e8173619eb96c1058eb5bb67.jpg"
+      ],
+      "blip_caption": "a photo of a group of girls basketball players posing for a picture",
+      "query": "group friends basketball posing",
+      "dia_id": "D9:2",
+      "text": "Hey Tim! I know the stress of exams and homework, but you got this! I'm doing OK, cheers for asking. Last week I visited home and caught up with my family and old friends. We had a great time talking about our childhood - it reminds me of the good ol' times!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D9:3",
+      "text": "Thanks for the pic! That group looks like a great squad. How long did you all play together?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:4",
+      "text": "We were teammates for four years in high school, so we've played together for quite some time. Have you ever been part of a sports team?"
+    },
+    {
+      "speaker": "Tim",
+      "img_url": [
+        "https://i.redd.it/bq2ogzcjuzz41.jpg"
+      ],
+      "blip_caption": "a photo of a book shelf with books and a clock",
+      "query": "harry potter books shelf",
+      "dia_id": "D9:5",
+      "text": "Nope, never been on a sports team. I'm more into reading and fantasy novels. I love sinking into different magical worlds. It's one of the reasons I love traveling to new places, to experience a different kind of magic."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.pinimg.com/originals/90/49/55/904955fe77567cf689d7db0ce606717d.jpg"
+      ],
+      "blip_caption": "a photo of a cityscape with a view of a skyscraper",
+      "query": "new york city skyline",
+      "dia_id": "D9:6",
+      "text": "Wow, Tim, that's an awesome book collection! It's cool to escape to different worlds with a hobby. By the way, I love discovering new cities - check out this pic from one of my trips to New York City!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D9:7",
+      "text": "Wow! That skyline looks amazing - I've been wanting to visit NYC. How was it?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:8",
+      "text": "Thanks! It was amazing. Everywhere you go there's something new and exciting. Exploring the city and trying all the restaurants was awesome. It's a must-visit!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D9:9",
+      "text": "Adding NYC to my travel list, sounds like a great adventure! I heard there's so much to explore and try out. Can't wait to visit!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:10",
+      "text": "Trust me, NYC is amazing! It's got so much to check out - the culture, food - you won't regret it. It's an adventure you'll never forget!"
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D9:11",
+      "text": "Woohoo! Sounds like a fun place with lots of potential. Can't wait to experience it for myself!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:12",
+      "text": "Awesome! Can't wait to hear when you are going. Let me know and I'm sure I can help you out."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D9:13",
+      "text": "Yep, I'll let you know! Thanks for being so helpful."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D9:14",
+      "text": "Sure thing! Any time you need help, don't hesitate to reach out."
+    },
+    {
+      "speaker": "Tim",
+      "dia_id": "D9:15",
+      "text": "Thanks! Your support means a lot to me. Bye!"
+    }
+  ],
+  "events": {
+    "Tim": [
+      "Tim gets busy with school assignments and exams."
+    ],
+    "John": [
+      "John visits his family and old friends in his hometown.",
+      "John goes on a visit to New York City."
+    ],
+    "date": "26 August, 2023"
+  },
+  "observations": {
+    "Tim": [
+      [
+        "Tim is busy with assignments and exams this week, but is not giving up.",
+        "D9:1"
+      ],
+      [
+        "Tim is not part of a sports team but enjoys reading fantasy novels.",
+        "D9:5"
+      ],
+      [
+        "Tim loves traveling to new places to experience different kinds of magic.",
+        "D9:5"
+      ],
+      [
+        "Tim is excited about visiting New York City after seeing a picture shared by John.",
+        "D9:7"
+      ],
+      [
+        "Tim plans to add NYC to his travel list and is eager to explore and try out new things there.",
+        "D9:9"
+      ],
+      [
+        "Tim appreciates John's support as mentioned in the conversation.",
+        "D9:15"
+      ]
+    ],
+    "John": [
+      [
+        "John caught up with his family and old friends during a visit home last week.",
+        "D9:2"
+      ],
+      [
+        "John and his friends were teammates for four years in high school and have played together for quite some time.",
+        "D9:4"
+      ],
+      [
+        "John loves discovering new cities and enjoys exploring different places.",
+        "D9:6"
+      ],
+      [
+        "John had a great time in New York City, exploring the city and trying out different restaurants.",
+        "D9:8"
+      ],
+      [
+        "John encourages Tim to visit NYC and assures him it's an adventure he'll never forget.",
+        "D9:10"
+      ],
+      [
+        "John offers to help Tim out when he plans to visit NYC.",
+        "D9:12"
+      ],
+      [
+        "John is supportive of Tim and offers help whenever needed.",
+        "D9:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-43",
+  "total_sessions": 29
+}

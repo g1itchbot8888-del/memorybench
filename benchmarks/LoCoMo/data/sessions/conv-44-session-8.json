@@ -1,0 +1,226 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-8",
+  "session_number": 8,
+  "session_summary": "Andrew and Audrey caught up at 5:23 pm on 13 June, 2023. Andrew shared his thrilling rock climbing experience from the previous Sunday, expressing his newfound love for outdoor activities. Audrey admired his achievement and requested to see pictures, leading to a discussion about the challenging climb and the stunning view. They discussed the importance of a supportive group and how nature pushes them out of their comfort zones. Audrey invited Andrew to join her and her dogs for a walk in a beautiful park, where they would explore for about an hour. Both agreed on the joy and peace nature brings, with Audrey sharing photos of her happy dogs in nature. They concluded with a mutual appreciation for how nature refreshes the mind and provides a different outlook on life.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:1",
+      "text": "Hey! Long time no chat. Last Sunday was awesome - my friends and I took a rock climbing class and I made it to the top! It was a fantastic experience and now I'm hooked. Think I'm going to try to do more outdoor activities like this every week!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:2",
+      "text": "That's awesome! Glad you had such a rad experience rock climbing. I'm always in awe of people who can climb mountains. Got any pics or videos from your climb? Would love to see the view from the top!"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://miro.medium.com/v2/resize:fit:1400/0*h3ewAJq8YmXT5vb1.jpg"
+      ],
+      "blip_caption": "a photography of a man climbing on a rock face to face",
+      "query": "rock climbing view top rock climbing class",
+      "dia_id": "D8:3",
+      "re-download": true,
+      "text": "Rock climbing was awesome! It was a challenge, but so satisfying. The view was stunning, and I was really proud of myself. Nature sure is amazing!\n\n[Shares a photo of the view from the top of the rock climbed during the rock climbing class]"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:4",
+      "text": "Wow that view is stunning! Congrats on reaching the top, that must have been a huge accomplishment. Nature really reminds us how tiny we are in comparison, yeah? Was it challenging getting there?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:5",
+      "text": "Thanks! It was a big achievement for me. The climb was tricky, especially since I'm still a newbie. But I made it with the support and cheer from my friends."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:6",
+      "text": "Nice! Having a solid support group really helps when things get tough. You're lucky to have such great friends! Does this adventure encourage you to try more outdoor activities?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:7",
+      "text": "Yeah, rock climbing was awesome - I felt so accomplished reaching the top. It has definitely encouraged me to try more outdoor activities like kayaking and maybe bungee jumping? Nature always pushes me out of my comfort zone!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:8",
+      "text": "Wow going all in huh? Have fun with kayaking and bungee jumping! Last week, I found a great spot for my dogs' walk. It's a small park with a trail surrounded by trees. It's so nice and I think my dogs like it too. Would you like to come along?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:9",
+      "text": "Sounds great, Audrey! I'd love to join you and your pups for a walk. Being in nature with dogs sounds like a great time!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:10",
+      "text": "Awesome! Can't wait to have fun with everyone. My dogs love meeting new people. "
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:11",
+      "text": "Sames, can't wait to meet them and take a stroll in the park."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2014,w_3017,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_485806801_mv1xuv.jpg"
+      ],
+      "blip_caption": "a photo of two dogs running in a field with a ball in their mouth",
+      "query": "dogs playing park",
+      "dia_id": "D8:12",
+      "text": "This was taken during the walk in the park. See how happy they are?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:13",
+      "text": "Aww, they look like they're really enjoying themselves. How long do you usually walk them for?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:14",
+      "text": "Varies depending on the day, but usually for about an hour. We let them explore at their own pace."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:15",
+      "text": "Cool, that's a good amount of time for them to have a nice stroll and take a look around."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:16",
+      "text": "They need exercise and to explore - they always go home with a smile and tired."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:17",
+      "text": "Nice! Letting them explore and have fun is important. I'm sure they must be loving it!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:18",
+      "text": "Yeah, they love it! It's their favorite part of the day! Their faces blightens up as soon as I get ready for a walk."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:19",
+      "text": "Of course! Nature always makes us and our pets so happy."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:20",
+      "text": "Definitely! Dogs and nature bring me so much joy and peace."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:21",
+      "text": "Yeah, I agree, it's really nice."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/6jbz5p9fxy051.jpg"
+      ],
+      "blip_caption": "a photo of two dogs playing with a frisbee in a field",
+      "query": "dogs playing meadow",
+      "dia_id": "D8:22",
+      "text": "So check out how happy they are in this meadow! They make me so happy."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:23",
+      "text": "Aww so cute. Your dogs look so content in that picture. The meadow looks so nice. It's great that nature brings your pets joy!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:24",
+      "text": "Being outdoors with them puts me in my happy place. It's peaceful and inspiring."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:25",
+      "text": "Glad you found something that puts you in your happy place. It's true, being outdoors has a way of inspiring and calming us."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:26",
+      "text": "Yeah! It's incredible how nature can make us think differently."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D8:27",
+      "text": "Agreed! It's great for refreshing the mind and giving a different outlook. Whenever I'm in need of a reset, I turn to nature."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D8:28",
+      "text": "Nature has a way of making us feel alive and centered. Let's appreciate what it gives us."
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey finds a park with a trail and surrounded by trees which turns out to be a great spot to walk her dogs."
+    ],
+    "Andrew": [
+      "Andrew and his friends join a rock climbing class and Andrew manages to make it to the top.",
+      "Andrew is inspired to explore more outdoor activities like kayaking and bungee-jumping after the rock-climbing class."
+    ],
+    "date": "13 June, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew recently took a rock climbing class and made it to the top, finding it challenging but satisfying.",
+        "D8:1"
+      ],
+      [
+        "Andrew shared a photo of the view from the top of the rock he climbed during the rock climbing class.",
+        "D8:3"
+      ],
+      [
+        "Andrew mentioned that he is a newbie at climbing but reached the top with the support and cheer from his friends.",
+        "D8:5"
+      ],
+      [
+        "Andrew feels encouraged by the rock climbing experience to try more outdoor activities like kayaking and maybe bungee jumping.",
+        "D8:7"
+      ],
+      [
+        "Andrew expressed interest in joining Audrey and her dogs for a walk in a park.",
+        "D8:9"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey found a great spot for her dogs' walk in a small park with a trail surrounded by trees.",
+        "D8:8"
+      ],
+      [
+        "Audrey mentioned that her dogs love meeting new people and seem to enjoy their outdoor walks.",
+        "D8:10"
+      ],
+      [
+        "Audrey usually walks her dogs for about an hour, allowing them to explore at their own pace.",
+        "D8:14"
+      ],
+      [
+        "Audrey's dogs go home with a smile and tired after their walks, showing that they enjoy the exercise and exploration.",
+        "D8:16"
+      ],
+      [
+        "Audrey shared a picture of her dogs in a meadow, expressing how happy they make her and how being outdoors with them puts her in a happy place.",
+        "D8:22"
+      ],
+      [
+        "Audrey mentioned that being outdoors with her dogs brings her joy and peace.",
+        "D8:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

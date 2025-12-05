@@ -1,0 +1,183 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-17",
+  "session_number": 17,
+  "session_summary": "On August 24, 2023, at 12:24 am, Andrew told Audrey about his recent fishing trip with his girlfriend. Audrey shared a memory of sitting by a lake in the mountains. They discussed pet care, with Audrey emphasizing grooming and love to keep pets happy. They highlighted the importance of forming strong bonds with pets, with Audrey offering tips to Andrew for his dog Toby. Andrew expressed excitement for bonding with Toby and future outdoor adventures. The conversation ended with compliments and well wishes between the two friends.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "dia_id": "D17:1",
+      "text": "Hey Audrey! What's up? Last weekend my girlfriend and I went fishing in one of the nearby lakes. It was so nice. We got a few fish and had a blast. Have you ever gone fishing before?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "http://tahoemountainsports.com/cdn/shop/articles/IMG_8472.jpg"
+      ],
+      "blip_caption": "a photo of a group of dogs standing on a rock near a lake",
+      "query": "stunning lake mountains friends dogs",
+      "dia_id": "D17:2",
+      "text": "Hey! Actually I've never been fishing. It's always been just chilling at the lake. I remember this moment a few years back when I sat by a gorgeous lake in the mountains with friends. So peaceful and calming. Just the sound of the birds, the stillness of the water, and the fresh air - it was so special. But yeah I have never gone on a fishing trip before. Here's a photo of the trip to the lake with my friend."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D17:3",
+      "text": "Wow, they look like they're loving the mountain life. How do you keep them looking good out there?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D17:4",
+      "text": "Yeah they really do enjoy the mountain life. Regular grooming is essential to keep them looking good. Daily brushing, regular baths, nail trims, and lots of love is what helps them stay healthy and happy. It's all about keeping them in good shape."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D17:5",
+      "text": "Awesome! Sounds like you're doing a great job taking care of them. Making sure they stay healthy and happy is key."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D17:6",
+      "text": "Yeah! It means a lot. Taking care of them is a big deal. It makes me really happy and I take that responsibility seriously. It can be tough but it's super rewarding."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D17:7",
+      "text": "I'm sure it's rewarding. Making a positive impact on someone's life, especially those close to you, must be such a good feeling."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D17:8",
+      "text": "Yeah, my dogs make me really happy. I love them so much and I want to make them as happy as possible. We have a strong bond."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D17:9",
+      "text": "That's amazing. You have such a strong bond with them! I hope I can have such a strong bond with Toby as well."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D17:10",
+      "text": "They mean the world to me. I'm so lucky to have them. I sure with your love, you and Toby can have a strong bond."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/189ab0128c572238758dd096675a54be.jpg"
+      ],
+      "blip_caption": "a photo of a dog sleeping in a dog bed on the floor",
+      "query": "cuddling puppy bed",
+      "dia_id": "D17:11",
+      "text": "Lucky you! Pets sure bring a lot of love and joy. Can't wait till Toby and I bond better."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D17:12",
+      "text": "Thanks! That's really nice. Let me know if you need some tips on taking care of Toby."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D17:13",
+      "text": "Sure thing! I'll try figure it on my own first. Appreciate the help!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D17:14",
+      "text": "Remember, it takes time to form a bond, don't rush!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D17:15",
+      "text": "Got it. Thanks for that reminder."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D17:16",
+      "text": "No problem. Let me know if you have any questions or need advice."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://d4yxl4pe8dqlj.cloudfront.net/images/4926302d-1bff-49d5-999a-4611342b1891/74399bb7-e65b-4105-81cd-ffd5ac2acf5b_full_size.jpg"
+      ],
+      "blip_caption": "a photo of a small dog sitting on a floor with a leash",
+      "query": "dog leash collar door",
+      "dia_id": "D17:17",
+      "text": "Yep, Audrey. Thanks for everything - you rock! Here's a pic of Toby."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D17:18",
+      "text": "Aww so cute! Toby looks happy!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D17:19",
+      "text": "Haha yeah, I do love Toby!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D17:20",
+      "text": "I'm glad Toby is happy. I'm sure there are lots of adventures to come!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D17:21",
+      "text": "Yep, Toby and I are gonna have a blast exploring outdoors! Can't wait."
+    }
+  ],
+  "events": {
+    "Audrey": [],
+    "Andrew": [
+      "Andrew and his girlfriend go fishing in one of the lakes close to the city."
+    ],
+    "date": "24 August, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew went fishing last weekend with his girlfriend at a nearby lake and caught a few fish.",
+        "D17:1"
+      ],
+      [
+        "Andrew is concerned about keeping his pets looking good when they are outdoors.",
+        "D17:3"
+      ],
+      [
+        "Andrew believes that taking care of pets to ensure they are healthy and happy is important.",
+        "D17:5"
+      ],
+      [
+        "Andrew appreciates the rewarding feeling of making a positive impact on the lives of those close to him.",
+        "D17:7"
+      ],
+      [
+        "Andrew is looking forward to bonding better with his pet dog, Toby, and seeks tips on taking care of him.",
+        "D17:9"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey has never gone fishing before, but she enjoys chilling by lakes, especially in the mountains.",
+        "D17:2"
+      ],
+      [
+        "Audrey believes that regular grooming, daily brushing, baths, nail trims, and lots of love are essential for keeping her pets healthy and happy.",
+        "D17:4"
+      ],
+      [
+        "Audrey finds taking care of her dogs rewarding and takes that responsibility seriously.",
+        "D17:6"
+      ],
+      [
+        "Audrey emphasizes the strong bond she has with her dogs and hopes Andrew can have a similar bond with Toby.",
+        "D17:8"
+      ],
+      [
+        "Audrey offers tips to Andrew about taking care of his dog, Toby, emphasizing the importance of time in forming a bond.",
+        "D17:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

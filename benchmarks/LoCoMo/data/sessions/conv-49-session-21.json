@@ -1,0 +1,194 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-21",
+  "session_number": 21,
+  "session_summary": "Sam and Evan met at 4:25 pm on December 26, 2023. Evan shared that he recently got married to a woman from Canada whom he loved at first sight. He believes in love at first sight, describing it as a magical moment. They discussed the power of love and how it can bring happiness. Evan shared his passion for art and how it helps him express and handle emotions. They exchanged thoughts on art and creativity. Evan offered to help Sam start painting. They also talked about Evan frequently losing his keys and Sam suggested putting a GPS sensor on them.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:1",
+      "text": "Hey Evan! Long time no see, how's it going?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://c0.wallpaperflare.com/preview/990/890/416/wedding-kiss-love-pair.jpg"
+      ],
+      "blip_caption": "a photography of a bride and groom kissing in front of a tree",
+      "query": "wedding day",
+      "dia_id": "D21:2",
+      "re-download": true,
+      "text": "Hey Sam! Long time no see! Been up and down lately, got married last week - how about you?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:3",
+      "text": "Congratulations, Evan! Is that the woman from Canada?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D21:4",
+      "text": "Yes, that's her, I don't know why we didn't get married before, because I was in love with her at first sight!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:5",
+      "text": "Wow, Evan! Love at first sight? That sounds like something straight out of a fairy tale. What are your thoughts on it? Do you believe in love at first sight?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D21:6",
+      "text": "I totally believe in it. It was like time stopped and I felt like a spark lit inside me - it was so right."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:7",
+      "text": "That's awesome, Evan! Finding that kind of connection must feel really liberating. Love can be so powerful, huh?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://kikiraine.files.wordpress.com/2019/11/img_4736.jpg"
+      ],
+      "blip_caption": "a photo of a person sitting on a rock near the water",
+      "query": "sunset love magic peace wonder",
+      "dia_id": "D21:8",
+      "text": "Yeah, Sam, love is truly amazing. It brings so much happiness and fulfillment, like a beautiful sunset that lights up our lives and brings peace. Incredible!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:9",
+      "text": "Wish I could feel the same about love, but I've started to enjoy running in the mornings, and it's been a great way to clear my head. What can you do, right?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://trendgallery./cdn/shop/files/IMG_9647_fa0b4eba-d7f5-48ae-81c9-b471605dd4a9.jpg"
+      ],
+      "blip_caption": "a photo of a painting with a white background and a blue, orange, and black painting",
+      "query": "canvas painting colorful abstract strokes",
+      "dia_id": "D21:10",
+      "text": "Yeah, I get it. Life's all about finding what works for you. Like your morning runs, they're a step towards something good, right? Keep trying new things, Sam, and you might find your own version of love in the most unexpected places. Embrace the journey — it’s full of surprises!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:11",
+      "text": "Such a minimalistic and stunning piece of work, I wonder what inspired the artist to create it."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D21:12",
+      "text": "The painting is mine, I made it when I was a mix of emotions - sad, mad, and hopeful. Art is amazing how it can portray feelings without words."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:13",
+      "text": "Wow, Evan! Art is really amazing at expressing emotions - it's truly fascinating."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://trendgallery.art/cdn/shop/products/IMG_3291_4beec6cf-7c90-43ef-b8f7-7f7fd295917b.jpg"
+      ],
+      "blip_caption": "a photo of a painting with a bird flying over it",
+      "query": "abstract vibrant colorful painting",
+      "dia_id": "D21:14",
+      "text": "It's amazing how art can express emotions so well. It really helps me recognize and handle my own feelings. This painting is giving me a massive rush of joy!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:15",
+      "text": "That's stunning! What emotions did you create this painting with?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D21:16",
+      "text": "I painted this with a sense of joy and freedom. The spontaneous strokes and bold colors reflect a playful and liberated mood, embracing the creative process without restraint."
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://judgeme.imgix.net/nashid-chroma-art-and-apparel/1640132184__inbound5216268343587060307__original.jpg"
+      ],
+      "blip_caption": "a photo of a woman holding flowers in front of her face",
+      "query": "framed artwork on wall painting talent creativity",
+      "dia_id": "D21:17",
+      "text": "Wow, Evan, this is amazing! You've got serious talent and creativity. Making this must have been so satisfying! Here's a painting that inspired me when I went to an exhibit few days ago."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D21:18",
+      "text": "\nThanks, Sam! I appreciate the compliment. This painting has such an inspiring vibe; you really have a knack for understanding art! How about you? How long have you been painting?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:19",
+      "text": "\nI do sketch occasionally, but I haven't created anything remarkable yet. I have a feeling I'll have something to show off before long! Seeing your passion for it is inspiring."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D21:20",
+      "text": "Thanks, Sam! Glad I could motivate you. If you ever want to give it a go, I'm happy to help get you started. Speaking of which, you know what? I lost my keys again, it's become a weekly ritual for me!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D21:21",
+      "text": "Ooh, Evan, I'd put a GPS sensor on your keys!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D21:22",
+      "text": "Great idea, I think I'll do that as soon as I find it!"
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan and his pregnant Canadian partner get married.",
+      "Sam loses his keys."
+    ],
+    "Sam": [
+      "Sam starts to enjoy running in the mornings to clear his head and improve his health."
+    ],
+    "date": "26 December, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam enjoys running in the mornings as a way to clear their head.",
+        "D21:9"
+      ],
+      [
+        "Sam appreciates art and finds it fascinating how it can express emotions.",
+        "D21:13"
+      ],
+      [
+        "Sam occasionally sketches but hasn't created anything remarkable yet.",
+        "D21:19"
+      ],
+      [
+        "Sam visited an exhibit recently and was inspired by a painting.",
+        "D21:17"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan recently got married to a woman from Canada.",
+        "D21:2"
+      ],
+      [
+        "Evan believes in love at first sight and felt a spark when he met his partner.",
+        "D21:6"
+      ],
+      [
+        "Evan created a painting that reflects a sense of joy and freedom.",
+        "D21:16"
+      ],
+      [
+        "Evan has a tendency to lose his keys frequently, turning it into a weekly ritual.",
+        "D21:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

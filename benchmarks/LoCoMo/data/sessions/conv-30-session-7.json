@@ -1,0 +1,123 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-7",
+  "session_number": 7,
+  "session_summary": "Jon and Gina had a conversation at 7:28 pm on 23 March, 2023. Gina mentioned her successful online clothing store, highlighting the hard work and dedication it requires to start a business. Jon shared his struggles with his dance studio business but expressed determination to succeed. They discussed tips for running a successful business, emphasizing the importance of brand identity, customer relationships, and positivity. Jon credited Gina for her support and motivation, showing appreciation for her involvement in his business journey. Gina encouraged Jon to stay motivated and believe in himself. Both ended the conversation on a positive note, with Jon expressing gratitude for Gina's encouragement.",
+  "conversation_turns": [
+    {
+      "speaker": "Jon",
+      "dia_id": "D7:1",
+      "text": "Hey Gina, how's it going?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D7:2",
+      "text": "Hey Jon, my online clothing store has been a roller coaster but rewarding. Starting a business takes courage - you hang in there too!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D7:3",
+      "text": "Thanks Gina! It's been tough, but I'm gonna make it happen. It's been great! And hey, you're awesome with your store. How's it going?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D7:4",
+      "text": "Thanks! Appreciate your kind words. Store's going good, just been keeping up with fashion trends so I can offer the best pieces to customers. It's been a lot of work, but really enjoying it. Got any advice or tips on running a successful biz?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D7:5",
+      "text": "Yeah, brand identity is key. Make sure yours stands out. Also be sure to build relationships with your customers – let them know you care. And don't forget to stay positive and motivate others. Your energy will be contagious!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D7:6",
+      "text": "Thanks for the advice, Jon! Building relationships and creating a strong brand image for my store is something I'm always working on. You're right, staying positive is key. What helps you stay motivated with your dance studio business?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D7:7",
+      "img_url": [
+        "https://live.staticflickr.com/8111/8547962982_92d38cbcc3_b.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a group of women doing a dance routine",
+      "text": "Seeing my students succeed motivates me. It's awesome to help them learn and reach their goals. Your support, Gina, means a lot too. Here's a photo of us after during one of the dance clases."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D7:8",
+      "text": "That's awesome, Jon! Seeing your students grow and succeed must be really fulfilling. Glad I can be part of this journey!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D7:9",
+      "text": "Thanks for being there for me! It's really made a huge difference and it feels great."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D7:10",
+      "text": "Glad I could help, Jon! It's nice to be part of something positive. Supporting your dreams is awesome!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D7:11",
+      "text": "Thanks for being there for me. Your help means a lot."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D7:12",
+      "text": "I'm here for you, rooting for you all the way."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D7:13",
+      "text": "Thanks, I'm really grateful for your help with staying motivated."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D7:14",
+      "text": "Glad to cheer you on. Keep going and never give up!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D7:15",
+      "text": "Thanks, Gina! I won't quit - your words motivate me to keep going!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D7:16",
+      "text": "Believe in yourself. Even when it's tough, you got this! Keep going!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D7:17",
+      "text": "I'm gonna keep on believing in myself. Thanks for the kind words!"
+    }
+  ],
+  "events": {
+    "Jon": [],
+    "Gina": [],
+    "date": "23 March, 2023"
+  },
+  "observations": {
+    "Jon": [
+      [
+        "Jon has a dance studio business where he helps his students learn and reach their goals.",
+        "D7:7"
+      ]
+    ],
+    "Gina": [
+      [
+        "Gina runs an online clothing store and has been keeping up with fashion trends to offer the best pieces to customers.",
+        "D7:4"
+      ],
+      [
+        "Gina values building relationships and creating a strong brand image for her store.",
+        "D7:6"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

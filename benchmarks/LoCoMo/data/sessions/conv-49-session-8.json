@@ -1,0 +1,287 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-8",
+  "session_number": 8,
+  "session_summary": "On 19th August 2023 at 6:17 pm, Sam shared with Evan that he was on a diet and living healthier, finding it tough but staying determined. Evan praised Sam's efforts and asked about any positive changes. Sam mentioned feeling more energized and less sluggish after meals. They discussed a grilled chicken and veggie stir-fry recipe. Evan talked about starting painting classes and finding peace through art. Evan shared his love for painting landscapes with bright colors. They also discussed winter activities like skiing, with Sam expressing interest but unsure if his body can handle it. Evan encouraged Sam to join in the fun someday. Sam expressed appreciation for Evan's understanding and friendship.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://i0.wp.com/www.thedishonhealthy.com/wp-content/uploads/2018/06/Avocado-Strawberry-Spinach-Salad-5.jpg"
+      ],
+      "blip_caption": "a photo of a bowl of spinach, avocado, and strawberries",
+      "query": "healthy salad",
+      "dia_id": "D8:1",
+      "text": "Hey Evan, some big news: I'm on a diet and living healthier! Been tough, but I'm determined."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D8:2",
+      "text": "Wow, Sam, that's great news! Making changes to live healthier can be challenging, how has it been going?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:3",
+      "text": "It's tough, but I'm sticking with it."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D8:4",
+      "text": "Nice work, Sam! Proud of you sticking to it. Have you noticed any positive changes?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:5",
+      "text": "Yes, there are many, such as more energy and less sluggishness after eating. This is really encouraging!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D8:6",
+      "text": "Wow, Sam, that's great to hear! Feeling more energized after meals is such a positive change. Keep up the good work! And speaking of healthy meals, do you have any favorite recipes you'd like to share?"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://www.myrelationshipwithfood.com/wp-content/uploads/2021/08/Quinoa-Chicken-Stir-Fry-1.jpg"
+      ],
+      "blip_caption": "a photo of two bowls of food with chopsticks and sauce",
+      "query": "grilled chicken vegetable stir-fry",
+      "dia_id": "D8:7",
+      "text": "Sure, I'm loving this recipe I found. It's a flavorful and healthy grilled chicken and veggie stir-fry. Wanna give it a go?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D8:8",
+      "text": "Mmm, looks yummy! Is the sauce a family secret? I'm always down to try new recipes!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:9",
+      "text": "Nah, it's just my homemade sauce. Want the recipe?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D8:10",
+      "text": "Yeah, I'd love to! Thanks for sharing the recipe."
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://live.staticflickr.com/9/17289339_31d8a8c9a2_b.jpg"
+      ],
+      "blip_caption": "a photography of a recipe card with a drawing of a vase of flowers",
+      "query": "grilled chicken veggie stir-fry recipe handwritten",
+      "dia_id": "D8:11",
+      "re-download": true,
+      "text": "Sure thing! Here's the recipe. Let me know how it went!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D8:12",
+      "text": "Thanks Sam! I'll give it a shot and let you know how it went. Trying out new recipes is a great way to stay busy and creative. By the way, I also started taking a painting classes few days ago and I'm really enjoying it. It's all about trying new things, right?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:13",
+      "text": "You're already good at drawing, why did you decide to join a class? And why did you start painting then years ago anyway?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://elenamarkelova.com/cdn/shop/products/serenitymistyforestwatercolorpaintingbyelenamarkelova.jpg"
+      ],
+      "blip_caption": "a photo of a painting of a forest scene on a easel",
+      "query": "watercolor painting serene landscape",
+      "dia_id": "D8:14",
+      "text": "Thanks, Sam! It all started when a friend of mine gave me this painting one day, it inspired me a lot and that's when I started painting. And I joined the classes to find like-minded people and show them what I can do, you can always improve your skills."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:15",
+      "text": "Wow, that's awesome! You're really talented. Did you take any other classes?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i0.wp.com/doodlewash.com/wp-content/uploads/2016/06/travelbrushes.jpg"
+      ],
+      "blip_caption": "a photo of a brush, pencil, and eyeliners on a cloth",
+      "query": "watercolor paints brushes",
+      "dia_id": "D8:16",
+      "text": "Thanks, Sam! Just been painting with these for now, but might look into other classes. It's awesome for finding my peace and expressing myself!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:17",
+      "text": "Cool, Evan! What have you been learning in those classes?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://static.skillshare.com/uploads/project/194099/cover_full_35000b4ed6f4b275b8b9f8008f31ec50.jpg"
+      ],
+      "blip_caption": "a photo of a table with a bunch of watercolors on it",
+      "query": "painting watercolors techniques nature beauty",
+      "dia_id": "D8:18",
+      "text": "In painting classes, we've been learning about watercolors. The instructor stresses observing nature and painting what we see. It's a relaxing way to take a break from everyday stress."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:19",
+      "text": "Wow, Evan! What type of nature do you enjoy painting the most?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://thewhitebirchstudio.com/cdn/shop/products/20220525_211542.jpg"
+      ],
+      "blip_caption": "a photo of a painting of a sunset over the ocean",
+      "query": "painting beach sunset",
+      "dia_id": "D8:20",
+      "text": "I love painting landscapes. Nature's beauty captivates me and brings me peace. Here's one of my recent works."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:21",
+      "text": "Wow, Evan! The colors are so bright. How do you capture the tranquil beauty of nature in your paintings?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://i1.wp.com/www.simplyoliviagrace.com/wp-content/uploads/2019/03/03.25.18-4.jpg"
+      ],
+      "blip_caption": "a photo of a tree with pink flowers in a field",
+      "query": "painting blooming cherry blossom tree nature calm serenity",
+      "dia_id": "D8:22",
+      "text": "Thanks Sam! I aim to capture the vibe of nature in my paintings, conveying the peacefulness of being outdoors."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:23",
+      "text": "Wow, that pic is great! Do you often spend time in places like this?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://images.pexels.com/photos/18077479/pexels-photo-18077479/free-photo-of-a-car-parked-in-the-middle-of-a-forest.jpeg"
+      ],
+      "blip_caption": "a photography of a truck parked in the middle of a forest",
+      "query": "prius parked beautiful riverfront",
+      "dia_id": "D8:24",
+      "re-download": true,
+      "text": "Thanks! I love being in places like this - it brings back memories of road tripping in my trusty car."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:25",
+      "text": "Wow, that's cool! Have you been to any fun places in that ride?"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://destinationsanddesserts.com/wp-content/uploads/2022/01/img_5115.jpg"
+      ],
+      "blip_caption": "a photo of a person on skis on a snowy trail",
+      "query": "banff national park rocky mountains snow",
+      "dia_id": "D8:26",
+      "text": "Yep, last month I drove somewhere fun. The views were amazing!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:27",
+      "text": "Did you take advantage of the skiing opportunities in Banff? Sounds like it would have been a lot of fun!"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://curated-uploads.imgix.net/AgAAAB0AKRRYoR0ZPH-IdLq3DQTvog.jpg"
+      ],
+      "blip_caption": "a photo of a group of people skiing down a snow covered slope",
+      "query": "banff skiing snowy landscape slopes winter",
+      "dia_id": "D8:28",
+      "text": "Yeah, it was great for skiing! The snow was amazing and I had a lot of fun. Can't wait to go back next year! Did you try any winter sports, Sam?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:29",
+      "text": "Ooh, skiing looks like a blast! I'd love to try it but I'm not sure my body can take it. What about you? What winter activities do you enjoy?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D8:30",
+      "text": "Skiing, snowboarding, and ice skating are all fun winter activities I enjoy."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:31",
+      "text": "Wish I could join in on the fun! It sounds awesome."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D8:32",
+      "text": "I'd like you to join me, too. Winter activities are a blast - hopefully someday you will!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D8:33",
+      "text": "Yeah, maybe. It's hard with that, you know. But who knows? Thanks for the understanding, Evan - it really means a lot."
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan joins a painting class to improve his skills and meet like-minded people."
+    ],
+    "Sam": [
+      "Sam decides to make an effort to change his diet and lifestyle."
+    ],
+    "date": "19 August, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam is on a diet and determined to live healthier.",
+        "D8:1"
+      ],
+      [
+        "Sam has noticed positive changes from the diet, such as more energy and less sluggishness after eating.",
+        "D8:5"
+      ],
+      [
+        "Sam enjoys cooking and shared a healthy grilled chicken and veggie stir-fry recipe with Evan.",
+        "D8:7"
+      ],
+      [
+        "Sam's homemade sauce for the stir-fry is not a family secret.",
+        "D8:9"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan is trying out new recipes and finds it a great way to stay busy and creative.",
+        "D8:12"
+      ],
+      [
+        "Evan recently started taking painting classes and enjoys expressing himself through art.",
+        "D8:12"
+      ],
+      [
+        "Evan has been learning about watercolors in his painting classes and finds it a relaxing way to take a break from everyday stress.",
+        "D8:18"
+      ],
+      [
+        "Evan loves painting landscapes as it brings him peace and captivates him with nature's beauty.",
+        "D8:20"
+      ],
+      [
+        "Evan likes to capture the tranquil beauty of nature in his paintings by conveying the peacefulness of being outdoors.",
+        "D8:22"
+      ],
+      [
+        "Evan enjoys fun winter activities like skiing, snowboarding, and ice skating.",
+        "D8:30"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

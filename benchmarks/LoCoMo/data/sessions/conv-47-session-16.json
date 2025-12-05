@@ -1,0 +1,146 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-16",
+  "session_number": 16,
+  "session_summary": "James and John caught up at 5:13 pm on July 9, 2022. James shared his excitement about winning an online gaming tournament and his newfound interest in extreme sports. John congratulated him and mentioned feeling overwhelmed balancing personal and professional life. James revealed his upcoming trip to Toronto and Vancouver, planning to return on July 20. They discussed relaxation methods and bid farewell, with John eagerly awaiting a souvenir from James' journey.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "dia_id": "D16:1",
+      "text": "Hey John! Long time no talk - hope you're doing well. Guess what? Last week I actually won an online gaming tournament! It was such an exciting experience and it blew my mind when I won. Winning felt so good and it really motivated me to keep improving."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:2",
+      "text": "Hey James! Congrats on winning the online gaming tournament! It's super fulfilling to see your hard work pay off. So happy for you!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D16:3",
+      "text": "Thanks! It was really fulfilling to see my hard work pay off with a victory in the tournament. How are you?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:4",
+      "text": "Feeling the tug of emotion lately. Determined and passionate on one hand, but feeling overwhelmed and stressed on the other. Balancing personal and professional is kind of a challenge. How have you been?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D16:5",
+      "text": "Yeah, staying balanced can be tough. I'm trying to take breaks from my hobbies and do other things. Lately I've become interested in extreme sports. Yesterday, for example, I was doing rope jumping. The highest height I jumped from was 150 meters!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:6",
+      "text": "Wow, how cool! What other extreme sport have you tried?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D16:7",
+      "text": "Just three days ago, I was surfing. Catching a wave is so cool! It's strange, but it relaxes me so much. How do you like to relax?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/d0eoj5t4py351.jpg"
+      ],
+      "blip_caption": "a photo of a book shelf filled with books and a guitar",
+      "query": "bookshelf novels fantasy books",
+      "dia_id": "D16:8",
+      "text": "I like to relax by reading. I love entering the imaginative worlds of authors - it's a fun escape from reality. "
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D16:9",
+      "text": "I also love to read, especially while snuggled under the covers on a cold winter day. But now it’s summer and I want something more exciting! By the way, I bought air tickets to Toronto, and I’m leaving the day after tomorrow evening."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:10",
+      "text": "Cool, this is already the fourth country you will visit! Will you only be in Toronto, or will you be visiting somewhere else?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D16:11",
+      "text": "I also plan to visit Vancouver. Maybe, I'll go somewhere else."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:12",
+      "text": "When are you coming back?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D16:13",
+      "text": "I plan to return on July 20, I’ll definitely bring you some kind of souvenir!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:14",
+      "text": "Thanks James! I will be waiting for you from your journey! Bon Voyage!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D16:15",
+      "text": "Thank you, John! Take care and see you soon!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D16:16",
+      "text": "Take care, bye!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James successfully wins an online gaming tournament.",
+      "James books tickets to Toronto, Vancounver and leaves for a trip from 11 - 20 July 2022.",
+      "James gets interested in extreme sports and tries out rope jumping, surfing."
+    ],
+    "John": [],
+    "date": "9 July, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James won an online gaming tournament last week and found the experience exciting and motivating.",
+        "D16:1"
+      ],
+      [
+        "James is interested in extreme sports, recently trying rope jumping from a height of 150 meters and surfing.",
+        "D16:5"
+      ],
+      [
+        "James enjoys reading, especially during cold winter days, but finds it exciting to do something different in the summer.",
+        "D16:9"
+      ],
+      [
+        "James bought air tickets to Toronto and plans to visit Vancouver as well.",
+        "D16:9"
+      ],
+      [
+        "James plans to return from his trip on July 20 and intends to bring back a souvenir for John.",
+        "D16:13"
+      ]
+    ],
+    "John": [
+      [
+        "John feels a mix of determination, passion, overwhelm, and stress while balancing personal and professional life.",
+        "D16:4"
+      ],
+      [
+        "John relaxes by reading and finds it as a fun escape from reality.",
+        "D16:8"
+      ],
+      [
+        "John asked James about the countries he will be visiting on his trip.",
+        "D16:10"
+      ],
+      [
+        "John will be waiting for James to return from his trip and expressed excitement about a souvenir.",
+        "D16:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

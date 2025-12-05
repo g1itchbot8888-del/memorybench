@@ -1,0 +1,125 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-3",
+  "session_number": 3,
+  "session_summary": "At 12:48 am on 1 February 2023, Jon shared with Gina his determination to open a dance studio, while Gina revealed her success in expanding her clothing store. Gina showed Jon a picture of her new store, which he admired, and they discussed the design elements. Gina aimed to create a cozy and inviting space for her customers. They both emphasized the importance of creating a special experience for customers. Jon encouraged Gina to continue her hard work, and she reciprocated the support for his dance studio venture. They both expressed confidence in reaching their goals with hard work and determination.",
+  "conversation_turns": [
+    {
+      "speaker": "Jon",
+      "dia_id": "D3:1",
+      "text": "Hey Gina, hope you're doing ok! Still following my passion for dance. It's been bumpy, but I'm determined to make it work. I'm still searching for a place to open my dance studio."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D3:2",
+      "img_url": [
+        "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a shopping mall with a glass entrance and a sign",
+      "text": "Hi Jon! So happy you're pushing forward with dancing! Inspiring 💪 I emailed some wholesalers and one replied and said yes today! I'm over the moon because now I can expand my clothing store and get closer to my customers. Check it out - here's a pic!"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a room with a mirror and a wooden floor",
+      "dia_id": "D3:3",
+      "text": "Wow, Gina! You found the perfect spot for your store. Way to go, hard work's paying off!"
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
+      ],
+      "blip_caption": "a photography of a clothing store with a lot of clothes on display",
+      "query": "inside of store cozy inviting atmosphere trendy pieces",
+      "dia_id": "D3:4",
+      "re-download": true,
+      "text": "Thanks! Glad you like it. Yeah, it's a great spot. Here's a peek at the space I designed. Cozy and inviting - perfect for customers to check out all the trendy pieces."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D3:5",
+      "text": "Wow, it looks great! Must've taken you ages to design it. What made you pick out the furniture and decor?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D3:6",
+      "text": "Thanks! It took a bit of time but I wanted to make the place look like my own style and make my customers feel cozy. I chose furniture that looks great and is comfy too. The chandelier adds a nice glam feel while matching the style of the store."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D3:7",
+      "text": "Your store looks great - your customers will be so comfy."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D3:8",
+      "text": "Thanks! Making my spot comfortable and inviting for my customers is key. I want 'em to feel like they're in a cool oasis. Just creating an experience that'll make 'em wanna come back."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D3:9",
+      "text": "That's a great goal! Creating a special experience for customers is the key to making them feel welcome and coming back. I think you can create that space you're imagining."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D3:10",
+      "text": "Thanks. Your support means a lot. I'm sure with my hard work and effort, I can make a special shopping experience for my customers. It's tough but I'm up for the challenge!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D3:11",
+      "text": "I'm always here to support you! Go create something awesome with your store. Keep it up!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D3:12",
+      "text": "Thanks, Jon! I'll try my best. You're gonna do great with your dance studio, just keep going and stay positive! We'll get through this!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D3:13",
+      "text": "Thanks! Your words mean a lot. I'm staying positive and pushing forward. We've put our hearts into our dreams and I'm sure we'll make it."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D3:14",
+      "text": "Sure thing, Jon! Stay motivated and keep going. Hard work pays off eventually. We can do this!"
+    }
+  ],
+  "events": {
+    "Jon": [],
+    "Gina": [
+      "Gina reaches out to potential wholesalers."
+    ],
+    "date": "1 February, 2023"
+  },
+  "observations": {
+    "Jon": [
+      [
+        "Jon is following his passion for dance and searching for a place to open his dance studio.",
+        "D3:1"
+      ]
+    ],
+    "Gina": [
+      [
+        "Gina is enthusiastic about expanding her clothing store and successfully got a positive response from a wholesaler.",
+        "D3:2"
+      ],
+      [
+        "Gina designed her clothing store space to be cozy and inviting for her customers.",
+        "D3:4"
+      ],
+      [
+        "Gina chose furniture and decor for her store that match her style and make customers feel comfortable.",
+        "D3:6"
+      ],
+      [
+        "Gina's goal is to create a comfortable and inviting shopping experience for her customers.",
+        "D3:8"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

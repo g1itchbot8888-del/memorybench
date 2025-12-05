@@ -1,0 +1,218 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-1",
+  "session_number": 1,
+  "session_summary": "Gina and Jon met at 4:04 pm on 20 January, 2023. Jon lost his job as a banker and planned to start a dance studio because of his passion for dancing. Gina also lost her job at Door Dash. They both shared a love for dance, with Jon's favorite style being contemporary. They planned to attend a dance class together. Jon showed Gina a photo of his dance crew winning a competition. Gina revealed her experience of winning first place with a contemporary piece in a dance competition. Jon mentioned rehearsing with a group for various dance styles and upcoming projects, including a performance at a festival. Gina complimented the group's grace and expressed excitement for their festival performance. They both shared enthusiasm for the upcoming events.",
+  "conversation_turns": [
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:1",
+      "text": "Hey Jon! Good to see you. What's up? Anything new?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:2",
+      "text": "Hey Gina! Good to see you too. Lost my job as a banker yesterday, so I'm gonna take a shot at starting my own business."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:3",
+      "text": "Sorry about your job Jon, but starting your own business sounds awesome! Unfortunately, I also lost my job at Door Dash this month. What business are you thinking of?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:4",
+      "text": "Sorry to hear that! I'm starting a dance studio 'cause I'm passionate about dancing and it'd be great to share it with others."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:5",
+      "text": "That's cool, Jon! What got you into this biz?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:6",
+      "text": "I've been into dancing since I was a kid and it's been my passion and escape. I wanna start a dance studio so I can teach others the joy that dancing brings me."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:7",
+      "text": "Wow Jon, same here! Dance is pretty much my go-to for stress relief. Got any fave styles?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:8",
+      "text": "Cool, Gina! I love all dances, but contemporary is my top pick. It's so expressive and powerful! What's your fave?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:9",
+      "text": "Yeah, me too! Contemporary dance is so expressive and graceful - it really speaks to me."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:10",
+      "text": "Wow, great idea! Let's go to a dance class, it'll be so much fun!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:11",
+      "text": "Yeah! Let's explore some new dance moves. We should plan a dance session soon!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:12",
+      "text": "Yeah definitely! Wanna see my moves next Fri? Can't wait!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:13",
+      "text": "Sounds great, Jon! Next Friday works. Let's boogie!"
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dekkadancers_Mu%C5%BE_z_Malty.jpg"
+      ],
+      "blip_caption": "a photography of a man in a suit is performing a dance",
+      "query": "dancing on stage performance dance competition last year",
+      "dia_id": "D1:14",
+      "re-download": true,
+      "text": "Wow, I'm excited too! This is gonna be great!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:15",
+      "text": "Wow! What did you get?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:16",
+      "text": "Woah, that pic's from when my dance crew took home first in a local comp last year. It was amazing up on that stage! I'm super keen to spread that intensity with other peeps. Gina, you ever been in any dance comps or shows?"
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/2009_NHK_Trophy_Dance_-_Meryl_DAVIS_-_Charlie_WHITE_-_Gold_Medal_-_0948a.jpg"
+      ],
+      "blip_caption": "a photography of a couple of people standing next to each other",
+      "query": "dance competition trophy team",
+      "dia_id": "D1:17",
+      "re-download": true,
+      "text": "I used to compete in a few dance competitions and shows - my fav memory was when my team won first place at a regionals at age fifteen. It was an awesome feeling of accomplishment!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:18",
+      "text": "Wow! Winning first place is amazing! What dance were you doing?"
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a large open porch with a fireplace and a view of the water",
+      "dia_id": "D1:19",
+      "text": "Thanks! We just did a contemporary piece called \"Finding Freedom.\" It was really emotional and powerful."
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://live.staticflickr.com/2730/4360526470_6bee96b5d7_b.jpg"
+      ],
+      "blip_caption": "a photography of a room with a view of the ocean and a few yoga mats",
+      "query": "dance studio overlooking ocean",
+      "dia_id": "D1:20",
+      "re-download": true,
+      "text": "Wow, that must've been great! Check my ideal dance studio by the water."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:21",
+      "text": "Cool setup! Man, you can't deny that view! Got time to rehearse with a biz and a new store?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:22",
+      "text": "Hopefully, we will find a place like this that will inspire us!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:23",
+      "text": "Wow, it looks great! What dances do you practice? Got any projects planned?"
+    },
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://markmorrisdancegroup.org/wp-content/uploads/2021/04/MM0108_JesuMeineFreude_Boston_BrazilTom_02.jpg"
+      ],
+      "blip_caption": "a photo of a group of dancers in white dresses on a stage",
+      "query": "group dancers performing on stage",
+      "dia_id": "D1:24",
+      "text": "Thanks! I rehearsed with a small group of dancers after work. We do all kinds of dances, from contemporary to hip-hop. We've got some cool projects in the works. Finishing up choreography to perform at a nearby festival next month. Can't wait!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:25",
+      "text": "Wow, it looks awesome! Are they yours at the festival? They're so graceful!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:26",
+      "text": "Yeah, they're the ones performing at the festival! They've been practicing hard and will definitely impress with their grace and skill."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D1:27",
+      "text": "Wow, they look great! Can't wait to see them rock the festival. Gonna be awesome!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D1:28",
+      "text": "Yeah, awesome! Glad to be part of it."
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon loses his job as a banker.",
+      "Jon begins planning for his own business venture."
+    ],
+    "Gina": [
+      "Gina loses her job at Door Dash."
+    ],
+    "date": "20 January, 2023"
+  },
+  "observations": {
+    "Gina": [
+      [
+        "Gina lost her job at Door Dash during the month of the conversation.",
+        "D1:3"
+      ],
+      [
+        "Gina used to compete in dance competitions and shows, winning first place in a regional competition at the age of fifteen.",
+        "D1:17"
+      ],
+      [
+        "Gina's favorite dance style is contemporary.",
+        "D1:9"
+      ]
+    ],
+    "Jon": [
+      [
+        "Jon lost his job as a banker the day before the conversation.",
+        "D1:2"
+      ],
+      [
+        "Jon is starting his own dance studio due to his passion for dancing.",
+        "D1:4"
+      ],
+      [
+        "Jon's favorite dance style is contemporary.",
+        "D1:8"
+      ],
+      [
+        "Jon practices various dances with a small group, including contemporary and hip-hop, and is working on choreography for a nearby festival.",
+        "D1:24"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

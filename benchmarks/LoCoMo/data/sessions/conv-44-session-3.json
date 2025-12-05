@@ -1,0 +1,245 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-3",
+  "session_number": 3,
+  "session_summary": "At 4:19 pm on 16 April, 2023, Andrew told Audrey about trying a new cafe in the city and missing nature. Audrey agreed and mentioned how nature brings peace. They discussed how nature soothes and centers them. Andrew expressed missing hiking due to city living. They talked about the importance of nature and shared their ways of connecting to it. Audrey suggested a pastry party, and Andrew agreed. They planned to have their dogs join the party. Audrey revealed getting tattoos of her dogs to show her love for them. Andrew admired the tattoo, and Audrey explained the significance of the tattoo. They bonded over their love for their furry friends and the joy they bring.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:1",
+      "text": "Hey Audrey! What's up? Missed chatting with ya! Check it out, my girl & I tried out that new cafe scene in the city last weekend! Super fun but kinda sad not being out in nature - that's when I feel like I'm really thriving. Oh man, I miss the peacefulness of being out on a hike."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:2",
+      "text": "Hey Andrew! That cafe sounds pretty awesome, glad you enjoyed it. Yeah, I know what you mean. That feeling of being out in nature, surrounded by beauty and peace, is unbeatable, compared to being surrounded by concrete jungles. "
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:3",
+      "text": "Yeah, being out in the nature really has a way of taking my breath away. It's like a home for my soul! I feel connected when I'm there."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:4",
+      "text": "I totally get it. Nature has a way of bringing us back down to earth and reminding us that we're part of something bigger. It's amazing."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:5",
+      "text": "Yeah, it's like hitting the reset button when life gets too chaotic. Nature has a way of being really soothing."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:6",
+      "text": "Definitely! For me, taking my dogs for a walk in the park helps me find my center and recharges me. "
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:7",
+      "text": "I hear ya. Can’t do that here unfortunately, city living makes it hard. Really miss that connection and companionship."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:8",
+      "text": "Must be tough living in the city without the opportunity to go outside. Sure is a different experience."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:9",
+      "text": "Yeah, it really does. Sometimes it feels like I'm missing out."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:10",
+      "text": "It must be tough. City life can get overwhelming, so it's great to find ways to connect to nature. What kind of things do you like to do in the city?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:11",
+      "text": "My girlfriend and I love to discover new places to eat around town. It's a great way to try something new and wind down after a long week."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:12",
+      "text": "Wow, that sounds like a great way to explore the city! Trying new places and food is always fun. Have you discovered any new favorite spots recently?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:13",
+      "text": "We found an awesome cafe with amazing pastries - the smell was just irresistible!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:14",
+      "text": "Sounds amazing! Did you take a photo? I'd love to see!"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://marianainla.com/wp-content/uploads/2021/12/unnamed-20.jpg"
+      ],
+      "blip_caption": "a photo of a bakery display with pastries and coffee",
+      "query": "mouth-watering pastries cafe",
+      "dia_id": "D3:15",
+      "text": "Yep, I got them! Check out this photo of the delicious pastries we had at the cafe."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:16",
+      "text": "Wow, they look great! What did you get? Now I'm craving pastries!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:17",
+      "text": "They taste great too! We had some delicious croissants, muffins, and tarts! It was amazing!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://allisoncooksgoodeats.files.wordpress.com/2017/09/img_4467.jpg"
+      ],
+      "blip_caption": "a photo of a muffin pan filled with blueberries and muffins",
+      "query": "homemade blueberry muffin pastry",
+      "dia_id": "D3:18",
+      "text": "Wow, sounds amazing! Glad you got to enjoy them. Since you metioned pastries, I made some of my favorite treats last week. Let's have a pastry party sometime! "
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:19",
+      "text": "That looks delicious! A pastry party sounds awesome, count me in!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:20",
+      "text": "Awesome! My dogs will tag along. My furry friends would love it!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:21",
+      "text": "Definitely! They'll have a great time at the party! Can't wait for the party!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:22",
+      "text": "Same! Looking forward to it. This would be a good chance for you to hang out with them."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:23",
+      "text": "Yeah! It's gonna be awesome to see all of them together and chowing down. Super excited!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://live.staticflickr.com/3674/10799791393_b3a685158c_b.jpg"
+      ],
+      "blip_caption": "a photography of a dog running with three other dogs in the background",
+      "query": "pepper precious panda pixie playing park furry family",
+      "dia_id": "D3:24",
+      "re-download": true,
+      "text": "Yay! This'll be awesome! Seeing them all together, having fun and enjoying treats is the best. I can't imagine life without them, they bring so much joy."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:25",
+      "text": "Aww, so cute! I bet their happy faces means a lot to you."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.pinimg.com/originals/8d/e3/10/8de3100a3dd42a38237c9090965cfdfe.jpg"
+      ],
+      "blip_caption": "a photo of a woman with a tattoo of a dog and sunflowers",
+      "query": "tattoo dogs arm",
+      "dia_id": "D3:26",
+      "text": "I know right? They mean the world to me. So much that I got tattoos of them on my arm."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:27",
+      "text": "Wow, that tattoo looks great!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://images.pixexid.com/a-woman-is-joyfully-running-in-a-sunlit-forest-with-four-dogs-of-various-breeds-kn6f7vry.jpeg"
+      ],
+      "blip_caption": "a photography of a woman walking with her dogs in the woods",
+      "query": "dogs field nature",
+      "dia_id": "D3:28",
+      "re-download": true,
+      "text": "Thanks! I got it a while ago. It represents my love for my pups and nature's beauty."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:29",
+      "text": "Aww, that's cute! What made you getting the tattoo?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D3:30",
+      "text": "I've always had a strong bond with them – they make me so happy, and I just want to see their happy faceseven when thry're not with me."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D3:31",
+      "text": "That's awesome, I'm glad they bring so much joy into your life."
+    }
+  ],
+  "events": {
+    "Audrey": [],
+    "Andrew": [
+      "Andrew and his girlfriend decide to explore new cafes and restaurants in their City but Andrew misses the peacefulness of being out in the nature."
+    ],
+    "date": "16 April, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew enjoys being out in nature and feels like he's really thriving when surrounded by it.",
+        "D3:1"
+      ],
+      [
+        "Andrew misses the peacefulness of being out on a hike.",
+        "D3:1"
+      ],
+      [
+        "Andrew finds nature really soothing and like hitting the reset button when life gets chaotic.",
+        "D3:5"
+      ],
+      [
+        "Andrew and his girlfriend love discovering new places to eat around the city to wind down after a long week.",
+        "D3:11"
+      ],
+      [
+        "Andrew found an awesome cafe with amazing pastries recently.",
+        "D3:13"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey finds being out in nature unbeatable, compared to being in concrete jungles.",
+        "D3:2"
+      ],
+      [
+        "Audrey believes nature brings us back down to earth and reminds us that we're part of something bigger.",
+        "D3:4"
+      ],
+      [
+        "Audrey takes her dogs for a walk in the park to recharge and find her center.",
+        "D3:6"
+      ],
+      [
+        "Audrey enjoys making pastries and mentioned having a pastry party.",
+        "D3:18"
+      ],
+      [
+        "Audrey has tattoos of her dogs on her arm symbolizing her love for them and nature's beauty.",
+        "D3:26"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

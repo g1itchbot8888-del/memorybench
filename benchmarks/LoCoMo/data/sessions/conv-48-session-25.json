@@ -1,0 +1,165 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-25",
+  "session_number": 25,
+  "session_summary": "On the evening of 6th September 2023 at 8:31 pm, Jolene excitedly shared with Deborah that she signed up for a meditation course at a lake retreat with her partner. Deborah expressed her hope that Jolene would enjoy the experience and learn new techniques. Jolene mentioned how meditation positively impacts her health and helps her stay balanced during studies. Deborah praised Jolene's strength in handling challenges and offered continued support. They discussed their recent activities, including watching sunrises and beach walks. Jolene expressed a desire to watch the sunrise together in the future. They said their goodbyes, with Deborah reminding Jolene to take care of herself and rest.",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://www.ic.org/wp-content/uploads/formidable/2/temple_may2021.jpg"
+      ],
+      "blip_caption": "a photo of a building with a curved roof on a hill",
+      "query": "meditation course retreat center  peaceful lake greenery",
+      "dia_id": "D25:1",
+      "text": "Woohoo! I signed up for a meditation course at a retreat near a lake. Can't wait to share this experience with my partner and learn some new techniques. Sooo excited!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D25:2",
+      "text": "That`s awesome! It looks so calm in the pic - I hope you enjoy your experience and learn some new techniques!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D25:3",
+      "text": " It's amazing how something so easy can make such a big difference to our health!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D25:4",
+      "text": "Yep, it's become part of my routine now. Can't imagine my life without it."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D25:5",
+      "text": "Yeah, same! It helps me stay balanced during my studies."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D25:6",
+      "text": "Glad to hear it, Jolene. How's the project going?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D25:7",
+      "text": " It's tough but I'm chugging along. Thanks!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D25:8",
+      "text": "You're so strong for handling all the challenges. You've got this!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D25:9",
+      "text": "Thanks, Deb! Your support really means a lot. I'll keep pushing forward."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D25:10",
+      "text": "No worries, Jolene. I'm here if you need me. Take care of yourself and don't forget to rest up."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D25:11",
+      "text": "What have you been doing lately?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+      ],
+      "blip_caption": "a photo of a person walking on the beach with a surfboard",
+      "query": "sunset beach",
+      "dia_id": "D25:12",
+      "text": "I recently saw this wonderful sunrise again."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D25:13",
+      "text": "Glimpsing that calms me. Taking beach walks relaxes me. "
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D25:14",
+      "text": "Did my photo remind you of something?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D25:15",
+      "text": "That shot was like a reminder of my last beach getaway. So chill and nice. "
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D25:16",
+      "text": "Glad it brought back good memories. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D25:17",
+      "text": "Maybe one day we will be able to watch the sunrise together!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D25:18",
+      "text": "An offer I can't refuse!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D25:19",
+      "text": "Bye, Deb! See you later!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D25:20",
+      "text": "See ya! Stay safe and catch you later. Bye!"
+    }
+  ],
+  "events": {
+    "Deborah": [],
+    "Jolene": [
+      "Jolene signs up for an meditation course at a retreat near a lake."
+    ],
+    "date": "6 September, 2023"
+  },
+  "observations": {
+    "Jolene": [
+      [
+        "Jolene signed up for a meditation course at a retreat near a lake to learn new techniques with her partner.",
+        "D25:1"
+      ],
+      [
+        "Jolene finds meditation easy and believes it makes a big difference to health.",
+        "D25:3"
+      ],
+      [
+        "Meditation helps Jolene stay balanced during her studies.",
+        "D25:5"
+      ],
+      [
+        "Jolene finds her project tough but continues to work on it.",
+        "D25:7"
+      ]
+    ],
+    "Deborah": [
+      [
+        "Deborah incorporates meditation into her routine and can't imagine her life without it.",
+        "D25:4"
+      ],
+      [
+        "Deborah recently saw a wonderful sunrise which calmed her.",
+        "D25:12"
+      ],
+      [
+        "Deborah enjoys beach walks as they relax her.",
+        "D25:13"
+      ],
+      [
+        "Deborah was glad her photo reminded Jolene of good memories from a beach getaway.",
+        "D25:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

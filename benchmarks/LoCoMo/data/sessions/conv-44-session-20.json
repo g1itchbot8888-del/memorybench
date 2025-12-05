@@ -1,0 +1,324 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-20",
+  "session_number": 20,
+  "session_summary": "Andrew and Audrey had a conversation at 7:09 pm on 1 October 2023. Andrew shared that he and his girlfriend will be going to the beach next month with Toby. Audrey expressed her excitement for an upcoming hike with the dogs, highlighting how being in nature helps her find peace. Andrew agreed and mentioned missing being in nature. They discussed the benefits of nature, birdwatching, and taking care of the environment for future generations. They also talked about reducing the carbon footprint by biking and using public transport. Andrew offered to show Audrey the best bike routes near the river. They both looked forward to exploring the routes and enjoying the scenery together.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://images.pexels.com/photos/17057350/pexels-photo-17057350.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-maksym-harbar-17057350.jpg"
+      ],
+      "blip_caption": "a photo of a sunset over the ocean with waves",
+      "query": "beach sunset seaside",
+      "dia_id": "D20:1",
+      "text": "Hey wassup? Got some great news - the gf and I are hitting the beach next month with Toby!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:2",
+      "text": "Hey Andrew! Great to hear from you. Have fun at the beach trip! Bet you can't wait to get out to the nature. Can't wait for our hike with the dogs next month. They always put a smile on my face - life's just not the same without them!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:3",
+      "text": "Thanks, I will! Yea I can't wait for the hike. It's been a long time since we all be in nature together."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://cdn12.picryl.com/photo/2016/12/31/dogs-reward-expect-856f58-1024.jpg"
+      ],
+      "blip_caption": "a photography of a group of dogs sitting on top of a lush green field",
+      "query": "dogs sitting park",
+      "dia_id": "D20:4",
+      "re-download": true,
+      "text": "Being in a nature environment is always a great way to relax. For me, taking the doggos out for a walk in the park helps clear my mind and find some peace. It's been tough lately, but it definitely helps."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:5",
+      "text": "Aww, they look so cute! That spot looks ideal for them to play. Where did you take them?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:6",
+      "text": "We took them to the dog park nearby last Saturday. There was a big grassy area for them to play and lots of shaded spots for me to relax. They had a great time!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:7",
+      "text": "Sounds great! Missing that experience. Can't wait for the coming up hike!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:8",
+      "text": "Yeah, Andrew! The pups and I are loving it. Being out in nature and checking out new trails with the dogs is so different from being in the city."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:9",
+      "text": "I think everyone's gotta ditch the hustle and bustle every now and then. It's so refreshing to be in nature."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:10",
+      "text": "Yep, it's a relief. It's like being a bird and finally flying free. Talking of birds, have you seen any birds up close lately?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:11",
+      "text": "I've seen them up close and it's amazing how they fly with grace and freedom."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:12",
+      "text": "Yeah, birds are really amazing! I love how they can fly around and explore. They have a freedom that I wish I had!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:13",
+      "text": "Agreed! Watching them fly is so freeing and awe-inspiring. It's a great reminder to appreciate nature."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:14",
+      "text": "Yeah, for sure. It's a great way to appreciate nature. That reminds me that I've been wanting to do some birdwatching. It's really peaceful and calming."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:15",
+      "text": "Yeah do that! It's really peaceful and calming. It's nice to get away from the city and enjoy nature. Let me know if you need any birdwatching advice, I think I know a thing or two about bird watching. Or perhaps we can all go birdwatching soometimes."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://live.staticflickr.com/4115/4924769040_36947653ee_c.jpg"
+      ],
+      "blip_caption": "a photography of a book with a page of birds and a bird on it",
+      "query": "bird guidebook binoculars",
+      "dia_id": "D20:16",
+      "re-download": true,
+      "text": "Thanks! That's so helpful, I'd love to take you up on your offer. Right now I'm going with this book that writes about bird watching guides. "
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:17",
+      "text": "Cool! Let me know when you're ready to go birdwatching and we can plan a trip together."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:18",
+      "text": "Sounds great! I'm gonna check my schedule and get back to you. I can't wait for some birdwatching."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:19",
+      "text": "Yeah it's gonna be fun exploring and spotting birds. "
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i2.pickpik.com/photos/262/777/291/binoculars-birdwatching-spy-glass-spying-preview.jpg"
+      ],
+      "blip_caption": "a photography of a pair of binoculars sitting on a table with a book",
+      "query": "binoculars birdwatching guidebook",
+      "dia_id": "D20:20",
+      "re-download": true,
+      "text": "Yup! I should go learn some of the common birds in this area."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/Birdwatching_India_01.jpg"
+      ],
+      "blip_caption": "a photography of a pen and a notebook with a pen and a camera",
+      "query": "binoculars notebook",
+      "dia_id": "D20:21",
+      "re-download": true,
+      "text": "Nice! Looks like you're prepared. I'll bring my binos and a notebook to log them at the trip."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:22",
+      "text": "Nice. Looks like you already have some experience and really prepared."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:23",
+      "text": "Yeah! Like I said I do enjoy watching birds in the nature. I also read some books about our ecological systems as well."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:24",
+      "text": "Cool! Books like that must be really interesting. What have you discovered from reading them?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:25",
+      "text": "I learned a lot about animals, plants, and ecosystems. It's fascinating to see how it all works together."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:26",
+      "text": "Wow, learning about the connections between them must be so cool. I bet it makes you appreciate nature even more."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:27",
+      "text": "Yeah, nature is all connected. We as human being need look after it."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:28",
+      "text": "Yeah! Taking care of the nature is like taking care of our house."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:29",
+      "text": "Definitely, let's take care of it for future generations."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:30",
+      "text": "It's on us to take care of it so the future generations have the natural resouorces."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://www.nps.gov/articles/000/images/trash-and-recycle-can.jpg"
+      ],
+      "blip_caption": "a photo of a trash can sitting in the middle of a park",
+      "query": "recycling bin nature preservation",
+      "dia_id": "D20:31",
+      "text": "Yep, it's important to take care of it for future generations. Let's do our share! Do you recycle at all?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:32",
+      "text": "Yeah of course! It's important for us to do our part, and recycling is a crucial step. Do you have any other suggestions?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:33",
+      "text": "How about reducing our carbon footprint by biking or using public transport?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:34",
+      "text": "Oh yeah! I usually take public transport, but biking sounds like a fun way to reduce our carbon footprint. Let's all give it a try and make a change!"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://bikeportland.org/wp-content/uploads/2021/10/Screen-Shot-2021-10-15-at-10.39.45-AM.jpg"
+      ],
+      "blip_caption": "a photo of a man riding a bike down a street",
+      "query": "bicycle bike lane",
+      "dia_id": "D20:35",
+      "text": "Yeah! It's a great way to help the planet and even train our body. Let's give it a try!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:36",
+      "text": "I'd love to try it sometime. Are there any good routes around here?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:37",
+      "text": "Yep, there are some awesome routes near the river. Let me show you the best ones that I enjoy!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:38",
+      "text": "Sounds great! Can you show me the best bike routes by the river? Thanks!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D20:39",
+      "text": "Sure. There are many routes around the area.  I'll show you the best bike routes near there. It'll be great to get outside and soak up the scenery."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D20:40",
+      "text": "Sounds great! Can't wait to check out those bike routes and soak up the scenery. It should be a blast!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey takes her dogs to a nearby dog park during the weekend."
+    ],
+    "Andrew": [
+      "Andrew plans a beach trip with his girlfriend and Toby."
+    ],
+    "date": "1 October, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew is planning a beach trip with his girlfriend and friend Toby next month.",
+        "D20:1"
+      ],
+      [
+        "Andrew is looking forward to a hike in nature with his friends and dogs.",
+        "D20:3"
+      ],
+      [
+        "Andrew enjoys watching birds in nature and has read books about ecological systems.",
+        "D20:23"
+      ],
+      [
+        "Andrew knows a thing or two about birdwatching and is willing to offer advice.",
+        "D20:15"
+      ],
+      [
+        "Andrew plans to bring binoculars and a notebook for birdwatching.",
+        "D20:21"
+      ],
+      [
+        "Andrew believes that nature is interconnected and humans need to take care of it.",
+        "D20:27"
+      ],
+      [
+        "Andrew suggests reducing carbon footprint by biking or using public transport.",
+        "D20:33"
+      ],
+      [
+        "Andrew knows some of the best bike routes near the river.",
+        "D20:37"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey is excited about a hike with Andrew and the dogs next month.",
+        "D20:2"
+      ],
+      [
+        "Audrey finds walking the dogs in the park to be calming and peaceful.",
+        "D20:4"
+      ],
+      [
+        "Audrey enjoys birdwatching and wants to explore more about it.",
+        "D20:14"
+      ],
+      [
+        "Audrey believes in taking care of nature for future generations.",
+        "D20:28"
+      ],
+      [
+        "Audrey sees recycling as an important step in preserving natural resources.",
+        "D20:32"
+      ],
+      [
+        "Audrey is interested in trying biking as a way to reduce carbon footprint.",
+        "D20:34"
+      ],
+      [
+        "Audrey is excited to check out bike routes near the river with Andrew.",
+        "D20:40"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

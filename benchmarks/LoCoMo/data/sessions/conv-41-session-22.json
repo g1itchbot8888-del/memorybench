@@ -1,0 +1,182 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-22",
+  "session_number": 22,
+  "session_summary": "John and Maria discussed the importance of education and infrastructure in shaping communities at 6:59 pm on 5 July, 2023. Maria supported John's efforts to make a positive change, citing his passion and proactive approach as inspiring. John mentioned feeling uplifted by Maria's understanding and support, showing a picture of his family who motivate him. They shared sources of inspiration like family, nature walks, and music. John emphasized the significance of finding what makes one excited and alive. They both noted the importance of taking time for oneself, as seen in John's regular sunset walks for peace and detachment. The conversation ended with mutual well wishes and plans to chat soon.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D22:1",
+      "text": "Since the last chat, I've been thinking about how education and infrastructure shape communities. It's so sad how they can stunt growth in neighborhoods, but it also drives me to do what I can to make it better."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:2",
+      "text": "I totally agree. They play a crucial role in shaping communities. It's unfortunate to witness the negative effects when they are lacking, but it's inspiring to see your passion and proactive approach towards making a positive change."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:3",
+      "text": "Your support means a lot. Feeling like it's an uphill battle is tough, but it's great to know there are people out there who see the value in them - it keeps me going."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:4",
+      "text": "John, you got this! It's great to have a support system while tackling tough stuff. I'm here to lend an ear or help out however I can. You're really making a difference, and that's something to be proud of!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/j4ms3skztjg11.jpg"
+      ],
+      "blip_caption": "a photo of a family posing on a train track in the fall",
+      "query": "family photo",
+      "dia_id": "D22:5",
+      "text": "I appreciate it. It's really uplifting hearing from you. I sometimes doubt if I'm making a difference, but knowing there's people who understand my work means a lot and helps keep me going. Here's a picture of my family. They motivate me and remind me why I'm doing this."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:6",
+      "text": "That picture is awesome! Your family looks so stoked - your trip must have been incredible! They obviously motivate and support you."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:7",
+      "text": "Thanks, Maria! That picture was from a trip we took last year for my daughter Sara's birthday - so much fun and good memories! My family motivates me to keep striving for change."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:8",
+      "text": "Yeah, memories and motivators definitely help us stay on track and keep us going."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:9",
+      "text": "Yeah, for sure! When times get hard, I look at it and remember why I'm doing what I'm doing. My family is my motivation and they keep me going. What about you? What keeps you inspired?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:10",
+      "text": "I'm inspired by chatting to people, volunteering, and listening to music. Anything else that keeps you inspired?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:11",
+      "text": "My family, exercise, and spending time with friends, for sure."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:12",
+      "text": "That's great, John! It's true, we all have our own special sources of inspiration that keep us going."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:13",
+      "text": "Definitely, Maria! Finding those special sources is key for staying motivated and tackling challenges. It's great when we figure out what makes us feel excited and alive."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:14",
+      "text": "Yeah, John, those little things can spark our enthusiasm and motivate us. It's incredible how something as simple as a walk or a song can totally switch up our outlook."
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://get.pxhere.com/photo/beach-landscape-sea-coast-water-sand-ocean-horizon-cloud-sky-sun-sunrise-sunset-shore-wave-dawn-dusk-evening-relax-paradise-tropical-peaceful-blue-colorful-body-of-water-clouds-afterglow-sunset-beach-gulf-of-mexico-wind-wave-515918.jpg"
+      ],
+      "blip_caption": "a photo of a sunset over the ocean with a sailboat in the distance",
+      "query": "sunset beach colorful ocean",
+      "dia_id": "D22:15",
+      "text": "Yeah, Maria. Little things like this can make a big impact in how we think. Oh, and here's a pic I got from my walk last week. It always reminds me to take a break, breathe, and appreciate nature."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:16",
+      "text": "That picture is amazing! The colors are so vibrant - really shows the calmness of the ocean. How often do you get to see sunsets like that on your walks?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:17",
+      "text": "Thanks, Maria! I see them at least once a week. It's a good way to disconnect, think, and find peace in this crazy world."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:18",
+      "text": "That's great practice, John. Taking time to detach and find peace is important in this crazy world. I've been taking regular \"me-time\" walks at the park nearby and It's made a big impact. Glad you have that to remind you."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:19",
+      "text": "Thanks, Maria. Appreciate it. Great talking to you. Gotta go. Stay safe and chat soon!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D22:20",
+      "text": "Hey John, stay safe. Chat soon!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:21",
+      "text": "Take care, Maria. Catch you soon!"
+    }
+  ],
+  "events": {
+    "John": [],
+    "Maria": [
+      "Maria takes regular 'me-time' walks in the park closest to her."
+    ],
+    "date": "5 July, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John has been thinking about how education and infrastructure shape communities.",
+        "D22:1"
+      ],
+      [
+        "John feels it is an uphill battle to make a positive change in communities.",
+        "D22:3"
+      ],
+      [
+        "John doubts if he is making a difference sometimes.",
+        "D22:5"
+      ],
+      [
+        "John's family motivates him to strive for change.",
+        "D22:7"
+      ],
+      [
+        "John looks at a picture of his family when times get hard to remember why he is doing his work.",
+        "D22:9"
+      ],
+      [
+        "John is inspired by his family, exercise, and spending time with friends.",
+        "D22:11"
+      ],
+      [
+        "John sees sunsets at least once a week during his walks to disconnect and find peace.",
+        "D22:17"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria agrees with John on the crucial role of education and infrastructure in shaping communities.",
+        "D22:2"
+      ],
+      [
+        "Maria supports John in his efforts to make a positive change in communities.",
+        "D22:4"
+      ],
+      [
+        "Maria is inspired by chatting to people, volunteering, and listening to music.",
+        "D22:10"
+      ],
+      [
+        "Maria takes regular 'me-time' walks at the park nearby to find peace.",
+        "D22:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

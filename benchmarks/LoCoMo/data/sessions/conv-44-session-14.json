@@ -1,0 +1,259 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-14",
+  "session_number": 14,
+  "session_summary": "On August 4th, 2023, at 11:05 am, Andrew told Audrey about his upcoming camping trip with his girlfriend. Audrey shared her experience with agility classes for her dogs, emphasizing the joy of watching them overcome challenges. They discussed the beauty of nature and the benefits of spending time outdoors. Audrey advised Andrew on caring for his German Shepherd, Toby, emphasizing the importance of energy and attention. Andrew expressed his excitement to bond with Toby on hikes. The conversation highlighted the special bond between humans and animals, as Audrey shared her love for her pets and Andrew looked forward to deepening his connection with Toby.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://www.nps.gov/hale/planyourvisit/images/Holua-Campground_Tent-Camper-0015_NPS-photo-Katie-Matthew_7140242_2.jpg"
+      ],
+      "blip_caption": "a photo of a woman setting up a tent on a rocky hill",
+      "query": "campsite nature camping",
+      "dia_id": "D14:1",
+      "text": "Hey, Audrey! I can't wait for the weekend. My girlfriend, Toby and I are going camping. It's been forever since I've been in nature."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/45o0t7vpf5171.jpg"
+      ],
+      "blip_caption": "a photo of a dog in a field of flowers and grass",
+      "query": "dogs playing flower-filled meadow",
+      "dia_id": "D14:2",
+      "text": "That's awesome! That must be fun! I just started agility classes with my pups at a dog park. It's awesome to watch them learn and build relationships with other dogs. Seeing them face and conquer challenges really warms my heart."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://live.staticflickr.com/2109/2471534899_2764ab02bf_b.jpg"
+      ],
+      "blip_caption": "a photography of a dog jumping through a ring in the air",
+      "query": "dog jumping through hoop agility course",
+      "dia_id": "D14:3",
+      "re-download": true,
+      "text": "Wow it's amazing to watch them grow together. They look so cool overcoming obstacles like that. Impressive stuff!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://images.pexels.com/photos/7210626/pexels-photo-7210626.jpeg"
+      ],
+      "blip_caption": "a photography of a group of dogs sitting on a dirt road",
+      "query": "dogs agility course park sitting smiling",
+      "dia_id": "D14:4",
+      "re-download": true,
+      "text": "Thanks! They've come a long way. They have so much fun with it, it's a great physical and mental workout. I take them to the park twice a week for practice - it's been a great bonding experience."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i0.hippopx.com/photos/637/74/343/trail-nature-path-preview.jpg"
+      ],
+      "blip_caption": "a photography of a dirt path in the woods with rocks and trees",
+      "query": "hiking trail trees",
+      "dia_id": "D14:5",
+      "re-download": true,
+      "text": "Awesome! You're having fun with them and keeping them busy - how's that going? Btw look at the trail that I was just at. Cool right?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://s0.geograph.org.uk/geophotos/01/41/92/1419270_5f37a596.jpg"
+      ],
+      "blip_caption": "a photography of a woman walking her dogs down a path",
+      "query": "audrey dogs forest trail walk",
+      "dia_id": "D14:6",
+      "re-download": true,
+      "text": "It's been tough at times, but overall it's going great. We're all growing together. Check out this pic of us on a trail hike!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D14:7",
+      "text": "Wow, nice hike! How long was the trail?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D14:8",
+      "text": "The hike took us two hours and it was stunning! We saw lots of amazing views and it was great to explore nature."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D14:9",
+      "text": "That sounds awesome! Being able to just be in nature and appreciate it is really cool. I wish I could do that more often."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D14:10",
+      "text": "Nature really refreshes you, right? It's nice to appreciate all the beauty around us. Are there any outdoor activities you enjoy lately?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D14:11",
+      "text": "Well for me hiking is the best. Being out in nature with all the trees and fresh air always refreshes me. Reaching the top of a challenging trail is amazing too - it feels like all worries just vanish when you get to the top."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D14:12",
+      "text": "Yeah, totally. It's like you've achieved something and all worries just fade away. Nature is pretty special, huh?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D14:13",
+      "text": "Yeah, nature really calms me down and relaxes my mind. It's like a break from the craziness of city living."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D14:14",
+      "text": "Yeah! It's a refuge from the busy city life and it's even better when you can share it with someone special. My pets have been my good ol' buddies during all the tough times! They make me so happy and I love them so much."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D14:15",
+      "text": "Agreed! Sharing something you enjoy with someone is great. Plus, those types of bonds bring loads of joy and love."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://cdn.shopify.com/s/files/1/0280/3790/6505/files/1d0d76aa77d195e7685b71bb336436ea.jpg"
+      ],
+      "blip_caption": "a photo of a dog laying in a dog bed in a living room",
+      "query": "dogs snuggled cozy dog bed",
+      "dia_id": "D14:16",
+      "text": "Yeah, humans and animals have a cool connection. They bring us so much joy and love. I'm blessed to have my furry friends in my life. They're my companions and always make my day better."
+    },
+    {
+      "speaker": "Andrew",
+      "blip_caption": "a photo of a stream running through a lush green forest",
+      "dia_id": "D14:17",
+      "text": "They're pretty lucky to have you as their owner. Hoping for the day I can have such a deep bond with Toby and experience that special bond too."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/67s3x8066hl91.jpg"
+      ],
+      "blip_caption": "a photo of three dogs sitting on a wooden floor looking up",
+      "query": "four dogs sitting breed",
+      "dia_id": "D14:18",
+      "text": "Yeah they really mean the world to me. Btw, I never really asked, what breed is Toby?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D14:19",
+      "text": "He's a German Shepherd - they're so smart and loyal! What do you think?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D14:20",
+      "text": "German Shepherds are indeed awesome! They are super loyal and smart. You'll have an amazing connection with one!"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/xzuhqdylro1b1.jpg"
+      ],
+      "blip_caption": "a photo of a dog sitting on a rock in the woods",
+      "query": "german shepherd hiking trail",
+      "dia_id": "D14:21",
+      "text": "I hope so! I shold take him hiking with me, they would be great hiking buddies, so smart and loyal."
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i.redd.it/s6gfs24m2hpb1.jpg"
+      ],
+      "blip_caption": "a photo of a dog sitting on a trail with a view of a city",
+      "query": "german shepherd hiking mountains",
+      "dia_id": "D14:22",
+      "text": "Yep! German Shepherds are known for their loyalty and smarts. They love new journeys and would love exploring the outside with you. I can totally see you and your pup conquering trails together!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D14:23",
+      "text": "Yeah, having someone who enjoys similar things would be great for hiking. Do you have any advice for city-dwellers that owns a pup?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D14:24",
+      "text": "My advice would be to make sure you have enough time and energy for a pup - they need lots of attention and walks! Especially for a German Shepherd like Toby, he'll need to offset a lot of energy."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D14:25",
+      "text": "Thanks for the advice! I'll definitely keep that in mind. I want to make sure I'm not limiting Toby's growth but not taking him out not enough."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D14:26",
+      "text": "No worries, Andrew! It's important to be prepared and give a pup the love it deserves. Good luck with Toby!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D14:27",
+      "text": "Thanks! Gotta take Toby out for a small hike at the local trail. Ttyl!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey enrolls her dogs in agility classes at a local dog park and practices with them in a nearby park twice every week."
+    ],
+    "Andrew": [
+      "Andrew, his girlfriend and pet dog, Toby, make plans to go camping together in the weekend."
+    ],
+    "date": "4 August, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew is in a relationship with a girlfriend named Toby.",
+        "D14:1"
+      ],
+      [
+        "Andrew enjoys camping and spending time in nature.",
+        "D14:1"
+      ],
+      [
+        "Andrew enjoys hiking and finds it the best outdoor activity.",
+        "D14:11"
+      ],
+      [
+        "Andrew finds being in nature refreshing and calming, a break from city life.",
+        "D14:13"
+      ],
+      [
+        "Andrew is interested in having a deep bond with his German Shepherd, Toby, and sees him as a great hiking buddy.",
+        "D14:17"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey is taking agility classes with her pups at a dog park.",
+        "D14:2"
+      ],
+      [
+        "Audrey takes her dogs to the park twice a week for practice to bond with them.",
+        "D14:4"
+      ],
+      [
+        "Audrey enjoys hiking and exploring nature with her pets.",
+        "D14:8"
+      ],
+      [
+        "Audrey has a special bond with her pets, finding them to be her companions and sources of happiness.",
+        "D14:14"
+      ],
+      [
+        "Audrey thinks German Shepherds, like Andrew's dog Toby, are awesome for their smartness and loyalty.",
+        "D14:20"
+      ],
+      [
+        "Audrey gives advice that puppies, especially German Shepherds, need attention, walks, and energy to ensure their well-being.",
+        "D14:24"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

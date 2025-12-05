@@ -1,0 +1,152 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-24",
+  "session_number": 24,
+  "session_summary": "Nate and Joanna caught up at 2:01 pm on 21 October, 2022. Joanna shared about perfecting a family recipe and the significance of a stuffed animal dog named Tilly. Nate mentioned his stress from tough competitors in a tournament but found joy in his turtles. They discussed how pets bring happiness and shared recent activities. Joanna mentioned a recent setback with a production company rejection, but Nate offered support and encouragement. They both expressed determination to keep pushing forward. Nate reassured Joanna of his support, and they ended the conversation with positive affirmations.",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:1",
+      "text": "Hey Joanna, what's been up? Haven't seen you since we last talked."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D24:2",
+      "text": "Hey Nate! I have been revising and perfecting the recipe I made for my family and it turned out really tasty. What's been happening with you?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:3",
+      "text": "Hey Joanna! That's cool. I've been getting so stressed lately because of my tournament progress - tough competitors - but my turtles always cheer me up."
+    },
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a cat laying on the floor in a room",
+      "dia_id": "D24:4",
+      "text": "Pets have a way of brightening our days. I still have that stuffed animal dog you gave me! I named her Tilly, and she's always with me while I write."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:5",
+      "text": "Glad to hear it! What made you name her Tilly?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D24:6",
+      "text": "I used to have a dog back in Michigan with that name, but then I got allergic and we had to get rid of her. The name helps me remember her back when I used to be able to hold and squeeze animal without an allergic reaction!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:7",
+      "text": "That's so touching! Glad the stuffed animal means so much!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D24:8",
+      "text": "Tilly helps me stay focused and brings me so much joy. It's amazing how even stuffed animals can do that!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:9",
+      "text": "It really is, I'm not sure I'll ever understand why watching my turtles slowly walk around makes me so happy. But I'm very glad it does."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D24:10",
+      "text": "Same here! So have you been up to anything recenly?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:11",
+      "text": "Yeah, I've just been practicing for my next video game tournemant. How about you?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D24:12",
+      "text": "Well, I had a bit of a setback recently - another rejection from a production company."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:13",
+      "text": "Bummer, Joanna. Is this the one you sent to a film contest? Rejections suck, but don't forget they don't define you. Keep at it and you'll find the perfect opportunity."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D24:14",
+      "text": "Yeah.. Thanks, Nate. It's hard, but I won't let it slow me down. I'm gonna keep grinding and moving ahead."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:15",
+      "text": "That's what I like to hear! I really respect you for that and being able to bounce back whenever something sad happens!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D24:16",
+      "text": "Thanks, Nate! Your encouragement really means a lot. I'm gonna keep pushing forward and believing in myself."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:17",
+      "text": "You got this, and don't ever forget that you have people cheering you on from the sidelines wherever you go."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D24:18",
+      "text": "Thanks! I'll see you around!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D24:19",
+      "text": "No problem! Catch you later!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna perfects her dairy free dessert recipe of chocolate raspberry tart for her friends and family.",
+      "Joanna receives a rejection from a production company for her third screenplay about loss, identity and connection."
+    ],
+    "Nate": [],
+    "date": "21 October, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate is stressed due to tough competitors in his tournament progress.",
+        "D24:3"
+      ],
+      [
+        "Nate has turtles as pets that always cheer him up.",
+        "D24:3"
+      ],
+      [
+        "Nate practices for video game tournaments.",
+        "D24:11"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna has been revising and perfecting a recipe for her family.",
+        "D24:2"
+      ],
+      [
+        "Joanna has a stuffed animal dog named Tilly that was a gift from Nate.",
+        "D24:4"
+      ],
+      [
+        "Joanna had a dog named Tilly back in Michigan but had to give her away due to allergies.",
+        "D24:6"
+      ],
+      [
+        "Joanna recently faced a setback - another rejection from a production company.",
+        "D24:12"
+      ],
+      [
+        "Joanna remains determined and resilient despite rejections, aiming to keep grinding and moving ahead.",
+        "D24:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

@@ -1,0 +1,239 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-2",
+  "session_number": 2,
+  "session_summary": "Audrey surprises Andrew with a new puppy named Pixie on 2 April 2023, at 2:42 pm. The puppy is fitting in well with the other dogs. Andrew is considering getting a dog too, and Audrey suggests using websites to find dog-friendly places in the city. They discuss the joys of having furry companions and the memories of hiking with dogs. Andrew expresses excitement about finding a dog-friendly spot soon. Audrey wishes him the best in his search, and they say goodbye.",
+  "conversation_turns": [
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://moderndogmagazine.com/sites/default/files/images/photoentries/photos/pixie%20smiling.jpg"
+      ],
+      "blip_caption": "a photo of a small white dog sitting on a carpet",
+      "query": "new puppy Pixie",
+      "dia_id": "D2:1",
+      "text": "Hey Andrew, I got a surprise for you! We adopted another puppy called Pixie. She's SO cute! Isn't she just the cutest?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:2",
+      "text": "That's awesome! Pixie is so cute! Did you ever check out that hiking spot we talked about last time?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D2:3",
+      "text": "Thanks! I know right? She's so cute! Pixie's been keeping us busy, so I haven't had a chance to check out that hiking spot yet."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:4",
+      "text": "Yeah, I get it. A puppy really takes some work. Has she settled in okay? Is she getting along with the other pups?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4NzIxNzk3LWltYWdlLWt3dnYzenBkLmpwZw.jpg"
+      ],
+      "blip_caption": "a photography of a dog playing with a group of other dogs",
+      "query": "pixie pepper precious panda dogs playing backyard",
+      "dia_id": "D2:5",
+      "re-download": true,
+      "text": "Pixie's fitting in great! It took her a few days to get used to the other dogs, but now they're awesome friends. They love playing and exploring the house - so cute!\n"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:6",
+      "text": "That's awesome! Is Pepper adjusting well to her?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://i2.pickpik.com/photos/398/166/341/dogs-garden-enjoy-weather-animals-preview.jpg"
+      ],
+      "blip_caption": "a photography of two dogs standing in the grass near a fence",
+      "query": "pepper pixie playing together",
+      "dia_id": "D2:7",
+      "re-download": true,
+      "text": "Pepper took a bit to get used to her, but now they're always together!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:8",
+      "text": "That's great to hear! I'm considering getting a dog too, but it can be challenging finding a dog-friendly place in the city. Do you have any tips on finding such a place?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://live.staticflickr.com/2388/2232782014_51a690ec00_c.jpg"
+      ],
+      "blip_caption": "a photography of a dog sitting in a field of flowers",
+      "query": "dog-friendly website",
+      "dia_id": "D2:9",
+      "re-download": true,
+      "text": "We used websites that helped us find a place that allowed dogs. They had filters that made it super easy. Found a perfect spot thanks to them!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:10",
+      "text": "Wow, that's so cool! I'll give those websites a try, thanks for the info!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D2:11",
+      "text": "You got it! I hope you find a great spot soon!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:12",
+      "text": "Thanks! Fingers crossed for the apartment and that furry friend."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D2:13",
+      "text": "I'm keeping my fingers crossed for you to find a great furry friend and an apartment."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:14",
+      "text": "Hope I find one soon. Can't wait!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D2:15",
+      "text": "You'll love them! They're great for cuddles and companionship."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/gnwdz3ysqra71.jpg"
+      ],
+      "blip_caption": "a photo of a dog sitting on a couch in a living room",
+      "query": "dog couch",
+      "dia_id": "D2:16",
+      "text": "It'd be so great to have a furry buddy to cuddle and hang with. Here's a photo of my family's dog on a couch. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D2:17",
+      "img_url": [
+        "https://images.pexels.com/photos/18690079/pexels-photo-18690079/free-photo-of-white-terrier-lying-on-a-sofa.jpeg"
+      ],
+      "re-download": true,
+      "blip_caption": "a photography of a dog laying on a couch with a pillow",
+      "text": "Our furry friends make great cuddle buddies. Here's one of them enjoying some lazy couch time!"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://www.kingdukes.com/cdn/shop/articles/man_walking_dog_on_portland_trail_1200x.jpg"
+      ],
+      "blip_caption": "a photo of a man walking a dog on a trail",
+      "query": "dog hiking trail",
+      "dia_id": "D2:18",
+      "text": "That pic is so cute! It would be fun to hang out with a dog, cuddling away. Got me thinking of my old hiking pics and how much I miss exploring nature trails with my family's dog. Ah, the peaceful moments out in nature!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D2:19",
+      "text": " Taking them on hikes must be awesome! That makes me want to hike with my dogs."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://images.pexels.com/photos/4430321/pexels-photo-4430321.jpeg"
+      ],
+      "blip_caption": "a photography of a man sitting on a rock with a dog",
+      "query": "hiking with dog rocks trail",
+      "dia_id": "D2:20",
+      "re-download": true,
+      "text": "Hiking with a dog is way fun, it's a great way to bond and create memories together."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D2:21",
+      "text": "Yeah! Exploring nature with them and making memories is awesome!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:22",
+      "text": "Definitely! I miss those moments. I need to find a dog-friendly spot soon so I can get exploring again!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D2:23",
+      "text": "Yep! I hope you find the perfect dog-friendly spot soon so you can make new memories with them."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:24",
+      "text": "Thanks! I'll keep looking until I find it. Super excited for what's next!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D2:25",
+      "text": "So excited for you! I can't wait to see where you and your furry friend decide to hang out. All the best!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D2:26",
+      "text": "I'll keep you posted. Ttyl, Bye!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey brings home her new puppy, Pixie and introduces it slowly to her other three dogs, Pepper, Precious and Panda."
+    ],
+    "Andrew": [
+      "Andrew considers getting a pet dog and looks for dog-friendly apartments."
+    ],
+    "date": "2 April, 2023"
+  },
+  "observations": {
+    "Audrey": [
+      [
+        "Audrey and Andrew adopted another puppy called Pixie.",
+        "D2:1"
+      ],
+      [
+        "Pixie has been keeping Audrey busy since they adopted her.",
+        "D2:3"
+      ],
+      [
+        "Pixie has become friends with the other dogs in the house and they love playing together.",
+        "D2:5"
+      ],
+      [
+        "Audrey used websites with filters to find a dog-friendly place for their pets.",
+        "D2:9"
+      ],
+      [
+        "Audrey is excited about Andrew finding a furry friend and an apartment.",
+        "D2:13"
+      ],
+      [
+        "Audrey enjoys exploring nature with her dogs.",
+        "D2:19"
+      ]
+    ],
+    "Andrew": [
+      [
+        "Andrew is considering getting a dog and finding a dog-friendly place in the city.",
+        "D2:8"
+      ],
+      [
+        "Andrew misses exploring nature trails with his family's dog.",
+        "D2:18"
+      ],
+      [
+        "Andrew finds hiking with a dog a great way to bond and create memories together.",
+        "D2:20"
+      ],
+      [
+        "Andrew is super excited for what's next regarding finding a dog-friendly spot.",
+        "D2:24"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

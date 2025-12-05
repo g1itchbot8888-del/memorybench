@@ -1,0 +1,202 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-19",
+  "session_number": 19,
+  "session_summary": "Nate informed Joanna at 10:57 am on 22 August, 2022, that he won an international gaming tournament and is now able to pursue his passion as a career. Joanna congratulated Nate for his victory and praised him for turning his passion into a profession. They discussed Nate's pet turtles' new tank and Joanna sharing her writing with a group, both feeling proud of their achievements. Nate emphasized the importance of self-care and taking breaks, which Joanna agreed on. They exchanged book recommendations before wishing each other a good day and taking care.",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "dia_id": "D19:1",
+      "text": "Woah Joanna, I won an international tournament yesterday! It was wild. Gaming has brought me so much success and now I'm able to make a living at something I'm passionate about - I'm loving it."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D19:2",
+      "text": "Congrats, Nate! So proud of you for winning that tournament, that's awesome! Must feel great to turn your passion into a career."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.pinimg.com/originals/57/31/42/57314282992ff77a40be8450c003b5c7.jpg"
+      ],
+      "blip_caption": "a photo of a fish tank with a fish inside of it",
+      "query": "cute pet turtles tank",
+      "dia_id": "D19:3",
+      "text": "I'm really stoked to see all my hard work paying off! I'm super proud of what I accomplished. On another note, my little dudes got a new tank! Check them out, they're so cute, right?!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D19:4",
+      "text": "Wow Nate, they're adorable! I can see why you enjoy spending time with them. It looks like they have so much more room to swim now!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D19:5",
+      "text": "They're my little buddies, always calm and peaceful. It makes coming home after a long day of gaming better. The tank expansion has made them so happy! How have you been?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://halekatiedotcom.files.wordpress.com/2020/09/img_6976.jpg"
+      ],
+      "blip_caption": "a photo of a desk with a chair and a computer",
+      "query": "writers group meeting stack scripts desk",
+      "dia_id": "D19:6",
+      "text": "I'm good! Was super nervous last week when I shared my book with my writers group but got some great feedback. My hard work is paying off, it's such an awesome feeling!"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a dessert in a glass on a counter",
+      "dia_id": "D19:7",
+      "text": "Wow Jo, you're killing it! Getting this kind of feedback means people are really connecting with your writing. Pretty cool! Did you celebrate?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://tastecando.com/cdn/shop/articles/Keto_Krisp_January_Post.jpg"
+      ],
+      "blip_caption": "a photo of two desserts with spoons and a bar of chocolate",
+      "query": "raspberry chia pudding parfait dessert",
+      "dia_id": "D19:8",
+      "text": "Thanks, Nate! It feels great knowing that people like my writing. I celebrated by making this delicious treat - yum! Any plans for the weekend?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D19:9",
+      "text": "I'm taking some time off this weekend to chill with my pets. Anything cool happening with you?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D19:10",
+      "text": "I'm relaxing and recharging this weekend with a long walk and some reading. It's a good break."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D19:11",
+      "text": "Looks like we both need a break. I'm glad your able to find a way to recharge! It's so incredibly important to take time off!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D19:12",
+      "text": "Thanks, Nate! I've learned that taking breaks and looking after myself are important for my inspiration and mental health. It's all about finding balance."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/k78gqk5c5kx71.jpg"
+      ],
+      "blip_caption": "a photo of a bookcase filled with books and a toy car",
+      "query": "bookshelf filled with books",
+      "dia_id": "D19:13",
+      "text": "Yeah, balance is key! It's so cool how taking care of ourselves helps us be more creative and happier. I'm always looking for something new to read. Got any book recommendations? I've got a lot of books to choose from."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D19:14",
+      "text": "I reccomend finding a fantasy book series to read through. Most fiction series are great reads when your trying to relax."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://thelitbitch.files.wordpress.com/2023/04/img_2043_jpg.jpg"
+      ],
+      "blip_caption": "a photo of a stack of books sitting on top of a wooden table",
+      "query": "a court of thorns and roses book sarah j maas",
+      "dia_id": "D19:15",
+      "text": "Good idea! How about this series?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D19:16",
+      "text": "That's a great one! Let me know what you think when your finished!"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/vx7o8gcqv01c1.jpg"
+      ],
+      "blip_caption": "a photo of a poster of a man falling off a cliff",
+      "query": "space opera book series",
+      "dia_id": "D19:17",
+      "text": "Sure thing! And since your recommending me a book, I thought I should do the same! I'd really recommend this series. It's got awesome battles and interesting characters."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D19:18",
+      "text": "Wow, that series looks awesome! I'll have to check it out sometime!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D19:19",
+      "text": "You really should! The action scenes are awesome and the plot rocks. Definitely one of my favorites!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D19:20",
+      "text": "Wow, sounds great! I'll definitely add it to my list; thanks for the recommendation!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D19:21",
+      "text": "Enjoy it! Have a good day."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D19:22",
+      "text": "Thanks, Nate! You too! Have a great day. Take care."
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna shares her new book on a deep and emotional story with her local writers group for feedback.",
+      "Joanna makes a dairy-free parfait to celebrate getting positive feedback from her local writers group about her book.",
+      "Joanna plans to relax and recharge by taking a long walk on the beach and reading books over the weekend."
+    ],
+    "Nate": [
+      "Nate enters and wins an international video game tournament, and is now able to make a living out of his passion.",
+      "Nate gets a new tank for his two turtles.",
+      "Nate plans to take some time off to chill with his pet dog and turtles."
+    ],
+    "date": "22 August, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate won an international tournament in gaming, turning his passion into a career.",
+        "D19:1"
+      ],
+      [
+        "Nate has pets that he refers to as his 'little dudes' and got them a new tank recently.",
+        "D19:3"
+      ],
+      [
+        "Nate values taking time off to relax and chill with his pets.",
+        "D19:9"
+      ],
+      [
+        "Nate mentioned that taking care of ourselves helps in being more creative and happier.",
+        "D19:13"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna shared her book with her writers group and received great feedback, indicating that her hard work is paying off.",
+        "D19:6"
+      ],
+      [
+        "Joanna celebrates achievements by making delicious treats.",
+        "D19:8"
+      ],
+      [
+        "Joanna emphasizes the importance of taking breaks and looking after herself for inspiration and mental health, focusing on finding balance.",
+        "D19:12"
+      ],
+      [
+        "Joanna enjoys relaxing and recharging with activities like long walks and reading.",
+        "D19:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

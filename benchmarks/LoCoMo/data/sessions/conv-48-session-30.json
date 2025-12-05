@@ -1,0 +1,172 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-30",
+  "session_number": 30,
+  "session_summary": "Deborah and Jolene had a conversation at 10:17 am on 20 September, 2023. Deborah shared her experience at a music festival, recalling memories of her mom singing lullabies. Jolene talked about her festival experience with her partner and a recent yoga retreat. They discussed the beauty of nature and finding inspiration in small things. Jolene planned to reconnect with nature soon, while Deborah reminisced about a blossoming tree near her home. They both emphasized the importance of finding positivity in tough times. The conversation ended with Jolene encouraging Deborah to continue finding beauty in everyday moments.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "dia_id": "D30:1",
+      "text": "I had a great time at the music festival with my pals! The vibes were unreal and the music was magical. It was so freeing to dance and bop around. Music brings us together and helps us show our feelings. It reminds me of my mom and her soothing voice when she'd sing lullabies to me. Lucky to have those memories!"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.pinimg.com/originals/d5/2b/de/d52bde85a9eb63ee034d5ffb7be7d3c2.jpg"
+      ],
+      "blip_caption": "a photo of a man and woman standing in a field at night",
+      "query": "music festival couple dancing",
+      "dia_id": "D30:2",
+      "text": "Wow, festivals sound so fun! Here's me and my partner at one last year - had an awesome time! It's my way of expressing myself and getting away from all the stress of everyday life. Just got back from a trip with my partner - so cool!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D30:3",
+      "text": "Wow, what a gorgeous shot! It looks so tranquil and serene. You two look very happy together. Trips create awesome memories that we can share. Where did you go on your trip and what's something you'll never forget?"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://atharvyogshala.com/assets/images/sunset-view.jpg"
+      ],
+      "blip_caption": "a photo of a sunset over a valley with a horse",
+      "query": "yoga retreat south america serene retreat center mountains sunrise",
+      "dia_id": "D30:4",
+      "text": "Thanks! We had an awesome yoga retreat. The place was so peaceful and the view during yoga was amazing - the sunrise lit up the whole sky with bright colors. It was so beautiful, it made us feel so alive and grateful."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D30:5",
+      "text": "Wow, what a view!  How did it make you feel?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D30:6",
+      "text": "It was amazing! Doing yoga with that backdrop made me feel connected to nature and myself. I felt incredibly peaceful and thankful."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D30:7",
+      "text": "Like, it's no wonder looking at such beauty can really help us refocus and connect with who we are. Have you ever experienced that?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D30:8",
+      "text": "I remember taking a hike with my partner and coming across a waterfall oasis. Everything just felt so peaceful and my worries just disappeared. It was such a refreshing experience."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D30:9",
+      "text": "Are you planning to experience it again soon?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D30:10",
+      "text": "Yeah! I'm planning to get out in nature again next month. It's going to be great reconnecting with it!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://www.lsuagcenter.com/~/media/system/8/a/0/b/8a0beeb70c88046e95c4cc398cb5242b/cherry%20flowers%20and%20beepng.png"
+      ],
+      "blip_caption": "a photo of a pink flowered tree with a blue sky in the background",
+      "query": "colorful blossom tree bloom spring",
+      "dia_id": "D30:11",
+      "text": " Enjoy it! This photo made me think of a gorgeous blossom tree from near my home. Every spring, it was magical to watch it bloom."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D30:12",
+      "text": "That sounds magical! How was it watching the tree bloom each spring?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D30:13",
+      "text": "It was like admiring nature's artwork. It filled me with awe and made me appreciate the beauty of life. Even in tough times, there's hope for growth."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/kwnuvwl3wha01.jpg"
+      ],
+      "blip_caption": "a photo of a plant growing out of a corner of a building",
+      "query": "small sprout crack pavement growth thrive",
+      "dia_id": "D30:14",
+      "text": "This photo I took is a great visual representation of that idea. It reminds me that I can keep growing through any obstacles."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D30:15",
+      "text": "It really captures resilience and strength. I love how you find inspiration in the small things."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D30:16",
+      "text": "Thanks, Deborah! Appreciating those small things is important. It helps me remember that even when times are tough, there's always something positive to hang onto."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D30:17",
+      "text": "It's a great habit. Thanks for reminding me!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D30:18",
+      "text": "Sure Deb, it's great catching up. Keep on finding those beauties!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah attends a summer music festival with friends."
+    ],
+    "Jolene": [
+      "Jolene and her partner return from their yoga retreat in Phuket, Thailand.",
+      "Jolene makes significant progress in her yoga course."
+    ],
+    "date": "20 September, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah had a great time at a music festival with her pals where she enjoyed dancing and feeling the magical music vibes.",
+        "D30:1"
+      ],
+      [
+        "Deborah reminisces about her mom singing lullabies to her, cherishing those memories.",
+        "D30:1"
+      ],
+      [
+        "Deborah mentioned a gorgeous blossom tree near her home that bloomed magically every spring.",
+        "D30:11"
+      ],
+      [
+        "Watching the tree bloom filled Deborah with awe and appreciation for the beauty of life.",
+        "D30:13"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene went to a yoga retreat with her partner where they experienced a peaceful environment with an amazing view during yoga at sunrise.",
+        "D30:4"
+      ],
+      [
+        "Jolene finds peace and connection to nature and herself while doing yoga with beautiful backdrops.",
+        "D30:6"
+      ],
+      [
+        "Jolene and her partner came across a waterfall oasis during a hike where she felt peaceful and worries disappeared.",
+        "D30:8"
+      ],
+      [
+        "Jolene plans to reconnect with nature again the following month.",
+        "D30:10"
+      ],
+      [
+        "Jolene finds inspiration in the small things and believes in continuous growth through obstacles.",
+        "D30:14"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

@@ -1,0 +1,172 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-14",
+  "session_number": 14,
+  "session_summary": "On 16th June 2023 at 9:38 pm, Jon told Gina about being mentored by a business person, leading him to pursue his dreams. Gina updated Jon on her online store progress, giving him tips on marketing. Jon followed her advice, got success with his dance videos, and sought Gina's entrepreneurship advice. Gina shared her journey as an entrepreneur and encouraged Jon to stay focused, resilient, and passionate. They exchanged motivating words, with Jon reaffirming his commitment to his dreams and Gina supporting him. Their conversation emphasized the importance of perseverance and passion in pursuing goals.",
+  "conversation_turns": [
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:1",
+      "text": "Gina, you won't believe it - I got mentored by this amazing business dude yesterday! It was really inspiring and now I'm even more pumped to chase my dreams. What's been up with you lately?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D14:2",
+      "text": "Wow, Jon! Mentors can really help. I'm working on my online store, growing the customer base. It's tough but I'm determined. How about you? Any new things happening?"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:3",
+      "text": "Been doing some promotion for my business. Crazy ride so far, but I'm hanging in there. Got any tips for marketing?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D14:4",
+      "text": "Awesome! Marketing is key. Use social media channels and work with influencers for bigger reach."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:5",
+      "text": "Thanks for the advice, Gina! I already started doing what you said about social media and posted some of my dance videos. It's creating a bit of a stir."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D14:6",
+      "text": "Nice! Glad your dance vids are doing well online. Keep it up!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:7",
+      "text": "Your help really helps. Hey, have you thought about being an entrepreneur?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D14:8",
+      "text": "Ha, yeah, Jon. I've been one 'cause I lost my job. I opened an online clothing store and it's been great! Being my own boss and doing something I love is awesome."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:9",
+      "text": "Wow, Gina! You did great taking that leap. Congrats! Got any advice for someone just starting out?"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D14:10",
+      "text": "Thanks, Jon! It was a huge jump, but totally worth it. My advice: stay passionate, focused and resilient. Challenges will come, but believe in yourself and keep going. And stay open to learning and improving."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:11",
+      "text": "Appreciate your advice. Gotta stay resilient and focused, that's key!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D14:12",
+      "text": "Yep Jon, staying resilient and focused is key for any entrepreneur. Keep going and don't give up! You got this!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:13",
+      "text": "Thanks! I won't quit, no matter what. Your encouragement really motivates me to keep going."
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://cdn1.sportngin.com/attachments/photo/7609-187142791/PINE_ISLAND_WOW_AWARD.jpg"
+      ],
+      "blip_caption": "a photo of a group of young women posing for a picture",
+      "query": "dance competition trophy stage",
+      "dia_id": "D14:14",
+      "text": "Way to go, Jon! Don't quit, remember, failures lead you closer to success. Here's a pic from when I was dancing - it was a tough road, but it was worth it!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:15",
+      "text": "Wow, that's an awesome pic! You guys look great and passionate about dancing. Reminds me how much I love performing. Thanks for sharing!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D14:16",
+      "text": "Thanks! I'm glad the pic reminded you of your love for dancing. Keep going after your dreams!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:17",
+      "text": "Sure thing, Gina! Your help means a lot to me. I'm not giving up."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D14:18",
+      "text": "Go, Jon! I'm here for you. Keep going!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D14:19",
+      "text": "Knowing you've got my back really helps keep me going. I won't let you down!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D14:20",
+      "text": "No worries, Jon! You're really inspiring with your determination and passion for dance. Keep it up!"
+    }
+  ],
+  "events": {
+    "Jon": [
+      "Jon receives mentorship from an experienced businessman on how to promote his venture."
+    ],
+    "Gina": [],
+    "date": "16 June, 2023"
+  },
+  "observations": {
+    "Jon": [
+      [
+        "Jon got mentored by a business person, which was inspiring for him.",
+        "D14:1"
+      ],
+      [
+        "Jon is working on promoting his business.",
+        "D14:3"
+      ],
+      [
+        "Jon posted dance videos on social media which created a stir.",
+        "D14:5"
+      ],
+      [
+        "Jon is passionate about dance and loves performing.",
+        "D14:15"
+      ],
+      [
+        "Jon finds Gina's encouragement motivating and it helps him keep going.",
+        "D14:13"
+      ]
+    ],
+    "Gina": [
+      [
+        "Gina is working on growing the customer base for her online store.",
+        "D14:2"
+      ],
+      [
+        "Gina lost her job, started an online clothing store, and enjoys being her own boss.",
+        "D14:8"
+      ],
+      [
+        "Gina advises Jon to stay passionate, focused, resilient, and open to learning for entrepreneurship.",
+        "D14:10"
+      ],
+      [
+        "Gina believes staying resilient and focused is key for entrepreneurs.",
+        "D14:12"
+      ],
+      [
+        "Gina shares a pic of herself dancing and mentions the tough but worth it journey.",
+        "D14:14"
+      ],
+      [
+        "Gina encourages Jon to keep going after his dreams.",
+        "D14:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}

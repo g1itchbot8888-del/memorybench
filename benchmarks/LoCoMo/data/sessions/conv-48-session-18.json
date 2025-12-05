@@ -1,0 +1,148 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-18",
+  "session_number": 18,
+  "session_summary": "Jolene shared her struggles balancing engineering, her relationship, and personal growth with Deborah at 2:58 pm on August 16, 2023. Deborah advised Jolene to find balance and prioritize self-care. Jolene mentioned using a bullet journal for time management and task tracking. Deborah found Jolene's bullet journal helpful and praised her for staying organized. Jolene shared a motivational quote from her journal with Deborah. Deborah recommended mindfulness to Jolene, mentioning her own positive experience with it. Jolene expressed interest in trying mindfulness to destress. Deborah offered support and guidance for Jolene's mindfulness journey. Jolene thanked Deborah and expressed appreciation for her help. Deborah reassured Jolene of her support and encouraged her to reach out if needed before saying goodbye.",
+  "conversation_turns": [
+    {
+      "speaker": "Jolene",
+      "blip_caption": "a photo of a book with a checklist on it",
+      "dia_id": "D18:1",
+      "text": "Been thinking a lot about my plans lately, especially after checking in with my bf. It's been up and down!  Some days it feels like I'm trying to juggle my engineering, relationship, and growing as a person, and I just don't know how to handle it all. How do you manage when it's too much?"
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a room with a moss wall and a floor cushion",
+      "dia_id": "D18:2",
+      "text": "Finding ways to restore balance is important. Taking time for yourself and recognizing your needs can make a difference. "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D18:3",
+      "text": "Thanks, Deb! I've been trying out some time management strategies recently and started using a bullet journal. It's been really helpful for tracking my tasks and staying organized."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D18:4",
+      "text": " It's great to hear that it's been helping you out!"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.pinimg.com/originals/a8/a1/ab/a8a1ab638060af2f6cb53ab7a5bb2b8c.jpg"
+      ],
+      "blip_caption": "a photo of a notebook with a quote on it",
+      "query": "bullet journal spread task list motivational quote",
+      "dia_id": "D18:5",
+      "text": " Not only does it help me stay on top of everything, but it's also so satisfying when I cross tasks off my list. Here's a pic of my newest spread with one of my favorite quotes."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D18:6",
+      "text": "I love this quote. So uplifting. Does it motivate you when you see it?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D18:7",
+      "text": "Yeah, it's like a little reminder to stick to my goals and never give up."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://www.naplesnews.com/gcdn/-mm-/06756bca6c979c173ae23c1ba44f60a8fd2bcbee/c\\u003d0-0-3024-4032/local/-/media/2017/04/25/Naples/Naples/636287249454494595-Yoga-4.jpg"
+      ],
+      "blip_caption": "a photo of a group of people doing yoga on a beach",
+      "query": "sunset beach meditation",
+      "dia_id": "D18:8",
+      "text": "Gotcha! Visual reminders like this photo can be super motivating. Keep focusing on your goals, Jolene, and don't give up! I led a meditation yoga sessionto the elderly at a local care home last week during sunset. Nature can be really helpful for finding peace. Have you tried mindfulness too? "
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D18:9",
+      "text": "Haven't tried it yet, but I'm keen to give it a shot. That sounds really peaceful. I could use some of that calm in my life right now.  I'm interested in destressing and trying mindfulness. "
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D18:10",
+      "text": "I started with workshops and books, and now mindfulness is a huge part of my life."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D18:11",
+      "text": " I'll definitely look into some of it. Can't wait to get started!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D18:12",
+      "text": "That's great, Jolene! I'm so glad you're willing to try some mindfulness. It can be really helpful. Let me know if you need any help getting started - I'm happy to assist you with your journey!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D18:13",
+      "text": " I really appreciate it."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D18:14",
+      "text": "We're in this together. Give me a shout if you need anything. Bye for now."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D18:15",
+      "text": "Thanks, I'll hit you up if I need anything. Bye for now."
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah teaches yoga during a sunset session to the elderly at a local care home."
+    ],
+    "Jolene": [
+      "Jolene plans some new goals with her partner, evaluates their success at achieving them and feels overwhelmed about juggling so much."
+    ],
+    "date": "16 August, 2023"
+  },
+  "observations": {
+    "Jolene": [
+      [
+        "Jolene is finding it challenging to juggle her engineering studies, relationship, and personal growth.",
+        "D18:1"
+      ],
+      [
+        "Jolene has started using a bullet journal as a time management strategy to track tasks and stay organized.",
+        "D18:3"
+      ],
+      [
+        "Jolene finds it satisfying to cross tasks off her list in the bullet journal.",
+        "D18:5"
+      ],
+      [
+        "Jolene finds a particular quote in her bullet journal spread motivating and uses it as a reminder to stick to her goals and never give up.",
+        "D18:7"
+      ],
+      [
+        "Jolene is interested in destressing and trying mindfulness as a way to find calm in her life.",
+        "D18:9"
+      ]
+    ],
+    "Deborah": [
+      [
+        "Deborah suggests that finding ways to restore balance, take time for oneself, and recognize personal needs is important.",
+        "D18:2"
+      ],
+      [
+        "Deborah led a meditation yoga session to the elderly at a local care home during sunset, indicating her interest in mindfulness and finding peace in nature.",
+        "D18:8"
+      ],
+      [
+        "Deborah mentions that mindfulness is a huge part of her life and offers to assist Jolene with her mindfulness journey.",
+        "D18:10"
+      ],
+      [
+        "Deborah encourages Jolene to focus on her goals, not give up, and offers help in starting mindfulness practice.",
+        "D18:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

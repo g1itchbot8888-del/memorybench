@@ -1,0 +1,251 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-25",
+  "session_number": 25,
+  "session_summary": "At 8:16 pm on 25 October 2022, Nate asked Joanna how she's been. Joanna shared her excitement about having her script shown on the big screen for the first time, expressing a mix of emotions and satisfaction. Nate congratulated her and Joanna described the surreal experience of seeing her work come to life. The two discussed characters, with Joanna explaining her inspiration and Nate praising her drawings. They also talked about Nate's turtles and their varied diet. Joanna found it fascinating and admired how Nate's turtles have different personalities. The conversation ended with Nate expressing his love for turtles and Joanna looking forward to hearing more about them in the future.",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "dia_id": "D25:1",
+      "text": "Hey Joanna, what's been up since we last chatted? How's it going?"
+    },
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a box of cards with a quote on it",
+      "dia_id": "D25:2",
+      "text": "Hey Nate! Another movie script that I contributed to was shown on the big screen last Sunday for the first time! It was such a surreal experience to see everything come together. I felt a mix of emotions, but overall, it was a satisfying moment. I've been waiting for this for a long time!"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a box with a controller inside of it",
+      "dia_id": "D25:3",
+      "text": "Congrats Joanna! How was it to finally see it on the big screen?\n\n[shares a photo holding a videogame controller]"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:4",
+      "text": "It was an amazing experience! I'll never forget seeing all of the characters and dialogue I wrote being acted out - it was such a cool feeling. Having all the hard work and determination I put into writing pay off was definitely rewarding. I know this is the third time it's happened, but its just so awesome!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D25:5",
+      "text": "That must have been amazing. What was your favorite part of it?"
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://i.redd.it/ioa9eysnr9xb1.jpg"
+      ],
+      "blip_caption": "a photo of a drawing book with a bunch of drawings on it",
+      "query": "character sketches actors notebook",
+      "dia_id": "D25:6",
+      "text": "Seeing my characters I worked so hard on come alive was my favorite part. It felt like they jumped off the page and became real - it was totally surreal."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D25:7",
+      "text": "Wow Joanna, those drawings are really incredible! What inspired you to create them?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:8",
+      "text": "Thanks, Nate! They're visuals of the characters to help bring them alive in my head so I can write better."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D25:9",
+      "text": "That's a cool way to gain insight into your characters. Where did you get your ideas for them?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:10",
+      "text": "I got ideas from everywhere: people I know, stuff I saw, even what I imagined. It's cool to see how an idea takes shape into a person with their own wants, worries, and wishes."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D25:11",
+      "text": "Wow Joanna, that's so cool! It's amazing how our imaginations can bring ideas to life. Can you tell me more about the character on the left in the photo?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:12",
+      "text": "Nope! You'll just have to watch the movie and find out for yourself!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D25:13",
+      "text": "You got it. I was already planning on watching it, but talking to you about it makes me want to watch it even more!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:14",
+      "text": "Awesome! Well enough about me, what have you been up to?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://cdn12.picryl.com/photo/2016/12/31/water-turtle-on-the-water-animal-animals-a79381-1024.jpg"
+      ],
+      "blip_caption": "a photography of two turtles sitting on a log in a pond",
+      "query": "pet turtles",
+      "dia_id": "D25:15",
+      "re-download": true,
+      "text": "I was bored today, so I just took my turtles out for a walk."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:16",
+      "text": "Sound fun! Did they have a good time?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Tortoises_in_the_Cotswold_Wildlife_Park_restaurant_-_geograph.org.uk_-_1468751.jpg"
+      ],
+      "blip_caption": "a photography of a dog laying on a rock in a zoo",
+      "query": "turtles basking heat lamp",
+      "dia_id": "D25:17",
+      "re-download": true,
+      "text": "Of course! They look tired from all the walking, so they're relaxing in the tank right now."
+    },
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a spoon full of ice cream and chocolate sauce",
+      "dia_id": "D25:18",
+      "text": "Aww, they're so cute! What do they eat?"
+    },
+    {
+      "speaker": "Nate",
+      "blip_caption": "a photo of a container of lettuce and other greens",
+      "dia_id": "D25:19",
+      "text": "They eat a combination of vegetables, fruits, and insects. They have a varied diet."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:20",
+      "text": "Wow, that's fascinating! It's interesting how they have such a varied diet, including insects. Do you have a favorite among their food choices?"
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://images.pexels.com/photos/4460504/pexels-photo-4460504.jpeg"
+      ],
+      "blip_caption": "a photography of a group of strawberries and a turtle on a table",
+      "query": "turtles eating strawberries",
+      "dia_id": "D25:21",
+      "re-download": true,
+      "text": "I love seeing them eat fruit - they get so hyped and it's so cute!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:22",
+      "text": "Wow, that's so cute! They look like they really enjoy fruit."
+    },
+    {
+      "speaker": "Nate",
+      "img_url": [
+        "https://i.redd.it/i1d1xxfxqd251.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a small turtle in their hand",
+      "query": "turtles joy holding",
+      "dia_id": "D25:23",
+      "text": "Yeah, it's adorable! Watching them enjoy their favorite snacks is so fun. I also like holding them."
+    },
+    {
+      "speaker": "Joanna",
+      "blip_caption": "a photo of a rock formation with a person standing on the side",
+      "dia_id": "D25:24",
+      "text": "Do they have different personalities, like the way dogs and cats do?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D25:25",
+      "text": "Yeah, they each do. One is more adventurous while the other is more reserved, which I find cute. Having them around brings me joy and they make great companions."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:26",
+      "text": "That's super cool! I never knew turtles could be so interesting until I met your turtles. Wow!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D25:27",
+      "text": "I've always liked turtles since I was a boy, so I know all about them!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D25:28",
+      "text": "You'll have to keep me posted on them! It's been fun chatting!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D25:29",
+      "text": "See you later Joanna!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "A movie based on a second script that Joanna contributed to is released on the big screen"
+    ],
+    "Nate": [
+      "Nate takes his two turtles out for a walk."
+    ],
+    "date": "25 October, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate took his turtles out for a walk today and they are now relaxing in the tank.",
+        "D25:15"
+      ],
+      [
+        "Nate's turtles have a varied diet including vegetables, fruits, and insects.",
+        "D25:19"
+      ],
+      [
+        "Nate loves seeing his turtles eat fruit as they get excited and it's cute.",
+        "D25:21"
+      ],
+      [
+        "Nate's turtles have different personalities: one is more adventurous while the other is more reserved.",
+        "D25:25"
+      ],
+      [
+        "Nate has always liked turtles since he was a boy and finds them interesting.",
+        "D25:27"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna recently had a movie script she contributed to shown on the big screen for the first time.",
+        "D25:2"
+      ],
+      [
+        "Joanna feels a mix of emotions but overall satisfaction after seeing her script on the big screen.",
+        "D25:2"
+      ],
+      [
+        "Joanna's characters she wrote coming alive on screen was a cool and surreal experience for her.",
+        "D25:4"
+      ],
+      [
+        "Joanna creates visuals of her characters to help bring them alive in her head for better writing.",
+        "D25:8"
+      ],
+      [
+        "Joanna gets ideas for her characters from various sources like people she knows, things she sees, and her imagination.",
+        "D25:10"
+      ],
+      [
+        "Joanna's character visuals are used as a tool to visualize their wants, worries, and wishes.",
+        "D25:10"
+      ],
+      [
+        "Joanna finds it cool to see how an idea transforms into a person with unique traits.",
+        "D25:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

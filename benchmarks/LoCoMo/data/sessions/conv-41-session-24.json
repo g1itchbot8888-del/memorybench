@@ -1,0 +1,148 @@
+{
+  "sample_id": "conv-41",
+  "session_id": "conv-41-session-24",
+  "session_number": 24,
+  "session_summary": "John and Maria discussed their recent experiences at 3:34 pm on 17 July, 2023. John shared his visit to a veteran's hospital, which inspired him to give back and appreciate what he has. Maria expressed the importance of supporting military veterans. John learned inspiring stories from a veteran named Samuel, which reaffirmed his desire to join the military. Maria commended the resilience of the veterans. They discussed fun activities they had recently enjoyed, such as picnics and games like charades and scavenger hunts. John mentioned planning similar activities for his kids based on a community event he attended. They emphasized the significance of spreading positivity, making connections, and helping others through acts of kindness. Both agreed on the importance of enjoying life's moments and making a difference.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D24:1",
+      "text": "Hey Maria, last week was really eye-opening. I visited a veteran's hospital and met some amazing people. It made me appreciate what we have and the need to give back."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D24:2",
+      "text": "Wow, John! That sounds awesome. It's so important to appreciate and support those who served in the military. Did you learn anything cool during your visit?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:3",
+      "text": "I heard some cool stories from an elderly veteran named Samuel. It was inspiring and heartbreaking, but seeing their resilience really filled me with hope. It reminded me why I wanted to join the military."
+    },
+    {
+      "speaker": "Maria",
+      "blip_caption": "a photo of a group of people sitting on a couch talking",
+      "dia_id": "D24:4",
+      "text": "It's inspiring to see the resilience of the veterans in your group. Their stories are both inspiring and heartbreaking, but they fill us with hope."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:5",
+      "text": "Thanks, Maria! It's great to be part of this organization and work with such passionate people. We're like a family - always supporting each other. Do anything fun lately?"
+    },
+    {
+      "speaker": "Maria",
+      "img_url": [
+        "https://i.redd.it/l77zoro8xt971.jpg"
+      ],
+      "blip_caption": "a photo of a picnic table with a drink, snacks and a cell phone",
+      "query": "picnic friends trees games food",
+      "dia_id": "D24:6",
+      "text": "Yeah, last weekend I had a picnic with some friends from church. We chilled under the trees, played games, and ate yummy food. It was great!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:7",
+      "text": "Looks fun! What games did you all play?"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D24:8",
+      "text": "Some fun ones like charades and a scavenger hunt. We all had a good laugh!"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNTI0NzQ3Nzg3NzQtaW1hZ2UuanBn.jpg"
+      ],
+      "blip_caption": "a photography of a young girl is writing at a table",
+      "query": "charades creativity silliness joy laughter",
+      "dia_id": "D24:9",
+      "re-download": true,
+      "text": "Sounds like a blast! It's always great to have fun and bring out everyone's creative and silly sides with games like that. Laughter and joy are really important! I'm thinking of setting up something like this for my kids soon."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D24:10",
+      "text": "This looks like fun! Where did you see that?"
+    },
+    {
+      "speaker": "John",
+      "blip_caption": "a photo of two girls in costumes holding up signs",
+      "dia_id": "D24:11",
+      "text": "There were arts and crafts at a community event last month. There were fun activities and games for families and everyone was having a blast. So I figured I'd try them out with my family and friends."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D24:12",
+      "text": "Wow, great idea! Connecting with others and discovering fun activities is always awesome. It's really cool how you adapted it for your family and friends!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:13",
+      "text": "Thanks, Maria! I couldn't agree more. Life's too short, let's have some fun!"
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D24:14",
+      "text": "Sure, John! I'm glad we both understand the importance of making connections and enjoying life's simpler moments."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:15",
+      "text": "Yep, Maria! That's why it's important to keep spreading positivity and making a difference."
+    },
+    {
+      "speaker": "Maria",
+      "dia_id": "D24:16",
+      "text": "Definitely, John! Doing good and helping others brings joy. Even little acts of kindness can have a big effect. Let's keep working to make a difference!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D24:17",
+      "text": "Yep, Maria! Those things really matter. Little acts of kindness can really brighten someone's day. Let's keep spreading the love and making a difference."
+    }
+  ],
+  "events": {
+    "John": [
+      "John visits a local veteran's hospital to learn more about service to the country and gets to hear stories of resilience.",
+      "John visits an arts and crafts based community event with his family and is inspired to create a space for it in their home."
+    ],
+    "Maria": [
+      "Maria has a picnic with her friends from the church where they share good food and play games like charades, scavenger hunt."
+    ],
+    "date": "17 July, 2023"
+  },
+  "observations": {
+    "John": [
+      [
+        "John visited a veteran's hospital and met an elderly veteran named Samuel who shared inspiring and heartbreaking stories.",
+        "D24:3"
+      ],
+      [
+        "John is part of an organization where he works with passionate people and considers them like a family.",
+        "D24:5"
+      ],
+      [
+        "John is thinking of setting up fun activities like arts and crafts for his kids based on his experience at a community event.",
+        "D24:9"
+      ]
+    ],
+    "Maria": [
+      [
+        "Maria had a picnic with friends from church where they played games like charades and a scavenger hunt.",
+        "D24:6"
+      ],
+      [
+        "Maria appreciates the importance of making connections and enjoying life's simpler moments.",
+        "D24:14"
+      ],
+      [
+        "Maria believes that doing good and helping others brings joy, and little acts of kindness can have a big effect.",
+        "D24:16"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-41",
+  "total_sessions": 32
+}

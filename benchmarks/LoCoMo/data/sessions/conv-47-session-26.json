@@ -1,0 +1,125 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-26",
+  "session_number": 26,
+  "session_summary": "John and James had a conversation at 9:20 am on 3 October, 2022. John shared his excitement about a volunteer gig at a game dev non-profit where he will be a programming mentor for game developers. James praised John's opportunity to combine his love for gaming and helping others. John expressed his enthusiasm for sharing his knowledge and motivating others. James encouraged John, and John found it fulfilling to make a difference. James mentioned getting a new video card and expressed interest in playing Cyberpunk 2077, which John recommended. The conversation ended with well wishes and plans to discuss the game later.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D26:1",
+      "text": "Hey James! Busy few weeks for sure, but I'm pushing through. Got an email about a volunteer gig at a game dev non-profit. It's something I've wanted to do for a while, and could be the perfect start to a career that combines my two loves - gaming and helping. So stoked!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D26:2",
+      "text": "Hey John, that sounds awesome! Combining your two loves - gaming and helping people - must be really exciting! So what kind of gig did they offer you?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:3",
+      "text": "They asked me to be a programming mentor for game developers. I'll be teaching coding and assisting with projects. I'm really excited to share my knowledge and motivate people who are passionate about gaming."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D26:4",
+      "text": "Wow, John! Mentoring programmers to make games sounds awesome! You must love it. How do you feel about starting this journey?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:5",
+      "text": "I'm so excited and inspired! It's a great chance to help them and boost my own skills. I love sharing what I know and seeing others reach their potential - it's so rewarding!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D26:6",
+      "text": "It's so rewarding to see how much joy you get from it. Keep going, you're doing great!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:7",
+      "text": "Thanks, James! Your support really means a lot. It's so fulfilling to use my skills to make a difference. I hope this opens more opportunities for me."
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/jkzfs9aawzw21.jpg"
+      ],
+      "blip_caption": "a photo of a computer case with a red light on it",
+      "query": "gaming setup witcher 3",
+      "dia_id": "D26:8",
+      "text": "I'm sure it will lead to great things. You got this! Oh, and I got this cool video card last week - I'm so excited to jump into it again!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:9",
+      "text": "Cool, James! What kind of games are you excited to play on it?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D26:10",
+      "text": " I'm super into RPGs, so I'm excited about getting this video card and playing some new games. Have you heard any great things about Cyberpunk 2077? Do you think this game is worthy of my attention?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:11",
+      "text": "Yeah, I played it - it's awesome! Such an immersive world and an amazing story. I'm sure you'll love it!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D26:12",
+      "text": "I'm so excited for it! The world and story sound perfect. Thanks for recommending it, John!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:13",
+      "text": "No worries, James! Hope you have a blast playing. Let me know what you think!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D26:14",
+      "text": "Cool, John. Will do! Take care, see ya!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D26:15",
+      "text": "Take care! Enjoy that new computer. Later!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James buys a new video card and is excited to play Cyberpunk 2077 with it."
+    ],
+    "John": [
+      "John is excited about receiving an email about a volunteer gig where he can mentor young game developers."
+    ],
+    "date": "3 October, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John received an email about a volunteer gig at a game dev non-profit to be a programming mentor for game developers.",
+        "D26:1"
+      ],
+      [
+        "John is excited about the opportunity to combine his love for gaming and helping by teaching coding and assisting with projects.",
+        "D26:3"
+      ],
+      [
+        "John loves sharing his knowledge, motivating others passionate about gaming, and helping them reach their potential.",
+        "D26:5"
+      ]
+    ],
+    "James": [
+      [
+        "James got a cool video card last week and is excited to use it for playing RPGs.",
+        "D26:8"
+      ],
+      [
+        "James is looking forward to playing Cyberpunk 2077 based on John's recommendation.",
+        "D26:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

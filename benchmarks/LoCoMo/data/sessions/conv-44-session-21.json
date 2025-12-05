@@ -1,0 +1,146 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-21",
+  "session_number": 21,
+  "session_summary": "4:18 pm on 4 October, 2023 - Andrew reconnects with Audrey, who shares about her fun beach trip with her dogs. Andrew reminisces about missing nature due to work. Audrey suggests getting plants for his house. Andrew thanks Audrey for her help and offers. They exchange goodbyes, wishing each other a great week.",
+  "conversation_turns": [
+    {
+      "speaker": "Andrew",
+      "dia_id": "D21:1",
+      "text": "Hi Audrey! Been a while since I hear from you. How's it been?"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D21:2",
+      "text": "Hey Andrew! It's been a wild ride! I did something fun with my pups over the weekend, took them to the beach and it was so fun to see them playing in the ocean."
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+      ],
+      "blip_caption": "a photo of a person walking on the beach with a surfboard",
+      "query": "sunset beach",
+      "dia_id": "D21:3",
+      "text": "Sounds great! Did they love being at the beach? Did they enjoy the water? Here's a pic of my last trip to the beach."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D21:4",
+      "text": "The dogs had a blast swimming at the beach! Have you been there lately?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D21:5",
+      "text": "Haven't been to the beach in a while. Miss being outdoors. It's hard to find open spaces in the city. Used to hike a lot, but it's more challenging now with my work life balance."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D21:6",
+      "text": "Oof, that's rough. I can imagine how much you miss being outdoors and surrounded by nature."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D21:7",
+      "text": "Yeah, it's been tough. Exploring nature was my escape - a way to find peace. But with my job and living here, it's been harder to get that feeling back. I feel a void in my heart."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D21:8",
+      "text": "Yeah, I get how it's like something is missing without being in the nature. But there are still some ways to appreciate it in the city, like getting some plants for your place or taking a trip to the park on the weekends."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D21:9",
+      "text": "Yeah true. I should get some more plants for my house. Can't beat being outside tho, but they can still bring some peace. I'll look into it. Thanks for the tip!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D21:10",
+      "text": "Of course! If you need help or advice, just let me know. Plants can make your home so peaceful."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D21:11",
+      "text": "Thanks! I'll definitely reach out if I need any help or advice. Thanks again for offering!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D21:12",
+      "text": "No problem at all! Glad to be of assistance."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D21:13",
+      "text": "Oh you've helped so much. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D21:14",
+      "text": "Haha i'm just doing what I can do to help."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D21:15",
+      "text": "Thank you really. Well, take care and say hi to your dogs for me."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D21:16",
+      "text": "Haha I will. Take care. Talk later!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D21:17",
+      "text": "Yup, have a great week. "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D21:18",
+      "text": "Have a great week! Bye!"
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey takes a weekend trip to the beach with her dogs."
+    ],
+    "Andrew": [],
+    "date": "4 October, 2023"
+  },
+  "observations": {
+    "Andrew": [
+      [
+        "Andrew used to hike a lot but finds it challenging now with work-life balance.",
+        "D21:5"
+      ],
+      [
+        "Andrew expresses missing the outdoors and feels a void in his heart without being in nature.",
+        "D21:7"
+      ],
+      [
+        "Andrew mentioned exploring nature as his escape and a way to find peace.",
+        "D21:7"
+      ],
+      [
+        "Andrew is considering getting more plants for his house to bring some peace.",
+        "D21:9"
+      ]
+    ],
+    "Audrey": [
+      [
+        "Audrey took her dogs to the beach over the weekend and enjoyed seeing them play in the ocean.",
+        "D21:2"
+      ],
+      [
+        "Audrey suggested ways for Andrew to appreciate nature in the city, like getting plants for his place or visiting the park on weekends.",
+        "D21:8"
+      ],
+      [
+        "Audrey offered help and advice to Andrew regarding getting plants for his house.",
+        "D21:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

@@ -1,0 +1,290 @@
+{
+  "sample_id": "conv-48",
+  "session_id": "conv-48-session-29",
+  "session_number": 29,
+  "session_summary": "Deborah excitedly shared with Jolene about running a free gardening class for the community, while Jolene talked about a scuba diving lesson they had recently enjoyed. They discussed special memories, including Deborah's time spent remembering her mom and the special meals she used to cook. Jolene mentioned baking cookies with someone close and their favorite cookie to make. They also talked about books and finding cozy spaces for relaxation. The conversation ended with plans to try surfing together next month, showing their excitement for the upcoming adventure.",
+  "conversation_turns": [
+    {
+      "speaker": "Deborah",
+      "dia_id": "D29:1",
+      "text": "Hey Jolene, I'm so excited to tell you! Yesterday, me and my neighbor ran a free gardening class for the community, it was awesome! People of any age joined in and it was such a great thing to see."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:2",
+      "text": "Wow, Deborah, that's awesome! Keep up the great work, and here's hoping for more events like this in the future!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D29:3",
+      "text": " Gardening is really amazing. It brings us together in such a cool way. It was awesome to share my love of plants and help people take care of the world. So, what about you? Anything new happened lately?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:4",
+      "text": "We tried a scuba diving lesson last Friday and had an awesome time! We found a cool dive spot we can explore together. Trying new things opens up a world of adventure - maybe one day I'll be a certified diver. Anything fun going on with you?"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D29:5",
+      "text": "That sounds amazing, Jolene! I've been interested in underwater life, but I haven't had the chance to try scuba diving yet. Recently, I've been spending time remembering my mom. Last Sunday, I visited her old house and sat on a bench. It was a comforting experience, as if I could feel her presence guide me and remind me of her love."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:6",
+      "text": "Visiting your mom's old home sounds like it was really special. Is there something special you remember about her?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://notjustsundaydinner.com/wp-content/uploads/2022/09/peach-cobbler-2.jpg"
+      ],
+      "blip_caption": "a photo of a bowl of food with a spoon in it",
+      "query": "peach cobbler delicious warm recipe",
+      "dia_id": "D29:7",
+      "text": "Thanks, Jolene! It was really special. My mom had a big passion for cooking. She would make amazing meals for us, each one full of love and warmth. I can still remember the smell of her special dish, it would fill the house and bring us all together."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:8",
+      "text": "Mmm, that looks delicious, Deb! So sweet how cooking with your mom brought everyone together. What's your best memory of cooking with her?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://ronnascakeblog.files.wordpress.com/2022/09/pineapple.jpg"
+      ],
+      "blip_caption": "a photo of a pineapple cake with a smiley face on it",
+      "query": "pineapple birthday cake 1 candle",
+      "dia_id": "D29:9",
+      "text": "I loved it when she would bake pineapple birthday cakes for me when I was a kid. It always made me feel so special."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:10",
+      "text": "No wonder it made you feel special. "
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a mixer with a whisk in it",
+      "dia_id": "D29:11",
+      "text": "Have you ever had something like that with someone close?"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://i.redd.it/t45dmigsmtu61.jpg"
+      ],
+      "blip_caption": "a photo of four chocolate chip cookies on a baking sheet",
+      "query": "homemade cookies tray",
+      "dia_id": "D29:12",
+      "text": "I used to bake cookies with someone close to me."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D29:13",
+      "text": "What's your favorite cookie to make?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:14",
+      "text": "The warm, gooey chocolate and soft, buttery cookie are a match made in heaven."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D29:15",
+      "text": "I really want to eat this now."
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "https://citysupplyfayetteville.com/cdn/shop/products/IMG_6684.jpg"
+      ],
+      "blip_caption": "a photo of a person holding a book open on a bed",
+      "query": "memory book pictures notes",
+      "dia_id": "D29:16",
+      "text": "Well look what I have here!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D29:17",
+      "text": " Is there anything special about it or the photo?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:18",
+      "text": "It takes me to another world when I read it!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://cdn.apartmenttherapy.info/image/upload/v1617734021/at/news-culture/2021-04/lupita-aquino-nook-2.jpg"
+      ],
+      "blip_caption": "a photo of a living room with a couch and a book shelf",
+      "query": "cozy reading nook bookshelf books",
+      "dia_id": "D29:19",
+      "text": "Did I show you that I have a big bookshelf too?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:20",
+      "text": "I think not, I really like it!"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://cdn.apartmenttherapy.info/image/upload/v1617640374/at/house%20tours/2021-04/Amara/21.jpg"
+      ],
+      "blip_caption": "a photo of a bathroom with a black and white wall and a wooden stool",
+      "query": "reading nook cozy inviting book bookmark heart shaped pendant",
+      "dia_id": "D29:21",
+      "text": "Having a space like this is important for escaping reality and relaxing with a book. Do you have any books that really moved you?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:22",
+      "text": "My bathroom has an aesthetic vibe. Once I read a self-discovery book there and it really resonated with me."
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+      ],
+      "blip_caption": "a photo of a person walking on the beach with a surfboard",
+      "query": "sunset beach",
+      "dia_id": "D29:23",
+      "text": "Wow! A special book that speaks to you and helps with self-discovery? That's awesome. Plus, having a cozy nook to chill? That's my best one!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:24",
+      "text": "Sounds nice, Deb! A cozy nook is a must! The beach is a great place for finding peace and relaxation. Have you ever tried surfing?"
+    },
+    {
+      "speaker": "Deborah",
+      "img_url": [
+        "http://badfishsup.com/cdn/shop/articles/IMG_7804.jpg"
+      ],
+      "blip_caption": "a photo of a man riding a surfboard on a wave in the ocean",
+      "query": "surfer riding wave surfing",
+      "dia_id": "D29:25",
+      "text": "Certainly! Here's the confirmation."
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:26",
+      "text": "How cool! But I never decided to try it."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D29:27",
+      "text": "It's okay, maybe we can try it together sometime!"
+    },
+    {
+      "speaker": "Jolene",
+      "img_url": [
+        "http://petekozametalart.com/cdn/shop/products/image_2244493c-7118-4af4-9d82-6f8b0e99d9fa.jpg"
+      ],
+      "blip_caption": "a photo of a surfboard painted with a palm tree on it",
+      "query": "surfboard palm tree",
+      "dia_id": "D29:28",
+      "text": "I already know what fate awaits me if I do this!"
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D29:29",
+      "text": "Have you ever been interested in this or do you know nothing about it?"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:30",
+      "text": "Just started learning, but haven't gone yet. Want to come with me sometime?"
+    },
+    {
+      "speaker": "Deborah",
+      "blip_caption": "a photo of a sunset over the ocean with a boat in the distance",
+      "dia_id": "D29:31",
+      "text": "It'll be an adventure! Let's make it happen soon!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:32",
+      "text": "So glad, all that remains is to agree and choose the right time for both of us."
+    },
+    {
+      "speaker": "Deborah",
+      "dia_id": "D29:33",
+      "text": " Can't wait. What day works for you? I'm really excited!"
+    },
+    {
+      "speaker": "Jolene",
+      "dia_id": "D29:34",
+      "text": "Let's plan for next month - I'll check my schedule and let you know. Can't wait!"
+    }
+  ],
+  "events": {
+    "Deborah": [
+      "Deborah and Anna offer a free class on community gardening in their neighborhood."
+    ],
+    "Jolene": [
+      "Jolene and her partner explore a new dive spot in Phuket after taking a scuba diving lesson."
+    ],
+    "date": "17 September, 2023"
+  },
+  "observations": {
+    "Deborah": [
+      [
+        "Deborah ran a free gardening class for the community with her neighbor.",
+        "D29:1"
+      ],
+      [
+        "Deborah spent time remembering her mom by visiting her old house and sitting on a bench last Sunday.",
+        "D29:5"
+      ],
+      [
+        "Deborah's mom had a big passion for cooking, making amazing meals filled with love and warmth.",
+        "D29:7"
+      ],
+      [
+        "Deborah loved when her mom would bake pineapple birthday cakes for her when she was a kid.",
+        "D29:9"
+      ],
+      [
+        "Deborah showed Jolene a big bookshelf she has.",
+        "D29:19"
+      ]
+    ],
+    "Jolene": [
+      [
+        "Jolene tried a scuba diving lesson last Friday and enjoyed it, hoping to become a certified diver one day.",
+        "D29:4"
+      ],
+      [
+        "Jolene used to bake cookies with someone close to her.",
+        "D29:12"
+      ],
+      [
+        "Jolene mentioned reading a self-discovery book in her bathroom once that really resonated with her.",
+        "D29:22"
+      ],
+      [
+        "Jolene likes the warm, gooey chocolate and soft, buttery cookie.",
+        "D29:14"
+      ],
+      [
+        "Jolene mentioned having an aesthetic vibe in her bathroom and finding peace and relaxation at the beach.",
+        "D29:24"
+      ],
+      [
+        "Jolene just started learning about surfing but hasn't gone yet.",
+        "D29:30"
+      ],
+      [
+        "Jolene agreed to plan a surfing adventure with Deborah for next month, pending schedule confirmation.",
+        "D29:34"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-48",
+  "total_sessions": 30
+}

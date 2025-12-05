@@ -1,0 +1,111 @@
+{
+  "sample_id": "conv-42",
+  "session_id": "conv-42-session-6",
+  "session_number": 6,
+  "session_summary": "Nate and Joanna caught up at 1:43 pm on 24 March, 2022. Nate congratulated Joanna on her writing audition, which she found exciting but nerve-wracking. Nate encouraged Joanna and shared his intense experience in a video game tournament. Joanna advised Nate on pursuing writing by recommending reading widely and seeking feedback. Nate thanked Joanna for her advice and support, expressing determination to work hard. They both wished each other luck in their endeavors and said goodbye, vowing to keep striving for their dreams.",
+  "conversation_turns": [
+    {
+      "speaker": "Nate",
+      "dia_id": "D6:1",
+      "text": "Hey Joanna! Long time no talk, how's it going? Crazy stuff's been happening since we last chatted."
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D6:2",
+      "text": "Hey Nate! Been quite a ride - in a good way - had an audition yesterday for a writing gig."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D6:3",
+      "text": "Congrats! How did it go? Are you excited?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D6:4",
+      "text": "Thanks, Nate! It went alright. Mixed emotions - definitely excited but also a bit anxious. Keep those fingers crossed!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D6:5",
+      "text": "Yeah, I get it. Mixed emotions are rough, but I have faith in you! Keep me posted - you got this!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D6:6",
+      "text": "Thanks, Nate! Your support means a lot. I'll make sure to keep you updated. Anything new on your end?"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D6:7",
+      "text": "Yeah actually - I'm currently participating in the video game tournament again and it's INTENSE! There's so much adrenaline flowing."
+    },
+    {
+      "speaker": "Joanna",
+      "img_url": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW88nSAhvDHq-ZyBSZlQ__czsDBW4hEFEvzdgkz06j4ByTnkAamu38jTEXQmzjkEgmS2VYyUYt4e0kz5cfhH7pChnTfAR2OKl9HZj7T91RxPZTV5qxTpi3jjpbFY1wD9Myi7633MAHlwiCL1LtCXt8iiQLed4Kzu2FY7thoxVxVBW8faEpQ-qyEFLwBTA/s4032/Photo%2023.07.23,%2014%2034%2052.jpg"
+      ],
+      "blip_caption": "a photo of a book shelf filled with books and magazines",
+      "query": "bookshelf writing books inspiration",
+      "dia_id": "D6:8",
+      "text": "Best of luck in the tournament! It sounds like it would be difficult to go through so many days of intense gaming! This is my go-to place for writing inspiration. It helps me stay sharp and motivated."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D6:9",
+      "text": "Wow, that's a lot of books. Do you have any advice for someone like me who wants to pursue writing?"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D6:10",
+      "text": "Definitely! Read lots and try out different genres. Build a solid understanding of literature. Don't be afraid to write and share, even if it's just with friends. Practicing and gathering feedback will make you better. Have faith in yourself and continue following your writing dreams - it's tough but worth it."
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D6:11",
+      "text": "Thanks, Joanna. Really appreciate your help and kind words. I'm going to keep working hard on it and see what happens. Good luck with your project, I'm sure it will turn out great!"
+    },
+    {
+      "speaker": "Joanna",
+      "dia_id": "D6:12",
+      "text": "Thanks Nate! Appreciate your kind words and support. Let's keep going for our dreams and work hard. Catch you later!"
+    },
+    {
+      "speaker": "Nate",
+      "dia_id": "D6:13",
+      "text": "Bye Joanna! Take care!"
+    }
+  ],
+  "events": {
+    "Joanna": [
+      "Joanna has an audition for a writing opportunity and it goes alright."
+    ],
+    "Nate": [
+      "Nate participates in another Counter Strike tournament."
+    ],
+    "date": "24 March, 2022"
+  },
+  "observations": {
+    "Nate": [
+      [
+        "Nate is participating in a video game tournament that he finds intense.",
+        "D6:7"
+      ]
+    ],
+    "Joanna": [
+      [
+        "Joanna auditioned for a writing gig and had mixed emotions about it - excited but also anxious.",
+        "D6:2"
+      ],
+      [
+        "Joanna has a lot of books that she uses for writing inspiration.",
+        "D6:8"
+      ],
+      [
+        "Joanna's advice for someone pursuing writing includes reading lots, trying different genres, building a solid understanding of literature, and not being afraid to write and share.",
+        "D6:10"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-42",
+  "total_sessions": 29
+}

@@ -1,0 +1,184 @@
+{
+  "sample_id": "conv-44",
+  "session_id": "conv-44-session-28",
+  "session_number": 28,
+  "session_summary": "Audrey and Andrew caught up at 9:02 am on 22 November, 2023. Audrey shared about taking her dogs to the pet salon and showing them off all groomed up. Andrew admired the pictures and mentioned adopting a new dog named Scout. They discussed taking Scout, Toby, and Buddy to a park together for a fun outing. Audrey advised on introducing Scout to the other dogs slowly and creating a safe space for the new pup. Andrew was grateful for the advice and expressed how dogs bring joy and friendship. Audrey also shared how her dogs are doing well and bring her happiness. Both concluded that having dogs as family members is truly special.",
+  "conversation_turns": [
+    {
+      "speaker": "Audrey",
+      "dia_id": "D28:1",
+      "text": "Hey Andrew! Long time no talk! Last Friday I took my fur kids to the pet salon - they were so psyched and their tails were wagging like crazy! It took a while for them to calm down, but all cut up they looked so cute! "
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D28:2",
+      "text": "Hey Audrey! Nice to hear from you. Sounds adorable! Do you have any pictures of them all groomed up?"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://s0.geograph.org.uk/geophotos/06/18/45/6184556_bc98b08f.jpg"
+      ],
+      "blip_caption": "a photography of a dog is standing on a table with a leash",
+      "query": "four dogs groomed coats wagging tails cozy rug",
+      "dia_id": "D28:3",
+      "re-download": true,
+      "text": "Here's a pic of them, looking all groomed. Look at those shiny coats! To top it off, they were really good at the salon - I always worry about them in new places."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D28:4",
+      "text": "Wow, they look great! Love seeing them happy and calm in new places."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D28:5",
+      "text": "Thanks! It means a lot to see them happy and settled in new places. I guess I'm doing a good job as a doggy mom then, haha! Have you taken your furry friends to the groomers yet?"
+    },
+    {
+      "speaker": "Andrew",
+      "img_url": [
+        "https://i.redd.it/h1m9pir3y9jb1.jpg"
+      ],
+      "blip_caption": "a photo of a woman feeding a dog hay in a barn",
+      "query": "puppy scout new bundle of joy",
+      "dia_id": "D28:6",
+      "text": "No, we haven't got the chance to take them to the groomer yet. But will do that soon! So guess what, I can't help myself but to adpot another dog the other day. Here's a photo of the doggo!"
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D28:7",
+      "text": "That's great news! What's the pups name?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D28:8",
+      "text": "It took us a while to decide, but we ended up going with 'Scout' for our pup - it seemed perfect for their adventurous spirit."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D28:9",
+      "text": "That's a great name for your pup! Fits their adventurous spirit. What's Scout's first adventure gonna be?"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D28:10",
+      "text": "Thanks! We're gonna take Scout, Toby, and Buddy to a nearby park. It's not big, but we can all have fun and get some fresh air!"
+    },
+    {
+      "speaker": "Audrey",
+      "img_url": [
+        "https://live.staticflickr.com/8257/8915975033_e7129952e5_b.jpg"
+      ],
+      "blip_caption": "a photography of a dog running with a tennis ball in its mouth",
+      "query": "dogs playing fetch park",
+      "dia_id": "D28:11",
+      "re-download": true,
+      "text": "Sounds like a great start for Scout! Start small, and gradually give them more exposure. They'll have a great time, just make sure to keep them leashed."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D28:12",
+      "text": "Yeah, safety first! For now, we're keeping the new addition on a leash while they get used to being outside. That pic you of your dog at the park is so cute. So we got some essentials for their comfort and entertainment, like a bed, toys, and some puppy pads just in case. It's like their own little safe haven."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D28:13",
+      "text": "Wow, that's so great that you two are creating a safe and fun space for Scout. It's really important they have a place that makes them feel secure. Slowly introduce Scout to Toby and Buddy, it takes time for the pups to get used to each other too! Scout is so lucky to have you and your girlfriend! "
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D28:14",
+      "text": "Thanks! We feel so lucky to have Scout. It's been amazing having so many furry friends! How are your dogs doing now? "
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D28:15",
+      "text": "They're doing great! Exploring, meeting new people...they feel so loved and safe. I'm really glad they're part of my life!"
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D28:16",
+      "text": "That's great to hear! Dogs truly bring so much joy and friendship. I'm glad they're happy with you."
+    },
+    {
+      "speaker": "Audrey",
+      "dia_id": "D28:17",
+      "text": "Thanks! They're really awesome and bring so much joy and friendship. I'm so grateful to have them in my life as a part of my family."
+    },
+    {
+      "speaker": "Andrew",
+      "dia_id": "D28:18",
+      "text": "Yeah, it's great! Dogs are always there for us. We should count ourselves lucky to have such amazing furry friends as family member."
+    }
+  ],
+  "events": {
+    "Audrey": [
+      "Audrey gets her four dogs groomed together at a pet salon."
+    ],
+    "Andrew": [
+      "Andrew and his girlfriend adopt a third pup and named it Scout, in addition to their pups Toby and Buddy."
+    ],
+    "date": "22 November, 2023"
+  },
+  "observations": {
+    "Audrey": [
+      [
+        "Audrey has multiple dogs that she refers to as her 'fur kids'.",
+        "D28:1"
+      ],
+      [
+        "Audrey took her dogs to the pet salon last Friday and was happy to see them looking cute and groomed.",
+        "D28:1"
+      ],
+      [
+        "Audrey worries about her dogs when they are in new places but was relieved to see them well-behaved at the salon.",
+        "D28:3"
+      ],
+      [
+        "Audrey values seeing her dogs happy and settled in new environments, indicating her care as a dog owner.",
+        "D28:5"
+      ],
+      [
+        "Audrey appreciates creating a safe and fun space for her dogs, ensuring they feel secure.",
+        "D28:13"
+      ],
+      [
+        "Audrey's dogs feel loved and safe under her care.",
+        "D28:15"
+      ],
+      [
+        "Audrey considers her dogs part of her family and expresses gratitude for having them in her life.",
+        "D28:17"
+      ]
+    ],
+    "Andrew": [
+      [
+        "Andrew has at least 3 dogs named Scout, Toby, and Buddy.",
+        "D28:10"
+      ],
+      [
+        "Andrew adopted a new dog named Scout because of their adventurous spirit.",
+        "D28:6"
+      ],
+      [
+        "Andrew values safety and comfort for his dogs, providing them with essentials like a bed, toys, and puppy pads.",
+        "D28:12"
+      ],
+      [
+        "Andrew plans to introduce the new dog, Scout, to his other dogs slowly to ensure they get along.",
+        "D28:13"
+      ],
+      [
+        "Andrew expresses gratitude for having Scout and appreciates having multiple furry friends.",
+        "D28:14"
+      ],
+      [
+        "Andrew considers his dogs as family members and acknowledges the joy and friendship they bring.",
+        "D28:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-44",
+  "total_sessions": 28
+}

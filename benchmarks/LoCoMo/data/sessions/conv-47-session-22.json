@@ -1,0 +1,163 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-22",
+  "session_number": 22,
+  "session_summary": "Summary:\nAt 6:53 pm on 1 September 2022, James excitedly shared with John that he had completed his Unity strategy game, inspired by games like Civilization and Total War. John praised James's hard work and asked for more details about the game. James shared a screenshot and discussed the challenges he faced during development. John admired James's perseverance and mentioned teaching his siblings coding, who were already creating their own programs. The two friends expressed pride in each other, with James offering support to John during his difficult times. Their conversation highlighted the importance of friendship, support, learning, and collaboration.",
+  "conversation_turns": [
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Legend_of_Grimrock_screenshot_12.jpg"
+      ],
+      "blip_caption": "a photography of a screenshot of a stone building with a giant creature",
+      "query": "unity strategy game",
+      "dia_id": "D22:1",
+      "re-download": true,
+      "text": "Hey John! Been a while, but hope you're doing well. My Unity strategy game is finally finished—it took loads of time and effort, but I'm really proud. Your support and encouragement made a real difference. Thanks for believing in me!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:2",
+      "text": "Hey James! Congrats on finishing your game! It looks amazing and I'm so proud of you for all the hard work you put in. Can I see more of it? Got any other screenshots to show me?"
+    },
+    {
+      "speaker": "James",
+      "img_url": [
+        "https://i.redd.it/w5vwdrledbb41.jpg"
+      ],
+      "blip_caption": "a photo of a video game screen showing a person on a horse",
+      "query": "screenshot game battle scene",
+      "dia_id": "D22:3",
+      "text": "I appreciate your support. Check out this screenshot from it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:4",
+      "text": "This game looks great! What inspired you to create it?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D22:5",
+      "text": "I've always loved playing strategy games like Civilization and Total War, so I decided to challenge myself and create one of my own."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:6",
+      "text": "That's awesome! I love those games too. It must have been quite an experience making your own. Did you face any difficulties during development?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D22:7",
+      "text": "It was a bit challenging to get everything right, balancing mechanics and ensuring fairness. But with some trial and error, I managed to get it to where I wanted it."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:8",
+      "text": "Wow, that must have been a challenge, especially since you had to make sure the game was enjoyable and balanced. Congratulations on completing it! What were some key takeaways from the experience?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D22:9",
+      "text": "Thanks, John! It was definitely a learning experience. Perseverance and patience are key, and I'm proud of what I created after sticking with it. Also, feedback and collaboration are essential, and the help from others really made the game better. It was great!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:10",
+      "text": "Awesome that you learned those lessons! Collaboration and feedback make a huge impact on any project. I've been teaching my siblings coding. It's been a fulfilling experience and they're already creating their own programs - amazing!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D22:11",
+      "text": "Wow, John! Cool seeing others learn with your help. What kind of programs are they making?"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:12",
+      "text": "They're starting small, making basic games and stories. It's inspiring how fast they learn and the good time they're having."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D22:13",
+      "text": "Wow! It's inspiring how fast they learn and the good time they're having. I bet they'll be creating their own complex projects soon!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:14",
+      "text": "I'm excited to see how far they can go! With their passion for video games like me, hopefully they can use those coding skills to make something cool. I'm so proud of them, can't wait to see what they come up with!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D22:15",
+      "text": "I'm proud of them too! Seeing the next generation pick up coding and making their own games is awesome. Can't wait to see what they create!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:16",
+      "text": "Thanks, James, for the support. I really appreciate it."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D22:17",
+      "text": "Yeah, you're the best! I'm here for you, no doubt."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D22:18",
+      "text": " Your friendship really means a lot. I'm going through some difficult times now and it's really good to know I've got someone like you."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D22:19",
+      "text": "Just know I'm here if you need someone to talk or vent to. It might help alleviate some of the difficult times you're going through."
+    }
+  ],
+  "events": {
+    "James": [
+      "James finishes building a Unity-based strategy game, inspired from his experiences with Civilization and Total War games."
+    ],
+    "John": [
+      "John teaches coding to his younger siblings who also joined him in the HTML/CSS programming course."
+    ],
+    "date": "1 September, 2022"
+  },
+  "observations": {
+    "James": [
+      [
+        "James finished a Unity strategy game that he put a lot of time and effort into.",
+        "D22:1"
+      ],
+      [
+        "James loves playing strategy games like Civilization and Total War, which inspired him to create his own game.",
+        "D22:5"
+      ],
+      [
+        "James found the process of creating the game challenging, especially balancing mechanics and fairness.",
+        "D22:7"
+      ],
+      [
+        "James learned that perseverance, patience, feedback, and collaboration are essential in game development.",
+        "D22:9"
+      ]
+    ],
+    "John": [
+      [
+        "John has been teaching his siblings coding, and they are creating their own programs.",
+        "D22:10"
+      ],
+      [
+        "John's siblings are starting with basic games and stories in their coding journey.",
+        "D22:12"
+      ],
+      [
+        "John is proud of his siblings for learning coding and is excited to see what they create with their skills.",
+        "D22:14"
+      ],
+      [
+        "John is going through some difficult times and appreciates the friendship and support from James.",
+        "D22:18"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

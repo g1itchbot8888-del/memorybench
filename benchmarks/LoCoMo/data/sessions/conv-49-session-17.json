@@ -1,0 +1,237 @@
+{
+  "sample_id": "conv-49",
+  "session_id": "conv-49-session-17",
+  "session_number": 17,
+  "session_summary": "Sam and Evan spoke at 7:30 pm on 21 November 2023. Evan mentioned a recent health scare that turned out to be a misunderstanding and stressed the importance of health. Sam shared struggles with discomfort and dietary changes. They discussed the value of small steps and appreciation in life. Evan highlighted the importance of supportive friends during tough times. They talked about fitness goals, shared about a peaceful island where Evan grew up, and ended the conversation by offering support to each other.",
+  "conversation_turns": [
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:1",
+      "text": "Hey Ev! Long time no chat. How's it going? Hope all is well."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D17:2",
+      "text": "Hey Sam, good to hear from you! Life's been a wild ride lately. Last week, I had a health scare and had to go to the hospital. They found something suspicious during a check-up, which freaked me out. Thankfully, it was all a misunderstanding, but it made me realize how important it is to keep an eye on my health. How've you been?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:3",
+      "text": "Woah, Evan, that must've been scary! Phew, it was just a misunderstanding. A health scare can really make you re-evaluate what's important. As for me, I've been dealing with some discomfort and it's been limiting my movement. I've been trying to make changes diet-wise, but it can be hard."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D17:4",
+      "text": "That sucks, Sam. It's tough when our health holds us back. I believe in you – just taking small steps can help. Have you tried any new hobbies recently to take your mind off it?"
+    },
+    {
+      "speaker": "Sam",
+      "img_url": [
+        "https://www.goodwillfinds.com/on/demandware.static/-/Sites-goodwill-master/default/dwa2341b30/images/large/lhyOBm1CPSKy54szJay7vQj/2023/November/07/image_(170).jpg"
+      ],
+      "blip_caption": "a photo of a book with a picture of a man on it",
+      "query": "the godfather dvd box set",
+      "dia_id": "D17:5",
+      "text": "Thanks, Evan. I haven't tried much new lately, but I did get this yesterday. It's been my go-to 'feel good' flick. So, you said you had a health scare - how're you now?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D17:6",
+      "text": "That movie sounds interesting! I'm doing well now. Doctors said everything is fine, but it taught me the value of life. Just trying to enjoy the moment."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:7",
+      "text": "That's awesome, Evan! Let's make it a habit to appreciate something each day. It really helps us enjoy life more. What do you think?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D17:8",
+      "text": "Sounds good, Sam! Let's take the time to appreciate the little things in life."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:9",
+      "text": "Thanks for always being there, Evan. It means a lot."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D17:10",
+      "text": "Sure, Sam. I'm here for you. We gotta stick together, especially now."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:11",
+      "text": "Yeah, Evan. Life can be tough sometimes, but having supportive people like you makes it way easier."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://images.pexels.com/photos/7149181/pexels-photo-7149181.jpeg"
+      ],
+      "blip_caption": "a photography of a group of people sitting around a fire pit",
+      "query": "group of friends laughing",
+      "dia_id": "D17:12",
+      "re-download": true,
+      "text": "Yeah, Sam. Tough times are way easier with friends we can rely on. We've got each other!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:13",
+      "text": "Looks like you're having a blast! I was wondering, what do you do to stay fit and healthy?"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D17:14",
+      "text": "That was wild! I stay in shape by hitting the gym and taking my car out for a spin. Gotta keep it up! How are you doing on your fitness goals, Sam?"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:15",
+      "text": "Fitness goals have been hard to reach, but hey, that's life!"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+      ],
+      "blip_caption": "a photo of a small island with a lone boat in the water",
+      "query": "sunrise calm lake",
+      "dia_id": "D17:16",
+      "text": "Yeah Sam, it's true. Progress takes time, so keep pushing."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:17",
+      "text": "Where is that? It looks gorgeous!"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://myrnafolkert.files.wordpress.com/2021/05/boat-pic-9.jpg"
+      ],
+      "blip_caption": "a photo of a sun shining through the clouds over a body of water",
+      "query": "small island lake huron lone boat water",
+      "dia_id": "D17:18",
+      "text": "This little island is where I grew up and it's my happy place."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:19",
+      "text": "Wow, that spot looks gorgeous. Growing up there must have been so peaceful and stunning."
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D17:20",
+      "text": "Yeah, it was. That place shaped me and will always hold a special place in my heart."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:21",
+      "text": "Yeah, it can be soul-calming."
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://c1.wallpaperflare.com/preview/608/545/293/sunset-kapiti-coast-new-zealand-beautiful-serene.jpg"
+      ],
+      "blip_caption": "a photography of a person walking on a beach at sunset",
+      "query": "serene sunset island",
+      "dia_id": "D17:22",
+      "re-download": true,
+      "text": "Yeah, it really is. So serene and calming."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:23",
+      "text": "It's heavenly!"
+    },
+    {
+      "speaker": "Evan",
+      "img_url": [
+        "https://images.pexels.com/photos/9214105/pexels-photo-9214105.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-dastan-khdir-9214105.jpg"
+      ],
+      "blip_caption": "a photo of a sunset over a body of water",
+      "query": "calm lake dusk",
+      "dia_id": "D17:24",
+      "text": "Yeah, it's like a little slice of paradise. I always feel so peaceful and serene when I'm there."
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:25",
+      "text": "Wow, it really seems like a peaceful retreat. Thanks for showing me!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D17:26",
+      "text": "No prob, always good to chat about those tranquil times. Take it easy!"
+    },
+    {
+      "speaker": "Sam",
+      "dia_id": "D17:27",
+      "text": "Take care, buddy. Hang in there!"
+    },
+    {
+      "speaker": "Evan",
+      "dia_id": "D17:28",
+      "text": "Thanks, Sam. If you need to talk, I'm here for you too."
+    }
+  ],
+  "events": {
+    "Evan": [
+      "Evan receives a false health scare during a health check-up at the hospital."
+    ],
+    "Sam": [
+      "Sam purchases a DVD box set of his goto feel-good flick, The Godfather to help take his mind off his health issues."
+    ],
+    "date": "21 November, 2023"
+  },
+  "observations": {
+    "Sam": [
+      [
+        "Sam has been dealing with discomfort that has been limiting their movement and has been trying to make changes in their diet.",
+        "D17:3"
+      ],
+      [
+        "Sam finds movies to be a 'feel good' escape.",
+        "D17:5"
+      ],
+      [
+        "Sam acknowledges the importance of appreciating something each day to enjoy life more.",
+        "D17:7"
+      ],
+      [
+        "Sam finds life easier with supportive people around.",
+        "D17:11"
+      ],
+      [
+        "Sam struggles to reach their fitness goals but accepts it as part of life.",
+        "D17:15"
+      ]
+    ],
+    "Evan": [
+      [
+        "Evan had a health scare recently, which turned out to be a misunderstanding, leading them to realize the importance of monitoring their health.",
+        "D17:2"
+      ],
+      [
+        "Evan values enjoying the moment and appreciating the little things in life.",
+        "D17:6"
+      ],
+      [
+        "Evan stays in shape by going to the gym and taking their car out for a spin.",
+        "D17:14"
+      ],
+      [
+        "Evan grew up on a little island that serves as their happy place, shaping them and holding a special place in their heart.",
+        "D17:18"
+      ],
+      [
+        "Evan finds their childhood island home to be soul-calming, serene, heavenly, and like a little slice of paradise.",
+        "D17:20"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-49",
+  "total_sessions": 25
+}

@@ -1,0 +1,136 @@
+{
+  "sample_id": "conv-47",
+  "session_id": "conv-47-session-29",
+  "session_number": 29,
+  "session_summary": "John called James at 12:37 am on 31 October, 2022, sharing news about organizing a gaming tournament with friends, raising funds for a children's hospital by playing Fortnite, Overwatch, and Apex Legends. James praised John's efforts, mentioning how gaming unites people for a good cause. John shared a tournament photo, and James revealed plans to move in with Samantha near McGee's bar. They discussed their love for the bar and James sought John's support. They ended the conversation wishing each other well and promising to stay in touch.",
+  "conversation_turns": [
+    {
+      "speaker": "John",
+      "dia_id": "D29:1",
+      "text": "Hey James! Hope you're doing great. I've some amazing news - I held a gaming tourney with my buddies last night. We played Fortnite and a few other games. We raised a decent amount for a children's hospital. Combining gaming and a good cause felt awesome!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D29:2",
+      "text": "Hey John! Awesome job organizing a gaming tournament for a children's hospital! Combining gaming and a good cause - that's really cool! Tell me more about who helped out and what other games were played."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:3",
+      "text": "Thanks! We all pulled together for a great cause. My gaming pals and I also played Overwatch and Apex Legends. Everyone had a blast raising money for the kids' hospital. The atmosphere was awesome and everyone was so competitive. In the end, we raised a good amount. Feels good to use our love of gaming for good!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D29:4",
+      "text": "Wow, that sounds like a blast! It's great how gaming can bring people together like that. You made a huge difference in the kids' lives! Do you have any photos from the tournament?"
+    },
+    {
+      "speaker": "John",
+      "img_url": [
+        "https://i.redd.it/157m14rlacw51.jpg"
+      ],
+      "blip_caption": "a photo of a computer screen with a game menu on it",
+      "query": "gaming tournament intense match engaged thrilling experience good cause",
+      "dia_id": "D29:5",
+      "text": "I got a great shot at the tournament. Check it out! Everyone was so hyped, and it felt great knowing we were playing for a good cause."
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D29:6",
+      "text": "Wow, this photo rocks!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:7",
+      "text": "Thanks! I'm glad you enjoyed it. It was a really awesome moment - unforgettable for all of us! What's new with you?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D29:8",
+      "text": "I actually have something new, Samantha and I have decided to move in together!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:9",
+      "text": "Wow, that's a really big decision! I hope you both have weighed the pros and cons. Where are you going to live?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D29:10",
+      "text": "Of course, this was a mutual and informed decision. We rented an apartment not far from McGee's bar."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:11",
+      "text": "You love spending time together in this bar, don't you?"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D29:12",
+      "text": "We just love it! I’ll be honest, one of the criteria for our choice of apartment was this particular bar nearby."
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:13",
+      "text": "Awesome, James! Excited to hear how it goes. Keep me posted and good luck!"
+    },
+    {
+      "speaker": "James",
+      "dia_id": "D29:14",
+      "text": "Thanks, John! I'll be sure to keep you updated. I really appreciate your support. Take care!"
+    },
+    {
+      "speaker": "John",
+      "dia_id": "D29:15",
+      "text": "No worries! I'm here for you whenever you need. Stay safe and chat soon!"
+    },
+    {
+      "speaker": "James",
+      "blip_caption": "a photo of a man and two dogs running in a field",
+      "dia_id": "D29:16",
+      "text": "Thanks! Appreciate your support. Stay safe and talk to you soon!"
+    }
+  ],
+  "events": {
+    "James": [
+      "James and Samantha decide to move in together.",
+      "James and Samantha find an apartment close to their favorite bar, McGee's, for their move-in."
+    ],
+    "John": [
+      "John invites his gaming friends to join the charity tournament where they play Overwatch, Apex Legends and raise money for a children's hospital."
+    ],
+    "date": "31 October, 2022"
+  },
+  "observations": {
+    "John": [
+      [
+        "John organized a gaming tournament with his friends, playing Fortnite, Overwatch, and Apex Legends, to raise funds for a children's hospital.",
+        "D29:1"
+      ],
+      [
+        "John and his friends raised a decent amount of money for the children's hospital through the gaming tournament.",
+        "D29:1"
+      ],
+      [
+        "John's gaming pals helped him in organizing the tournament and playing games to raise money.",
+        "D29:3"
+      ],
+      [
+        "John got a great shot at the tournament, capturing the hyped atmosphere while playing for a good cause.",
+        "D29:5"
+      ]
+    ],
+    "James": [
+      [
+        "James decided to move in with Samantha into an apartment not far from McGee's bar.",
+        "D29:8"
+      ],
+      [
+        "McGee's bar was one of the criteria for James and Samantha's choice of apartment.",
+        "D29:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-47",
+  "total_sessions": 31
+}

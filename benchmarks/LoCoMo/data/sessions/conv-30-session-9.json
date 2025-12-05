@@ -1,0 +1,158 @@
+{
+  "sample_id": "conv-30",
+  "session_id": "conv-30-session-9",
+  "session_number": 9,
+  "session_summary": "Jon, who lost his job, has turned his love for dance into a business and is determined to make his dance studio successful. He has been investing a lot of time in the studio and is happy to see his students improving. Gina has been supportive of Jon's journey, recalling her own love for dance in the past. Both agree that dance is a fantastic way to express themselves and find happiness. Jon appreciates Gina's support and encouragement as he continues to push himself to succeed in his new venture.",
+  "conversation_turns": [
+    {
+      "speaker": "Jon",
+      "img_url": [
+        "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
+      ],
+      "blip_caption": "a photo of a group of dancers on a stage with a red background",
+      "query": "dance studio class collage rehearsal students",
+      "dia_id": "D9:1",
+      "text": "Hey Gina! I'm turning my loves of dance into a business. I'm sunk tons of time into the studio lately, and look at my students - they're already killing it. I'm even learning with them!"
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a display of a dress and a flamingo",
+      "dia_id": "D9:2",
+      "text": "Hey Jon! Wow, way to take your passion and make it into a biz! The dance studio looks awesome."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D9:3",
+      "text": "Thanks, Gina! I'm determined to make this studio work. Losing my job was tough but it gave me the push I needed to do what I love."
+    },
+    {
+      "speaker": "Gina",
+      "blip_caption": "a photo of a red dress with gold accents on a mannequin",
+      "dia_id": "D9:4",
+      "text": "Woah, Jon! Tough times can be a gateway to awesome things. Glad you worked up the courage to go after your dreams!"
+    },
+    {
+      "speaker": "Jon",
+      "blip_caption": "a photo of a woman doing a pole dance in a dance studio",
+      "dia_id": "D9:5",
+      "re-download": true,
+      "text": "Yeah, Gina! It's been tough, but I'm living my true self. Dancing makes me so happy, and now I get to share that with other people. Seeing my students get better at it brings me such joy."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D9:6",
+      "text": "Wow Jon, you look so happy when you dance! Show the world your true self and keep dancing!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D9:7",
+      "text": "Thanks a bunch, Gina! You seriously rock. Dancing for me is like a way to express myself and find my happy place. I used to be scared to death of what people would think, but I learnt that my own happiness is the most important thing. It's been tough but also the best thing ever!"
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://cartwheelfactory.com/imagesjpg/ballet-studio-glassless-mir.jpg"
+      ],
+      "blip_caption": "a photo of a group of young women in ballet attire",
+      "query": "ballet studio mirrors barres dance classes",
+      "dia_id": "D9:8",
+      "text": "Yeah, I do remember those dance classes! I used to love spending time in the studio. That photo looks awesome, brings back lots of memories. It's nice to know, dance is still your happy place."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D9:9",
+      "text": "Nice, Gina! I'm happy that dance has such a special meaning to both of us. It's a really cool way to express ourselves. I loved taking lessons with my friends when I was younger. Those memories are so precious. So glad I can still enjoy it with my own studio. Thanks for always being there for me."
+    },
+    {
+      "speaker": "Gina",
+      "img_url": [
+        "https://i.pinimg.com/originals/68/03/ff/6803ffb650c71d63268b6a40310c882a.jpg"
+      ],
+      "blip_caption": "a photo of a trophy with a glass globe on top",
+      "query": "dance competition trophy",
+      "dia_id": "D9:10",
+      "text": "Hey Jon! Got your back - dance is awesome for expressing yourself and finding happiness. Here's one of my trophies from a dance contest, nice reminder of the hard work, dedication and joy it brings."
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D9:11",
+      "text": "Wow! It looks awesome! Thanks for the support, it really means a lot."
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D9:12",
+      "text": "No prob, Jon! You earned all the kudos for your hard work. Keep it up!"
+    },
+    {
+      "speaker": "Jon",
+      "dia_id": "D9:13",
+      "text": "Thanks! Gonna keep pushing and working hard. Won't let anything hold me back!"
+    },
+    {
+      "speaker": "Gina",
+      "dia_id": "D9:14",
+      "text": "Way to go, Jon! Keep it up, you're almost there!"
+    }
+  ],
+  "events": {
+    "Jon": [],
+    "Gina": [],
+    "date": "9 April, 2023"
+  },
+  "observations": {
+    "Jon": [
+      [
+        "Jon is turning his passion for dance into a business by opening a dance studio.",
+        "D9:1"
+      ],
+      [
+        "Jon's determination to make the dance studio work was fueled by losing his job.",
+        "D9:3"
+      ],
+      [
+        "Jonathan finds happiness in dancing and expresses himself through it.",
+        "D9:5"
+      ],
+      [
+        "Jon used to be scared of what people would think, but now prioritizes his own happiness.",
+        "D9:7"
+      ],
+      [
+        "Jon loved taking dance lessons with friends when he was younger.",
+        "D9:9"
+      ],
+      [
+        "Jon values the special meaning dance has for himself and Gina, as a way to express themselves.",
+        "D9:9"
+      ],
+      [
+        "Jon is determined to keep pushing and working hard for his dance business.",
+        "D9:13"
+      ]
+    ],
+    "Gina": [
+      [
+        "Gina admires Jon for turning his passion for dance into a business.",
+        "D9:2"
+      ],
+      [
+        "Gina acknowledges that tough times can lead to great things and supports Jon in going after his dreams.",
+        "D9:4"
+      ],
+      [
+        "Gina loves spending time in the dance studio and values dance as a way to express oneself and find happiness.",
+        "D9:8"
+      ],
+      [
+        "Gina has a trophy from a dance contest as a reminder of the hard work, dedication, and joy dance brings.",
+        "D9:10"
+      ],
+      [
+        "Gina encourages Jon to keep up his hard work and achievements.",
+        "D9:12"
+      ]
+    ]
+  },
+  "full_conversation_id": "conv-30",
+  "total_sessions": 19
+}
