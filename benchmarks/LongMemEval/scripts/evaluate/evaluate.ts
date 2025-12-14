@@ -64,7 +64,7 @@ if (startPosition && endPosition) {
     console.log(`Processing range: ${startPosition} to ${endPosition}`);
 }
 
-console.log(`Using ALL retrieved results from each file\n`);
+console.log(`Using first 10 retrieved results from each file\n`);
 
 // Initialize providers
 const vertex = createVertex({
@@ -201,21 +201,17 @@ The context contains search results from a memory system. Each result has multip
    - Useful for time-based questions (what happened when, recent vs old info)
    - **Important**: When you see relative terms like "today", "yesterday", calculate them relative to the documentDate, NOT the current date. The question date helps you understand the temporal context of what the user is asking about.
 
-4. **Profile Data** (if present):
-   - **Static Profile**: Permanent user characteristics (name, preferences, core identity)
-   - **Dynamic Profile**: Contains a subset of the recently added memories
-   - Provides background about the user
-
-5. **Version**: Shows if a memory has been updated/extended over time
+4. **Version**: Shows if a memory has been updated/extended over time
 
 **How to Answer:**
 1. Start by scanning memory titles to find relevant results
 2. **Read the chunks carefully** - they contain the actual details you need
 3. Use temporal context to understand when things happened
-4. Use profile data for background about the user
-5. Synthesize information from multiple results if needed
+4. Synthesize information from multiple results if needed
 
 Instructions:
+- Identify which parts of the context are relevant to answering the question
+- Consider temporal relationships, sequences of events, and any updates to information over time
 - If the context contains enough information to answer the question, provide a clear, concise answer
 - If the context does not contain enough information, respond with "I don't know" or explain what information is missing
 - Base your answer ONLY on the provided context
@@ -323,7 +319,7 @@ Respond in the following JSON format:
 async function evaluateQuestion(resultData: any): Promise<EvaluationResult> {
     const { metadata, searchResults } = resultData;
     
-    const allResults = (searchResults.results || []);
+    const allResults = (searchResults.results || []).slice(0, 10);
     const allChunks: Chunk[] = [];
     for (const result of allResults) {
         const chunks = result.chunks || [];
@@ -431,11 +427,24 @@ async function evaluateAll() {
             const correct = evaluations.filter(e => e.label === 1).length;
             const accuracy = total > 0 ? (correct / total) * 100 : 0;
             
+            // Calculate stats by question type
+            const byQuestionType: Record<string, { correct: number; total: number }> = {};
+            for (const ev of evaluations) {
+                if (!byQuestionType[ev.questionType]) {
+                    byQuestionType[ev.questionType] = { correct: 0, total: 0 };
+                }
+                byQuestionType[ev.questionType].total++;
+                if (ev.label === 1) {
+                    byQuestionType[ev.questionType].correct++;
+                }
+            }
+            
             // Save
-            const output = {
+            const output: any = {
                 metadata: {
                     runId,
                     model,
+                    questionType: questionTypeFilter || 'all',
                     evaluatedAt: new Date().toISOString(),
                     totalQuestions: total,
                     correctAnswers: correct,
@@ -443,6 +452,17 @@ async function evaluateAll() {
                 },
                 evaluations,
             };
+            
+            // Add breakdown by question type if running in "all" mode or if multiple types are present
+            if (!questionTypeFilter || Object.keys(byQuestionType).length > 1) {
+                output.byQuestionType = Object.entries(byQuestionType).map(([type, stats]) => ({
+                    questionType: type,
+                    correct: stats.correct,
+                    total: stats.total,
+                    accuracy: ((stats.correct / stats.total) * 100).toFixed(2) + '%',
+                }));
+            }
+            
             writeFileSync(outputPath, JSON.stringify(output, null, 2));
             
             // Log
@@ -462,6 +482,18 @@ async function evaluateAll() {
     const correct = evaluations.filter(e => e.label === 1).length;
     const accuracy = total > 0 ? (correct / total) * 100 : 0;
     
+    // Calculate final stats by question type
+    const byQuestionType: Record<string, { correct: number; total: number }> = {};
+    for (const ev of evaluations) {
+        if (!byQuestionType[ev.questionType]) {
+            byQuestionType[ev.questionType] = { correct: 0, total: 0 };
+        }
+        byQuestionType[ev.questionType].total++;
+        if (ev.label === 1) {
+            byQuestionType[ev.questionType].correct++;
+        }
+    }
+    
     console.log('='.repeat(60));
     console.log('EVALUATION SUMMARY');
     console.log('='.repeat(60));
@@ -469,7 +501,46 @@ async function evaluateAll() {
     console.log(`Total:        ${total}`);
     console.log(`Correct:      ${correct}`);
     console.log(`Accuracy:     ${accuracy.toFixed(2)}%`);
+    
+    // Show breakdown by question type if running in "all" mode or if multiple types are present
+    if (!questionTypeFilter || Object.keys(byQuestionType).length > 1) {
+        console.log('');
+        console.log('Breakdown by Question Type:');
+        console.log('-'.repeat(60));
+        const sortedTypes = Object.entries(byQuestionType).sort((a, b) => b[1].total - a[1].total);
+        for (const [type, stats] of sortedTypes) {
+            const typeAccuracy = stats.total > 0 ? (stats.correct / stats.total) * 100 : 0;
+            console.log(`  ${type.padEnd(30)} ${stats.correct}/${stats.total} (${typeAccuracy.toFixed(2)}%)`);
+        }
+    }
+    
     console.log('='.repeat(60));
+    
+    // Save final output with complete breakdown
+    const finalOutput: any = {
+        metadata: {
+            runId,
+            model,
+            questionType: questionTypeFilter || 'all',
+            evaluatedAt: new Date().toISOString(),
+            totalQuestions: total,
+            correctAnswers: correct,
+            accuracy: accuracy.toFixed(2) + '%',
+        },
+        evaluations,
+    };
+    
+    // Add breakdown by question type if running in "all" mode or if multiple types are present
+    if (!questionTypeFilter || Object.keys(byQuestionType).length > 1) {
+        finalOutput.byQuestionType = Object.entries(byQuestionType).map(([type, stats]) => ({
+            questionType: type,
+            correct: stats.correct,
+            total: stats.total,
+            accuracy: ((stats.correct / stats.total) * 100).toFixed(2) + '%',
+        }));
+    }
+    
+    writeFileSync(outputPath, JSON.stringify(finalOutput, null, 2));
 }
 
 await evaluateAll();

@@ -27,7 +27,7 @@ const containerTag = `${questionId}-${runId}`;
 
 // Fixed default search parameters
 const searchParams = {
-    limit: 15,
+    limit: 10,
     threshold: 0.3,
     includeChunks: true,
     rerank: false,
@@ -91,35 +91,6 @@ const performSearch = async () => {
         
         const searchResults = await response.json();
         
-        // Fetch profile data
-        console.log(`\nFetching profile...`);
-        let profileData = null;
-        try {
-            const profileResponse = await fetch(`${config.baseUrl}/v4/profile`, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${config.apiKey}`,
-                },
-                body: JSON.stringify({
-                    containerTag: containerTag,
-                }),
-            });
-            
-            if (profileResponse.ok) {
-                profileData = await profileResponse.json();
-                // @ts-ignore
-                const staticCount = profileData.profile?.static?.length || 0;
-                // @ts-ignore
-                const dynamicCount = profileData.profile?.dynamic?.length || 0;
-                console.log(`Profile fetched (${staticCount} static, ${dynamicCount} dynamic)`);
-            } else {
-                console.warn(`Profile fetch failed: ${profileResponse.status}`);
-            }
-        } catch (error) {
-            console.warn(`Profile fetch error: ${error instanceof Error ? error.message : String(error)}`);
-        }
-        
         // Save results with metadata
         const resultData = {
             metadata: {
@@ -132,10 +103,8 @@ const performSearch = async () => {
                 groundTruthAnswer: answer,
                 searchParams, // Always default
                 timestamp: new Date().toISOString(),
-                profileFetchedAt: profileData ? new Date().toISOString() : null,
             },
             searchResults,
-            profile: profileData,
         };
         
         writeFileSync(resultFilePath, JSON.stringify(resultData, null, 2));

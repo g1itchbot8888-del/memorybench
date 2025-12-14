@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Batch search script for LongMemEval questions
-# Usage: ./search-batch.sh --runId=<runId> --questionType=<questionType> --startPosition=<startPos> --endPosition=<endPos>
+# Usage: ./search-batch.sh --runId=<runId> [--questionType=<questionType>] --startPosition=<startPos> --endPosition=<endPos>
+# If --questionType is omitted, all question types will be processed
 
 set -e
 
@@ -21,9 +22,10 @@ parse_args() {
 
 parse_args "$@"
 
-if [ -z "$RUN_ID" ] || [ -z "$QUESTION_TYPE" ] || [ -z "$START_POS" ] || [ -z "$END_POS" ]; then
-    echo "Usage: ./search-batch.sh --runId=<runId> --questionType=<questionType> --startPosition=<startPos> --endPosition=<endPos>"
+if [ -z "$RUN_ID" ] || [ -z "$START_POS" ] || [ -z "$END_POS" ]; then
+    echo "Usage: ./search-batch.sh --runId=<runId> [--questionType=<questionType>] --startPosition=<startPos> --endPosition=<endPos>"
     echo "Example: ./search-batch.sh --runId=run1 --questionType=single-session-user --startPosition=1 --endPosition=50"
+    echo "Example (all types): ./search-batch.sh --runId=run1 --startPosition=1 --endPosition=50"
     echo ""
     echo "Available question types:"
     echo "  - single-session-user"
@@ -32,6 +34,8 @@ if [ -z "$RUN_ID" ] || [ -z "$QUESTION_TYPE" ] || [ -z "$START_POS" ] || [ -z "$
     echo "  - knowledge-update"
     echo "  - temporal-reasoning"
     echo "  - multi-session"
+    echo ""
+    echo "Note: If --questionType is omitted, all question types will be processed."
     exit 1
 fi
 
@@ -48,35 +52,53 @@ mkdir -p "$RESULTS_DIR"
 mkdir -p "$BATCH_CHECKPOINT_DIR"
 
 # Search checkpoint file
-SEARCH_CHECKPOINT_FILE="$BATCH_CHECKPOINT_DIR/search-checkpoint-${RUN_ID}-${QUESTION_TYPE}-${START_POS}-${END_POS}.json"
+if [ -z "$QUESTION_TYPE" ]; then
+    QUESTION_TYPE_DISPLAY="all"
+else
+    QUESTION_TYPE_DISPLAY="$QUESTION_TYPE"
+fi
+SEARCH_CHECKPOINT_FILE="$BATCH_CHECKPOINT_DIR/search-checkpoint-${RUN_ID}-${QUESTION_TYPE_DISPLAY}-${START_POS}-${END_POS}.json"
 
-# Get all question files and filter by type
-echo "Filtering questions by type: $QUESTION_TYPE"
+# Get all question files and filter by type (if specified)
 ALL_QUESTION_FILES=($(ls "$QUESTIONS_DIR"/*.json | sort))
 QUESTION_FILES=()
 
-for file in "${ALL_QUESTION_FILES[@]}"; do
-    QUESTION_TYPE_IN_FILE=$(cat "$file" | jq -r '.question_type // empty' 2>/dev/null || echo "")
-    if [ "$QUESTION_TYPE_IN_FILE" == "$QUESTION_TYPE" ]; then
-        QUESTION_FILES+=("$file")
-    fi
-done
+if [ -z "$QUESTION_TYPE" ]; then
+    echo "Processing all question types"
+    QUESTION_FILES=("${ALL_QUESTION_FILES[@]}")
+else
+    echo "Filtering questions by type: $QUESTION_TYPE"
+    for file in "${ALL_QUESTION_FILES[@]}"; do
+        QUESTION_TYPE_IN_FILE=$(cat "$file" | jq -r '.question_type // empty' 2>/dev/null || echo "")
+        if [ "$QUESTION_TYPE_IN_FILE" == "$QUESTION_TYPE" ]; then
+            QUESTION_FILES+=("$file")
+        fi
+    done
+fi
 
 TOTAL_QUESTIONS=${#QUESTION_FILES[@]}
 
 if [ "$TOTAL_QUESTIONS" -eq 0 ]; then
-    echo "Error: No questions found with type '$QUESTION_TYPE'"
-    echo "Available question types:"
-    echo "  - single-session-user"
-    echo "  - single-session-assistant"
-    echo "  - single-session-preference"
-    echo "  - knowledge-update"
-    echo "  - temporal-reasoning"
-    echo "  - multi-session"
+    if [ -z "$QUESTION_TYPE" ]; then
+        echo "Error: No questions found in $QUESTIONS_DIR"
+    else
+        echo "Error: No questions found with type '$QUESTION_TYPE'"
+        echo "Available question types:"
+        echo "  - single-session-user"
+        echo "  - single-session-assistant"
+        echo "  - single-session-preference"
+        echo "  - knowledge-update"
+        echo "  - temporal-reasoning"
+        echo "  - multi-session"
+    fi
     exit 1
 fi
 
-echo "Total questions of type '$QUESTION_TYPE': $TOTAL_QUESTIONS"
+if [ -z "$QUESTION_TYPE" ]; then
+    echo "Total questions (all types): $TOTAL_QUESTIONS"
+else
+    echo "Total questions of type '$QUESTION_TYPE': $TOTAL_QUESTIONS"
+fi
 echo "Searching questions from position $START_POS to $END_POS (1-indexed, inclusive)"
 echo "Run ID: $RUN_ID"
 
@@ -96,7 +118,11 @@ if [ -f "$SEARCH_CHECKPOINT_FILE" ]; then
     echo "Loading existing search checkpoint..."
 else
     echo "Creating new search checkpoint..."
-    echo "{\"runId\": \"$RUN_ID\", \"questionType\": \"$QUESTION_TYPE\", \"startPosition\": $START_POS, \"endPosition\": $END_POS, \"questions\": []}" > "$SEARCH_CHECKPOINT_FILE"
+    if [ -z "$QUESTION_TYPE" ]; then
+        echo "{\"runId\": \"$RUN_ID\", \"questionType\": \"all\", \"startPosition\": $START_POS, \"endPosition\": $END_POS, \"questions\": []}" > "$SEARCH_CHECKPOINT_FILE"
+    else
+        echo "{\"runId\": \"$RUN_ID\", \"questionType\": \"$QUESTION_TYPE\", \"startPosition\": $START_POS, \"endPosition\": $END_POS, \"questions\": []}" > "$SEARCH_CHECKPOINT_FILE"
+    fi
 fi
 
 # Function to update search checkpoint
@@ -134,7 +160,11 @@ for i in $(seq $((START_POS - 1)) $((END_POS - 1))); do
     POSITION=$((i + 1))
     echo ""
     echo "========================================="
-    echo "Searching question $POSITION/$TOTAL_QUESTIONS ($QUESTION_TYPE): $QUESTION_ID"
+    if [ -z "$QUESTION_TYPE" ]; then
+        echo "Searching question $POSITION/$TOTAL_QUESTIONS (all types): $QUESTION_ID"
+    else
+        echo "Searching question $POSITION/$TOTAL_QUESTIONS ($QUESTION_TYPE): $QUESTION_ID"
+    fi
     echo "========================================="
     
     # Check if already processed successfully
@@ -166,9 +196,17 @@ done
 
 echo ""
 echo "========================================="
-echo "Batch Search Complete - $QUESTION_TYPE"
+if [ -z "$QUESTION_TYPE" ]; then
+    echo "Batch Search Complete - All Question Types"
+else
+    echo "Batch Search Complete - $QUESTION_TYPE"
+fi
 echo "========================================="
-echo "Question Type: $QUESTION_TYPE"
+if [ -z "$QUESTION_TYPE" ]; then
+    echo "Question Type: all"
+else
+    echo "Question Type: $QUESTION_TYPE"
+fi
 echo "Position Range: $START_POS to $END_POS"
 echo "Total questions in category: $TOTAL_QUESTIONS"
 echo "Successful: $SUCCESS_COUNT"

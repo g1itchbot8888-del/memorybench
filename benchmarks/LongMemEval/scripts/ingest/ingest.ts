@@ -149,9 +149,9 @@ ${sessionStr}
         // Save checkpoint after each session
         checkpointManager.saveCheckpoint(checkpoint);
         
-        // Wait 3 seconds before next session (except for the last one)
+        // Wait 10 seconds before next session (except for the last one)
         if (i < numberOfSessions - 1) {
-            await new Promise(resolve => setTimeout(resolve, 2000));
+            await new Promise(resolve => setTimeout(resolve, 10000));
         }
     }
     

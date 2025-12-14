@@ -171,8 +171,8 @@ for i in $(seq $((START_POS - 1)) $((END_POS - 1))); do
         
         # Wait 2 seconds before next question (except for the last one)
         if [ $i -lt $((END_POS - 1)) ]; then
-            echo "Waiting 2 seconds before next question..."
-            sleep 2
+            echo "Waiting 10 seconds before next question..."
+            sleep 10
         fi
     else
         echo "Failed to ingest $QUESTION_ID"
