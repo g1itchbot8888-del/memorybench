@@ -121,8 +121,13 @@ export async function getRunQuestions(
   return fetchApi(`/api/runs/${encodeURIComponent(runId)}/questions${query ? `?${query}` : ""}`)
 }
 
-export async function getQuestion(runId: string, questionId: string): Promise<QuestionCheckpoint & { searchResultsFile?: any }> {
-  return fetchApi(`/api/runs/${encodeURIComponent(runId)}/questions/${encodeURIComponent(questionId)}`)
+export async function getQuestion(
+  runId: string,
+  questionId: string
+): Promise<QuestionCheckpoint & { searchResultsFile?: any }> {
+  return fetchApi(
+    `/api/runs/${encodeURIComponent(runId)}/questions/${encodeURIComponent(questionId)}`
+  )
 }
 
 export async function deleteRun(runId: string): Promise<void> {
@@ -135,7 +140,14 @@ export async function stopRun(runId: string): Promise<{ message: string }> {
 
 export type PhaseId = "ingest" | "indexing" | "search" | "answer" | "evaluate" | "report"
 
-export const PHASE_ORDER: PhaseId[] = ["ingest", "indexing", "search", "answer", "evaluate", "report"]
+export const PHASE_ORDER: PhaseId[] = [
+  "ingest",
+  "indexing",
+  "search",
+  "answer",
+  "evaluate",
+  "report",
+]
 
 export type SelectionMode = "full" | "sample" | "limit"
 export type SampleType = "consecutive" | "random"
@@ -177,7 +189,7 @@ export async function startRun(params: {
 
 export async function getCompletedRuns(): Promise<RunSummary[]> {
   const runs = await getRuns()
-  return runs.filter(r => r.status === "completed")
+  return runs.filter((r) => r.status === "completed")
 }
 
 // Providers & Benchmarks
@@ -192,7 +204,14 @@ export async function getBenchmarks(): Promise<{ benchmarks: Benchmark[] }> {
 export async function getBenchmarkQuestions(
   benchmark: string,
   params?: { page?: number; limit?: number; type?: string }
-): Promise<PaginatedResponse<{ questionId: string; question: string; questionType: string; groundTruth: string }>> {
+): Promise<
+  PaginatedResponse<{
+    questionId: string
+    question: string
+    questionType: string
+    groundTruth: string
+  }>
+> {
   const searchParams = new URLSearchParams()
   if (params?.page) searchParams.set("page", params.page.toString())
   if (params?.limit) searchParams.set("limit", params.limit.toString())
@@ -202,7 +221,9 @@ export async function getBenchmarkQuestions(
   return fetchApi(`/api/benchmarks/${benchmark}/questions${query ? `?${query}` : ""}`)
 }
 
-export async function getModels(): Promise<{ models: { openai: any[]; anthropic: any[]; google: any[] } }> {
+export async function getModels(): Promise<{
+  models: { openai: any[]; anthropic: any[]; google: any[] }
+}> {
   return fetchApi("/api/models")
 }
 

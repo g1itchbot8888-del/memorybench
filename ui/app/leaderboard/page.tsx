@@ -40,7 +40,7 @@ export default function LeaderboardPage() {
 
     try {
       await removeFromLeaderboard(id)
-      setEntries(entries.filter(e => e.id !== id))
+      setEntries(entries.filter((e) => e.id !== id))
     } catch (e) {
       alert(e instanceof Error ? e.message : "Failed to remove entry")
     }
@@ -49,7 +49,7 @@ export default function LeaderboardPage() {
   // Get unique providers and benchmarks for filter options
   const providers = useMemo(() => {
     const counts: Record<string, number> = {}
-    entries.forEach(e => {
+    entries.forEach((e) => {
       counts[e.provider] = (counts[e.provider] || 0) + 1
     })
     return Object.entries(counts).map(([value, count]) => ({
@@ -61,7 +61,7 @@ export default function LeaderboardPage() {
 
   const benchmarks = useMemo(() => {
     const counts: Record<string, number> = {}
-    entries.forEach(e => {
+    entries.forEach((e) => {
       counts[e.benchmark] = (counts[e.benchmark] || 0) + 1
     })
     return Object.entries(counts).map(([value, count]) => ({
@@ -73,7 +73,7 @@ export default function LeaderboardPage() {
 
   // Filter entries
   const filteredEntries = useMemo(() => {
-    return entries.filter(e => {
+    return entries.filter((e) => {
       // Search filter
       if (search) {
         const searchLower = search.toLowerCase()
@@ -99,7 +99,10 @@ export default function LeaderboardPage() {
   }, [entries, search, selectedProviders, selectedBenchmarks])
 
   // Get question types and registry - only when exactly one benchmark is selected
-  const { visibleQuestionTypes, typeRegistry } = useMemo((): { visibleQuestionTypes: string[]; typeRegistry: LeaderboardEntry["questionTypeRegistry"] } => {
+  const { visibleQuestionTypes, typeRegistry } = useMemo((): {
+    visibleQuestionTypes: string[]
+    typeRegistry: LeaderboardEntry["questionTypeRegistry"]
+  } => {
     if (selectedBenchmarks.length !== 1) {
       return { visibleQuestionTypes: [], typeRegistry: null }
     }
@@ -108,8 +111,8 @@ export default function LeaderboardPage() {
     const types = new Set<string>()
     let registry: LeaderboardEntry["questionTypeRegistry"] = null
 
-    filteredEntries.forEach(e => {
-      Object.keys(e.byQuestionType).forEach(t => types.add(t))
+    filteredEntries.forEach((e) => {
+      Object.keys(e.byQuestionType).forEach((t) => types.add(t))
       if (!registry && e.questionTypeRegistry) {
         registry = e.questionTypeRegistry
       }
@@ -128,23 +131,17 @@ export default function LeaderboardPage() {
         key: "rank",
         header: "Rank",
         width: "60px",
-        render: (_, idx) => (
-          <span className="font-mono text-text-muted">{idx + 1}</span>
-        ),
+        render: (_, idx) => <span className="font-mono text-text-muted">{idx + 1}</span>,
       },
       {
         key: "provider",
         header: "Provider",
-        render: (entry) => (
-          <span className="capitalize">{entry.provider}</span>
-        ),
+        render: (entry) => <span className="capitalize">{entry.provider}</span>,
       },
       {
         key: "benchmark",
         header: "Benchmark",
-        render: (entry) => (
-          <span className="capitalize">{entry.benchmark}</span>
-        ),
+        render: (entry) => <span className="capitalize">{entry.benchmark}</span>,
       },
       {
         key: "version",
@@ -173,7 +170,7 @@ export default function LeaderboardPage() {
     ]
 
     // Add question type columns only when single benchmark is selected
-    visibleQuestionTypes.forEach(type => {
+    visibleQuestionTypes.forEach((type) => {
       const alias = typeRegistry?.[type]?.alias || type.replace(/[-_]/g, " ")
       cols.push({
         key: type,
@@ -184,11 +181,7 @@ export default function LeaderboardPage() {
           if (!stats) {
             return <span className="text-text-muted">—</span>
           }
-          return (
-            <span className="font-mono">
-              {(stats.accuracy * 100).toFixed(0)}%
-            </span>
-          )
+          return <span className="font-mono">{(stats.accuracy * 100).toFixed(0)}%</span>
         },
       })
     })
@@ -301,7 +294,7 @@ export default function LeaderboardPage() {
         <EmptyState
           icon={<TrophyIcon />}
           title="No entries yet"
-          description="Add runs to the leaderboard from the Runs page by clicking the three-dot menu on a completed run and selecting &quot;Add to leaderboard&quot;."
+          description='Add runs to the leaderboard from the Runs page by clicking the three-dot menu on a completed run and selecting "Add to leaderboard".'
         />
       ) : (
         <DataTable

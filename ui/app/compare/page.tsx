@@ -25,7 +25,7 @@ export default function ComparesPage() {
 
   // Check if any comparison is in progress
   const hasRunningCompares = useMemo(() => {
-    return compares.some(c => c.status === "running" || c.status === "pending")
+    return compares.some((c) => c.status === "running" || c.status === "pending")
   }, [compares])
 
   // Silent refresh (no loading state)
@@ -80,7 +80,7 @@ export default function ComparesPage() {
 
     try {
       await deleteCompare(compareId)
-      setCompares(prev => prev.filter(c => c.compareId !== compareId))
+      setCompares((prev) => prev.filter((c) => c.compareId !== compareId))
     } catch (e) {
       alert(e instanceof Error ? e.message : "Failed to delete comparison")
     }
@@ -89,7 +89,7 @@ export default function ComparesPage() {
   // Get unique values for filter options
   const benchmarks = useMemo(() => {
     const counts: Record<string, number> = {}
-    compares.forEach(c => {
+    compares.forEach((c) => {
       counts[c.benchmark] = (counts[c.benchmark] || 0) + 1
     })
     return Object.entries(counts).map(([value, count]) => ({
@@ -101,7 +101,7 @@ export default function ComparesPage() {
 
   const statuses = useMemo(() => {
     const counts: Record<string, number> = {}
-    compares.forEach(c => {
+    compares.forEach((c) => {
       counts[c.status] = (counts[c.status] || 0) + 1
     })
     return Object.entries(counts).map(([value, count]) => ({
@@ -113,13 +113,13 @@ export default function ComparesPage() {
 
   // Filter comparisons
   const filteredCompares = useMemo(() => {
-    return compares.filter(compare => {
+    return compares.filter((compare) => {
       // Search filter
       if (search) {
         const searchLower = search.toLowerCase()
         const matchesSearch =
           compare.compareId.toLowerCase().includes(searchLower) ||
-          compare.providers.some(p => p.toLowerCase().includes(searchLower)) ||
+          compare.providers.some((p) => p.toLowerCase().includes(searchLower)) ||
           compare.benchmark.toLowerCase().includes(searchLower)
         if (!matchesSearch) return false
       }
@@ -139,118 +139,119 @@ export default function ComparesPage() {
   }, [compares, search, selectedBenchmarks, selectedStatuses])
 
   // Build columns
-  const columns: Column<CompareSummary>[] = useMemo(() => [
-    {
-      key: "compareId",
-      header: "Compare ID",
-      render: (compare) => (
-        <Link
-          href={`/compare/${encodeURIComponent(compare.compareId)}`}
-          className="font-mono text-accent hover:underline cursor-pointer"
-        >
-          {compare.compareId}
-        </Link>
-      ),
-    },
-    {
-      key: "providers",
-      header: "Providers",
-      render: (compare) => (
-        <div className="flex flex-wrap gap-1.5">
-          {compare.providers.map((provider, idx) => (
-            <span
-              key={idx}
-              className="inline-flex items-center px-2 py-0.5 text-xs font-medium bg-[#222222] text-text-secondary font-display rounded-sm"
-            >
-              {provider}
-            </span>
-          ))}
-        </div>
-      ),
-    },
-    {
-      key: "benchmark",
-      header: "Benchmark",
-      render: (compare) => <span className="capitalize">{compare.benchmark}</span>,
-    },
-    {
-      key: "status",
-      header: "Status",
-      render: (compare) => {
-        const isRunning = compare.status === "running" || compare.status === "pending"
+  const columns: Column<CompareSummary>[] = useMemo(
+    () => [
+      {
+        key: "compareId",
+        header: "Compare ID",
+        render: (compare) => (
+          <Link
+            href={`/compare/${encodeURIComponent(compare.compareId)}`}
+            className="font-mono text-accent hover:underline cursor-pointer"
+          >
+            {compare.compareId}
+          </Link>
+        ),
+      },
+      {
+        key: "providers",
+        header: "Providers",
+        render: (compare) => (
+          <div className="flex flex-wrap gap-1.5">
+            {compare.providers.map((provider, idx) => (
+              <span
+                key={idx}
+                className="inline-flex items-center px-2 py-0.5 text-xs font-medium bg-[#222222] text-text-secondary font-display rounded-sm"
+              >
+                {provider}
+              </span>
+            ))}
+          </div>
+        ),
+      },
+      {
+        key: "benchmark",
+        header: "Benchmark",
+        render: (compare) => <span className="capitalize">{compare.benchmark}</span>,
+      },
+      {
+        key: "status",
+        header: "Status",
+        render: (compare) => {
+          const isRunning = compare.status === "running" || compare.status === "pending"
 
-        // Calculate overall progress from all runs
-        let progress = 0
-        let phasesFullyComplete = 0
-        if (compare.runProgress && compare.runProgress.length > 0) {
-          let totalPhasesCompleted = 0
-          let totalPhases = 0
-          let allRunsPhasesComplete = 0
+          // Calculate overall progress from all runs
+          let progress = 0
+          let phasesFullyComplete = 0
+          if (compare.runProgress && compare.runProgress.length > 0) {
+            let totalPhasesCompleted = 0
+            let totalPhases = 0
+            let allRunsPhasesComplete = 0
 
-          for (const run of compare.runProgress) {
-            const p = run.progress
-            const total = p?.total || 0
-            if (total > 0) {
-              totalPhasesCompleted += (p.ingested || 0) + (p.indexed || 0) + (p.searched || 0) + (p.answered || 0) + (p.evaluated || 0)
-              totalPhases += 5 * total
+            for (const run of compare.runProgress) {
+              const p = run.progress
+              const total = p?.total || 0
+              if (total > 0) {
+                totalPhasesCompleted +=
+                  (p.ingested || 0) +
+                  (p.indexed || 0) +
+                  (p.searched || 0) +
+                  (p.answered || 0) +
+                  (p.evaluated || 0)
+                totalPhases += 5 * total
 
-              // Count fully complete phases for this run
-              let runPhasesComplete = 0
-              if (p.ingested === total) runPhasesComplete++
-              if (p.indexed === total) runPhasesComplete++
-              if (p.searched === total) runPhasesComplete++
-              if (p.answered === total) runPhasesComplete++
-              if (p.evaluated === total) runPhasesComplete++
-              allRunsPhasesComplete += runPhasesComplete
+                // Count fully complete phases for this run
+                let runPhasesComplete = 0
+                if (p.ingested === total) runPhasesComplete++
+                if (p.indexed === total) runPhasesComplete++
+                if (p.searched === total) runPhasesComplete++
+                if (p.answered === total) runPhasesComplete++
+                if (p.evaluated === total) runPhasesComplete++
+                allRunsPhasesComplete += runPhasesComplete
+              }
             }
+
+            progress = totalPhases > 0 ? totalPhasesCompleted / totalPhases : 0
+            // Average phases complete across all runs
+            phasesFullyComplete =
+              compare.runProgress.length > 0
+                ? Math.floor(allRunsPhasesComplete / compare.runProgress.length)
+                : 0
           }
 
-          progress = totalPhases > 0 ? totalPhasesCompleted / totalPhases : 0
-          // Average phases complete across all runs
-          phasesFullyComplete = compare.runProgress.length > 0
-            ? Math.floor(allRunsPhasesComplete / compare.runProgress.length)
-            : 0
-        }
-
-        return (
-          <div className="flex items-center gap-2">
-            {isRunning && (
-              <CircularProgress progress={progress} size={18} strokeWidth={2} />
-            )}
-            <span className={cn("badge", getStatusColor(compare.status))}>
-              {compare.status}
-            </span>
-            {isRunning && compare.runProgress && compare.runProgress.length > 0 && (
-              <span className="text-text-muted text-xs font-mono">
-                {phasesFullyComplete}/5
-              </span>
-            )}
-          </div>
-        )
+          return (
+            <div className="flex items-center gap-2">
+              {isRunning && <CircularProgress progress={progress} size={18} strokeWidth={2} />}
+              <span className={cn("badge", getStatusColor(compare.status))}>{compare.status}</span>
+              {isRunning && compare.runProgress && compare.runProgress.length > 0 && (
+                <span className="text-text-muted text-xs font-mono">{phasesFullyComplete}/5</span>
+              )}
+            </div>
+          )
+        },
       },
-    },
-    {
-      key: "date",
-      header: "Date",
-      render: (compare) => (
-        <span className="text-text-secondary text-sm">
-          {formatDate(compare.createdAt)}
-        </span>
-      ),
-    },
-    {
-      key: "actions",
-      header: "",
-      width: "40px",
-      align: "right",
-      render: (compare) => (
-        <CompareActionsMenu
-          compareId={compare.compareId}
-          onDelete={() => handleDelete(compare.compareId)}
-        />
-      ),
-    },
-  ], [])
+      {
+        key: "date",
+        header: "Date",
+        render: (compare) => (
+          <span className="text-text-secondary text-sm">{formatDate(compare.createdAt)}</span>
+        ),
+      },
+      {
+        key: "actions",
+        header: "",
+        width: "40px",
+        align: "right",
+        render: (compare) => (
+          <CompareActionsMenu
+            compareId={compare.compareId}
+            onDelete={() => handleDelete(compare.compareId)}
+          />
+        ),
+      },
+    ],
+    []
+  )
 
   const clearFilters = () => {
     setSearch("")

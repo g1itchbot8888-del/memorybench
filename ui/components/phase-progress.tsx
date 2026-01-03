@@ -37,8 +37,12 @@ export function PhaseProgress({ summary }: PhaseProgressProps) {
     <div className="card">
       <style jsx>{`
         @keyframes shimmer {
-          0% { background-position: -200% 0; }
-          100% { background-position: 200% 0; }
+          0% {
+            background-position: -200% 0;
+          }
+          100% {
+            background-position: 200% 0;
+          }
         }
         .shimmer-bar {
           background: linear-gradient(
@@ -63,10 +67,12 @@ export function PhaseProgress({ summary }: PhaseProgressProps) {
           const isPending = count === 0
 
           const episodes = summary.indexingEpisodes
-          const canToggleEpisodes = phase.key === "indexed" && episodes && episodes.total > 0 && !isComplete
+          const canToggleEpisodes =
+            phase.key === "indexed" && episodes && episodes.total > 0 && !isComplete
 
           const shouldPreview = isHovering && !justClicked
-          const isShowingEpisodes = canToggleEpisodes && (shouldPreview ? !lockedEpisodes : lockedEpisodes)
+          const isShowingEpisodes =
+            canToggleEpisodes && (shouldPreview ? !lockedEpisodes : lockedEpisodes)
 
           const displayLabel = isShowingEpisodes ? "Episodes Indexed" : phase.label
           const displayCount = isShowingEpisodes ? episodes.completed : count
