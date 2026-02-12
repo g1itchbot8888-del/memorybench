@@ -3,6 +3,7 @@ export interface Config {
   supermemoryBaseUrl: string
   mem0ApiKey: string
   zepApiKey: string
+  agentMemoryBaseUrl: string
   openaiApiKey: string
   anthropicApiKey: string
   googleApiKey: string
@@ -13,6 +14,7 @@ export const config: Config = {
   supermemoryBaseUrl: process.env.SUPERMEMORY_BASE_URL || "https://api.supermemory.ai",
   mem0ApiKey: process.env.MEM0_API_KEY || "",
   zepApiKey: process.env.ZEP_API_KEY || "",
+  agentMemoryBaseUrl: process.env.AGENT_MEMORY_BASE_URL || "http://127.0.0.1:9876",
   openaiApiKey: process.env.OPENAI_API_KEY || "",
   anthropicApiKey: process.env.ANTHROPIC_API_KEY || "",
   googleApiKey: process.env.GOOGLE_API_KEY || "",
@@ -26,6 +28,8 @@ export function getProviderConfig(provider: string): { apiKey: string; baseUrl?:
       return { apiKey: config.mem0ApiKey }
     case "zep":
       return { apiKey: config.zepApiKey }
+    case "agent-memory":
+      return { apiKey: "local", baseUrl: config.agentMemoryBaseUrl }
     default:
       throw new Error(`Unknown provider: ${provider}`)
   }
