@@ -5,7 +5,7 @@ export const AGENT_MEMORY_PROMPTS: ProviderPrompts = {
     const memories = (context as Array<{ memory?: string; score?: number }>)
       .map((r, i) => {
         const memory = r.memory || JSON.stringify(r)
-        const score = r.score ? ` (relevance: ${r.score.toFixed(2)})` : ""
+        const score = typeof r.score === 'number' ? ` (relevance: ${r.score.toFixed(2)})` : ""
         return `${i + 1}. ${memory}${score}`
       })
       .join("\n")
